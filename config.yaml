@@ -1,0 +1,136 @@
+# TODO: add papers by configuration file
+start_date: "2024-01-01"
+end_date:
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "isLinXu"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+filename: "output.json"
+filename_web: "output_web.json"
+md_filename: "output.md"
+md_filename_web: "output_web.md"
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+task: "My Task"
+#keywords:
+#  topic1:
+#    filters:
+#      - "filter1"
+#      - "filter2"
+#  topic2:
+#    filters:
+#      - "filter3"
+#      - "filter4"
+
+# file paths
+json_readme_path: './docs/paper_list.json'
+json_gitpage_path: './docs/paper_list_web.json'
+json_wechat_path: './docs/paper_list_wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+  # 分类任务
+  "Classification":
+    filters: [ "Image Classification", "Video Classification", "Text Classification", "Audio Classification", "Scene Classification" ]
+  # 目标检测
+  "Object Detection":
+    filters: [ "Object Detection", "2D Object Detection", "3D Object Detection", "Face Detection", "Text Detection", "Vehicle Detection", "Pedestrian Detection" ]
+  # 语义分割
+  "Semantic Segmentation":
+    filters: [ "Semantic Segmentation", "Instance Segmentation", "Panoptic Segmentation", "Interactive Segmentation" ]
+  # 目标跟踪
+  "Object Tracking":
+    filters: [ "Object Tracking", "Multi-Object Tracking", "Single Object Tracking", "Face Tracking", "Vehicle Tracking", "Pedestrian Tracking" ]
+  # 动作识别
+  "Action Recognition":
+    filters: [ "Action Recognition", "Temporal Action Localization", "Action Prediction", "Gesture Recognition", "Group Activity Recognition" ]
+  # 姿态估计
+  "Pose Estimation":
+    filters: [ "Pose Estimation", "2D Pose Estimation", "3D Pose Estimation", "Human Pose Estimation", "Animal Pose Estimation", "Hand Pose Estimation", "Facial Landmark Detection" ]
+  # 图像生成
+  "Image Generation":
+    filters: [ "Generative Adversarial Networks", "Image Generation", "Text-to-Image Generation", "Image Inpainting", "Style Transfer", "Image-to-Image Translation", "Super-resolution", "Image Synthesis" ]
+  # 大型语言模型
+  "LLM":
+    filters: [ "Large Language Model", "Visual Question Answering", "Image Captioning", "Image Retrieval", "Text Summarization", "Text Translation", "Text Generation", "Text Completion", "Conversational AI", "Sentiment Analysis", "Named Entity Recognition", "Topic Modeling" ]
+  # 场景理解
+  "Scene Understanding":
+    filters: [ "Scene Understanding", "Scene Graph Generation", "Scene Text Recognition", "Scene Parsing", "Layout Estimation" ]
+  # 深度估计
+  "Depth Estimation":
+    filters: [ "Depth Estimation", "Monocular Depth Estimation", "Stereo Depth Estimation", "Lidar-based Depth Estimation" ]
+  # 音频处理
+  "Audio Processing":
+    filters: [ "Speech Recognition", "Speech Synthesis", "Audio Source Separation", "Audio Event Detection", "Music Generation", "Voice Conversion", "Speaker Identification", "Speaker Verification" ]
+  # 多模态学习
+  "Multimodal":
+    filters: [ "Multimodal Learning", "Audio-Visual Processing", "Text-Image Fusion", "Cross-modal Retrieval", "Language Grounding", "Video Description", "Multimodal Emotion Recognition" ]
+  # 异常检测
+  "Anomaly Detection":
+    filters: [ "Anomaly Detection", "Outlier Detection", "Novelty Detection", "Fraud Detection", "Intrusion Detection" ]
+  # 迁移学习
+  "Transfer Learning":
+    filters: [ "Transfer Learning", "Domain Adaptation", "Fine-tuning", "Pretrained Models", "Few-shot Learning", "Zero-shot Learning", "Meta-learning" ]
+  # 光流估计
+  "Optical Flow":
+    filters: [ "Optical Flow", "Dense Optical Flow", "Sparse Optical Flow", "Scene Flow" ]
+  # 强化学习
+  "Reinforcement Learning":
+    filters: [ "Reinforcement Learning", "Deep Reinforcement Learning", "Inverse Reinforcement Learning", "Multi-agent Reinforcement Learning", "Imitation Learning" ]
+  # 图神经网络
+  "Graph Neural Networks":
+    filters: [ "Graph Neural Networks", "Graph Convolutional Networks", "Graph Attention Networks", "Graph Autoencoders", "Graph Generative Models" ]
+
+
+#  "Computer Vision":
+#    filters: [ "Classification", "Object Detection", "Semantic Segmentation",  "Representation Learning",
+#              "2D Object Detection", "3D Object Detection", "Instance Segmentation",
+#               "Image Generation", "Data Augmentation", "Autonomous Vehicles", "Super-Resolution",
+#               "Pose Estimation", "Text-to-Image Generation", "Image Captioning", "Image Retrieval",
+#               "Visual Question Answering", "Image Synthesis", "Image Translation", "Image Inpainting",
+#               "Few-Shot Learning", "Zero-Shot Learning", "Self-Supervised Learning", "Unsupervised Learning",
+#                "Semi-Supervised Learning", "Weakly Supervised Learning", "Multi-Modal Learning",
+#                "Multi-Task Learning", "Transfer Learning", "Domain Adaptation", "Adversarial Learning",
+#                "Generative Adversarial Networks", "Reinforcement Learning", "Meta-Learning",
+#                "Optical Character Recognition", "Object Tracking", "Action Recognition", "Scene Parsing"
+#            ]
+#  "Classification":
+#    filters: [ "Image Classification", "Video Classification" ]
+#  "Object Detection":
+#    filters: [ "Object Detection", "2D Object Detection", "3D Object Detection" ]
+#  "Semantic Segmentation":
+#    filters: [ "Semantic Segmentation", "Instance Segmentation" ]
+#  "Object Tracking":
+#    filters: [ "Object Tracking" ]
+#  "Action Recognition":
+#    filters: [ "Action Recognition" ]
+#  "Pose Estimation":
+#    filters: [ "Pose Estimation" ]
+#  "Image Generation":
+#    filters: [ "Generative Adversarial Networks", "Image Generation", "Text-to-Image Generation", "Image Inpainting" ]
+#  "LLM":
+#    filters: [ "Large Language Model", "Visual Question Answering", "Image Captioning", "Image Retrieval" ]
+
+
+
+#  "SFM":
+#    filters: [ "SFM", "Structure from Motion" ]
+#  "Visual Localization":
+#    filters: [ "Visual Localization","Camera Localization",
+#               "Camera Re-localisation","Loop Closure Detection",
+#               "visual place recognition","image retrieval" ]
+#  "Keypoint Detection":
+#    filters: [ "Keypoint Detection", "Feature Descriptor" ]
+#  "Image Matching":
+#    filters: [ "Image Matching", "Keypoint Matching",
+#               "Line Segment Detection", "Local Feature Matching" ]
+#  "NeRF":
+#    filters: [ "NeRF" ]
