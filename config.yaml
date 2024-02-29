@@ -16,17 +16,6 @@ publish_readme: True
 publish_gitpage: True
 publish_wechat: False
 task: "My Task"
-#keywords:
-#  topic1:
-#    filters:
-#      - "filter1"
-#      - "filter2"
-#  topic2:
-#    filters:
-#      - "filter3"
-#      - "filter4"
-
-# file paths
 json_readme_path: './docs/paper_list.json'
 json_gitpage_path: './docs/paper_list_web.json'
 json_wechat_path: './docs/paper_list_wechat.json'
@@ -88,49 +77,3 @@ keywords:
   # 图神经网络
   "Graph Neural Networks":
     filters: [ "Graph Neural Networks", "Graph Convolutional Networks", "Graph Attention Networks", "Graph Autoencoders", "Graph Generative Models" ]
-
-
-#  "Computer Vision":
-#    filters: [ "Classification", "Object Detection", "Semantic Segmentation",  "Representation Learning",
-#              "2D Object Detection", "3D Object Detection", "Instance Segmentation",
-#               "Image Generation", "Data Augmentation", "Autonomous Vehicles", "Super-Resolution",
-#               "Pose Estimation", "Text-to-Image Generation", "Image Captioning", "Image Retrieval",
-#               "Visual Question Answering", "Image Synthesis", "Image Translation", "Image Inpainting",
-#               "Few-Shot Learning", "Zero-Shot Learning", "Self-Supervised Learning", "Unsupervised Learning",
-#                "Semi-Supervised Learning", "Weakly Supervised Learning", "Multi-Modal Learning",
-#                "Multi-Task Learning", "Transfer Learning", "Domain Adaptation", "Adversarial Learning",
-#                "Generative Adversarial Networks", "Reinforcement Learning", "Meta-Learning",
-#                "Optical Character Recognition", "Object Tracking", "Action Recognition", "Scene Parsing"
-#            ]
-#  "Classification":
-#    filters: [ "Image Classification", "Video Classification" ]
-#  "Object Detection":
-#    filters: [ "Object Detection", "2D Object Detection", "3D Object Detection" ]
-#  "Semantic Segmentation":
-#    filters: [ "Semantic Segmentation", "Instance Segmentation" ]
-#  "Object Tracking":
-#    filters: [ "Object Tracking" ]
-#  "Action Recognition":
-#    filters: [ "Action Recognition" ]
-#  "Pose Estimation":
-#    filters: [ "Pose Estimation" ]
-#  "Image Generation":
-#    filters: [ "Generative Adversarial Networks", "Image Generation", "Text-to-Image Generation", "Image Inpainting" ]
-#  "LLM":
-#    filters: [ "Large Language Model", "Visual Question Answering", "Image Captioning", "Image Retrieval" ]
-
-
-
-#  "SFM":
-#    filters: [ "SFM", "Structure from Motion" ]
-#  "Visual Localization":
-#    filters: [ "Visual Localization","Camera Localization",
-#               "Camera Re-localisation","Loop Closure Detection",
-#               "visual place recognition","image retrieval" ]
-#  "Keypoint Detection":
-#    filters: [ "Keypoint Detection", "Feature Descriptor" ]
-#  "Image Matching":
-#    filters: [ "Image Matching", "Keypoint Matching",
-#               "Line Segment Detection", "Local Feature Matching" ]
-#  "NeRF":
-#    filters: [ "NeRF" ]
