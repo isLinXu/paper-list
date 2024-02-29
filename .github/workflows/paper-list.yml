@@ -48,7 +48,7 @@ jobs:
         run: |
           python get_paper.py
           
-      - name: Push new paper_list.md.md
+      - name: Push new paper_list.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
