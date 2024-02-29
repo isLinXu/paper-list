@@ -3,8 +3,8 @@ description: Automatically Update Papers Daily using Github Actions (Update Ever
 show_downloads: true
 
 github:
-  zip_url: https://github.com/isLinXu/cv-arxiv-daily
-  another_url: https://github.com/isLinXu/cv-arxiv-daily
+  zip_url: https://github.com/isLinXu/paper-list
+  another_url: https://github.com/isLinXu/paper-list
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
