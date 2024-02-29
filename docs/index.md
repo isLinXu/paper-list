@@ -265,12 +265,12 @@ layout: default
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905](http://arxiv.org/abs/2402.17905)|null|
 |**2024-02-27**|**Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem**|Cong Zhang et.al.|[2402.17606](http://arxiv.org/abs/2402.17606)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/isLinXu/paper-list.svg?style=for-the-badge
+[contributors-url]: https://github.com/isLinXu/paper-list/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/isLinXu/paper-list.svg?style=for-the-badge
+[forks-url]: https://github.com/isLinXu/paper-list/network/members
+[stars-shield]: https://img.shields.io/github/stars/isLinXu/paper-list.svg?style=for-the-badge
+[stars-url]: https://github.com/isLinXu/paper-list/stargazers
+[issues-shield]: https://img.shields.io/github/issues/isLinXu/paper-list.svg?style=for-the-badge
+[issues-url]: https://github.com/isLinXu/paper-list/issues
 
