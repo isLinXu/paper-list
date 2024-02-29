@@ -1,5 +1,5 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 8th hours)
+title: Paper Arxiv Daily
+description: Automatically Update Papers Daily using Github Actions (Update Every 8th hours)
 show_downloads: true
 
 github:
