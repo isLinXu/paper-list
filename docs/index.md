@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.04
+## Updated on 2024.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -133,7 +133,7 @@ layout: default
 |**2024-02-29**|**Memory-Augmented Generative Adversarial Transformers**|Stephan Raaijmakers et.al.|[2402.19218](http://arxiv.org/abs/2402.19218)|null|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196](http://arxiv.org/abs/2402.19196)|null|
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186](http://arxiv.org/abs/2402.19186)|null|
-|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|null|
+|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159](http://arxiv.org/abs/2402.19159)|**[link](https://github.com/jabir-zheng/TCD)**|
 |**2024-02-29**|**Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection**|Christos Koutlis et.al.|[2402.19091](http://arxiv.org/abs/2402.19091)|null|
 |**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043](http://arxiv.org/abs/2402.19043)|**[link](https://github.com/pfriedri/wdm-3d)**|
 |**2024-02-29**|**Lotka-Volterra Model with Mutations and Generative Adversarial Networks**|S. V. Kozyrev et.al.|[2402.19035](http://arxiv.org/abs/2402.19035)|null|
