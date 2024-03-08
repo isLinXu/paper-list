@@ -26,7 +26,7 @@
         "2403.00884": "|**2024-03-01**|**Text classification of column headers with a controlled vocabulary: leveraging LLMs for metadata enrichment**|Margherita Martorana et.al.|[2403.00884](http://arxiv.org/abs/2403.00884)|null|\n",
         "2403.00376": "|**2024-03-01**|**Invariant Test-Time Adaptation for Vision-Language Model Generalization**|Huan Ma et.al.|[2403.00376](http://arxiv.org/abs/2403.00376)|null|\n",
         "2403.00165": "|**2024-02-29**|**TELEClass: Taxonomy Enrichment and LLM-Enhanced Hierarchical Text Classification with Minimal Supervision**|Yunyi Zhang et.al.|[2403.00165](http://arxiv.org/abs/2403.00165)|null|\n",
-        "2403.02932": "|**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|null|\n",
+        "2403.02932": "|**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932](http://arxiv.org/abs/2403.02932)|**[link](https://github.com/miaomiaoli2/ruleprompt)**|\n",
         "2403.02902": "|**2024-03-05**|**Demonstrating Mutual Reinforcement Effect through Information Flow**|Chengguang Gan et.al.|[2403.02902](http://arxiv.org/abs/2403.02902)|null|\n",
         "2403.02871": "|**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|\n",
         "2403.02833": "|**2024-03-05**|**SOFIM: Stochastic Optimization Using Regularized Fisher Information Matrix**|Gayathri C et.al.|[2403.02833](http://arxiv.org/abs/2403.02833)|null|\n",
@@ -187,7 +187,7 @@
         "2403.03122": "|**2024-03-05**|**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**|Yannan He et.al.|[2403.03122](http://arxiv.org/abs/2403.03122)|null|\n",
         "2403.03111": "|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111](http://arxiv.org/abs/2403.03111)|null|\n",
         "2403.02751": "|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|\n",
-        "2403.01913": "|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|null|\n",
+        "2403.01913": "|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913](http://arxiv.org/abs/2403.01913)|**[link](https://github.com/power-operation/ckdformer)**|\n",
         "2403.01813": "|**2024-03-04**|**A Simple Baseline for Efficient Hand Mesh Reconstruction**|Zhishan Zhou et.al.|[2403.01813](http://arxiv.org/abs/2403.01813)|null|\n",
         "2403.01517": "|**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517](http://arxiv.org/abs/2403.01517)|null|\n"
     },
