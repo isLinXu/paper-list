@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -614,7 +614,7 @@ layout: default
 |**2024-03-11**|**When Crypto Economics Meet Graph Analytics and Learning**|Bingqiao Luo et.al.|[2403.06454](http://arxiv.org/abs/2403.06454)|null|
 |**2024-03-11**|**Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation**|Jan Laukemann et.al.|[2403.06348](http://arxiv.org/abs/2403.06348)|null|
 |**2024-03-10**|**Text-Guided Variational Image Generation for Industrial Anomaly Detection and Segmentation**|Mingyu Lee et.al.|[2403.06247](http://arxiv.org/abs/2403.06247)|null|
-|**2024-03-10**|**GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection**|Huaxin Zhang et.al.|[2403.06154](http://arxiv.org/abs/2403.06154)|**[link](https://github.com/pipixin321/glancevad)**|
+|**2024-03-12**|**GlanceVAD: Exploring Glance Supervision for Label-efficient Video Anomaly Detection**|Huaxin Zhang et.al.|[2403.06154](http://arxiv.org/abs/2403.06154)|**[link](https://github.com/pipixin321/glancevad)**|
 |**2024-03-09**|**RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection**|Ximiao Zhang et.al.|[2403.05897](http://arxiv.org/abs/2403.05897)|**[link](https://github.com/cnulab/realnet)**|
 |**2024-03-08**|**Learning Expressive And Generalizable Motion Features For Face Forgery Detection**|Jingyi Zhang et.al.|[2403.05172](http://arxiv.org/abs/2403.05172)|null|
 |**2024-03-08**|**Simulating Battery-Powered TinyML Systems Optimised using Reinforcement Learning in Image-Based Anomaly Detection**|Jared M. Ping et.al.|[2403.05106](http://arxiv.org/abs/2403.05106)|null|
