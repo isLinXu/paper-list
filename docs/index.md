@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -478,7 +478,7 @@ layout: default
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
 |**2024-03-13**|**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**|Renjie Pi et.al.|[2403.08730](http://arxiv.org/abs/2403.08730)|null|
-|**2024-03-13**|**SOTOPIA- $π$ : Interactive Learning of Socially Intelligent Language Agents**|Ruiyi Wang et.al.|[2403.08715](http://arxiv.org/abs/2403.08715)|**[link](https://github.com/sotopia-lab/sotopia-pi)**|
+|**2024-03-14**|**SOTOPIA- $π$ : Interactive Learning of Socially Intelligent Language Agents**|Ruiyi Wang et.al.|[2403.08715](http://arxiv.org/abs/2403.08715)|**[link](https://github.com/sotopia-lab/sotopia-pi)**|
 |**2024-03-13**|**Review of Generative AI Methods in Cybersecurity**|Yagmur Yigit et.al.|[2403.08701](http://arxiv.org/abs/2403.08701)|null|
 |**2024-03-13**|**TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning**|Shangding Gu et.al.|[2403.08694](http://arxiv.org/abs/2403.08694)|null|
 |**2024-03-13**|**Token Alignment via Character Matching for Subword Completion**|Ben Athiwaratkun et.al.|[2403.08688](http://arxiv.org/abs/2403.08688)|null|
@@ -934,7 +934,7 @@ layout: default
 |**2024-03-13**|**Optimizing Risk-averse Human-AI Hybrid Teams**|Andrew Fuchs et.al.|[2403.08386](http://arxiv.org/abs/2403.08386)|null|
 |**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377](http://arxiv.org/abs/2403.08377)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-03-13**|**LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments**|Maonan Wang et.al.|[2403.08337](http://arxiv.org/abs/2403.08337)|**[link](https://github.com/traffic-alpha/llm-assisted-light)**|
-|**2024-03-13**|**HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback**|Ang Li et.al.|[2403.08309](http://arxiv.org/abs/2403.08309)|null|
+|**2024-03-14**|**HRLAIF: Improvements in Helpfulness and Harmlessness in Open-domain Reinforcement Learning From AI Feedback**|Ang Li et.al.|[2403.08309](http://arxiv.org/abs/2403.08309)|null|
 |**2024-03-13**|**SpaceOctopus: An Octopus-inspired Motion Planning Framework for Multi-arm Space Robot**|Wenbo Zhao et.al.|[2403.08219](http://arxiv.org/abs/2403.08219)|null|
 |**2024-03-12**|**TeleMoMa: A Modular and Versatile Teleoperation System for Mobile Manipulation**|Shivin Dass et.al.|[2403.07869](http://arxiv.org/abs/2403.07869)|null|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
