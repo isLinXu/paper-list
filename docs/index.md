@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -23,7 +23,7 @@ layout: default
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661](http://arxiv.org/abs/2403.17661)|null|
 |**2024-03-26**|**Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification**|Eva Pachetti et.al.|[2403.17530](http://arxiv.org/abs/2403.17530)|null|
 |**2024-03-26**|**HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification**|He Zhu et.al.|[2403.17307](http://arxiv.org/abs/2403.17307)|**[link](https://github.com/rooooyy/hill)**|
-|**2024-03-25**|**Histogram Layers for Neural Engineered Features**|Joshua Peeples et.al.|[2403.17176](http://arxiv.org/abs/2403.17176)|null|
+|**2024-03-25**|**Histogram Layers for Neural Engineered Features**|Joshua Peeples et.al.|[2403.17176](http://arxiv.org/abs/2403.17176)|**[link](https://github.com/advanced-vision-and-learning-lab/nehd_nlbp)**|
 |**2024-03-25**|**Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships**|Rangel Daroya et.al.|[2403.17173](http://arxiv.org/abs/2403.17173)|**[link](https://github.com/cvl-umass/task2box)**|
 |**2024-03-25**|**CipherFormer: Efficient Transformer Private Inference with Low Round Complexity**|Weize Wang et.al.|[2403.16860](http://arxiv.org/abs/2403.16860)|null|
 |**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695](http://arxiv.org/abs/2403.16695)|null|
@@ -171,7 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|null|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|**[link](https://github.com/kdexd/coco-rem)**|
 |**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554](http://arxiv.org/abs/2403.18554)|null|
 |**2024-03-27**|**BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection**|Changshun Wu et.al.|[2403.18373](http://arxiv.org/abs/2403.18373)|null|
@@ -719,7 +719,7 @@ layout: default
 |**2024-03-27**|**ECNet: Effective Controllable Text-to-Image Diffusion Models**|Sicheng Li et.al.|[2403.18417](http://arxiv.org/abs/2403.18417)|null|
 |**2024-03-27**|**Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks**|Srinitish Srinivasan et.al.|[2403.18397](http://arxiv.org/abs/2403.18397)|**[link](https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-)**|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370](http://arxiv.org/abs/2403.18370)|**[link](https://github.com/luigisigillo/shipinsight)**|
-|**2024-03-27**|**DSF-GAN: DownStream Feedback Generative Adversarial Network**|Oriel Perets et.al.|[2403.18267](http://arxiv.org/abs/2403.18267)|null|
+|**2024-03-27**|**DSF-GAN: DownStream Feedback Generative Adversarial Network**|Oriel Perets et.al.|[2403.18267](http://arxiv.org/abs/2403.18267)|**[link](https://github.com/nadavlab/DSF-GAN)**|
 |**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186](http://arxiv.org/abs/2403.18186)|null|
 |**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
 |**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
@@ -1900,7 +1900,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
-|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-27**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479](http://arxiv.org/abs/2403.18479)|**[link](https://github.com/xurong-liang/LEGCF)**|
 |**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-27**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298](http://arxiv.org/abs/2403.18298)|null|

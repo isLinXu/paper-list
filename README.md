@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661](http://arxiv.org/abs/2403.17661)|null|
 |**2024-03-26**|**Boosting Few-Shot Learning with Disentangled Self-Supervised Learning and Meta-Learning for Medical Image Classification**|Eva Pachetti et.al.|[2403.17530](http://arxiv.org/abs/2403.17530)|null|
 |**2024-03-26**|**HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification**|He Zhu et.al.|[2403.17307](http://arxiv.org/abs/2403.17307)|**[link](https://github.com/rooooyy/hill)**|
-|**2024-03-25**|**Histogram Layers for Neural Engineered Features**|Joshua Peeples et.al.|[2403.17176](http://arxiv.org/abs/2403.17176)|null|
+|**2024-03-25**|**Histogram Layers for Neural Engineered Features**|Joshua Peeples et.al.|[2403.17176](http://arxiv.org/abs/2403.17176)|**[link](https://github.com/advanced-vision-and-learning-lab/nehd_nlbp)**|
 |**2024-03-25**|**Task2Box: Box Embeddings for Modeling Asymmetric Task Relationships**|Rangel Daroya et.al.|[2403.17173](http://arxiv.org/abs/2403.17173)|**[link](https://github.com/cvl-umass/task2box)**|
 |**2024-03-25**|**CipherFormer: Efficient Transformer Private Inference with Low Round Complexity**|Weize Wang et.al.|[2403.16860](http://arxiv.org/abs/2403.16860)|null|
 |**2024-03-25**|**Assessing the Performance of Deep Learning for Automated Gleason Grading in Prostate Cancer**|Dominik Müller et.al.|[2403.16695](http://arxiv.org/abs/2403.16695)|null|
@@ -186,13 +186,13 @@
 |**2024-02-27**|**Scaling Supervised Local Learning with Augmented Auxiliary Networks**|Chenxiang Ma et.al.|[2402.17318](http://arxiv.org/abs/2402.17318)|**[link](https://github.com/chenxiangma/auglocal)**|
 |**2024-02-26**|**Offline Writer Identification Using Convolutional Neural Network Activation Features**|Vincent Christlein et.al.|[2402.17029](http://arxiv.org/abs/2402.17029)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Object Detection
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|null|
+|**2024-03-27**|**Benchmarking Object Detectors with COCO: A New Path Forward**|Shweta Singh et.al.|[2403.18819](http://arxiv.org/abs/2403.18819)|**[link](https://github.com/kdexd/coco-rem)**|
 |**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
 |**2024-03-27**|**CosalPure: Learning Concept from Group Images for Robust Co-Saliency Detection**|Jiayi Zhu et.al.|[2403.18554](http://arxiv.org/abs/2403.18554)|null|
 |**2024-03-27**|**BAM: Box Abstraction Monitors for Real-time OoD Detection in Object Detection**|Changshun Wu et.al.|[2403.18373](http://arxiv.org/abs/2403.18373)|null|
@@ -366,7 +366,7 @@
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](http://arxiv.org/abs/2402.17304)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Semantic Segmentation
 
@@ -509,7 +509,7 @@
 |**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Object Tracking
 
@@ -562,7 +562,7 @@
 |**2024-02-24**|**Multi-Object Tracking by Hierarchical Visual Representations**|Jinkun Cao et.al.|[2402.15895](http://arxiv.org/abs/2402.15895)|null|
 |**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](http://arxiv.org/abs/2402.15756)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -629,7 +629,7 @@
 |**2024-02-13**|**Vision-Based Hand Gesture Customization from a Single Demonstration**|Soroush Shahi et.al.|[2402.08420](http://arxiv.org/abs/2402.08420)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814](http://arxiv.org/abs/2402.07814)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -736,7 +736,7 @@
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175](http://arxiv.org/abs/2402.16175)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Image Generation
 
@@ -750,7 +750,7 @@
 |**2024-03-27**|**ECNet: Effective Controllable Text-to-Image Diffusion Models**|Sicheng Li et.al.|[2403.18417](http://arxiv.org/abs/2403.18417)|null|
 |**2024-03-27**|**Colour and Brush Stroke Pattern Recognition in Abstract Art using Modified Deep Convolutional Generative Adversarial Networks**|Srinitish Srinivasan et.al.|[2403.18397](http://arxiv.org/abs/2403.18397)|**[link](https://github.com/Deceptrax123/Pattern-Recognition-in-Abstract-art-)**|
 |**2024-03-27**|**Ship in Sight: Diffusion Models for Ship-Image Super Resolution**|Luigi Sigillo et.al.|[2403.18370](http://arxiv.org/abs/2403.18370)|**[link](https://github.com/luigisigillo/shipinsight)**|
-|**2024-03-27**|**DSF-GAN: DownStream Feedback Generative Adversarial Network**|Oriel Perets et.al.|[2403.18267](http://arxiv.org/abs/2403.18267)|null|
+|**2024-03-27**|**DSF-GAN: DownStream Feedback Generative Adversarial Network**|Oriel Perets et.al.|[2403.18267](http://arxiv.org/abs/2403.18267)|**[link](https://github.com/nadavlab/DSF-GAN)**|
 |**2024-03-27**|**Don't Look into the Dark: Latent Codes for Pluralistic Image Inpainting**|Haiwei Chen et.al.|[2403.18186](http://arxiv.org/abs/2403.18186)|null|
 |**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
 |**2024-03-26**|**CT Synthesis with Conditional Diffusion Models for Abdominal Lymph Node Segmentation**|Yongrui Yu et.al.|[2403.17770](http://arxiv.org/abs/2403.17770)|null|
@@ -926,7 +926,7 @@
 |**2024-02-28**|**Breaking the Black-Box: Confidence-Guided Model Inversion Attack for Distribution Shift**|Xinhao Liu et.al.|[2402.18027](http://arxiv.org/abs/2402.18027)|null|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624](http://arxiv.org/abs/2402.17624)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## LLM
 
@@ -1127,7 +1127,7 @@
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Scene Understanding
 
@@ -1197,7 +1197,7 @@
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643](http://arxiv.org/abs/2402.13643)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-25**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[2402.12289](http://arxiv.org/abs/2402.12289)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -1262,7 +1262,7 @@
 |**2024-02-19**|**An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**|Jan Emily Mangulabnan et.al.|[2402.11840](http://arxiv.org/abs/2402.11840)|null|
 |**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu et.al.|[2402.11826](http://arxiv.org/abs/2402.11826)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Audio Processing
 
@@ -1347,7 +1347,7 @@
 |**2024-02-26**|**Effect of utterance duration and phonetic content on speaker identification using second-order statistical methods**|Ivan Magrin-Chagnolleau et.al.|[2402.16429](http://arxiv.org/abs/2402.16429)|null|
 |**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish et.al.|[2402.15733](http://arxiv.org/abs/2402.15733)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Multimodal
 
@@ -1388,7 +1388,7 @@
 |**2024-02-19**|**Multimodal Emotion Recognition from Raw Audio with Sinc-convolution**|Xiaohui Zhang et.al.|[2402.11954](http://arxiv.org/abs/2402.11954)|null|
 |**2024-02-18**|**Efficient Multimodal Learning from Data-centric Perspective**|Muyang He et.al.|[2402.11530](http://arxiv.org/abs/2402.11530)|**[link](https://github.com/baai-dcai/bunny)**|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Anomaly Detection
 
@@ -1511,7 +1511,7 @@
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
 |**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$ -Values**|Oliver Hennhöfer et.al.|[2402.16388](http://arxiv.org/abs/2402.16388)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Transfer Learning
 
@@ -1689,7 +1689,7 @@
 |**2024-02-28**|**OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**|Xiaosong Wang et.al.|[2402.18028](http://arxiv.org/abs/2402.18028)|null|
 |**2024-02-28**|**Collaborative decoding of critical tokens for boosting factuality of large language models**|Lifeng Jin et.al.|[2402.17982](http://arxiv.org/abs/2402.17982)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Optical Flow
 
@@ -1746,7 +1746,7 @@
 |**2024-02-12**|**A Flow-based Credibility Metric for Safety-critical Pedestrian Detection**|Maria Lyssenko et.al.|[2402.07642](http://arxiv.org/abs/2402.07642)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -1944,14 +1944,14 @@
 |**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](http://arxiv.org/abs/2402.18284)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Graph Neural Networks
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
-|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-27**|**Lightweight Embeddings for Graph Collaborative Filtering**|Xurong Liang et.al.|[2403.18479](http://arxiv.org/abs/2403.18479)|**[link](https://github.com/xurong-liang/LEGCF)**|
 |**2024-03-27**|**The Topos of Transformer Networks**|Mattia Jacopo Villani et.al.|[2403.18415](http://arxiv.org/abs/2403.18415)|null|
 |**2024-03-27**|**Deciphering Chemical Ordering in High Entropy Materials: A Machine Learning-Accelerated High-throughput Cluster Expansion Approach**|Guillermo Vazquez et.al.|[2403.18298](http://arxiv.org/abs/2403.18298)|null|
@@ -2126,7 +2126,7 @@
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905](http://arxiv.org/abs/2402.17905)|null|
 |**2024-02-27**|**Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem**|Cong Zhang et.al.|[2402.17606](http://arxiv.org/abs/2402.17606)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/isLinXu/paper-list.svg?style=for-the-badge
 [contributors-url]: https://github.com/isLinXu/paper-list/graphs/contributors
