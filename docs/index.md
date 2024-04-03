@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.02
+## Updated on 2024.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -1260,7 +1260,7 @@ layout: default
 |**2024-03-28**|**FlowDepth: Decoupling Optical Flow for Self-Supervised Monocular Depth Estimation**|Yiyang Sun et.al.|[2403.19294](http://arxiv.org/abs/2403.19294)|null|
 |**2024-03-28**|**Neural Fields for 3D Tracking of Anatomy and Surgical Instruments in Monocular Laparoscopic Video Clips**|Beerend G. A. Gerats et.al.|[2403.19265](http://arxiv.org/abs/2403.19265)|null|
 |**2024-03-27**|**UniDepth: Universal Monocular Metric Depth Estimation**|Luigi Piccinelli et.al.|[2403.18913](http://arxiv.org/abs/2403.18913)|**[link](https://github.com/lpiccinelli-eth/unidepth)**|
-|**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-04-01**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**ModaLink: Unifying Modalities for Efficient Image-to-PointCloud Place Recognition**|Weidong Xie et.al.|[2403.18762](http://arxiv.org/abs/2403.18762)|**[link](https://github.com/haomo-ai/modalink)**|
 |**2024-03-27**|**$\mathrm{F^2Depth}$ : Self-supervised Indoor Monocular Depth Estimation via Optical Flow Consistency and Feature Map Synthesis**|Xiaotong Guo et.al.|[2403.18443](http://arxiv.org/abs/2403.18443)|null|
 |**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
