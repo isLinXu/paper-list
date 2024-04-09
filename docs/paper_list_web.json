@@ -1572,7 +1572,7 @@
         "2404.02098": "|**2024-04-02**|**BRAVEn: Improving Self-Supervised Pre-training for Visual and Auditory Speech Recognition**|Alexandros Haliassos et.al.|[2404.02098](http://arxiv.org/abs/2404.02098)|**[link](https://github.com/ahaliassos/raven)**|\n",
         "2404.02052": "|**2024-04-02**|**Noise Masking Attacks and Defenses for Pretrained Speech Models**|Matthew Jagielski et.al.|[2404.02052](http://arxiv.org/abs/2404.02052)|null|\n",
         "2404.01991": "|**2024-04-02**|**Kallaama: A Transcribed Speech Dataset about Agriculture in the Three Most Widely Spoken Languages in Senegal**|Elodie Gauthier et.al.|[2404.01991](http://arxiv.org/abs/2404.01991)|**[link](https://github.com/gauthelo/kallaama-speech-dataset)**|\n",
-        "2404.01981": "|**2024-04-02**|**Zero-Shot Multi-Lingual Speaker Verification in Clinical Trials**|Ali Akram et.al.|[2404.01981](http://arxiv.org/abs/2404.01981)|null|\n",
+        "2404.01981": "|**2024-04-05**|**Zero-Shot Multi-Lingual Speaker Verification in Clinical Trials**|Ali Akram et.al.|[2404.01981](http://arxiv.org/abs/2404.01981)|null|\n",
         "2404.01737": "|**2024-04-02**|**Transfer Learning from Whisper for Microscopic Intelligibility Prediction**|Paul Best et.al.|[2404.01737](http://arxiv.org/abs/2404.01737)|null|\n",
         "2404.01033": "|**2024-04-01**|**KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis**|Adal Abilbekov et.al.|[2404.01033](http://arxiv.org/abs/2404.01033)|null|\n",
         "2404.00863": "|**2024-04-01**|**Voice Conversion Augmentation for Speaker Recognition on Defective Datasets**|Ruijie Tao et.al.|[2404.00863](http://arxiv.org/abs/2404.00863)|null|\n",
@@ -1582,7 +1582,7 @@
         "2404.02702": "|**2024-04-03**|**PromptCodec: High-Fidelity Neural Speech Codec using Disentangled Representation Learning based Adaptive Feature-aware Prompt Encoders**|Yu Pan et.al.|[2404.02702](http://arxiv.org/abs/2404.02702)|null|\n",
         "2404.02592": "|**2024-04-03**|**Leveraging the Interplay Between Syntactic and Acoustic Cues for Optimizing Korean TTS Pause Formation**|Yejin Jeon et.al.|[2404.02592](http://arxiv.org/abs/2404.02592)|null|\n",
         "2404.02408": "|**2024-04-03**|**CMULAB: An Open-Source Framework for Training and Deployment of Natural Language Processing Models**|Zaid Sheikh et.al.|[2404.02408](http://arxiv.org/abs/2404.02408)|**[link](https://github.com/neulab/cmulab)**|\n",
-        "2404.03204": "|**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|\n",
+        "2404.03204": "|**2024-04-06**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|\n",
         "2404.03073": "|**2024-04-03**|**Mai Ho'om\u0101una i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala et.al.|[2404.03073](http://arxiv.org/abs/2404.03073)|null|\n",
         "2404.03914": "|**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|\n"
     },
