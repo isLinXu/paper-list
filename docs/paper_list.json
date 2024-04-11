@@ -210,7 +210,7 @@
         "2404.06218": "|**2024-04-09**|**Quantum Circuit $C^*$-algebra Net**|Yuka Hashimoto et.al.|[2404.06218](http://arxiv.org/abs/2404.06218)|null|\n",
         "2404.06217": "|**2024-04-09**|**VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection**|Li-Ming Zhan et.al.|[2404.06217](http://arxiv.org/abs/2404.06217)|**[link](https://github.com/liam0949/llm-ood)**|\n",
         "2404.06108": "|**2024-04-09**|**Symmetry-guided gradient descent for quantum neural networks**|Kaiming Bian et.al.|[2404.06108](http://arxiv.org/abs/2404.06108)|null|\n",
-        "2404.06080": "|**2024-04-09**|**Using Few-Shot Learning to Classify Primary Lung Cancer and Other Malignancy with Lung Metastasis in Cytological Imaging via Endobronchial Ultrasound Procedures**|Ching-Kai Lin et.al.|[2404.06080](http://arxiv.org/abs/2404.06080)|null|\n"
+        "2404.06080": "|**2024-04-10**|**Using Few-Shot Learning to Classify Primary Lung Cancer and Other Malignancy with Lung Metastasis in Cytological Imaging via Endobronchial Ultrasound Procedures**|Ching-Kai Lin et.al.|[2404.06080](http://arxiv.org/abs/2404.06080)|null|\n"
     },
     "Object Detection": {
         "2402.18573": "|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573](http://arxiv.org/abs/2402.18573)|null|\n",
@@ -681,7 +681,7 @@
         "2404.02562": "|**2024-04-03**|**Representation Alignment Contrastive Regularization for Multi-Object Tracking**|Shujie Chen et.al.|[2404.02562](http://arxiv.org/abs/2404.02562)|**[link](https://github.com/liuzhonglincc/ratracker)**|\n",
         "2404.03110": "|**2024-04-03**|**Ego-Motion Aware Target Prediction Module for Robust Multi-Object Tracking**|Navid Mahdian et.al.|[2404.03110](http://arxiv.org/abs/2404.03110)|**[link](https://github.com/noyzzz/emap)**|\n",
         "2404.05518": "|**2024-04-08**|**DepthMOT: Depth Cues Lead to a Strong Multi-Object Tracker**|Jiapeng Wu et.al.|[2404.05518](http://arxiv.org/abs/2404.05518)|**[link](https://github.com/jackwoo0831/depthmot)**|\n",
-        "2404.05136": "|**2024-04-08**|**Self-Supervised Multi-Object Tracking with Path Consistency**|Zijia Lu et.al.|[2404.05136](http://arxiv.org/abs/2404.05136)|null|\n",
+        "2404.05136": "|**2024-04-08**|**Self-Supervised Multi-Object Tracking with Path Consistency**|Zijia Lu et.al.|[2404.05136](http://arxiv.org/abs/2404.05136)|**[link](https://github.com/amazon-science/path-consistency)**|\n",
         "2404.05072": "|**2024-04-07**|**Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind**|Chiara Plizzari et.al.|[2404.05072](http://arxiv.org/abs/2404.05072)|null|\n",
         "2404.06247": "|**2024-04-09**|**LRR: Language-Driven Resamplable Continuous Representation against Adversarial Tracking Attacks**|Jianlang Chen et.al.|[2404.06247](http://arxiv.org/abs/2404.06247)|**[link](https://github.com/tsingqguo/robustot)**|\n"
     },
@@ -761,8 +761,8 @@
         "2404.03179": "|**2024-04-04**|**UniAV: Unified Audio-Visual Perception for Multi-Task Video Localization**|Tiantian Geng et.al.|[2404.03179](http://arxiv.org/abs/2404.03179)|null|\n",
         "2404.02945": "|**2024-04-03**|**Optimizing the Deployment of Tiny Transformers on Low-Power MCUs**|Victor J. B. Jung et.al.|[2404.02945](http://arxiv.org/abs/2404.02945)|**[link](https://github.com/pulp-platform/pulp-transformer)**|\n",
         "2404.05559": "|**2024-04-09**|**TIM: A Time Interval Machine for Audio-Visual Action Recognition**|Jacob Chalk et.al.|[2404.05559](http://arxiv.org/abs/2404.05559)|**[link](https://github.com/jacobchalk/tim)**|\n",
-        "2404.05426": "|**2024-04-08**|**Test-Time Zero-Shot Temporal Action Localization**|Benedetta Liberatori et.al.|[2404.05426](http://arxiv.org/abs/2404.05426)|null|\n",
-        "2404.04580": "|**2024-04-09**|**SDFR: Synthetic Data for Face Recognition Competition**|Hatef Otroshi Shahreza et.al.|[2404.04580](http://arxiv.org/abs/2404.04580)|**[link](https://github.com/bidalab/sdfr-frmodels)**|\n",
+        "2404.05426": "|**2024-04-08**|**Test-Time Zero-Shot Temporal Action Localization**|Benedetta Liberatori et.al.|[2404.05426](http://arxiv.org/abs/2404.05426)|**[link](https://github.com/benedettaliberatori/t3al)**|\n",
+        "2404.04580": "|**2024-04-09**|**SDFR: Synthetic Data for Face Recognition Competition**|Hatef Otroshi Shahreza et.al.|[2404.04580](http://arxiv.org/abs/2404.04580)|null|\n",
         "2404.04430": "|**2024-04-05**|**PhysPT: Physics-aware Pretrained Transformer for Estimating Human Dynamics from Monocular Videos**|Yufei Zhang et.al.|[2404.04430](http://arxiv.org/abs/2404.04430)|null|\n",
         "2404.04346": "|**2024-04-05**|**Koala: Key frame-conditioned long video-LLM**|Reuben Tan et.al.|[2404.04346](http://arxiv.org/abs/2404.04346)|null|\n",
         "2404.06280": "|**2024-04-09**|**Algorithms for Caching and MTS with reduced number of predictions**|Karim Abdel Sadek et.al.|[2404.06280](http://arxiv.org/abs/2404.06280)|null|\n",
@@ -1423,7 +1423,7 @@
         "2404.06448": "|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|\n",
         "2404.06413": "|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|\n",
         "2404.06411": "|**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411](http://arxiv.org/abs/2404.06411)|**[link](https://github.com/nec-research/agentquest)**|\n",
-        "2404.06407": "|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|null|\n",
+        "2404.06407": "|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|**[link](https://github.com/controllability/jailbreak-evaluation)**|\n",
         "2404.06404": "|**2024-04-09**|**Apprentices to Research Assistants: Advancing Research with Large Language Models**|M. Namvarpour et.al.|[2404.06404](http://arxiv.org/abs/2404.06404)|null|\n",
         "2404.06395": "|**2024-04-09**|**MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies**|Shengding Hu et.al.|[2404.06395](http://arxiv.org/abs/2404.06395)|**[link](https://github.com/openbmb/minicpm)**|\n",
         "2404.06393": "|**2024-04-09**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|\n",
@@ -1596,7 +1596,7 @@
         "2404.03190": "|**2024-04-04**|**Adaptive Discrete Disparity Volume for Self-supervised Monocular Depth Estimation**|Jianwei Ren et.al.|[2404.03190](http://arxiv.org/abs/2404.03190)|null|\n",
         "2404.03181": "|**2024-04-04**|**MonoCD: Monocular 3D Object Detection with Complementary Depths**|Longfei Yan et.al.|[2404.03181](http://arxiv.org/abs/2404.03181)|**[link](https://github.com/elvintanhust/monocd)**|\n",
         "2404.03906": "|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|\n",
-        "2404.04653": "|**2024-04-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/abs/2404.04653)|**[link](https://github.com/ziongo6/hawkdrive)**|\n",
+        "2404.04653": "|**2024-04-06**|**HawkDrive: A Transformer-driven Visual Perception System for Autonomous Driving in Night Scene**|Ziang Guo et.al.|[2404.04653](http://arxiv.org/abs/2404.04653)|null|\n",
         "2404.04561": "|**2024-04-09**|**Co-Occ: Coupling Explicit Feature Fusion with Volume Rendering Regularization for Multi-Modal 3D Semantic Occupancy Prediction**|Jingyi Pan et.al.|[2404.04561](http://arxiv.org/abs/2404.04561)|null|\n",
         "2404.04319": "|**2024-04-05**|**SpatialTracker: Tracking Any 2D Pixels in 3D Space**|Yuxi Xiao et.al.|[2404.04319](http://arxiv.org/abs/2404.04319)|null|\n",
         "2404.06425": "|**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425](http://arxiv.org/abs/2404.06425)|null|\n",
@@ -1705,14 +1705,14 @@
         "2404.03204": "|**2024-04-06**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|\n",
         "2404.03073": "|**2024-04-03**|**Mai Ho'om\u0101una i ka 'Ai: Language Models Improve Automatic Speech Recognition in Hawaiian**|Kaavya Chaparala et.al.|[2404.03073](http://arxiv.org/abs/2404.03073)|null|\n",
         "2404.03914": "|**2024-04-05**|**Open vocabulary keyword spotting through transfer learning from speech synthesis**|Kesavaraj V et.al.|[2404.03914](http://arxiv.org/abs/2404.03914)|null|\n",
-        "2404.05659": "|**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659](http://arxiv.org/abs/2404.05659)|null|\n",
+        "2404.05659": "|**2024-04-08**|**VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**|Khai Le-Duc et.al.|[2404.05659](http://arxiv.org/abs/2404.05659)|**[link](https://github.com/leduckhai/multimed)**|\n",
         "2404.04947": "|**2024-04-07**|**Gull: A Generative Multifunctional Audio Codec**|Yi Luo et.al.|[2404.04947](http://arxiv.org/abs/2404.04947)|null|\n",
         "2404.04769": "|**2024-04-07**|**Safeguarding Voice Privacy: Harnessing Near-Ultrasonic Interference To Protect Against Unauthorized Audio Recording**|Forrest McKee et.al.|[2404.04769](http://arxiv.org/abs/2404.04769)|null|\n",
         "2404.04645": "|**2024-04-06**|**HyperTTS: Parameter Efficient Adaptation in Text to Speech using Hypernetworks**|Yingting Li et.al.|[2404.04645](http://arxiv.org/abs/2404.04645)|**[link](https://github.com/declare-lab/hypertts)**|\n",
         "2404.04420": "|**2024-04-05**|**The NES Video-Music Database: A Dataset of Symbolic Video Game Music Paired with Gameplay Videos**|Igor Cardoso et.al.|[2404.04420](http://arxiv.org/abs/2404.04420)|null|\n",
         "2404.04295": "|**2024-04-04**|**Transducers with Pronunciation-aware Embeddings for Automatic Speech Recognition**|Hainan Xu et.al.|[2404.04295](http://arxiv.org/abs/2404.04295)|null|\n",
         "2404.06393": "|**2024-04-09**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|\n",
-        "2404.06079": "|**2024-04-09**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|\n",
+        "2404.06079": "|**2024-04-10**|**The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge**|Yiwei Guo et.al.|[2404.06079](http://arxiv.org/abs/2404.06079)|null|\n",
         "2404.05765": "|**2024-04-06**|**A Novel Bi-LSTM And Transformer Architecture For Generating Tabla Music**|Roopa Mayya et.al.|[2404.05765](http://arxiv.org/abs/2404.05765)|null|\n"
     },
     "Multimodal": {
@@ -1918,7 +1918,7 @@
         "2404.04456": "|**2024-04-06**|**Beyond the Known: Adversarial Autoencoders in Novelty Detection**|Muhammad Asad et.al.|[2404.04456](http://arxiv.org/abs/2404.04456)|null|\n",
         "2404.06230": "|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230](http://arxiv.org/abs/2404.06230)|null|\n",
         "2404.06144": "|**2024-04-09**|**Differential Privacy for Anomaly Detection: Analyzing the Trade-off Between Privacy and Explainability**|Fatima Ezzeddine et.al.|[2404.06144](http://arxiv.org/abs/2404.06144)|null|\n",
-        "2404.06093": "|**2024-04-09**|**Supervised Contamination Detection, with Flow Cytometry Application**|Solenne Gaucher et.al.|[2404.06093](http://arxiv.org/abs/2404.06093)|null|\n"
+        "2404.06093": "|**2024-04-09**|**Supervised Contamination Detection, with Flow Cytometry Application**|Solenne Gaucher et.al.|[2404.06093](http://arxiv.org/abs/2404.06093)|**[link](https://github.com/solennegaucher/densityratiotest)**|\n"
     },
     "Transfer Learning": {
         "2402.18490": "|**2024-02-28**|**TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding**|Zhihao Zhang et.al.|[2402.18490](http://arxiv.org/abs/2402.18490)|null|\n",
@@ -2134,7 +2134,7 @@
         "2404.03777": "|**2024-04-04**|**Free Energy Calculations using Smooth Basin Classification**|Sander Vandenhaute et.al.|[2404.03777](http://arxiv.org/abs/2404.03777)|null|\n",
         "2404.05720": "|**2024-04-08**|**Language-Independent Representations Improve Zero-Shot Summarization**|Vladimir Solovyev et.al.|[2404.05720](http://arxiv.org/abs/2404.05720)|null|\n",
         "2404.05694": "|**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|\n",
-        "2404.05621": "|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|\n",
+        "2404.05621": "|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|**[link](https://github.com/farinamatteo/multiflow)**|\n",
         "2404.05409": "|**2024-04-08**|**Anatomical Conditioning for Contrastive Unpaired Image-to-Image Translation of Optical Coherence Tomography Images**|Marc S. Seibel et.al.|[2404.05409](http://arxiv.org/abs/2404.05409)|null|\n",
         "2404.05145": "|**2024-04-08**|**UniMix: Towards Domain Adaptive and Generalizable LiDAR Semantic Segmentation in Adverse Weather**|Haimei Zhao et.al.|[2404.05145](http://arxiv.org/abs/2404.05145)|null|\n",
         "2404.05094": "|**2024-04-07**|**Active Test-Time Adaptation: Theoretical Analyses and An Algorithm**|Shurui Gui et.al.|[2404.05094](http://arxiv.org/abs/2404.05094)|**[link](https://github.com/divelab/atta)**|\n",
@@ -2146,7 +2146,7 @@
         "2404.06392": "|**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392](http://arxiv.org/abs/2404.06392)|null|\n",
         "2404.06367": "|**2024-04-09**|**ClinLinker: Medical Entity Linking of Clinical Concept Mentions in Spanish**|Fernando Gallego et.al.|[2404.06367](http://arxiv.org/abs/2404.06367)|null|\n",
         "2404.06198": "|**2024-04-09**|**The impact of data set similarity and diversity on transfer learning success in time series forecasting**|Claudia Ehrig et.al.|[2404.06198](http://arxiv.org/abs/2404.06198)|null|\n",
-        "2404.06080": "|**2024-04-09**|**Using Few-Shot Learning to Classify Primary Lung Cancer and Other Malignancy with Lung Metastasis in Cytological Imaging via Endobronchial Ultrasound Procedures**|Ching-Kai Lin et.al.|[2404.06080](http://arxiv.org/abs/2404.06080)|null|\n",
+        "2404.06080": "|**2024-04-10**|**Using Few-Shot Learning to Classify Primary Lung Cancer and Other Malignancy with Lung Metastasis in Cytological Imaging via Endobronchial Ultrasound Procedures**|Ching-Kai Lin et.al.|[2404.06080](http://arxiv.org/abs/2404.06080)|null|\n",
         "2404.05809": "|**2024-04-08**|**Self-Labeling in Multivariate Causality and Quantification for Adaptive Machine Learning**|Yutian Ren et.al.|[2404.05809](http://arxiv.org/abs/2404.05809)|**[link](https://github.com/yutianren/multi-cause-slb)**|\n",
         "2404.05802": "|**2024-04-08**|**BatSort: Enhanced Battery Classification with Transfer Learning for Battery Sorting and Recycling**|Yunyi Zhao et.al.|[2404.05802](http://arxiv.org/abs/2404.05802)|**[link](https://github.com/friedrichzhao/singapore_battery_dataset)**|\n"
     },
@@ -2476,7 +2476,7 @@
         "2404.06492": "|**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|\n",
         "2404.06423": "|**2024-04-09**|**Deep Reinforcement Learning-Based Approach for a Single Vehicle Persistent Surveillance Problem with Fuel Constraints**|Hritik Bana et.al.|[2404.06423](http://arxiv.org/abs/2404.06423)|null|\n",
         "2404.06387": "|**2024-04-09**|**The Power in Communication: Power Regularization of Communication for Autonomy in Cooperative Multi-Agent Reinforcement Learning**|Nancirose Piazza et.al.|[2404.06387](http://arxiv.org/abs/2404.06387)|null|\n",
-        "2404.06356": "|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|null|\n",
+        "2404.06356": "|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|**[link](https://github.com/emptyjackson/policy-guided-diffusion)**|\n",
         "2404.06330": "|**2024-04-09**|**Generative Pre-Trained Transformer for Symbolic Regression Base In-Context Reinforcement Learning**|Yanjie Li et.al.|[2404.06330](http://arxiv.org/abs/2404.06330)|null|\n",
         "2404.06188": "|**2024-04-09**|**Diverse Randomized Value Functions: A Provably Pessimistic Approach for Offline Reinforcement Learning**|Xudong Yu et.al.|[2404.06188](http://arxiv.org/abs/2404.06188)|null|\n",
         "2404.06174": "|**2024-04-09**|**A quantum information theoretic analysis of reinforcement learning-assisted quantum architecture search**|Abhishek Sadhu et.al.|[2404.06174](http://arxiv.org/abs/2404.06174)|null|\n",
