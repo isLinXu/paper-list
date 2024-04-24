@@ -552,7 +552,7 @@
         "2404.13868": "|**2024-04-22**|**TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos**|Atom Scott et.al.|[2404.13868](http://arxiv.org/abs/2404.13868)|null|\n",
         "2404.13852": "|**2024-04-22**|**Toward Robust LiDAR based 3D Object Detection via Density-Aware Adaptive Thresholding**|Eunho Lee et.al.|[2404.13852](http://arxiv.org/abs/2404.13852)|null|\n",
         "2404.13745": "|**2024-04-21**|**A Nasal Cytology Dataset for Object Detection and Deep Learning**|Mauro Camporeale et.al.|[2404.13745](http://arxiv.org/abs/2404.13745)|null|\n",
-        "2404.13696": "|**2024-04-21**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|null|\n",
+        "2404.13696": "|**2024-04-23**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|null|\n",
         "2404.13443": "|**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|\n"
     },
     "Semantic Segmentation": {
@@ -1486,7 +1486,7 @@
         "2404.14396": "|**2024-04-22**|**SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**|Yuying Ge et.al.|[2404.14396](http://arxiv.org/abs/2404.14396)|**[link](https://github.com/ailab-cvc/seed-x)**|\n",
         "2404.14239": "|**2024-04-22**|**MultiBooth: Towards Generating All Your Concepts in an Image from Text**|Chenyang Zhu et.al.|[2404.14239](http://arxiv.org/abs/2404.14239)|**[link](https://github.com/chenyangzhu1/multibooth)**|\n",
         "2404.13984": "|**2024-04-22**|**RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance**|Chengrui Wang et.al.|[2404.13984](http://arxiv.org/abs/2404.13984)|null|\n",
-        "2404.13903": "|**2024-04-22**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|\n",
+        "2404.13903": "|**2024-04-23**|**Accelerating Image Generation with Sub-path Linear Approximation Model**|Chen Xu et.al.|[2404.13903](http://arxiv.org/abs/2404.13903)|null|\n",
         "2404.13899": "|**2024-04-22**|**Towards Better Text-to-Image Generation Alignment via Attention Modulation**|Yihang Wu et.al.|[2404.13899](http://arxiv.org/abs/2404.13899)|null|\n",
         "2404.13880": "|**2024-04-22**|**Regional Style and Color Transfer**|Zhicheng Ding et.al.|[2404.13880](http://arxiv.org/abs/2404.13880)|null|\n",
         "2404.13860": "|**2024-04-22**|**Distributional Black-Box Model Inversion Attack with Multi-Agent Reinforcement Learning**|Huan Bao et.al.|[2404.13860](http://arxiv.org/abs/2404.13860)|null|\n",
@@ -1963,7 +1963,7 @@
         "2404.12501": "|**2024-04-18**|**SPIdepth: Strengthened Pose Information for Self-supervised Monocular Depth Estimation**|Mykola Lavreniuk et.al.|[2404.12501](http://arxiv.org/abs/2404.12501)|null|\n",
         "2404.14042": "|**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|\n",
         "2404.13842": "|**2024-04-22**|**On Support Relations Inference and Scene Hierarchy Graph Construction from Point Cloud in Clustered Environments**|Gang Ma et.al.|[2404.13842](http://arxiv.org/abs/2404.13842)|null|\n",
-        "2404.13696": "|**2024-04-21**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|null|\n",
+        "2404.13696": "|**2024-04-23**|**Clio: Real-time Task-Driven Open-Set 3D Scene Graphs**|Dominic Maggio et.al.|[2404.13696](http://arxiv.org/abs/2404.13696)|null|\n",
         "2404.13148": "|**2024-04-19**|**BACS: Background Aware Continual Semantic Segmentation**|Mostafa ElAraby et.al.|[2404.13148](http://arxiv.org/abs/2404.13148)|null|\n"
     },
     "Depth Estimation": {
@@ -2255,7 +2255,7 @@
         "2404.06332": "|**2024-04-07**|**X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model**|Jan Held et.al.|[2404.06332](http://arxiv.org/abs/2404.06332)|null|\n",
         "2404.07484": "|**2024-04-11**|**Multimodal Emotion Recognition by Fusing Video Semantic in MOOC Learning Scenarios**|Yuan Zhang et.al.|[2404.07484](http://arxiv.org/abs/2404.07484)|null|\n",
         "2404.08351": "|**2024-04-12**|**OmniSat: Self-Supervised Modality Fusion for Earth Observation**|Guillaume Astruc et.al.|[2404.08351](http://arxiv.org/abs/2404.08351)|**[link](https://github.com/gastruc/omnisat)**|\n",
-        "2404.09403": "|**2024-04-15**|**Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning**|Xiongye Xiao et.al.|[2404.09403](http://arxiv.org/abs/2404.09403)|null|\n",
+        "2404.09403": "|**2024-04-22**|**Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning**|Xiongye Xiao et.al.|[2404.09403](http://arxiv.org/abs/2404.09403)|null|\n",
         "2404.09275": "|**2024-04-14**|**TrafficVLM: A Controllable Visual Language Model for Traffic Video Captioning**|Quang Minh Dinh et.al.|[2404.09275](http://arxiv.org/abs/2404.09275)|**[link](https://github.com/quangminhdinh/trafficvlm)**|\n",
         "2404.09010": "|**2024-04-13**|**MMA-DFER: MultiModal Adaptation of unimodal models for Dynamic Facial Expression Recognition in-the-wild**|Kateryna Chumachenko et.al.|[2404.09010](http://arxiv.org/abs/2404.09010)|null|\n",
         "2404.10305": "|**2024-04-19**|**TC-OCR: TableCraft OCR for Efficient Detection & Recognition of Table Structure & Content**|Avinash Anand et.al.|[2404.10305](http://arxiv.org/abs/2404.10305)|null|\n",
