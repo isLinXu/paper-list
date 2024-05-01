@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -2569,7 +2569,7 @@ layout: default
 |**2024-04-27**|**A Method of Moments Embedding Constraint and its Application to Semi-Supervised Learning**|Michael Majurski et.al.|[2404.17978](http://arxiv.org/abs/2404.17978)|null|
 |**2024-04-27**|**Accurate and fast anomaly detection in industrial processes and IoT environments**|Simone Tonini et.al.|[2404.17925](http://arxiv.org/abs/2404.17925)|null|
 |**2024-04-27**|**Unsupervised Anomaly Detection via Masked Diffusion Posterior Sampling**|Di Wu et.al.|[2404.17900](http://arxiv.org/abs/2404.17900)|null|
-|**2024-04-26**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454](http://arxiv.org/abs/2404.17454)|**[link](https://github.com/catchxu/acsleuth)**|
+|**2024-04-29**|**Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond**|Kaichen Xu et.al.|[2404.17454](http://arxiv.org/abs/2404.17454)|**[link](https://github.com/catchxu/acsleuth)**|
 |**2024-04-26**|**Frequency-Guided Multi-Level Human Action Anomaly Detection with Normalizing Flows**|Shun Maeda et.al.|[2404.17381](http://arxiv.org/abs/2404.17381)|null|
 |**2024-04-26**|**Synchronized Stepwise Control of Firing and Learning Thresholds in a Spiking Randomly Connected Neural Network toward Hardware Implementation**|Kumiko Nomura et.al.|[2404.17241](http://arxiv.org/abs/2404.17241)|null|
 |**2024-04-25**|**Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images**|Vazgen Zohranyan et.al.|[2404.17029](http://arxiv.org/abs/2404.17029)|null|
@@ -2794,7 +2794,7 @@ layout: default
 |**2024-04-29**|**Adaptive Reinforcement Learning for Robot Control**|Yu Tang Liu et.al.|[2404.18713](http://arxiv.org/abs/2404.18713)|null|
 |**2024-04-29**|**Generation of Uncorrelated Residual Variables for Chemical Process Fault Diagnosis via Transfer Learning-based Input-Output Decoupled Network**|Zhuofu Pan et.al.|[2404.18528](http://arxiv.org/abs/2404.18528)|null|
 |**2024-04-28**|**Align, Minimize and Diversify: A Source-Free Unsupervised Domain Adaptation Method for Handwritten Text Recognition**|María Alfaro-Contreras et.al.|[2404.18260](http://arxiv.org/abs/2404.18260)|null|
-|**2024-04-28**|**PatentGPT: A Large Language Model for Intellectual Property**|Zilong Bai et.al.|[2404.18255](http://arxiv.org/abs/2404.18255)|null|
+|**2024-04-30**|**PatentGPT: A Large Language Model for Intellectual Property**|Zilong Bai et.al.|[2404.18255](http://arxiv.org/abs/2404.18255)|null|
 |**2024-04-28**|**Efficient Remote Sensing with Harmonized Transfer Learning and Modality Alignment**|Tengjun Huang et.al.|[2404.18253](http://arxiv.org/abs/2404.18253)|**[link](https://github.com/seekerhuang/harma)**|
 |**2024-04-28**|**TextGram: Towards a better domain-adaptive pretraining**|Sharayu Hiwarkhedkar et.al.|[2404.18228](http://arxiv.org/abs/2404.18228)|null|
 |**2024-04-28**|**EkoHate: Abusive Language and Hate Speech Detection for Code-switched Political Discussions on Nigerian Twitter**|Comfort Eseohen Ilevbare et.al.|[2404.18180](http://arxiv.org/abs/2404.18180)|null|
@@ -3236,7 +3236,7 @@ layout: default
 |**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
 |**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
 |**2024-04-29**|**PlanNetX: Learning an Efficient Neural Network Planner from MPC for Longitudinal Control**|Jasper Hoffmann et.al.|[2404.18863](http://arxiv.org/abs/2404.18863)|null|
-|**2024-04-29**|**Winning the Social Media Influence Battle: Uncertainty-Aware Opinions to Understand and Spread True Information via Competitive Influence Maximization**|Qi Zhang et.al.|[2404.18826](http://arxiv.org/abs/2404.18826)|null|
+|**2024-04-30**|**Winning the Social Media Influence Battle: Uncertainty-Aware Opinions to Understand and Spread True Information via Competitive Influence Maximization**|Qi Zhang et.al.|[2404.18826](http://arxiv.org/abs/2404.18826)|null|
 |**2024-04-29**|**Control Policy Correction Framework for Reinforcement Learning-based Energy Arbitrage Strategies**|Seyed Soroush Karimi Madahi et.al.|[2404.18821](http://arxiv.org/abs/2404.18821)|null|
 |**2024-04-29**|**Multi-Agent Synchronization Tasks**|Rolando Fernandez et.al.|[2404.18798](http://arxiv.org/abs/2404.18798)|null|
 |**2024-04-29**|**Resource-rational reinforcement learning and sensorimotor causal states**|Sarah Marzen et.al.|[2404.18775](http://arxiv.org/abs/2404.18775)|null|
