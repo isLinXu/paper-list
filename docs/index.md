@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.05
+## Updated on 2024.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -15,13 +15,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-02**|**Improving Intervention Efficacy via Concept Realignment in Concept Bottleneck Models**|Nishad Singhi et.al.|[2405.01531](http://arxiv.org/abs/2405.01531)|null|
-|**2024-05-02**|**Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks**|Mikkel Jordahn et.al.|[2405.01196](http://arxiv.org/abs/2405.01196)|null|
+|**2024-05-03**|**Decoupling Feature Extraction and Classification Layers for Calibrated Neural Networks**|Mikkel Jordahn et.al.|[2405.01196](http://arxiv.org/abs/2405.01196)|null|
 |**2024-05-02**|**Uncertainty-aware self-training with expectation maximization basis transformation**|Zijia Wang et.al.|[2405.01175](http://arxiv.org/abs/2405.01175)|null|
 |**2024-05-02**|**Transformers Fusion across Disjoint Samples for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2405.01095](http://arxiv.org/abs/2405.01095)|null|
 |**2024-05-02**|**Efficient and Flexible Method for Reducing Moderate-size Deep Neural Networks with Condensation**|Tianyi Chen et.al.|[2405.01041](http://arxiv.org/abs/2405.01041)|null|
 |**2024-05-02**|**Benchmarking Representations for Speech, Music, and Acoustic Events**|Moreno La Quatra et.al.|[2405.00934](http://arxiv.org/abs/2405.00934)|**[link](https://github.com/MorenoLaQuatra/ARCH)**|
 |**2024-05-01**|**Digital-analog quantum convolutional neural networks for image classification**|Anton Simen et.al.|[2405.00548](http://arxiv.org/abs/2405.00548)|null|
-|**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|null|
+|**2024-05-03**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|null|
 |**2024-05-01**|**Visual and audio scene classification for detecting discrepancies in video: a baseline method and experimental protocol**|Konstantinos Apostolidis et.al.|[2405.00384](http://arxiv.org/abs/2405.00384)|null|
 |**2024-05-01**|**Data Augmentation Policy Search for Long-Term Forecasting**|Liran Nochumsohn et.al.|[2405.00319](http://arxiv.org/abs/2405.00319)|null|
 |**2024-04-30**|**Let's Focus: Focused Backdoor Attack against Federated Transfer Learning**|Marco Arazzi et.al.|[2404.19420](http://arxiv.org/abs/2404.19420)|null|
@@ -2615,7 +2615,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-29**|**3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset**|Xinyu Ma et.al.|[2404.18413](http://arxiv.org/abs/2404.18413)|**[link](https://github.com/maxylee/3am)**|
 |**2024-04-28**|**LEGENT: Open Platform for Embodied Agents**|Zhili Cheng et.al.|[2404.18243](http://arxiv.org/abs/2404.18243)|null|
-|**2024-04-27**|**Revisiting Multimodal Emotion Recognition in Conversation from the Perspective of Graph Spectrum**|Tao Meng et.al.|[2404.17862](http://arxiv.org/abs/2404.17862)|null|
+|**2024-05-03**|**Revisiting Multimodal Emotion Recognition in Conversation from the Perspective of Graph Spectrum**|Tao Meng et.al.|[2404.17862](http://arxiv.org/abs/2404.17862)|null|
 |**2024-04-29**|**MER 2024: Semi-Supervised Learning, Noise Robustness, and Open-Vocabulary Multimodal Emotion Recognition**|Zheng Lian et.al.|[2404.17113](http://arxiv.org/abs/2404.17113)|**[link](https://github.com/zeroqiaoba/mertools)**|
 |**2024-04-30**|**AutoGluon-Multimodal (AutoMM): Supercharging Multimodal AutoML with Foundation Models**|Zhiqiang Tang et.al.|[2404.16233](http://arxiv.org/abs/2404.16233)|null|
 |**2024-04-23**|**Hidden in Plain Sight: Exploring the Intersections of Mental Health, Eating Disorders, and Content Moderation on TikTok**|Charles Bickham et.al.|[2404.15457](http://arxiv.org/abs/2404.15457)|null|
