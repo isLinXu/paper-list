@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -709,7 +709,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442](http://arxiv.org/abs/2405.04442)|**[link](https://github.com/smartory/augmentory)**|
+|**2024-05-07**|**AugmenTory: A Fast and Flexible Polygon Augmentation Library**|Tanaz Ghahremani et.al.|[2405.04442](http://arxiv.org/abs/2405.04442)|null|
 |**2024-05-07**|**A New Dataset and Comparative Study for Aphid Cluster Detection and Segmentation in Sorghum Fields**|Raiyan Rahman et.al.|[2405.04305](http://arxiv.org/abs/2405.04305)|null|
 |**2024-05-07**|**ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation**|Zhibo Zhang et.al.|[2405.04121](http://arxiv.org/abs/2405.04121)|null|
 |**2024-05-07**|**Structured Click Control in Transformer-based Interactive Segmentation**|Long Xu et.al.|[2405.04009](http://arxiv.org/abs/2405.04009)|**[link](https://github.com/hahamyt/scc)**|
@@ -1864,7 +1864,7 @@ layout: default
 |**2024-05-07**|**NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts**|Shudan Zhang et.al.|[2405.04520](http://arxiv.org/abs/2405.04520)|null|
 |**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
 |**2024-05-07**|**A Transformer with Stack Attention**|Jiaoda Li et.al.|[2405.04515](http://arxiv.org/abs/2405.04515)|**[link](https://github.com/rycolab/stack-transformer)**|
-|**2024-05-07**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
+|**2024-05-08**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
 |**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
 |**2024-05-07**|**The Silicone Ceiling: Auditing GPT's Race and Gender Biases in Hiring**|Lena Armstrong et.al.|[2405.04412](http://arxiv.org/abs/2405.04412)|null|
 |**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403](http://arxiv.org/abs/2405.04403)|**[link](https://github.com/gpantaz/vl_jailbreak)**|
@@ -2831,7 +2831,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**Research on financial fraud algorithm based on federal learning and big data technology**|Xinye Sha et.al.|[2405.03992](http://arxiv.org/abs/2405.03992)|null|
 |**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|null|
-|**2024-05-06**|**A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series**|Ziquan Deng et.al.|[2405.03234](http://arxiv.org/abs/2405.03234)|null|
+|**2024-05-07**|**A Reliable Framework for Human-in-the-Loop Anomaly Detection in Time Series**|Ziquan Deng et.al.|[2405.03234](http://arxiv.org/abs/2405.03234)|null|
 |**2024-05-06**|**Braced Fourier Continuation and Regression for Anomaly Detection**|Josef Sabuda et.al.|[2405.03180](http://arxiv.org/abs/2405.03180)|**[link](https://github.com/j4sabuda/braced-fourier-continuation-and-regression)**|
 |**2024-05-05**|**AnoGAN for Tabular Data: A Novel Approach to Anomaly Detection**|Aditya Singh et.al.|[2405.03075](http://arxiv.org/abs/2405.03075)|null|
 |**2024-05-05**|**A Model-Free Kullback-Leibler Divergence Filter for Anomaly Detection in Noisy Data Series**|Ruikun Zhou et.al.|[2405.03047](http://arxiv.org/abs/2405.03047)|null|
@@ -3575,7 +3575,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
 |**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
-|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-08**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
 |**2024-05-07**|**The Curse of Diversity in Ensemble-Based Exploration**|Zhixuan Lin et.al.|[2405.04342](http://arxiv.org/abs/2405.04342)|**[link](https://github.com/zhixuan-lin/ensemble-rl-discrete)**|
 |**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
 |**2024-05-07**|**Genetic Drift Regularization: on preventing Actor Injection from breaking Evolution Strategies**|Paul Templier et.al.|[2405.04322](http://arxiv.org/abs/2405.04322)|null|
@@ -4045,7 +4045,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-07**|**Exploration of Novel Neuromorphic Methodologies for Materials Applications**|Derek Gobin et.al.|[2405.04478](http://arxiv.org/abs/2405.04478)|null|
-|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|null|
+|**2024-05-07**|**A fully differentiable GNN-based PDE Solver: With Applications to Poisson and Navier-Stokes Equations**|Tianyu Li et.al.|[2405.04466](http://arxiv.org/abs/2405.04466)|**[link](https://github.com/Litianyu141/Gen-FVGN-steady)**|
 |**2024-05-07**|**Predicting Transonic Flowfields in Non-Homogeneous Unstructured Grids Using Autoencoder Graph Convolutional Networks**|Gabriele Immordino et.al.|[2405.04396](http://arxiv.org/abs/2405.04396)|null|
 |**2024-05-07**|**Parallelized Multi-Agent Bayesian Optimization in Lava**|Shay Snyder et.al.|[2405.04387](http://arxiv.org/abs/2405.04387)|null|
 |**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336](http://arxiv.org/abs/2405.04336)|null|
