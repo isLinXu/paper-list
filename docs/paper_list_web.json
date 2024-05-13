@@ -334,7 +334,7 @@
         "2405.04041": "|**2024-05-07**|**Feature Map Convergence Evaluation for Functional Module**|Ludan Zhang et.al.|[2405.04041](http://arxiv.org/abs/2405.04041)|null|\n",
         "2405.03978": "|**2024-05-07**|**VMambaCC: A Visual State Space Model for Crowd Counting**|Hao-Yuan Ma et.al.|[2405.03978](http://arxiv.org/abs/2405.03978)|null|\n",
         "2405.03789": "|**2024-05-06**|**On Adversarial Examples for Text Classification by Perturbing Latent Representations**|Korn Sooksatra et.al.|[2405.03789](http://arxiv.org/abs/2405.03789)|null|\n",
-        "2405.05116": "|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|null|\n",
+        "2405.05116": "|**2024-05-08**|**XAMPLER: Learning to Retrieve Cross-Lingual In-Context Examples**|Peiqin Lin et.al.|[2405.05116](http://arxiv.org/abs/2405.05116)|**[link](https://github.com/cisnlp/xampler)**|\n",
         "2405.04825": "|**2024-05-08**|**Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution**|Shuo Shao et.al.|[2405.04825](http://arxiv.org/abs/2405.04825)|null|\n",
         "2405.04610": "|**2024-05-07**|**Exploring Explainable AI Techniques for Improved Interpretability in Lung and Colon Cancer Classification**|Mukaffi Bin Moin et.al.|[2405.04610](http://arxiv.org/abs/2405.04610)|**[link](https://github.com/Mukaffi28/Explainable-AI-for-Lung-and-Colon-Cancer-Classification)**|\n",
         "2405.05906": "|**2024-05-09**|**Deep Multi-Task Learning for Malware Image Classification**|Ahmed Bensaoud et.al.|[2405.05906](http://arxiv.org/abs/2405.05906)|null|\n",
@@ -1097,7 +1097,7 @@
         "2405.04390": "|**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/abs/2405.04390)|null|\n",
         "2405.04290": "|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|\n",
         "2405.05210": "|**2024-05-08**|**MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.|[2405.05210](http://arxiv.org/abs/2405.05210)|null|\n",
-        "2405.05004": "|**2024-05-08**|**TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**|Pengcheng Shao et.al.|[2405.05004](http://arxiv.org/abs/2405.05004)|null|\n",
+        "2405.05004": "|**2024-05-08**|**TENet: Targetness Entanglement Incorporating with Multi-Scale Pooling and Mutually-Guided Fusion for RGB-E Object Tracking**|Pengcheng Shao et.al.|[2405.05004](http://arxiv.org/abs/2405.05004)|**[link](https://github.com/ssspc333/tenet)**|\n",
         "2405.05646": "|**2024-05-09**|**Outlier-robust Kalman Filtering through Generalised Bayes**|Gerardo Duran-Martin et.al.|[2405.05646](http://arxiv.org/abs/2405.05646)|**[link](https://github.com/gerdm/weighted-likelihood-filter)**|\n"
     },
     "Action Recognition": {
@@ -2372,7 +2372,7 @@
         "2405.05904": "|**2024-05-09**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|\n",
         "2405.05885": "|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|\n",
         "2405.05872": "|**2024-05-09**|**FlockGPT: Guiding UAV Flocking with Linguistic Orchestration**|Artem Lykov et.al.|[2405.05872](http://arxiv.org/abs/2405.05872)|null|\n",
-        "2405.05824": "|**2024-05-09**|**Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning**|Artem Lykov et.al.|[2405.05824](http://arxiv.org/abs/2405.05824)|null|\n"
+        "2405.05824": "|**2024-05-09**|**Robots Can Feel: LLM-based Framework for Robot Ethical Reasoning**|Artem Lykov et.al.|[2405.05824](http://arxiv.org/abs/2405.05824)|**[link](https://github.com/temalykov/robots_can_feel)**|\n"
     },
     "Scene Understanding": {
         "2402.18287": "|**2024-02-28**|**Windowed-FourierMixer: Enhancing Clutter-Free Room Modeling with Fourier Transform**|Bruno Henriques et.al.|[2402.18287](http://arxiv.org/abs/2402.18287)|null|\n",
@@ -2484,7 +2484,7 @@
         "2404.19128": "|**2024-04-29**|**Q-GroundCAM: Quantifying Grounding in Vision Language Models via GradCAM**|Navid Rajabi et.al.|[2404.19128](http://arxiv.org/abs/2404.19128)|null|\n",
         "2404.19126": "|**2024-04-29**|**Compositional Factorization of Visual Scenes with Convolutional Sparse Coding and Resonator Networks**|Christopher J. Kymn et.al.|[2404.19126](http://arxiv.org/abs/2404.19126)|null|\n",
         "2405.03682": "|**2024-05-06**|**An Empty Room is All We Want: Automatic Defurnishing of Indoor Panoramas**|Mira Slavcheva et.al.|[2405.03682](http://arxiv.org/abs/2405.03682)|null|\n",
-        "2405.02556": "|**2024-05-04**|**Few-Shot Fruit Segmentation via Transfer Learning**|Jordan A. James et.al.|[2405.02556](http://arxiv.org/abs/2405.02556)|null|\n",
+        "2405.02556": "|**2024-05-04**|**Few-Shot Fruit Segmentation via Transfer Learning**|Jordan A. James et.al.|[2405.02556](http://arxiv.org/abs/2405.02556)|**[link](https://github.com/robotic-vision-lab/few-shot-fruit-segmentation-via-transfer-learning)**|\n",
         "2405.04390": "|**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/abs/2405.04390)|null|\n",
         "2405.04377": "|**2024-05-07**|**Choose What You Need: Disentangled Representation Learning for Scene Text Recognition, Removal and Editing**|Boqiang Zhang et.al.|[2405.04377](http://arxiv.org/abs/2405.04377)|null|\n",
         "2405.05259": "|**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|\n",
@@ -3526,10 +3526,10 @@
         "2405.04596": "|**2024-05-07**|**Cross-Platform Autonomous Control of Minimal Kitaev Chains**|David van Driel et.al.|[2405.04596](http://arxiv.org/abs/2405.04596)|null|\n",
         "2405.05853": "|**2024-05-09**|**Robust and Explainable Fine-Grained Visual Classification with Transfer Learning: A Dual-Carriageway Framework**|Zheming Zuo et.al.|[2405.05853](http://arxiv.org/abs/2405.05853)|null|\n",
         "2405.05745": "|**2024-05-09**|**Efficient Pretraining Model based on Multi-Scale Local Visual Field Feature Reconstruction for PCB CT Image Element Segmentation**|Chen Chen et.al.|[2405.05745](http://arxiv.org/abs/2405.05745)|null|\n",
-        "2405.05591": "|**2024-05-09**|**Identification of problematic epochs in Astronomical Time Series through Transfer Learning**|Stefano Cavuoti et.al.|[2405.05591](http://arxiv.org/abs/2405.05591)|**[link](https://github.com/cavuoti/AnomalyInTimeSeries)**|\n",
+        "2405.05591": "|**2024-05-10**|**Identification of problematic epochs in Astronomical Time Series through Transfer Learning**|Stefano Cavuoti et.al.|[2405.05591](http://arxiv.org/abs/2405.05591)|**[link](https://github.com/cavuoti/AnomalyInTimeSeries)**|\n",
         "2405.05588": "|**2024-05-09**|**Model Inversion Robustness: Can Transfer Learning Help?**|Sy-Tuyen Ho et.al.|[2405.05588](http://arxiv.org/abs/2405.05588)|null|\n",
         "2405.05493": "|**2024-05-09**|**Parameter-Efficient Fine-Tuning With Adapters**|Keyu Chen et.al.|[2405.05493](http://arxiv.org/abs/2405.05493)|null|\n",
-        "2405.05445": "|**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|null|\n",
+        "2405.05445": "|**2024-05-08**|**Large Language Model Enhanced Machine Learning Estimators for Classification**|Yuhang Wu et.al.|[2405.05445](http://arxiv.org/abs/2405.05445)|**[link](https://github.com/wyharturia/llm_enhanced_ml)**|\n",
         "2405.05336": "|**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|\n"
     },
     "Optical Flow": {
@@ -4105,7 +4105,7 @@
         "2405.05861": "|**2024-05-09**|**ExACT: An End-to-End Autonomous Excavator System Using Action Chunking With Transformers**|Liangliang Chen et.al.|[2405.05861](http://arxiv.org/abs/2405.05861)|null|\n",
         "2405.05630": "|**2024-05-09**|**Policy Gradient with Active Importance Sampling**|Matteo Papini et.al.|[2405.05630](http://arxiv.org/abs/2405.05630)|null|\n",
         "2405.05618": "|**2024-05-09**|**An Automatic Prompt Generation System for Tabular Data Tasks**|Ashlesha Akella et.al.|[2405.05618](http://arxiv.org/abs/2405.05618)|null|\n",
-        "2405.05542": "|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|null|\n",
+        "2405.05542": "|**2024-05-09**|**Dynamic Deep Factor Graph for Multi-Agent Reinforcement Learning**|Yuchen Shi et.al.|[2405.05542](http://arxiv.org/abs/2405.05542)|**[link](https://github.com/sicc-group/ddfg)**|\n",
         "2405.05468": "|**2024-05-08**|**Model-Free Robust $\u03c6$-Divergence Reinforcement Learning Using Both Offline and Online Data**|Kishan Panaganti et.al.|[2405.05468](http://arxiv.org/abs/2405.05468)|null|\n",
         "2405.05449": "|**2024-05-08**|**Markowitz Meets Bellman: Knowledge-distilled Reinforcement Learning for Portfolio Management**|Gang Hu et.al.|[2405.05449](http://arxiv.org/abs/2405.05449)|null|\n",
         "2405.05372": "|**2024-05-08**|**Learning to Play Pursuit-Evasion with Dynamic and Sensor Constraints**|Burak M. Gonultas et.al.|[2405.05372](http://arxiv.org/abs/2405.05372)|null|\n",
