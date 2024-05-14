@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Classification
@@ -1932,7 +1932,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
 |**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
 |**2024-05-10**|**What Can Natural Language Processing Do for Peer Review?**|Ilia Kuznetsov et.al.|[2405.06563](http://arxiv.org/abs/2405.06563)|null|
@@ -2441,7 +2441,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-09**|**Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control**|Gunshi Gupta et.al.|[2405.05852](http://arxiv.org/abs/2405.05852)|**[link](https://github.com/ykarmesh/stable-control-representations)**|
-|**2024-05-09**|**Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition**|Zuan Gao et.al.|[2405.05841](http://arxiv.org/abs/2405.05841)|null|
+|**2024-05-11**|**Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition**|Zuan Gao et.al.|[2405.05841](http://arxiv.org/abs/2405.05841)|null|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526](http://arxiv.org/abs/2405.05526)|null|
 |**2024-05-09**|**DTCLMapper: Dual Temporal Consistent Learning for Vectorized HD Map Construction**|Siyu Li et.al.|[2405.05518](http://arxiv.org/abs/2405.05518)|null|
 |**2024-05-08**|**OpenESS: Event-based Semantic Scene Understanding with Open Vocabularies**|Lingdong Kong et.al.|[2405.05259](http://arxiv.org/abs/2405.05259)|**[link](https://github.com/ldkong1205/openess)**|
@@ -2699,7 +2699,7 @@ layout: default
 |**2024-05-06**|**Whispy: Adapting STT Whisper Models to Real-Time Environments**|Antonio Bevilacqua et.al.|[2405.03484](http://arxiv.org/abs/2405.03484)|null|
 |**2024-05-06**|**MMGER: Multi-modal and Multi-granularity Generative Error Correction with LLM for Joint Accent and Speech Recognition**|Bingshen Mu et.al.|[2405.03152](http://arxiv.org/abs/2405.03152)|null|
 |**2024-05-06**|**Determined Multichannel Blind Source Separation with Clustered Source Model**|Jianyu Wang et.al.|[2405.03118](http://arxiv.org/abs/2405.03118)|null|
-|**2024-05-05**|**Analysis about Theoretical Foundations for Method to Enhancing ASR Performance using OCR Word Frequency Differences**|Kyudan Jung et.al.|[2405.02995](http://arxiv.org/abs/2405.02995)|null|
+|**2024-05-11**|**Analysis about Theoretical Foundations for Method to Enhancing ASR Performance using OCR Word Frequency Differences**|Kyudan Jung et.al.|[2405.02995](http://arxiv.org/abs/2405.02995)|null|
 |**2024-05-07**|**Mozart's Touch: A Lightweight Multi-modal Music Generation Framework Based on Pre-Trained Large Models**|Tianze Xu et.al.|[2405.02801](http://arxiv.org/abs/2405.02801)|**[link](https://github.com/wangtoonaive/mozartstouch)**|
 |**2024-05-04**|**Mixat: A Data Set of Bilingual Emirati-English Speech**|Maryam Al Ali et.al.|[2405.02578](http://arxiv.org/abs/2405.02578)|**[link](https://github.com/mbzuai-nlp/mixat)**|
 |**2024-05-06**|**Training-Free Deepfake Voice Recognition by Leveraging Large-Scale Pre-Trained Models**|Alessandro Pianese et.al.|[2405.02179](http://arxiv.org/abs/2405.02179)|null|
@@ -3731,7 +3731,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**EcoEdgeTwin: Enhanced 6G Network via Mobile Edge Computing and Digital Twin Integration**|Synthia Hossain Karobi et.al.|[2405.06507](http://arxiv.org/abs/2405.06507)|null|
 |**2024-05-10**|**Advantageous and disadvantageous inequality aversion can be taught through vicarious learning of others' preferences**|Shen Zhang et.al.|[2405.06500](http://arxiv.org/abs/2405.06500)|null|
 |**2024-05-10**|**Contextual Affordances for Safe Exploration in Robotic Scenarios**|William Z. Ye et.al.|[2405.06422](http://arxiv.org/abs/2405.06422)|null|
