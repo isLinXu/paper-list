@@ -1,15 +1,10 @@
-![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)
-
-![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)
-![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list) 
-![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list) 
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)  ![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)  ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list) ![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)
-
----
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 ## Updated on 2024.05.23
-
-
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
@@ -33,7 +28,6 @@
     <li><a href=#graph-neural-networks>Graph Neural Networks</a></li>
   </ol>
 </details>
-
 
 ## Classification
 
@@ -2759,7 +2753,7 @@
 |**2024-05-21**|**Scene Graph Generation Strategy with Co-occurrence Knowledge and Learnable Term Frequency**|Hyeongjin Kim et.al.|[2405.12648](http://arxiv.org/abs/2405.12648)|null|
 |**2024-05-20**|**MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering**|Jingqun Tang et.al.|[2405.11985](http://arxiv.org/abs/2405.11985)|null|
 |**2024-05-19**|**The First Swahili Language Scene Text Detection and Recognition Dataset**|Fadila Wendigoundi Douamba et.al.|[2405.11437](http://arxiv.org/abs/2405.11437)|**[link](https://github.com/fadilaw/swahili-str-dataset)**|
-|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
+|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|**[link](https://github.com/OpenRobotLab/Grounded_3D-LLM)**|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
 |**2024-05-16**|**A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance**|Andrea Matteazzi et.al.|[2405.10046](http://arxiv.org/abs/2405.10046)|null|
@@ -3250,7 +3244,7 @@
 |**2024-05-21**|**Amplifying Academic Research through YouTube: Engagement Metrics as Predictors of Citation Impact**|Olga Zagovora et.al.|[2405.12734](http://arxiv.org/abs/2405.12734)|null|
 |**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681](http://arxiv.org/abs/2405.12681)|null|
 |**2024-05-21**|**Mutual Information Analysis in Multimodal Learning Systems**|Hadi Hadizadeh et.al.|[2405.12456](http://arxiv.org/abs/2405.12456)|null|
-|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|null|
+|**2024-05-16**|**Grounded 3D-LLM with Referent Tokens**|Yilun Chen et.al.|[2405.10370](http://arxiv.org/abs/2405.10370)|**[link](https://github.com/OpenRobotLab/Grounded_3D-LLM)**|
 |**2024-05-13**|**Improving Multimodal Learning with Multi-Loss Gradient Modulation**|Konstantinos Kontras et.al.|[2405.07930](http://arxiv.org/abs/2405.07930)|null|
 |**2024-05-13**|**Generating Human Motion in 3D Scenes from Text Descriptions**|Zhi Cen et.al.|[2405.07784](http://arxiv.org/abs/2405.07784)|null|
 |**2024-05-13**|**An Efficient Multimodal Learning Framework to Comprehend Consumer Preferences Using BERT and Cross-Attention**|Junichiro Niimi et.al.|[2405.07435](http://arxiv.org/abs/2405.07435)|null|
