@@ -55,20 +55,31 @@ def json_to_md(filename, md_filename,
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
         if show_badge == True:
-            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+#            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
+#            f.write(f"[![Forks][forks-shield]][forks-url]\n")
+#            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
+#            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
+            f.write("![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)")
+            f.write("![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)")
+            f.write("![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)")
+            f.write("![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)") 
+            f.write("[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)")  
+            f.write("![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)") 
+            f.write("![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)")  
+            f.write("![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)")   
+            f.write("![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)")  
+            f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)") 
+            f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)") 
 
         if use_title == True:
-            # f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
+            f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
+                     "</ins><br>Automatically Update Papers Daily in list</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         # Add: table of contents
         if use_tc == True:
