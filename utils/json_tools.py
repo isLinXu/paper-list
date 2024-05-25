@@ -55,10 +55,6 @@ def json_to_md(filename, md_filename,
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
         if show_badge == True:
-#            f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
-#            f.write(f"[![Forks][forks-shield]][forks-url]\n")
-#            f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-#            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
             f.write("![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)")
             f.write("![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)")
             f.write("![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)")
@@ -72,7 +68,7 @@ def json_to_md(filename, md_filename,
             f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)") 
 
         if use_title == True:
-            f.write('<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY'
+            f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
                      '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
             f.write("## Updated on " + DateNow + "\n")
         else:
@@ -137,21 +133,6 @@ def json_to_md(filename, md_filename,
             f.write("![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)")  
             f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)") 
             f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)") 
-#            f.write((f"[contributors-shield]: https://img.shields.io/github/"
-#                     f"contributors/isLinXu/paper-list.svg?style=for-the-badge\n"))
-#            f.write((f"[contributors-url]: https://github.com/isLinXu/"
-#                     f"paper-list/graphs/contributors\n"))
-#            f.write((f"[forks-shield]: https://img.shields.io/github/forks/isLinXu/"
-#                     f"paper-list.svg?style=for-the-badge\n"))
-#            f.write((f"[forks-url]: https://github.com/isLinXu/"
-#                     f"paper-list/network/members\n"))
-#            f.write((f"[stars-shield]: https://img.shields.io/github/stars/isLinXu/"
-#                     f"paper-list.svg?style=for-the-badge\n"))
-#            f.write((f"[stars-url]: https://github.com/isLinXu/"
-#                     f"paper-list/stargazers\n"))
-#            f.write((f"[issues-shield]: https://img.shields.io/github/issues/isLinXu/"
-#                     f"paper-list.svg?style=for-the-badge\n"))
-#            f.write((f"[issues-url]: https://github.com/isLinXu/"
-#                     f"paper-list/issues\n\n"))
+
 
     logging.info(f"{task} finished")
