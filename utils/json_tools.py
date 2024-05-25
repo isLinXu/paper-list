@@ -72,8 +72,8 @@ def json_to_md(filename, md_filename,
             f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)") 
 
         if use_title == True:
-            f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-                     "</ins><br>Automatically Update Papers Daily in list</h1></p>\n"))
+            f.write('<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY'
+                     '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
