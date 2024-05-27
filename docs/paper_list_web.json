@@ -2144,7 +2144,7 @@
         "2405.14857": "|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|\n",
         "2405.14854": "|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|\n",
         "2405.14828": "|**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|\n",
-        "2405.14802": "|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|\n",
+        "2405.14802": "|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|\n",
         "2405.14800": "|**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|\n",
         "2405.14794": "|**2024-05-23**|**RetAssist: Facilitating Vocabulary Learners with Generative Images in Story Retelling Practices**|Qiaoyi Chen et.al.|[2405.14794](http://arxiv.org/abs/2405.14794)|null|\n",
         "2405.14709": "|**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|\n",
@@ -2870,7 +2870,7 @@
         "2405.14868": "|**2024-05-23**|**Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis**|Basile Van Hoorick et.al.|[2405.14868](http://arxiv.org/abs/2405.14868)|null|\n",
         "2405.14731": "|**2024-05-23**|**CoPeD-Advancing Multi-Robot Collaborative Perception: A Comprehensive Dataset in Real-World Environments**|Yang Zhou et.al.|[2405.14731](http://arxiv.org/abs/2405.14731)|**[link](https://github.com/arplaboratory/coped)**|\n",
         "2405.14688": "|**2024-05-23**|**Efficient Robot Learning for Perception and Mapping**|Niclas V\u00f6disch et.al.|[2405.14688](http://arxiv.org/abs/2405.14688)|null|\n",
-        "2405.14128": "|**2024-05-23**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128](http://arxiv.org/abs/2405.14128)|null|\n",
+        "2405.14128": "|**2024-05-24**|**Transformers for Image-Goal Navigation**|Nikhilanj Pelluri et.al.|[2405.14128](http://arxiv.org/abs/2405.14128)|null|\n",
         "2405.13989": "|**2024-05-22**|**TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System**|Diogo Lavado et.al.|[2405.13989](http://arxiv.org/abs/2405.13989)|null|\n",
         "2405.13896": "|**2024-05-22**|**A General Framework for Jersey Number Recognition in Sports Video**|Maria Koshkina et.al.|[2405.13896](http://arxiv.org/abs/2405.13896)|null|\n",
         "2405.13751": "|**2024-05-22**|**GameVLM: A Decision-making Framework for Robotic Task Planning Based on Visual Language Models and Zero-sum Games**|Aoran Mei et.al.|[2405.13751](http://arxiv.org/abs/2405.13751)|null|\n"
