@@ -407,7 +407,7 @@
         "2405.14977": "|**2024-05-23**|**A Lost Opportunity for Vision-Language Models: A Comparative Study of Online Test-time Adaptation for Vision-Language Models**|Mario D\u00f6bler et.al.|[2405.14977](http://arxiv.org/abs/2405.14977)|**[link](https://github.com/mariodoebler/test-time-adaptation)**|\n",
         "2405.17370": "|**2024-05-27**|**Model-Agnostic Zeroth-Order Policy Optimization for Meta-Learning of Ergodic Linear Quadratic Regulators**|Yunian Pan et.al.|[2405.17370](http://arxiv.org/abs/2405.17370)|null|\n",
         "2405.17264": "|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|\n",
-        "2405.17110": "|**2024-05-27**|**Superpixelwise Low-rank Approximation based Partial Label Learning for Hyperspectral Image Classification**|Shujun Yang et.al.|[2405.17110](http://arxiv.org/abs/2405.17110)|null|\n",
+        "2405.17110": "|**2024-05-27**|**Superpixelwise Low-rank Approximation based Partial Label Learning for Hyperspectral Image Classification**|Shujun Yang et.al.|[2405.17110](http://arxiv.org/abs/2405.17110)|**[link](https://github.com/sjyang8/SLAP)**|\n",
         "2405.16605": "|**2024-05-26**|**Demystify Mamba in Vision: A Linear Attention Perspective**|Dongchen Han et.al.|[2405.16605](http://arxiv.org/abs/2405.16605)|null|\n",
         "2405.16397": "|**2024-05-26**|**AdaFisher: Adaptive Second Order Optimization via Fisher Information**|Damien Martins Gomes et.al.|[2405.16397](http://arxiv.org/abs/2405.16397)|null|\n",
         "2405.16285": "|**2024-05-25**|**ModelLock: Locking Your Model With a Spell**|Yifeng Gao et.al.|[2405.16285](http://arxiv.org/abs/2405.16285)|null|\n",
