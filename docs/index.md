@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 ## Classification
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -4520,7 +4520,7 @@ layout: default
 |**2024-05-28**|**Mutation-Bias Learning in Games**|Johann Bauer et.al.|[2405.18190](http://arxiv.org/abs/2405.18190)|null|
 |**2024-05-28**|**Safe Reinforcement Learning in Black-Box Environments via Adaptive Shielding**|Daniel Bethell et.al.|[2405.18180](http://arxiv.org/abs/2405.18180)|**[link](https://github.com/team-daniel/advice)**|
 |**2024-05-28**|**Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing**|Wei Zhao et.al.|[2405.18166](http://arxiv.org/abs/2405.18166)|**[link](https://github.com/ledllm/ledllm)**|
-|**2024-05-28**|**PyTAG: Tabletop Games for Multi-Agent Reinforcement Learning**|Martin Balla et.al.|[2405.18123](http://arxiv.org/abs/2405.18123)|null|
+|**2024-05-28**|**PyTAG: Tabletop Games for Multi-Agent Reinforcement Learning**|Martin Balla et.al.|[2405.18123](http://arxiv.org/abs/2405.18123)|**[link](https://github.com/martinballa/pytag)**|
 |**2024-05-27**|**A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning**|Abdulaziz Almuzairee et.al.|[2405.17416](http://arxiv.org/abs/2405.17416)|null|
 |**2024-05-27**|**Rethinking Transformers in Solving POMDPs**|Chenhao Lu et.al.|[2405.17358](http://arxiv.org/abs/2405.17358)|**[link](https://github.com/ctp314/tfporl)**|
 |**2024-05-27**|**Opinion-Guided Reinforcement Learning**|Kyanna Dagenais et.al.|[2405.17287](http://arxiv.org/abs/2405.17287)|null|
