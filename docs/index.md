@@ -3998,7 +3998,7 @@ layout: default
 |**2024-05-30**|**FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models**|Edoardo Arnaudo et.al.|[2405.20109](http://arxiv.org/abs/2405.20109)|null|
 |**2024-05-30**|**Chemical Space-Informed Machine Learning Models for Rapid Predictions of X-ray Photoelectron Spectra of Organic Molecules**|Susmita Tripathy et.al.|[2405.20033](http://arxiv.org/abs/2405.20033)|null|
 |**2024-05-30**|**From Forest to Zoo: Great Ape Behavior Recognition with ChimpBehave**|Michael Fuchs et.al.|[2405.20025](http://arxiv.org/abs/2405.20025)|null|
-|**2024-05-30**|**Domain Adaptation with Cauchy-Schwarz Divergence**|Wenzhe Yin et.al.|[2405.19978](http://arxiv.org/abs/2405.19978)|null|
+|**2024-05-30**|**Domain Adaptation with Cauchy-Schwarz Divergence**|Wenzhe Yin et.al.|[2405.19978](http://arxiv.org/abs/2405.19978)|**[link](https://github.com/ywzcode/CS-adv)**|
 |**2024-05-30**|**Multi-View People Detection in Large Scenes via Supervised View-Wise Contribution Weighting**|Qi Zhang et.al.|[2405.19943](http://arxiv.org/abs/2405.19943)|**[link](https://github.com/zqyq/Multi-view-People-Detection-in-Large-Scenes-via-View-wise-Contribution-Weighting)**|
 |**2024-05-30**|**Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition**|Masashi Hatano et.al.|[2405.19917](http://arxiv.org/abs/2405.19917)|null|
 |**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
