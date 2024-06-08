@@ -449,7 +449,7 @@
         "2406.01096": "|**2024-06-03**|**Synergizing Unsupervised and Supervised Learning: A Hybrid Approach for Accurate Natural Language Task Modeling**|Wrick Talukdar et.al.|[2406.01096](http://arxiv.org/abs/2406.01096)|null|\n",
         "2406.03478": "|**2024-06-05**|**Convolutional Neural Networks and Vision Transformers for Fashion MNIST Classification: A Literature Review**|Sonia Bbouzidi et.al.|[2406.03478](http://arxiv.org/abs/2406.03478)|null|\n",
         "2406.03368": "|**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368](http://arxiv.org/abs/2406.03368)|null|\n",
-        "2406.03344": "|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|null|\n",
+        "2406.03344": "|**2024-06-05**|**Audio Mamba: Bidirectional State Space Model for Audio Representation Learning**|Mehmet Hamza Erol et.al.|[2406.03344](http://arxiv.org/abs/2406.03344)|**[link](https://github.com/mhamzaerol/audio-mamba-aum)**|\n",
         "2406.03280": "|**2024-06-05**|**FusionBench: A Comprehensive Benchmark of Deep Model Fusion**|Anke Tang et.al.|[2406.03280](http://arxiv.org/abs/2406.03280)|null|\n",
         "2406.03273": "|**2024-06-05**|**VWise: A novel benchmark for evaluating scene classification for vehicular applications**|Pedro Azevedo et.al.|[2406.03273](http://arxiv.org/abs/2406.03273)|null|\n",
         "2406.03146": "|**2024-06-05**|**Tiny models from tiny data: Textual and null-text inversion for few-shot distillation**|Erik Landolsi et.al.|[2406.03146](http://arxiv.org/abs/2406.03146)|**[link](https://github.com/pixwse/tiny2)**|\n",
