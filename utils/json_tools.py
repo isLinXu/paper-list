@@ -67,9 +67,6 @@ def json_to_md(filename, md_filename,
             f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)") 
             f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)")
 
-        f.write(f"\n")
-        f.write("![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)")
-
         if use_title == True:
             f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
                      '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
@@ -77,6 +74,8 @@ def json_to_md(filename, md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
+        f.write(f"\n")
+        f.write("![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)")
         # TODO: add usage
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
