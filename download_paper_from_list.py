@@ -51,9 +51,12 @@ class ArxivPaperDownloader:
                     filepath = os.path.join(selected_topic, filename)
 
                     # 打开一个pdf文件，写入获取的内容
-                    with open(filepath, 'wb') as f:
-                        f.write(response.content)
-                    logging.info(f'Successfully downloaded {filepath}')
+                    try:
+                        with open(filepath, 'wb') as f:
+                            f.write(response.content)
+                        logging.info(f'Successfully downloaded {filepath}')
+                    except Exception as e:
+                        logging.error(f'Failed to save {filepath}: {e}')
                 else:
                     logging.error(f'Failed to download {title}.pdf')
 
@@ -63,13 +66,13 @@ if __name__ == "__main__":
     downloader = ArxivPaperDownloader('docs/paper_list.json', '2024-02-01', '2024-06-13')
 
     # 下载指定分类的论文
-    downloader.download_papers('Classification')
-    downloader.download_papers('Object Detection')
-    downloader.download_papers('Semantic Segmentation')
-    downloader.download_papers('Object Tracking')
-    downloader.download_papers('Action Recognition')
-    downloader.download_papers('Pose Estimation')
-    downloader.download_papers('Image Generation')
+    # downloader.download_papers('Classification')
+    # downloader.download_papers('Object Detection')
+    # downloader.download_papers('Semantic Segmentation')
+    # downloader.download_papers('Object Tracking')
+    # downloader.download_papers('Action Recognition')
+    # downloader.download_papers('Pose Estimation')
+    # downloader.download_papers('Image Generation')
     downloader.download_papers('LLM')
     downloader.download_papers('Scene Understanding')
     downloader.download_papers('Depth Estimation')
