@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -11,11 +11,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
 |**2024-06-17**|**PrAViC: Probabilistic Adaptation Framework for Real-Time Video Classification**|Magdalena Trędowicz et.al.|[2406.11443](http://arxiv.org/abs/2406.11443)|null|
-|**2024-06-17**|**Cross-domain Open-world Discovery**|Shuo Wen et.al.|[2406.11422](http://arxiv.org/abs/2406.11422)|null|
+|**2024-06-17**|**Cross-domain Open-world Discovery**|Shuo Wen et.al.|[2406.11422](http://arxiv.org/abs/2406.11422)|**[link](https://github.com/mlbio-epfl/crow)**|
 |**2024-06-17**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
 |**2024-06-17**|**An Empirical Investigation of Matrix Factorization Methods for Pre-trained Transformers**|Ashim Gupta et.al.|[2406.11307](http://arxiv.org/abs/2406.11307)|null|
 |**2024-06-17**|**Text Grafting: Near-Distribution Weak Supervision for Minority Classes in Text Classification**|Letian Peng et.al.|[2406.11115](http://arxiv.org/abs/2406.11115)|null|
-|**2024-06-16**|**Fine-grained Classes and How to Find Them**|Matej Grcić et.al.|[2406.11070](http://arxiv.org/abs/2406.11070)|null|
+|**2024-06-16**|**Fine-grained Classes and How to Find Them**|Matej Grcić et.al.|[2406.11070](http://arxiv.org/abs/2406.11070)|**[link](https://github.com/mlbio-epfl/falcon)**|
 |**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048](http://arxiv.org/abs/2406.11048)|null|
 |**2024-06-16**|**Curating Stopwords in Marathi: A TF-IDF Approach for Improved Text Analysis and Information Retrieval**|Rohan Chavan et.al.|[2406.11029](http://arxiv.org/abs/2406.11029)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
 |**2024-06-16**|**Universal Cross-Lingual Text Classification**|Riya Savant et.al.|[2406.11028](http://arxiv.org/abs/2406.11028)|null|
@@ -1067,14 +1067,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|null|
+|**2024-06-17**|**OoDIS: Anomaly Instance Segmentation Benchmark**|Alexey Nekrasov et.al.|[2406.11835](http://arxiv.org/abs/2406.11835)|**[link](https://github.com/kumuji/ugains)**|
 |**2024-06-17**|**Multimodal Learning To Improve Segmentation With Intraoperative CBCT & Preoperative CT**|Maximilian E. Tschuchnig et.al.|[2406.11650](http://arxiv.org/abs/2406.11650)|null|
 |**2024-06-17**|**Learning from Exemplars for Interactive Image Segmentation**|Kun Li et.al.|[2406.11472](http://arxiv.org/abs/2406.11472)|null|
-|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|null|
+|**2024-06-17**|**SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation**|Zhenchao Lin et.al.|[2406.11441](http://arxiv.org/abs/2406.11441)|**[link](https://github.com/Sylva-Lin/SWCF-Net)**|
 |**2024-06-17**|**Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding**|Yunsong Wang et.al.|[2406.11283](http://arxiv.org/abs/2406.11283)|null|
 |**2024-06-17**|**Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation**|Bingfeng Zhang et.al.|[2406.11189](http://arxiv.org/abs/2406.11189)|null|
 |**2024-06-16**|**$α$ -SSC: Uncertainty-Aware Camera-based 3D Semantic Scene Completion**|Sanbao Su et.al.|[2406.11021](http://arxiv.org/abs/2406.11021)|null|
-|**2024-06-16**|**Benchmarking Label Noise in Instance Segmentation: Spatial Noise Matters**|Moshe Kimhi et.al.|[2406.10891](http://arxiv.org/abs/2406.10891)|null|
+|**2024-06-16**|**Benchmarking Label Noise in Instance Segmentation: Spatial Noise Matters**|Moshe Kimhi et.al.|[2406.10891](http://arxiv.org/abs/2406.10891)|**[link](https://github.com/eden500/Noisy-Labels-Instance-Segmentation)**|
 |**2024-06-16**|**PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery**|Libo Wang et.al.|[2406.10828](http://arxiv.org/abs/2406.10828)|**[link](https://github.com/WangLibo1995/GeoSeg)**|
 |**2024-06-15**|**GenMM: Geometrically and Temporally Consistent Multimodal Data Generation for Video and LiDAR**|Bharat Singh et.al.|[2406.10722](http://arxiv.org/abs/2406.10722)|null|
 |**2024-06-14**|**Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations**|Daan de Geus et.al.|[2406.10114](http://arxiv.org/abs/2406.10114)|null|
@@ -1866,7 +1866,7 @@ layout: default
 |**2024-06-14**|**The BabyView dataset: High-resolution egocentric videos of infants' and young children's everyday experiences**|Bria Long et.al.|[2406.10447](http://arxiv.org/abs/2406.10447)|null|
 |**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788](http://arxiv.org/abs/2406.09788)|null|
 |**2024-06-13**|**ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**|Wufei Ma et.al.|[2406.09613](http://arxiv.org/abs/2406.09613)|**[link](https://github.com/wufeim/imagenet3d)**|
-|**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260](http://arxiv.org/abs/2406.09260)|null|
+|**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260](http://arxiv.org/abs/2406.09260)|**[link](https://github.com/fdcl-gwu/tnn-mo)**|
 |**2024-06-14**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039](http://arxiv.org/abs/2406.09039)|null|
 |**2024-06-14**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**Asymptotic Unbiased Sample Sampling to Speed Up Sharpness-Aware Minimization**|Jiaxin Deng et.al.|[2406.08001](http://arxiv.org/abs/2406.08001)|null|
@@ -3890,7 +3890,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**1000 African Voices: Advancing inclusive multi-speaker multi-accent speech synthesis**|Sewade Ogun et.al.|[2406.11727](http://arxiv.org/abs/2406.11727)|null|
-|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546](http://arxiv.org/abs/2406.11546)|null|
+|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546](http://arxiv.org/abs/2406.11546)|**[link](https://github.com/SpeechColab/GigaSpeech2)**|
 |**2024-06-17**|**Performance Improvement of Language-Queried Audio Source Separation Based on Caption Augmentation From Large Language Models for DCASE Challenge 2024 Task 9**|Do Hyun Lee et.al.|[2406.11248](http://arxiv.org/abs/2406.11248)|null|
 |**2024-06-17**|**Self-Distillation Prototypes Network: Learning Robust Speaker Representations without Supervision**|Yafeng Chen et.al.|[2406.11169](http://arxiv.org/abs/2406.11169)|null|
 |**2024-06-16**|**Continual Test-time Adaptation for End-to-end Speech Recognition on Noisy Speech**|Guan-Ting Lin et.al.|[2406.11064](http://arxiv.org/abs/2406.11064)|null|
@@ -4344,7 +4344,7 @@ layout: default
 |**2024-06-16**|**Make Your Home Safe: Time-aware Unsupervised User Behavior Anomaly Detection in Smart Homes via Loss-guided Mask**|Xiao Jingyu et.al.|[2406.10928](http://arxiv.org/abs/2406.10928)|**[link](https://github.com/xjywhu/smartguard)**|
 |**2024-06-15**|**Enhancing Anomaly Detection Generalization through Knowledge Exposure: The Dual Effects of Augmentation**|Mohammad Akhavan Anvari et.al.|[2406.10617](http://arxiv.org/abs/2406.10617)|null|
 |**2024-06-14**|**Enhanced Intrusion Detection System for Multiclass Classification in UAV Networks**|Safaa Menssouri et.al.|[2406.10417](http://arxiv.org/abs/2406.10417)|null|
-|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326](http://arxiv.org/abs/2406.10326)|null|
+|**2024-06-14**|**VANE-Bench: Video Anomaly Evaluation Benchmark for Conversational LMMs**|Rohit Bharadwaj et.al.|[2406.10326](http://arxiv.org/abs/2406.10326)|**[link](https://github.com/rohit901/VANE-Bench)**|
 |**2024-06-14**|**Outlier detection in maritime environments using AIS data and deep recurrent architectures**|Constantine Maganaris et.al.|[2406.09966](http://arxiv.org/abs/2406.09966)|null|
 |**2024-06-14**|**Unraveling Anomalies in Time: Unsupervised Discovery and Isolation of Anomalous Behavior in Bio-regenerative Life Support System Telemetry**|Ferdinand Rewicki et.al.|[2406.09825](http://arxiv.org/abs/2406.09825)|**[link](https://gitlab.com/dlr-dw/unraveling-anomalies-in-time)**|
 |**2024-06-14**|**Explainable AI for Comparative Analysis of Intrusion Detection Models**|Pap M. Corea et.al.|[2406.09684](http://arxiv.org/abs/2406.09684)|**[link](https://github.com/pcwhy/xml-intrusiondetection)**|
