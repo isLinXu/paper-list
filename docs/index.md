@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.06.24
+## Updated on 2024.06.25
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -1735,7 +1735,7 @@ layout: default
 |**2024-06-20**|**Self-supervised Multi-actor Social Activity Understanding in Streaming Videos**|Shubham Trehan et.al.|[2406.14472](http://arxiv.org/abs/2406.14472)|null|
 |**2024-06-19**|**An Efficient yet High-Performance Method for Precise Radar-Based Imaging of Human Hand Poses**|Johanna Bräunig et.al.|[2406.13464](http://arxiv.org/abs/2406.13464)|null|
 |**2024-06-19**|**Part-aware Unified Representation of Language and Skeleton for Zero-shot Action Recognition**|Anqi Zhu et.al.|[2406.13327](http://arxiv.org/abs/2406.13327)|**[link](https://github.com/azzh1/purls)**|
-|**2024-06-18**|**Underwater Human-Robot and Human-Swarm Interaction: A Review and Perspective**|Sara Aldhaheri et.al.|[2406.12473](http://arxiv.org/abs/2406.12473)|null|
+|**2024-06-21**|**Underwater Human-Robot and Human-Swarm Interaction: A Review and Perspective**|Sara Aldhaheri et.al.|[2406.12473](http://arxiv.org/abs/2406.12473)|null|
 |**2024-06-18**|**Deep self-supervised learning with visualisation for automatic gesture recognition**|Fabien Allemand et.al.|[2406.12440](http://arxiv.org/abs/2406.12440)|null|
 |**2024-06-17**|**Brain-inspired Computational Modeling of Action Recognition with Recurrent Spiking Neural Networks Equipped with Reinforcement Delay Learning**|Alireza Nadafian et.al.|[2406.11778](http://arxiv.org/abs/2406.11778)|null|
 |**2024-06-18**|**CM2-Net: Continual Cross-Modal Mapping Network for Driver Action Recognition**|Ruoyu Wang et.al.|[2406.11340](http://arxiv.org/abs/2406.11340)|null|
