@@ -1,5 +1,5 @@
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)<details>
   <summary>Table of Contents</summary>
@@ -611,7 +611,7 @@
 |**2024-02-27**|**Scaling Supervised Local Learning with Augmented Auxiliary Networks**|Chenxiang Ma et.al.|[2402.17318](http://arxiv.org/abs/2402.17318)|**[link](https://github.com/chenxiangma/auglocal)**|
 |**2024-02-26**|**Offline Writer Identification Using Convolutional Neural Network Activation Features**|Vincent Christlein et.al.|[2402.17029](http://arxiv.org/abs/2402.17029)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Object Detection
 
@@ -1213,7 +1213,7 @@
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](http://arxiv.org/abs/2402.17304)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Semantic Segmentation
 
@@ -1224,7 +1224,7 @@
 |**2024-07-02**|**Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2407.02182](http://arxiv.org/abs/2407.02182)|**[link](https://github.com/yihong-97/oass)**|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150](http://arxiv.org/abs/2407.02150)|null|
 |**2024-07-02**|**HRSAM: Efficiently Segment Anything in High-Resolution Images**|You Huang et.al.|[2407.02109](http://arxiv.org/abs/2407.02109)|null|
-|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|**[link](https://github.com/pasqualedem/labelanything)**|
+|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|null|
 |**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
@@ -1729,7 +1729,7 @@
 |**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Object Tracking
 
@@ -1886,7 +1886,7 @@
 |**2024-02-24**|**Multi-Object Tracking by Hierarchical Visual Representations**|Jinkun Cao et.al.|[2402.15895](http://arxiv.org/abs/2402.15895)|null|
 |**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](http://arxiv.org/abs/2402.15756)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -2101,7 +2101,7 @@
 |**2024-02-13**|**Vision-Based Hand Gesture Customization from a Single Demonstration**|Soroush Shahi et.al.|[2402.08420](http://arxiv.org/abs/2402.08420)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814](http://arxiv.org/abs/2402.07814)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -2394,7 +2394,7 @@
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175](http://arxiv.org/abs/2402.16175)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Image Generation
 
@@ -3130,7 +3130,7 @@
 |**2024-02-28**|**Breaking the Black-Box: Confidence-Guided Model Inversion Attack for Distribution Shift**|Xinhao Liu et.al.|[2402.18027](http://arxiv.org/abs/2402.18027)|null|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624](http://arxiv.org/abs/2402.17624)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## LLM
 
@@ -3971,7 +3971,7 @@
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Scene Understanding
 
@@ -4157,13 +4157,13 @@
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643](http://arxiv.org/abs/2402.13643)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-25**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[2402.12289](http://arxiv.org/abs/2402.12289)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Depth Estimation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
+|**2024-07-03**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/abs/2406.19675)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
@@ -4358,7 +4358,7 @@
 |**2024-02-19**|**An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**|Jan Emily Mangulabnan et.al.|[2402.11840](http://arxiv.org/abs/2402.11840)|null|
 |**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu et.al.|[2402.11826](http://arxiv.org/abs/2402.11826)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Audio Processing
 
@@ -4760,7 +4760,7 @@
 |**2024-02-26**|**Effect of utterance duration and phonetic content on speaker identification using second-order statistical methods**|Ivan Magrin-Chagnolleau et.al.|[2402.16429](http://arxiv.org/abs/2402.16429)|null|
 |**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish et.al.|[2402.15733](http://arxiv.org/abs/2402.15733)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Multimodal
 
@@ -4889,7 +4889,7 @@
 |**2024-02-19**|**Multimodal Emotion Recognition from Raw Audio with Sinc-convolution**|Xiaohui Zhang et.al.|[2402.11954](http://arxiv.org/abs/2402.11954)|null|
 |**2024-02-18**|**Efficient Multimodal Learning from Data-centric Perspective**|Muyang He et.al.|[2402.11530](http://arxiv.org/abs/2402.11530)|**[link](https://github.com/baai-dcai/bunny)**|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Anomaly Detection
 
@@ -5357,7 +5357,7 @@
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
 |**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$ -Values**|Oliver Hennhöfer et.al.|[2402.16388](http://arxiv.org/abs/2402.16388)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Transfer Learning
 
@@ -6054,7 +6054,7 @@
 |**2024-02-28**|**OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**|Xiaosong Wang et.al.|[2402.18028](http://arxiv.org/abs/2402.18028)|null|
 |**2024-02-28**|**Collaborative decoding of critical tokens for boosting factuality of large language models**|Lifeng Jin et.al.|[2402.17982](http://arxiv.org/abs/2402.17982)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Optical Flow
 
@@ -6207,7 +6207,7 @@
 |**2024-02-12**|**A Flow-based Credibility Metric for Safety-critical Pedestrian Detection**|Maria Lyssenko et.al.|[2402.07642](http://arxiv.org/abs/2402.07642)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -7026,7 +7026,7 @@
 |**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](http://arxiv.org/abs/2402.18284)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Graph Neural Networks
 
@@ -7724,6 +7724,6 @@
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905](http://arxiv.org/abs/2402.17905)|null|
 |**2024-02-27**|**Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem**|Cong Zhang et.al.|[2402.17606](http://arxiv.org/abs/2402.17606)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)

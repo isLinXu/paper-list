@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -1201,7 +1201,7 @@ layout: default
 |**2024-07-02**|**Occlusion-Aware Seamless Segmentation**|Yihong Cao et.al.|[2407.02182](http://arxiv.org/abs/2407.02182)|**[link](https://github.com/yihong-97/oass)**|
 |**2024-07-02**|**VRBiom: A New Periocular Dataset for Biometric Applications of HMD**|Ketan Kotwal et.al.|[2407.02150](http://arxiv.org/abs/2407.02150)|null|
 |**2024-07-02**|**HRSAM: Efficiently Segment Anything in High-Resolution Images**|You Huang et.al.|[2407.02109](http://arxiv.org/abs/2407.02109)|null|
-|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|**[link](https://github.com/pasqualedem/labelanything)**|
+|**2024-07-02**|**Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts**|Pasquale De Marinis et.al.|[2407.02075](http://arxiv.org/abs/2407.02075)|null|
 |**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
 |**2024-07-02**|**Multi-Grained Contrast for Data-Efficient Unsupervised Representation Learning**|Chengchao Shen et.al.|[2407.02014](http://arxiv.org/abs/2407.02014)|**[link](https://github.com/visresearch/mgc)**|
 |**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
@@ -4126,7 +4126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-02**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
+|**2024-07-03**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](http://arxiv.org/abs/2407.02038)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
 |**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/abs/2406.19675)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
