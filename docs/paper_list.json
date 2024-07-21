@@ -2371,7 +2371,7 @@
         "2407.13460": "|**2024-07-18**|**SA-DVAE: Improving Zero-Shot Skeleton-Based Action Recognition by Disentangled Variational Autoencoders**|Sheng-Wei Li et.al.|[2407.13460](http://arxiv.org/abs/2407.13460)|**[link](https://github.com/pha123661/SA-DVAE)**|\n",
         "2407.13216": "|**2024-07-18**|**QuIIL at T3 challenge: Towards Automation in Life-Saving Intervention Procedures from First-Person View**|Trinh T. L. Vuong et.al.|[2407.13216](http://arxiv.org/abs/2407.13216)|null|\n",
         "2407.13078": "|**2024-07-18**|**Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**|Sangyoun Lee et.al.|[2407.13078](http://arxiv.org/abs/2407.13078)|**[link](https://github.com/lsy0882/RDFA-S6)**|\n",
-        "2407.12987": "|**2024-07-17**|**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**|Hyolim Kang et.al.|[2407.12987](http://arxiv.org/abs/2407.12987)|null|\n"
+        "2407.12987": "|**2024-07-17**|**ActionSwitch: Class-agnostic Detection of Simultaneous Actions in Streaming Videos**|Hyolim Kang et.al.|[2407.12987](http://arxiv.org/abs/2407.12987)|**[link](https://github.com/musicalOffering/ActionSwitch-release)**|\n"
     },
     "Pose Estimation": {
         "2402.18330": "|**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330](http://arxiv.org/abs/2402.18330)|**[link](https://github.com/tho-kn/egotap)**|\n",
