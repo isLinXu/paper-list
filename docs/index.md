@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -708,7 +708,7 @@ layout: default
 |**2024-07-23**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/abs/2407.16789)|**[link](https://github.com/benjaminrwilson/range-view-3d-detection)**|
 |**2024-07-23**|**A Framework for Pupil Tracking with Event Cameras**|Khadija Iddrisu et.al.|[2407.16665](http://arxiv.org/abs/2407.16665)|null|
 |**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
-|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|**[link](https://github.com/sonyresearch/coala)**|
 |**2024-07-23**|**Dynamic Retraining-Updating Mean Teacher for Source-Free Object Detection**|Trinh Le Ba Khanh et.al.|[2407.16497](http://arxiv.org/abs/2407.16497)|**[link](https://github.com/lbktrinh/DRU)**|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/abs/2407.16448)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**ESOD: Efficient Small Object Detection on High-Resolution Images**|Kai Liu et.al.|[2407.16424](http://arxiv.org/abs/2407.16424)|null|
@@ -2057,7 +2057,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-23**|**3D-UGCN: A Unified Graph Convolutional Network for Robust 3D Human Pose Estimation from Monocular RGB Images**|Jie Zhao et.al.|[2407.16137](http://arxiv.org/abs/2407.16137)|null|
-|**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|null|
+|**2024-07-21**|**Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.|[2407.15199](http://arxiv.org/abs/2407.15199)|**[link](https://github.com/cuppp1998/360_object_tracking)**|
 |**2024-07-19**|**Temporal Correlation Meets Embedding: Towards a 2nd Generation of JDE-based Real-Time Multi-Object Tracking**|Yunfei Zhang et.al.|[2407.14086](http://arxiv.org/abs/2407.14086)|null|
 |**2024-07-19**|**OCTrack: Benchmarking the Open-Corpus Multi-Object Tracking**|Zekun Qian et.al.|[2407.14047](http://arxiv.org/abs/2407.14047)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
@@ -2239,7 +2239,7 @@ layout: default
 |**2024-07-23**|**PLM-Net: Perception Latency Mitigation Network for Vision-Based Lateral Control of Autonomous Vehicles**|Aws Khalil et.al.|[2407.16740](http://arxiv.org/abs/2407.16740)|**[link](https://github.com/awskhalil/oscar)**|
 |**2024-07-24**|**SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition**|Wenbo Huang et.al.|[2407.16344](http://arxiv.org/abs/2407.16344)|**[link](https://github.com/wenbohuang1002/soap)**|
 |**2024-07-22**|**Efficient and generalizable prediction of molecular alterations in multiple cancer cohorts using H&E whole slide images**|Kshitij Ingale et.al.|[2407.15816](http://arxiv.org/abs/2407.15816)|null|
-|**2024-07-23**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-25**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706](http://arxiv.org/abs/2407.15706)|**[link](https://github.com/liujf69/MMCL-Action)**|
 |**2024-07-21**|**Semi-Supervised Pipe Video Temporal Defect Interval Localization**|Zhu Huang et.al.|[2407.15170](http://arxiv.org/abs/2407.15170)|null|
 |**2024-07-20**|**Automated Patient Positioning with Learned 3D Hand Gestures**|Zhongpai Gao et.al.|[2407.14903](http://arxiv.org/abs/2407.14903)|null|
 |**2024-07-20**|**Can VLMs be used on videos for action recognition? LLMs are Visual Reasoning Coordinators**|Harsh Lunia et.al.|[2407.14834](http://arxiv.org/abs/2407.14834)|null|
@@ -2500,7 +2500,7 @@ layout: default
 |**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
 |**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|null|
 |**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
-|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|**[link](https://github.com/sonyresearch/coala)**|
 |**2024-07-23**|**Probabilistic Parameter Estimators and Calibration Metrics for Pose Estimation from Image Features**|Romeo Valentin et.al.|[2407.16223](http://arxiv.org/abs/2407.16223)|null|
 |**2024-07-23**|**Optimal camera-robot pose estimation in linear time from points and lines**|Guangyang Zeng et.al.|[2407.16151](http://arxiv.org/abs/2407.16151)|null|
 |**2024-07-23**|**3D-UGCN: A Unified Graph Convolutional Network for Robust 3D Human Pose Estimation from Monocular RGB Images**|Jie Zhao et.al.|[2407.16137](http://arxiv.org/abs/2407.16137)|null|
@@ -4711,7 +4711,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/abs/2407.17398)|null|
 |**2024-07-23**|**Augmented Efficiency: Reducing Memory Footprint and Accelerating Inference for 3D Semantic Segmentation through Hybrid Vision**|Aditya Krishnan et.al.|[2407.16102](http://arxiv.org/abs/2407.16102)|null|
-|**2024-07-22**|**Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation**|Jaehyeong Jeon et.al.|[2407.15396](http://arxiv.org/abs/2407.15396)|null|
+|**2024-07-22**|**Semantic Diversity-aware Prototype-based Learning for Unbiased Scene Graph Generation**|Jaehyeong Jeon et.al.|[2407.15396](http://arxiv.org/abs/2407.15396)|**[link](https://github.com/jeonjaehyeong/dpl)**|
 |**2024-07-21**|**VideoGameBunny: Towards vision assistants for video games**|Mohammad Reza Taesiri et.al.|[2407.15295](http://arxiv.org/abs/2407.15295)|null|
 |**2024-07-21**|**Self-training Room Layout Estimation via Geometry-aware Ray-casting**|Bolivar Solarte et.al.|[2407.15041](http://arxiv.org/abs/2407.15041)|null|
 |**2024-07-19**|**A New Lightweight Hybrid Graph Convolutional Neural Network -- CNN Scheme for Scene Classification using Object Detection Inference**|Ayman Beghdadi et.al.|[2407.14658](http://arxiv.org/abs/2407.14658)|null|
@@ -5150,7 +5150,7 @@ layout: default
 |**2024-07-24**|**Long-Term, Store-Front Robotics: Interactive Music for Robotic Arm, Caxixi and Frame Drums**|Richard Savery et.al.|[2407.16956](http://arxiv.org/abs/2407.16956)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
 |**2024-07-23**|**The CHiME-8 DASR Challenge for Generalizable and Array Agnostic Distant Automatic Speech Recognition and Diarization**|Samuele Cornell et.al.|[2407.16447](http://arxiv.org/abs/2407.16447)|null|
-|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|null|
+|**2024-07-23**|**Evolutionary Prompt Design for LLM-Based Post-ASR Error Correction**|Rithik Sachdev et.al.|[2407.16370](http://arxiv.org/abs/2407.16370)|**[link](https://github.com/rithiksachdev/PostASR-Correction-SLT2024)**|
 |**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835](http://arxiv.org/abs/2407.15835)|null|
 |**2024-07-22**|**Robustness of Speech Separation Models for Similar-pitch Speakers**|Bunlong Lay et.al.|[2407.15749](http://arxiv.org/abs/2407.15749)|null|
 |**2024-07-22**|**SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios**|Hazim Bukhari et.al.|[2407.15300](http://arxiv.org/abs/2407.15300)|null|
@@ -8282,7 +8282,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|null|
+|**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|**[link](https://github.com/erg0dic/gnn-sg)**|
 |**2024-07-24**|**2D and 3D Deep Learning Models for MRI-based Parkinson's Disease Classification: A Comparative Analysis of Convolutional Kolmogorov-Arnold Networks, Convolutional Neural Networks, and Graph Convolutional Networks**|Salil B Patel et.al.|[2407.17380](http://arxiv.org/abs/2407.17380)|null|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/abs/2407.17219)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
