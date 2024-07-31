@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -728,7 +728,7 @@ layout: default
 |**2024-07-29**|**Octave-YOLO: Cross frequency detection network with octave convolution**|Sangjune Shin et.al.|[2407.19746](http://arxiv.org/abs/2407.19746)|null|
 |**2024-07-29**|**Cross-Layer Feature Pyramid Transformer for Small Object Detection in Aerial Images**|Zewen Du et.al.|[2407.19696](http://arxiv.org/abs/2407.19696)|null|
 |**2024-07-29**|**Practical Video Object Detection via Feature Selection and Aggregation**|Yuheng Shi et.al.|[2407.19650](http://arxiv.org/abs/2407.19650)|**[link](https://github.com/yuhengsss/yolov)**|
-|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|null|
+|**2024-07-28**|**Solving Short-Term Relocalization Problems In Monocular Keyframe Visual SLAM Using Spatial And Semantic Data**|Azmyin Md. Kamal et.al.|[2407.19518](http://arxiv.org/abs/2407.19518)|**[link](https://github.com/RKinDLab/ros2_psd_pcb_reloc)**|
 |**2024-07-28**|**Depth-Wise Convolutions in Vision Transformers for Efficient Training on Small Datasets**|Tianxiao Zhang et.al.|[2407.19394](http://arxiv.org/abs/2407.19394)|**[link](https://github.com/ztx-100/efficient_vit_with_dw)**|
 |**2024-07-27**|**Sewer Image Super-Resolution with Depth Priors and Its Lightweight Network**|Gang Pan et.al.|[2407.19271](http://arxiv.org/abs/2407.19271)|null|
 |**2024-07-27**|**Enhancing Tree Type Detection in Forest Fire Risk Assessment: Multi-Stage Approach and Color Encoding with Forest Fire Risk Evaluation Framework for UAV Imagery**|Jinda Zhang et.al.|[2407.19184](http://arxiv.org/abs/2407.19184)|null|
@@ -2570,7 +2570,7 @@ layout: default
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
 |**2024-07-28**|**HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation**|Zhenzhi Wang et.al.|[2407.17438](http://arxiv.org/abs/2407.17438)|**[link](https://github.com/zhenzhiwang/humanvid)**|
 |**2024-07-24**|**Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environments**|Wei Gao et.al.|[2407.17078](http://arxiv.org/abs/2407.17078)|null|
-|**2024-07-24**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|**[link](https://github.com/xiaobiaodu/DreamCar)**|
+|**2024-07-30**|**DreamCar: Leveraging Car-specific Prior for in-the-wild 3D Car Reconstruction**|Xiaobiao Du et.al.|[2407.16988](http://arxiv.org/abs/2407.16988)|**[link](https://github.com/xiaobiaodu/DreamCar)**|
 |**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
 |**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|**[link](https://github.com/sonyresearch/coala)**|
 |**2024-07-23**|**Probabilistic Parameter Estimators and Calibration Metrics for Pose Estimation from Image Features**|Romeo Valentin et.al.|[2407.16223](http://arxiv.org/abs/2407.16223)|null|
