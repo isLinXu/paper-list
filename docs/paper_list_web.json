@@ -8586,7 +8586,7 @@
         "2407.21338": "|**2024-07-31**|**Image-Based Deep Reinforcement Learning with Intrinsically Motivated Stimuli: On the Execution of Complex Robotic Tasks**|David Valencia et.al.|[2407.21338](http://arxiv.org/abs/2407.21338)|null|\n",
         "2407.21260": "|**2024-07-31**|**Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation**|Taehyun Cho et.al.|[2407.21260](http://arxiv.org/abs/2407.21260)|null|\n",
         "2407.21244": "|**2024-07-30**|**VITAL: Visual Teleoperation to Enhance Robot Learning through Human-in-the-Loop Corrections**|Hamidreza Kasaei et.al.|[2407.21244](http://arxiv.org/abs/2407.21244)|null|\n",
-        "2407.21172": "|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|null|\n"
+        "2407.21172": "|**2024-07-30**|**Learning Stable Robot Grasping with Transformer-based Tactile Control Policies**|En Yen Puang et.al.|[2407.21172](http://arxiv.org/abs/2407.21172)|**[link](https://github.com/enyen/NewStableTactileGrasp)**|\n"
     },
     "Graph Neural Networks": {
         "2402.18434": "|**2024-02-28**|**Graph Regularized Encoder Training for Extreme Classification**|Anshul Mittal et.al.|[2402.18434](http://arxiv.org/abs/2402.18434)|null|\n",
