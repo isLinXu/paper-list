@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -803,7 +803,7 @@ layout: default
 |**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
 |**2024-08-14**|**Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2408.07605](http://arxiv.org/abs/2408.07605)|null|
 |**2024-08-14**|**Infra-YOLO: Efficient Neural Network Structure with Model Compression for Real-Time Infrared Small Object Detection**|Zhonglin Chen et.al.|[2408.07455](http://arxiv.org/abs/2408.07455)|null|
-|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|null|
+|**2024-08-14**|**Sign language recognition based on deep learning and low-cost handcrafted descriptors**|Alvaro Leandro Cavalcante Carneiro et.al.|[2408.07244](http://arxiv.org/abs/2408.07244)|**[link](https://github.com/alvarocavalcante/multi-cue-sign-language)**|
 |**2024-08-13**|**Vision Language Model for Interpretable and Fine-grained Detection of Safety Compliance in Diverse Workplaces**|Zhiling Chen et.al.|[2408.07146](http://arxiv.org/abs/2408.07146)|null|
 |**2024-08-13**|**Divide and Conquer: Improving Multi-Camera 3D Perception with 2D Semantic-Depth Priors and Input-Dependent Queries**|Qi Song et.al.|[2408.06901](http://arxiv.org/abs/2408.06901)|null|
 |**2024-08-13**|**Integrating Saliency Ranking and Reinforcement Learning for Enhanced Object Detection**|Matthias Bartolo et.al.|[2408.06803](http://arxiv.org/abs/2408.06803)|**[link](https://github.com/mbar0075/sarlvision)**|
@@ -1627,7 +1627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|null|
+|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|**[link](https://github.com/flixpar/med-ts-llm)**|
 |**2024-08-15**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576](http://arxiv.org/abs/2408.07576)|**[link](https://github.com/hyunwoo137/metaseg)**|
 |**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
 |**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393](http://arxiv.org/abs/2408.07393)|null|
@@ -2538,7 +2538,7 @@ layout: default
 |**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437](http://arxiv.org/abs/2408.06437)|**[link](https://github.com/sakibreza/eccv24-hat)**|
 |**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955](http://arxiv.org/abs/2408.05955)|**[link](https://github.com/sejong-rcv/pvlr)**|
 |**2024-08-10**|**A Methodological and Structural Review of Hand Gesture Recognition Across Diverse Data Modalities**|Jungpil Shin et.al.|[2408.05436](http://arxiv.org/abs/2408.05436)|null|
-|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421](http://arxiv.org/abs/2408.05421)|null|
+|**2024-08-10**|**EPAM-Net: An Efficient Pose-driven Attention-guided Multimodal Network for Video Action Recognition**|Ahmed Abdelkawy et.al.|[2408.05421](http://arxiv.org/abs/2408.05421)|**[link](https://github.com/ahmed-nady/multimodal-action-recognition)**|
 |**2024-08-06**|**Prototype Learning for Micro-gesture Classification**|Guoliang Chen et.al.|[2408.03097](http://arxiv.org/abs/2408.03097)|null|
 |**2024-08-06**|**Online Temporal Action Localization with Memory-Augmented Transformer**|Youngkil Song et.al.|[2408.02957](http://arxiv.org/abs/2408.02957)|null|
 |**2024-08-05**|**From Recognition to Prediction: Leveraging Sequence Reasoning for Action Anticipation**|Xin Liu et.al.|[2408.02769](http://arxiv.org/abs/2408.02769)|null|
@@ -5597,7 +5597,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-14**|**Enhanced Scale-aware Depth Estimation for Monocular Endoscopic Scenes with Geometric Modeling**|Ruofeng Wei et.al.|[2408.07266](http://arxiv.org/abs/2408.07266)|null|
 |**2024-08-12**|**Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces**|Junrui Zhang et.al.|[2408.06083](http://arxiv.org/abs/2408.06083)|null|
-|**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|null|
+|**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](http://arxiv.org/abs/2408.04523)|**[link](https://github.com/DarthReca/depth-any-canopy)**|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
 |**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[2408.04195](http://arxiv.org/abs/2408.04195)|null|
 |**2024-08-07**|**Focal Depth Estimation: A Calibration-Free, Subject- and Daytime Invariant Approach**|Benedikt W. Hosp et.al.|[2408.03591](http://arxiv.org/abs/2408.03591)|null|
@@ -5839,13 +5839,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
-|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|null|
+|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
 |**2024-08-13**|**Play Me Something Icy: Practical Challenges, Explainability and the Semantic Gap in Generative AI Music**|Jesse Allison et.al.|[2408.07224](http://arxiv.org/abs/2408.07224)|null|
 |**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906](http://arxiv.org/abs/2408.06906)|null|
-|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|null|
-|**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827](http://arxiv.org/abs/2408.06827)|null|
+|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|**[link](https://github.com/sarulab-speech/saslaw)**|
+|**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827](http://arxiv.org/abs/2408.06827)|**[link](https://github.com/iamanigeeit/present)**|
 |**2024-08-13**|**Deep Learning for Speaker Identification: Architectural Insights from AB-1 Corpus Analysis and Performance Evaluation**|Matthias Bartolo et.al.|[2408.06804](http://arxiv.org/abs/2408.06804)|**[link](https://github.com/mbar0075/speech-technology)**|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
 |**2024-08-12**|**Audio Enhancement for Computer Audition -- An Iterative Training Paradigm Using Sample Importance**|Manuel Milling et.al.|[2408.06264](http://arxiv.org/abs/2408.06264)|null|
@@ -6544,7 +6544,7 @@ layout: default
 |**2024-08-15**|**Impact of Comprehensive Data Preprocessing on Predictive Modelling of COVID-19 Mortality**|Sangita Das et.al.|[2408.08142](http://arxiv.org/abs/2408.08142)|**[link](https://github.com/dassangita844/preprocessing_covid-19_dataset_india)**|
 |**2024-08-15**|**Detection and Impact of Debit/Credit Card Fraud: Victims' Experiences**|Eman Alashwali et.al.|[2408.08131](http://arxiv.org/abs/2408.08131)|null|
 |**2024-08-14**|**How Industry Tackles Anomalies during Runtime: Approaches and Key Monitoring Parameters**|Monika Steidl et.al.|[2408.07816](http://arxiv.org/abs/2408.07816)|null|
-|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|null|
+|**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|**[link](https://github.com/flixpar/med-ts-llm)**|
 |**2024-08-14**|**Extending Network Intrusion Detection with Enhanced Particle Swarm Optimization Techniques**|Surasit Songma et.al.|[2408.07729](http://arxiv.org/abs/2408.07729)|null|
 |**2024-08-14**|**Latent Anomaly Detection Through Density Matrices**|Joseph Gallego-Mejia et.al.|[2408.07623](http://arxiv.org/abs/2408.07623)|null|
 |**2024-08-14**|**Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey**|Hamza Kheddar et.al.|[2408.07583](http://arxiv.org/abs/2408.07583)|null|
@@ -7171,7 +7171,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**Training Spatial-Frequency Visual Prompts and Probabilistic Clusters for Accurate Black-Box Transfer Learning**|Wonwoo Cho et.al.|[2408.07944](http://arxiv.org/abs/2408.07944)|null|
 |**2024-08-15**|**A Systematic Evaluation of Generated Time Series and Their Effects in Self-Supervised Pretraining**|Audrey Der et.al.|[2408.07869](http://arxiv.org/abs/2408.07869)|null|
-|**2024-08-14**|**PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations**|Jiajun Zhou et.al.|[2408.07556](http://arxiv.org/abs/2408.07556)|null|
+|**2024-08-14**|**PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations**|Jiajun Zhou et.al.|[2408.07556](http://arxiv.org/abs/2408.07556)|**[link](https://github.com/jiajunzhou96/polycl)**|
 |**2024-08-14**|**Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation**|Juepeng Zheng et.al.|[2408.07527](http://arxiv.org/abs/2408.07527)|null|
 |**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|null|
 |**2024-08-13**|**Surrogate-Assisted Search with Competitive Knowledge Transfer for Expensive Optimization**|Xiaoming Xue et.al.|[2408.07176](http://arxiv.org/abs/2408.07176)|**[link](https://github.com/xminghsueh/sas-ckt)**|
@@ -8280,11 +8280,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[2408.08242](http://arxiv.org/abs/2408.08242)|null|
 |**2024-08-15**|**Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators**|Mark Towers et.al.|[2408.08230](http://arxiv.org/abs/2408.08230)|**[link](https://github.com/pseudo-rnd-thoughts/temporal-reward-decomposition)**|
-|**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152](http://arxiv.org/abs/2408.08152)|null|
+|**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152](http://arxiv.org/abs/2408.08152)|**[link](https://github.com/deepseek-ai/deepseek-prover-v1.5)**|
 |**2024-08-15**|**Independent Policy Mirror Descent for Markov Potential Games: Scaling to Large Number of Players**|Pragnya Alatur et.al.|[2408.08075](http://arxiv.org/abs/2408.08075)|null|
 |**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
 |**2024-08-15**|**Adaptive User Journeys in Pharma E-Commerce with Reinforcement Learning: Insights from SwipeRx**|Ana Fernández del Río et.al.|[2408.08024](http://arxiv.org/abs/2408.08024)|null|
-|**2024-08-15**|**Experimental evaluation of offline reinforcement learning for HVAC control in buildings**|Jun Wang et.al.|[2408.07986](http://arxiv.org/abs/2408.07986)|null|
+|**2024-08-15**|**Experimental evaluation of offline reinforcement learning for HVAC control in buildings**|Jun Wang et.al.|[2408.07986](http://arxiv.org/abs/2408.07986)|**[link](https://github.com/cityujun/hvac_offline_rl)**|
 |**2024-08-15**|**Meta SAC-Lag: Towards Deployable Safe Reinforcement Learning via MetaGradient-based Hyperparameter Tuning**|Homayoun Honari et.al.|[2408.07962](http://arxiv.org/abs/2408.07962)|null|
 |**2024-08-15**|**Solving a Rubik's Cube Using its Local Graph Structure**|Shunyu Yao et.al.|[2408.07945](http://arxiv.org/abs/2408.07945)|null|
 |**2024-08-15**|**IReCa: Intrinsic Reward-enhanced Context-aware Reinforcement Learning for Human-AI Coordination**|Xin Hao et.al.|[2408.07877](http://arxiv.org/abs/2408.07877)|null|
@@ -9405,9 +9405,9 @@ layout: default
 |**2024-08-14**|**Towards Few-shot Self-explaining Graph Neural Networks**|Jingyu Peng et.al.|[2408.07340](http://arxiv.org/abs/2408.07340)|**[link](https://github.com/jypeng28/mse-gnn)**|
 |**2024-08-14**|**RSEA-MVGNN: Multi-View Graph Neural Network with Reliable Structural Enhancement and Aggregation**|Junyu Chen et.al.|[2408.07331](http://arxiv.org/abs/2408.07331)|null|
 |**2024-08-13**|**Pan-cancer gene set discovery via scRNA-seq for optimal deep learning based downstream tasks**|Jong Hyun Kim et.al.|[2408.07233](http://arxiv.org/abs/2408.07233)|null|
-|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191](http://arxiv.org/abs/2408.07191)|null|
+|**2024-08-13**|**Joint Graph Rewiring and Feature Denoising via Spectral Resonance**|Jonas Linkerhägner et.al.|[2408.07191](http://arxiv.org/abs/2408.07191)|**[link](https://github.com/jlinki/JDR)**|
 |**2024-08-13**|**Physics-informed graph neural networks for flow field estimation in carotid arteries**|Julian Suk et.al.|[2408.07110](http://arxiv.org/abs/2408.07110)|null|
-|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|null|
+|**2024-08-13**|**Machine Learning Message-Passing for the Scalable Decoding of QLDPC Codes**|Arshpreet Singh Maan et.al.|[2408.07038](http://arxiv.org/abs/2408.07038)|**[link](https://github.com/arshpreetmaan/astra)**|
 |**2024-08-13**|**LLMs can Schedule**|Henrik Abgaryan et.al.|[2408.06993](http://arxiv.org/abs/2408.06993)|**[link](https://github.com/starjob42/datasetjsp)**|
 |**2024-08-13**|**Graph Neural Network Approach to Predict the Effects of Road Capacity Reduction Policies: A Case Study for Paris, France**|Elena Natterer et.al.|[2408.06762](http://arxiv.org/abs/2408.06762)|null|
 |**2024-08-13**|**Computation-friendly Graph Neural Network Design by Accumulating Knowledge on Large Language Models**|Jialiang Wang et.al.|[2408.06717](http://arxiv.org/abs/2408.06717)|null|
