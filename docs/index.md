@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
+|**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824](http://arxiv.org/abs/2408.08824)|null|
+|**2024-08-16**|**Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**|Abdullah Al Imran et.al.|[2408.08803](http://arxiv.org/abs/2408.08803)|null|
+|**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](http://arxiv.org/abs/2408.08794)|null|
+|**2024-08-16**|**Quantum convolutional neural networks for jet images classification**|Hala Elhag et.al.|[2408.08701](http://arxiv.org/abs/2408.08701)|null|
+|**2024-08-16**|**MM-UNet: A Mixed MLP Architecture for Improved Ophthalmic Image Segmentation**|Zunjie Xiao et.al.|[2408.08600](http://arxiv.org/abs/2408.08600)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
+|**2024-08-15**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454](http://arxiv.org/abs/2408.08454)|null|
+|**2024-08-15**|**Predictive uncertainty estimation in deep learning for lung carcinoma classification in digital pathology under real dataset shifts**|Abdur R. Fayjie et.al.|[2408.08432](http://arxiv.org/abs/2408.08432)|null|
 |**2024-08-15**|**SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**|Gengwei Zhang et.al.|[2408.08295](http://arxiv.org/abs/2408.08295)|**[link](https://github.com/gengdavid/slca)**|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215](http://arxiv.org/abs/2408.08215)|null|
 |**2024-08-15**|**Towards flexible perception with visual memory**|Robert Geirhos et.al.|[2408.08172](http://arxiv.org/abs/2408.08172)|null|
@@ -795,6 +805,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
+|**2024-08-16**|**Multimodal Relational Triple Extraction with Query-based Entity Object Transformer**|Lei Hei et.al.|[2408.08709](http://arxiv.org/abs/2408.08709)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-15**|**5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks**|Dongshuo Yin et.al.|[2408.08345](http://arxiv.org/abs/2408.08345)|**[link](https://github.com/leiyi-hu/mona)**|
 |**2024-08-15**|**Learned Multimodal Compression for Autonomous Driving**|Hadi Hadizadeh et.al.|[2408.08211](http://arxiv.org/abs/2408.08211)|null|
 |**2024-08-16**|**OC3D: Weakly Supervised Outdoor 3D Object Detection with Only Coarse Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
 |**2024-08-15**|**CamoTeacher: Dual-Rotation Consistency Learning for Semi-Supervised Camouflaged Object Detection**|Xunfa Lai et.al.|[2408.08050](http://arxiv.org/abs/2408.08050)|null|
@@ -1627,6 +1641,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591](http://arxiv.org/abs/2408.08591)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
+|**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](http://arxiv.org/abs/2408.08575)|null|
+|**2024-08-15**|**5%>100%: Breaking Performance Shackles of Full Fine-Tuning on Visual Recognition Tasks**|Dongshuo Yin et.al.|[2408.08345](http://arxiv.org/abs/2408.08345)|**[link](https://github.com/leiyi-hu/mona)**|
 |**2024-08-14**|**MedTsLLM: Leveraging LLMs for Multimodal Medical Time Series Analysis**|Nimeesha Chan et.al.|[2408.07773](http://arxiv.org/abs/2408.07773)|**[link](https://github.com/flixpar/med-ts-llm)**|
 |**2024-08-15**|**MetaSeg: MetaFormer-based Global Contexts-aware Network for Efficient Semantic Segmentation**|Beoungwoo Kang et.al.|[2408.07576](http://arxiv.org/abs/2408.07576)|**[link](https://github.com/hyunwoo137/metaseg)**|
 |**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
@@ -2534,6 +2552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Towards Physical World Backdoor Attacks against Skeleton Action Recognition**|Qichen Zheng et.al.|[2408.08671](http://arxiv.org/abs/2408.08671)|null|
 |**2024-08-15**|**An Advanced Deep Learning Based Three-Stream Hybrid Model for Dynamic Hand Gesture Recognition**|Md Abdur Rahim et.al.|[2408.08035](http://arxiv.org/abs/2408.08035)|null|
 |**2024-08-12**|**HAT: History-Augmented Anchor Transformer for Online Temporal Action Localization**|Sakib Reza et.al.|[2408.06437](http://arxiv.org/abs/2408.06437)|**[link](https://github.com/sakibreza/eccv24-hat)**|
 |**2024-08-12**|**Probabilistic Vision-Language Representation for Weakly Supervised Temporal Action Localization**|Geuntaek Lim et.al.|[2408.05955](http://arxiv.org/abs/2408.05955)|**[link](https://github.com/sejong-rcv/pvlr)**|
@@ -2819,6 +2838,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
+|**2024-08-16**|**SketchRef: A Benchmark Dataset and Evaluation Metrics for Automated Sketch Synthesis**|Xingyue Lin et.al.|[2408.08623](http://arxiv.org/abs/2408.08623)|null|
 |**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312](http://arxiv.org/abs/2408.08312)|null|
 |**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234](http://arxiv.org/abs/2408.08234)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
@@ -3205,6 +3226,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
+|**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
+|**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
+|**2024-08-16**|**SketchRef: A Benchmark Dataset and Evaluation Metrics for Automated Sketch Synthesis**|Xingyue Lin et.al.|[2408.08623](http://arxiv.org/abs/2408.08623)|null|
+|**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
+|**2024-08-16**|**TEXTOC: Text-driven Object-Centric Style Transfer**|Jihun Park et.al.|[2408.08461](http://arxiv.org/abs/2408.08461)|null|
+|**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459](http://arxiv.org/abs/2408.08459)|null|
 |**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313](http://arxiv.org/abs/2408.08313)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
 |**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
@@ -4203,6 +4231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
+|**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
+|**2024-08-16**|**ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**|Yubao Zhao et.al.|[2408.08849](http://arxiv.org/abs/2408.08849)|null|
+|**2024-08-16**|**PsychoLex: Unveiling the Psychological Mind of Large Language Models**|Mohammad Amin Abbasi et.al.|[2408.08848](http://arxiv.org/abs/2408.08848)|null|
+|**2024-08-16**|**FLEXTAF: Enhancing Table Reasoning with Flexible Tabular Formats**|Xuanliang Zhang et.al.|[2408.08841](http://arxiv.org/abs/2408.08841)|null|
+|**2024-08-16**|**Artificial Intelligence and Strategic Decision-Making: Evidence from Entrepreneurs and Investors**|Felipe A. Csaszar et.al.|[2408.08811](http://arxiv.org/abs/2408.08811)|null|
+|**2024-08-16**|**Constructing Domain-Specific Evaluation Sets for LLM-as-a-judge**|Ravi Raju et.al.|[2408.08808](http://arxiv.org/abs/2408.08808)|null|
+|**2024-08-16**|**EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics**|Chenwei Wan et.al.|[2408.08782](http://arxiv.org/abs/2408.08782)|null|
+|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-16**|**DAC: Decomposed Automation Correction for Text-to-SQL**|Dingzirui Wang et.al.|[2408.08779](http://arxiv.org/abs/2408.08779)|null|
 |**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313](http://arxiv.org/abs/2408.08313)|null|
 |**2024-08-15**|**ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**|Ruihang Li et.al.|[2408.08310](http://arxiv.org/abs/2408.08310)|null|
 |**2024-08-15**|**Benchmarking the Capabilities of Large Language Models in Transportation System Engineering: Accuracy, Consistency, and Reasoning Behaviors**|Usman Syed et.al.|[2408.08302](http://arxiv.org/abs/2408.08302)|null|
@@ -5352,6 +5390,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591](http://arxiv.org/abs/2408.08591)|null|
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/abs/2408.06975)|null|
 |**2024-08-13**|**SceneGPT: A Language Model for 3D Scene Understanding**|Shivam Chandhok et.al.|[2408.06926](http://arxiv.org/abs/2408.06926)|null|
@@ -5838,6 +5877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**ASVspoof 5: Crowdsourced Speech Data, Deepfakes, and Adversarial Attacks at Scale**|Xin Wang et.al.|[2408.08739](http://arxiv.org/abs/2408.08739)|null|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
 |**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
@@ -6539,6 +6579,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722](http://arxiv.org/abs/2408.08722)|null|
+|**2024-08-15**|**Efficient Data-Sketches and Fine-Tuning for Early Detection of Distributional Drift in Medical Imaging**|Yusen Wu et.al.|[2408.08456](http://arxiv.org/abs/2408.08456)|null|
+|**2024-08-15**|**A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning**|Muzun Althunayyan et.al.|[2408.08433](http://arxiv.org/abs/2408.08433)|null|
 |**2024-08-15**|**HELP: Hierarchical Embeddings-based Log Parsing**|Andy Xu et.al.|[2408.08300](http://arxiv.org/abs/2408.08300)|null|
 |**2024-08-15**|**Rethinking Medical Anomaly Detection in Brain MRI: An Image Quality Assessment Perspective**|Zixuan Pan et.al.|[2408.08228](http://arxiv.org/abs/2408.08228)|**[link](https://github.com/zx-pan/medanomalydetection-iqa)**|
 |**2024-08-15**|**Impact of Comprehensive Data Preprocessing on Predictive Modelling of COVID-19 Mortality**|Sangita Das et.al.|[2408.08142](http://arxiv.org/abs/2408.08142)|**[link](https://github.com/dassangita844/preprocessing_covid-19_dataset_india)**|
@@ -7169,6 +7212,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
+|**2024-08-16**|**CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk**|Mohamad Fares El Hajj Chehade et.al.|[2408.08812](http://arxiv.org/abs/2408.08812)|null|
+|**2024-08-16**|**A Disease-Specific Foundation Model Using Over 100K Fundus Images: Release and Validation for Abnormality and Multi-Disease Classification on Downstream Tasks**|Boa Jang et.al.|[2408.08790](http://arxiv.org/abs/2408.08790)|null|
+|**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
+|**2024-08-16**|**Unsupervised Transfer Learning via Adversarial Contrastive Training**|Chenguang Duan et.al.|[2408.08533](http://arxiv.org/abs/2408.08533)|null|
+|**2024-08-16**|**Inverse design with conditional cascaded diffusion models**|Milad Habibi et.al.|[2408.08526](http://arxiv.org/abs/2408.08526)|null|
+|**2024-08-16**|**Enhancement of price trend trading strategies via image-induced importance weights**|Zhoufan Zhu et.al.|[2408.08483](http://arxiv.org/abs/2408.08483)|null|
 |**2024-08-15**|**Training Spatial-Frequency Visual Prompts and Probabilistic Clusters for Accurate Black-Box Transfer Learning**|Wonwoo Cho et.al.|[2408.07944](http://arxiv.org/abs/2408.07944)|null|
 |**2024-08-15**|**A Systematic Evaluation of Generated Time Series and Their Effects in Self-Supervised Pretraining**|Audrey Der et.al.|[2408.07869](http://arxiv.org/abs/2408.07869)|null|
 |**2024-08-14**|**PolyCL: Contrastive Learning for Polymer Representation Learning via Explicit and Implicit Augmentations**|Jiajun Zhou et.al.|[2408.07556](http://arxiv.org/abs/2408.07556)|**[link](https://github.com/jiajunzhou96/polycl)**|
@@ -8091,6 +8141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](http://arxiv.org/abs/2408.08500)|null|
 |**2024-08-15**|**MVInpainter: Learning Multi-View Consistent Inpainting to Bridge 2D and 3D Editing**|Chenjie Cao et.al.|[2408.08000](http://arxiv.org/abs/2408.08000)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
 |**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
@@ -8278,6 +8329,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis**|Zhi-Bo Liu et.al.|[2408.08847](http://arxiv.org/abs/2408.08847)|**[link](https://github.com/xjtuai/histogym)**|
+|**2024-08-16**|**CAT: Caution Aware Transfer in Reinforcement Learning via Distributional Risk**|Mohamad Fares El Hajj Chehade et.al.|[2408.08812](http://arxiv.org/abs/2408.08812)|null|
+|**2024-08-16**|**Evaluating the Evaluator: Measuring LLMs' Adherence to Task Evaluation Instructions**|Bhuvanashree Murugadoss et.al.|[2408.08781](http://arxiv.org/abs/2408.08781)|null|
+|**2024-08-16**|**SYMPOL: Symbolic Tree-Based On-Policy Reinforcement Learning**|Sascha Marton et.al.|[2408.08761](http://arxiv.org/abs/2408.08761)|**[link](https://github.com/s-marton/sympol)**|
+|**2024-08-16**|**Efficient Multi-Policy Evaluation for Reinforcement Learning**|Shuze Liu et.al.|[2408.08706](http://arxiv.org/abs/2408.08706)|null|
+|**2024-08-16**|**Neural Reward Machines**|Elena Umili et.al.|[2408.08677](http://arxiv.org/abs/2408.08677)|**[link](https://github.com/krlgroup/neuralrewardmachines)**|
+|**2024-08-16**|**Fine-tuning LLMs for Autonomous Spacecraft Control: A Case Study Using Kerbal Space Program**|Alejandro Carrasco et.al.|[2408.08676](http://arxiv.org/abs/2408.08676)|**[link](https://github.com/arclab-mit/kspdg)**|
+|**2024-08-16**|**DeepREST: Automated Test Case Generation for REST APIs Exploiting Deep Reinforcement Learning**|Davide Corradini et.al.|[2408.08594](http://arxiv.org/abs/2408.08594)|null|
+|**2024-08-16**|**Multilevel Graph Reinforcement Learning for Consistent Cognitive Decision-making in Heterogeneous Mixed Autonomy**|Xin Gao et.al.|[2408.08516](http://arxiv.org/abs/2408.08516)|null|
+|**2024-08-16**|**Deep multi-intentional inverse reinforcement learning for cognitive multi-function radar inverse cognition**|Hancong Feng et.al.|[2408.08478](http://arxiv.org/abs/2408.08478)|null|
 |**2024-08-15**|**A Conflicts-free, Speed-lossless KAN-based Reinforcement Learning Decision System for Interactive Driving in Roundabouts**|Zhihao Lin et.al.|[2408.08242](http://arxiv.org/abs/2408.08242)|null|
 |**2024-08-15**|**Explaining an Agent's Future Beliefs through Temporally Decomposing Future Reward Estimators**|Mark Towers et.al.|[2408.08230](http://arxiv.org/abs/2408.08230)|**[link](https://github.com/pseudo-rnd-thoughts/temporal-reward-decomposition)**|
 |**2024-08-15**|**DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**|Huajian Xin et.al.|[2408.08152](http://arxiv.org/abs/2408.08152)|**[link](https://github.com/deepseek-ai/deepseek-prover-v1.5)**|
@@ -9398,6 +9459,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-16**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788](http://arxiv.org/abs/2408.08788)|null|
+|**2024-08-16**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction**|Lu Li et.al.|[2408.08754](http://arxiv.org/abs/2408.08754)|null|
+|**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|null|
+|**2024-08-16**|**GrassNet: State Space Model Meets Graph Neural Network**|Gongpei Zhao et.al.|[2408.08583](http://arxiv.org/abs/2408.08583)|null|
+|**2024-08-16**|**Mitigating Degree Bias in Signed Graph Neural Networks**|Fang He et.al.|[2408.08508](http://arxiv.org/abs/2408.08508)|null|
+|**2024-08-16**|**Accelerating Mini-batch HGNN Training by Reducing CUDA Kernels**|Meng Wu et.al.|[2408.08490](http://arxiv.org/abs/2408.08490)|null|
+|**2024-08-16**|**An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484](http://arxiv.org/abs/2408.08484)|**[link](https://github.com/luckyseasalt/pioneer)**|
 |**2024-08-15**|**Solving a Rubik's Cube Using its Local Graph Structure**|Shunyu Yao et.al.|[2408.07945](http://arxiv.org/abs/2408.07945)|null|
 |**2024-08-14**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726](http://arxiv.org/abs/2408.07726)|**[link](https://github.com/nikita6187/transportplanningdataset)**|
 |**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
