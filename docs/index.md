@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -2647,7 +2647,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
-|**2024-08-21**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318](http://arxiv.org/abs/2408.11318)|**[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)**|
+|**2024-08-23**|**TWLV-I: Analysis and Insights from Holistic Evaluation on Video Foundation Models**|Hyeongmin Lee et.al.|[2408.11318](http://arxiv.org/abs/2408.11318)|**[link](https://github.com/twelvelabs-io/video-embeddings-evaluation-framework)**|
 |**2024-08-21**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919](http://arxiv.org/abs/2408.10919)|null|
 |**2024-08-20**|**TDS-CLIP: Temporal Difference Side Network for Image-to-Video Transfer Learning**|Bin Wang et.al.|[2408.10688](http://arxiv.org/abs/2408.10688)|**[link](https://github.com/BBYL9413/TDS-CLIP)**|
 |**2024-08-19**|**Narrowing the Gap between Vision and Action in Navigation**|Yue Zhang et.al.|[2408.10388](http://arxiv.org/abs/2408.10388)|**[link](https://github.com/HLR/Dual-Action-VLN-CE)**|
@@ -6809,7 +6809,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-22**|**UMAD: University of Macau Anomaly Detection Benchmark Dataset**|Dong Li et.al.|[2408.12527](http://arxiv.org/abs/2408.12527)|**[link](https://github.com/imrl/umad)**|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
-|**2024-08-22**|**Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**|Shenglin Zhang et.al.|[2408.12247](http://arxiv.org/abs/2408.12247)|**[link](https://github.com/zero-pointer/self-evolution)**|
+|**2024-08-23**|**Enhanced Fine-Tuning of Lightweight Domain-Specific Q&A Model Based on Large Language Models**|Shenglin Zhang et.al.|[2408.12247](http://arxiv.org/abs/2408.12247)|**[link](https://github.com/zero-pointer/self-evolution)**|
 |**2024-08-21**|**Explainable Anomaly Detection: Counterfactual driven What-If Analysis**|Logan Cummins et.al.|[2408.11935](http://arxiv.org/abs/2408.11935)|null|
 |**2024-08-21**|**RODEM Jet Datasets**|Knut Zoch et.al.|[2408.11616](http://arxiv.org/abs/2408.11616)|null|
 |**2024-08-21**|**Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control**|Muhammad Aqeel et.al.|[2408.11561](http://arxiv.org/abs/2408.11561)|null|
@@ -7459,7 +7459,7 @@ layout: default
 |**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
 |**2024-08-22**|**Modularized data-driven approximation of the Koopman operator and generator**|Yang Guo et.al.|[2408.12277](http://arxiv.org/abs/2408.12277)|null|
 |**2024-08-22**|**Accounts of using the Tustin-Net architecture on a rotary inverted pendulum**|Stijn van Esch et.al.|[2408.12266](http://arxiv.org/abs/2408.12266)|**[link](https://github.com/svanesch/tustinNetTransferLearning)**|
-|**2024-08-22**|**Efficient Multivariate Time Series Anomaly Detection Through Transfer Learning for Large-Scale Web services**|Shenglin Zhang et.al.|[2408.12247](http://arxiv.org/abs/2408.12247)|**[link](https://github.com/zero-pointer/self-evolution)**|
+|**2024-08-23**|**Enhanced Fine-Tuning of Lightweight Domain-Specific Q&A Model Based on Large Language Models**|Shenglin Zhang et.al.|[2408.12247](http://arxiv.org/abs/2408.12247)|**[link](https://github.com/zero-pointer/self-evolution)**|
 |**2024-08-22**|**Rank and Align: Towards Effective Source-free Graph Domain Adaptation**|Junyu Luo et.al.|[2408.12185](http://arxiv.org/abs/2408.12185)|null|
 |**2024-08-22**|**Domain Adaptation for Offline Reinforcement Learning with Limited Samples**|Weiqin Chen et.al.|[2408.12136](http://arxiv.org/abs/2408.12136)|null|
 |**2024-08-21**|**Defining Boundaries: The Impact of Domain Specification on Cross-Language and Cross-Domain Transfer in Machine Translation**|Lia Shahnazaryan et.al.|[2408.11926](http://arxiv.org/abs/2408.11926)|null|
