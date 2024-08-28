@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -3003,7 +3003,7 @@ layout: default
 |**2024-08-25**|**InterTrack: Tracking Human Object Interaction without Object Templates**|Xianghui Xie et.al.|[2408.13953](http://arxiv.org/abs/2408.13953)|null|
 |**2024-08-24**|**Temporally-consistent 3D Reconstruction of Birds**|Johannes Hägerlind et.al.|[2408.13629](http://arxiv.org/abs/2408.13629)|null|
 |**2024-08-24**|**Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation**|Jianing Song et.al.|[2408.13587](http://arxiv.org/abs/2408.13587)|null|
-|**2024-08-23**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
+|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](http://arxiv.org/abs/2408.10831)|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805](http://arxiv.org/abs/2408.10805)|**[link](https://github.com/aghasemzadeh/openmpl)**|
@@ -3411,7 +3411,7 @@ layout: default
 |**2024-08-25**|**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**|Sensen Gao et.al.|[2408.13896](http://arxiv.org/abs/2408.13896)|null|
 |**2024-08-25**|**Prior Learning in Introspective VAEs**|Ioannis Athanasiadis et.al.|[2408.13805](http://arxiv.org/abs/2408.13805)|null|
 |**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
-|**2024-08-24**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
+|**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
 |**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
@@ -4461,7 +4461,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
 |**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
 |**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467](http://arxiv.org/abs/2408.14467)|null|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
@@ -5938,7 +5938,7 @@ layout: default
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-25**|**InSpaceType: Dataset and Benchmark for Reconsidering Cross-Space Type Performance in Indoor Monocular Depth**|Cho-Ying Wu et.al.|[2408.13708](http://arxiv.org/abs/2408.13708)|null|
 |**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699](http://arxiv.org/abs/2408.13699)|null|
-|**2024-08-23**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
+|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](http://arxiv.org/abs/2408.12569)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682](http://arxiv.org/abs/2408.11682)|null|
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](http://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](http://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
@@ -6760,7 +6760,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-26**|**Foundation Models for Music: A Survey**|Yinghao Ma et.al.|[2408.14340](http://arxiv.org/abs/2408.14340)|**[link](https://github.com/nicolaus625/fm4music)**|
-|**2024-08-25**|**Quantum Multimodal Contrastive Learning Framework**|Chi-Sheng Chen et.al.|[2408.13919](http://arxiv.org/abs/2408.13919)|null|
+|**2024-08-27**|**Quantum Multimodal Contrastive Learning Framework**|Chi-Sheng Chen et.al.|[2408.13919](http://arxiv.org/abs/2408.13919)|null|
 |**2024-08-25**|**Multimodal Ensemble with Conditional Feature Fusion for Dysgraphia Diagnosis in Children from Handwriting Samples**|Jayakanth Kunhoth et.al.|[2408.13754](http://arxiv.org/abs/2408.13754)|null|
 |**2024-08-24**|**R2G: Reasoning to Ground in 3D Scenes**|Yixuan Li et.al.|[2408.13499](http://arxiv.org/abs/2408.13499)|null|
 |**2024-08-23**|**Ada2I: Enhancing Modality Balance for Multimodal Conversational Emotion Recognition**|Cam-Van Thi Nguyen et.al.|[2408.12895](http://arxiv.org/abs/2408.12895)|null|
@@ -9968,7 +9968,7 @@ layout: default
 |**2024-08-25**|**Generalization of Graph Neural Networks is Robust to Model Mismatch**|Zhiyang Wang et.al.|[2408.13878](http://arxiv.org/abs/2408.13878)|null|
 |**2024-08-25**|**Multi-SIGATnet: A multimodal schizophrenia MRI classification algorithm using sparse interaction mechanisms and graph attention networks**|Yuhong Jiao et.al.|[2408.13830](http://arxiv.org/abs/2408.13830)|null|
 |**2024-08-25**|**RoCP-GNN: Robust Conformal Prediction for Graph Neural Networks in Node-Classification**|S. Akansha et.al.|[2408.13825](http://arxiv.org/abs/2408.13825)|null|
-|**2024-08-24**|**GNN: Graph Neural Network and Large Language Model Based for Data Discovery**|Thomas Hoang et.al.|[2408.13609](http://arxiv.org/abs/2408.13609)|null|
+|**2024-08-27**|**GNN: Graph Neural Network and Large Language Model for Data Discovery**|Thomas Hoang et.al.|[2408.13609](http://arxiv.org/abs/2408.13609)|null|
 |**2024-08-24**|**Knowledge-Aware Conversation Derailment Forecasting Using Graph Convolutional Networks**|Enas Altarawneh et.al.|[2408.13440](http://arxiv.org/abs/2408.13440)|null|
 |**2024-08-23**|**IFH: a Diffusion Framework for Flexible Design of Graph Generative Models**|Samuel Cognolato et.al.|[2408.13194](http://arxiv.org/abs/2408.13194)|null|
 |**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
