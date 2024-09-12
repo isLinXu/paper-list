@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -6381,7 +6381,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-10**|**Deep Neural Networks: Multi-Classification and Universal Approximation**|Martín Hernández et.al.|[2409.06555](http://arxiv.org/abs/2409.06555)|null|
 |**2024-09-10**|**EDADepth: Enhanced Data Augmentation for Monocular Depth Estimation**|Nischal Khanal et.al.|[2409.06183](http://arxiv.org/abs/2409.06183)|**[link](https://github.com/edadepthmde/edadepth_icmla)**|
-|**2024-09-09**|**EndoOmni: Zero-Shot Cross-Dataset Depth Estimation in Endoscopy by Robust Self-Learning from Noisy Labels**|Qingyao Tian et.al.|[2409.05442](http://arxiv.org/abs/2409.05442)|null|
+|**2024-09-11**|**EndoOmni: Zero-Shot Cross-Dataset Depth Estimation in Endoscopy by Robust Self-Learning from Noisy Labels**|Qingyao Tian et.al.|[2409.05442](http://arxiv.org/abs/2409.05442)|null|
 |**2024-09-09**|**Spontaneous magnetic field and disorder effects in BaPtAs_1-x_Sb_x_ with honeycomb network**|T. Adachi et.al.|[2409.05266](http://arxiv.org/abs/2409.05266)|null|
 |**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142](http://arxiv.org/abs/2409.05142)|null|
 |**2024-09-06**|**Introducing a Class-Aware Metric for Monocular Depth Estimation: An Automotive Perspective**|Tim Bader et.al.|[2409.04086](http://arxiv.org/abs/2409.04086)|**[link](https://github.com/leisemann/ca_mmde)**|
@@ -7288,7 +7288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-09**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
+|**2024-09-11**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|null|
 |**2024-09-09**|**Diagnostic Reasoning in Natural Language: Computational Model and Application**|Nils Dycke et.al.|[2409.05367](http://arxiv.org/abs/2409.05367)|null|
 |**2024-09-10**|**Improving Multimodal Emotion Recognition by Leveraging Acoustic Adaptation and Visual Alignment**|Zhixian Zhao et.al.|[2409.05015](http://arxiv.org/abs/2409.05015)|null|
 |**2024-08-31**|**Comparative Analysis of Modality Fusion Approaches for Audio-Visual Person Identification and Verification**|Aref Farhadipour et.al.|[2409.00562](http://arxiv.org/abs/2409.00562)|null|
@@ -9461,7 +9461,7 @@ layout: default
 |**2024-09-10**|**One Policy to Run Them All: an End-to-end Learning Approach to Multi-Embodiment Locomotion**|Nico Bohlinger et.al.|[2409.06366](http://arxiv.org/abs/2409.06366)|null|
 |**2024-09-10**|**Double Successive Over-Relaxation Q-Learning with an Extension to Deep Reinforcement Learning**|Shreyas S R et.al.|[2409.06356](http://arxiv.org/abs/2409.06356)|null|
 |**2024-09-10**|**Learning Augmentation Policies from A Model Zoo for Time Series Forecasting**|Haochen Yuan et.al.|[2409.06282](http://arxiv.org/abs/2409.06282)|null|
-|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|null|
+|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|**[link](https://github.com/haritheja-e/robot-utility-models)**|
 |**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846](http://arxiv.org/abs/2409.05846)|null|
 |**2024-09-09**|**Learning control of underactuated double pendulum with Model-Based Reinforcement Learning**|Niccolò Turcato et.al.|[2409.05811](http://arxiv.org/abs/2409.05811)|null|
 |**2024-09-09**|**Markov Chain Variance Estimation: A Stochastic Approximation Approach**|Shubhada Agrawal et.al.|[2409.05733](http://arxiv.org/abs/2409.05733)|null|
