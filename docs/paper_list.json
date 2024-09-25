@@ -6327,7 +6327,7 @@
         "2409.12147": "|**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|\n",
         "2409.12143": "|**2024-09-18**|**Experimental Evidence That Conversational Artificial Intelligence Can Steer Consumer Behavior Without Detection**|Tobias Werner et.al.|[2409.12143](http://arxiv.org/abs/2409.12143)|null|\n",
         "2409.12140": "|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|\n",
-        "2409.12139": "|**2024-09-23**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139](http://arxiv.org/abs/2409.12139)|null|\n",
+        "2409.12139": "|**2024-09-24**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|Sijing Chen et.al.|[2409.12139](http://arxiv.org/abs/2409.12139)|null|\n",
         "2409.12122": "|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|\n",
         "2409.12117": "|**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|\n"
     },
@@ -6892,7 +6892,7 @@
         "2409.07843": "|**2024-09-12**|**Real-time Multi-view Omnidirectional Depth Estimation System for Robots and Autonomous Driving on Real Scenes**|Ming Li et.al.|[2409.07843](http://arxiv.org/abs/2409.07843)|null|\n",
         "2409.07723": "|**2024-09-12**|**Advancing Depth Anything Model for Unsupervised Monocular Depth Estimation in Endoscopy**|Bojian Li et.al.|[2409.07723](http://arxiv.org/abs/2409.07723)|null|\n",
         "2409.07715": "|**2024-09-12**|**FIReStereo: Forest InfraRed Stereo Dataset for UAS Depth Perception in Visually Degraded Environments**|Devansh Dhrafani et.al.|[2409.07715](http://arxiv.org/abs/2409.07715)|null|\n",
-        "2409.08695": "|**2024-09-13**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|\n",
+        "2409.08695": "|**2024-09-23**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|\n",
         "2409.09896": "|**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896](http://arxiv.org/abs/2409.09896)|null|\n",
         "2409.09754": "|**2024-09-15**|**Towards Single-Lens Controllable Depth-of-Field Imaging via All-in-Focus Aberration Correction and Monocular Depth Estimation**|Xiaolong Qian et.al.|[2409.09754](http://arxiv.org/abs/2409.09754)|**[link](https://github.com/xiaolongqian/dcdi)**|\n",
         "2409.09144": "|**2024-09-13**|**PrimeDepth: Efficient Monocular Depth Estimation with a Stable Diffusion Preimage**|Denis Zavadski et.al.|[2409.09144](http://arxiv.org/abs/2409.09144)|**[link](https://github.com/vislearn/PrimeDepth)**|\n",
