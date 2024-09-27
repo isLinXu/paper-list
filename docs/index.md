@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-25**|**BitQ: Tailoring Block Floating Point Precision for Improved DNN Efficiency on Resource-Constrained Devices**|Yongqi Xu et.al.|[2409.17093](http://arxiv.org/abs/2409.17093)|**[link](https://github.com/cheliosoops/bitq)**|
 |**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
-|**2024-09-25**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
+|**2024-09-26**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|
 |**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884](http://arxiv.org/abs/2409.16884)|null|
 |**2024-09-25**|**Explicitly Modeling Pre-Cortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2409.16838](http://arxiv.org/abs/2409.16838)|**[link](https://github.com/dicarlolab/vonenet)**|
 |**2024-09-24**|**Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification**|Leire Benito-Del-Valle et.al.|[2409.16002](http://arxiv.org/abs/2409.16002)|**[link](https://github.com/leirebv/synthetic_histopathology_dataset)**|
