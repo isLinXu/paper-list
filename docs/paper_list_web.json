@@ -945,7 +945,17 @@
         "2409.17092": "|**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|\n",
         "2409.16897": "|**2024-09-26**|**HVT: A Comprehensive Vision Framework for Learning in Non-Euclidean Space**|Jacob Fein-Ashley et.al.|[2409.16897](http://arxiv.org/abs/2409.16897)|**[link](https://github.com/hyperbolicvit/hyperbolicvit)**|\n",
         "2409.16884": "|**2024-09-25**|**Shifting from endangerment to rebirth in the Artificial Intelligence Age: An Ensemble Machine Learning Approach for Hawrami Text Classification**|Aram Khaksar et.al.|[2409.16884](http://arxiv.org/abs/2409.16884)|null|\n",
-        "2409.16838": "|**2024-09-25**|**Explicitly Modeling Pre-Cortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2409.16838](http://arxiv.org/abs/2409.16838)|**[link](https://github.com/dicarlolab/vonenet)**|\n"
+        "2409.16838": "|**2024-09-25**|**Explicitly Modeling Pre-Cortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2409.16838](http://arxiv.org/abs/2409.16838)|**[link](https://github.com/dicarlolab/vonenet)**|\n",
+        "2409.18023": "|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|\n",
+        "2409.17929": "|**2024-09-26**|**The Lou Dataset -- Exploring the Impact of Gender-Fair Language in German Text Classification**|Andreas Waldis et.al.|[2409.17929](http://arxiv.org/abs/2409.17929)|null|\n",
+        "2409.17805": "|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|\n",
+        "2409.17754": "|**2024-09-26**|**Byzantine-Robust Aggregation for Securing Decentralized Federated Learning**|Diego Cajaraville-Aboy et.al.|[2409.17754](http://arxiv.org/abs/2409.17754)|null|\n",
+        "2409.17583": "|**2024-09-26**|**Let the Quantum Creep In: Designing Quantum Neural Network Models by Gradually Swapping Out Classical Components**|Peiyong Wang et.al.|[2409.17583](http://arxiv.org/abs/2409.17583)|**[link](https://github.com/peiyong-addwater/let-the-quantum-creep-in)**|\n",
+        "2409.17577": "|**2024-09-26**|**Leveraging Annotator Disagreement for Text Classification**|Jin Xu et.al.|[2409.17577](http://arxiv.org/abs/2409.17577)|null|\n",
+        "2409.17508": "|**2024-09-26**|**Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE**|Xun Zhu et.al.|[2409.17508](http://arxiv.org/abs/2409.17508)|null|\n",
+        "2409.17474": "|**2024-09-26**|**Reducing and Exploiting Data Augmentation Noise through Meta Reweighting Contrastive Learning for Text Classification**|Guanyi Mou et.al.|[2409.17474](http://arxiv.org/abs/2409.17474)|null|\n",
+        "2409.17455": "|**2024-09-26**|**Navigating the Shortcut Maze: A Comprehensive Analysis of Shortcut Learning in Text Classification by Language Models**|Yuqing Zhou et.al.|[2409.17455](http://arxiv.org/abs/2409.17455)|null|\n",
+        "2409.17332": "|**2024-09-25**|**Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting**|Jay Zoellin et.al.|[2409.17332](http://arxiv.org/abs/2409.17332)|null|\n"
     },
     "Object Detection": {
         "2402.18573": "|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573](http://arxiv.org/abs/2402.18573)|null|\n",
@@ -6481,7 +6491,7 @@
         "2409.17027": "|**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|\n",
         "2409.18127": "|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|\n",
         "2409.18119": "|**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|\n",
-        "2409.18111": "|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|null|\n",
+        "2409.18111": "|**2024-09-26**|**E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding**|Ye Liu et.al.|[2409.18111](http://arxiv.org/abs/2409.18111)|**[link](https://github.com/PolyU-ChenLab/ETBench)**|\n",
         "2409.18060": "|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|\n",
         "2409.18053": "|**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053](http://arxiv.org/abs/2409.18053)|null|\n",
         "2409.18046": "|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046](http://arxiv.org/abs/2409.18046)|null|\n",
