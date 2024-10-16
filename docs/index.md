@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -1064,7 +1064,7 @@ layout: default
 |**2024-10-14**|**GlobalMamba: Global Image Serialization for Vision Mamba**|Chengkun Wang et.al.|[2410.10316](http://arxiv.org/abs/2410.10316)|**[link](https://github.com/wangck20/globalmamba)**|
 |**2024-10-14**|**ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**|Jiwei Chen et.al.|[2410.10298](http://arxiv.org/abs/2410.10298)|null|
 |**2024-10-14**|**Out-of-Bounding-Box Triggers: A Stealthy Approach to Cheat Object Detectors**|Tao Lin et.al.|[2410.10091](http://arxiv.org/abs/2410.10091)|**[link](https://github.com/lintotao/out-of-bbox-attack)**|
-|**2024-10-13**|**Optimizing Waste Management with Advanced Object Detection for Garbage Classification**|Everest Z. Kuang et.al.|[2410.09975](http://arxiv.org/abs/2410.09975)|null|
+|**2024-10-15**|**Optimizing Waste Management with Advanced Object Detection for Garbage Classification**|Everest Z. Kuang et.al.|[2410.09975](http://arxiv.org/abs/2410.09975)|null|
 |**2024-10-13**|**EITNet: An IoT-Enhanced Framework for Real-Time Basketball Action Recognition**|Jingyu Liu et.al.|[2410.09954](http://arxiv.org/abs/2410.09954)|null|
 |**2024-10-13**|**LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond**|Md Tanvir Islam et.al.|[2410.09831](http://arxiv.org/abs/2410.09831)|**[link](https://github.com/tanvirnwu/trifuse)**|
 |**2024-10-11**|**DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object Detection**|Haochen Li et.al.|[2410.09004](http://arxiv.org/abs/2410.09004)|null|
