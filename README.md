@@ -28,6 +28,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Hybrid Quantum-Classical Feature Extraction approach for Image Classification using Autoencoders and Quantum SVMs**|Donovan Slabbert et.al.|[2410.18814](http://arxiv.org/abs/2410.18814)|null|
+|**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580](http://arxiv.org/abs/2410.18580)|null|
+|**2024-10-24**|**Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks**|Lehan Wang et.al.|[2410.18387](http://arxiv.org/abs/2410.18387)|null|
+|**2024-10-23**|**Using Cartesian slice plots of a cosmological simulation as input of a convolutional neural network**|Guillermo Arreaga-Garcia et.al.|[2410.18320](http://arxiv.org/abs/2410.18320)|null|
+|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
+|**2024-10-23**|**Future Token Prediction -- Causal Language Modelling with Per-Token Semantic State Vector for Multi-Token Prediction**|Nicholas Walker et.al.|[2410.18160](http://arxiv.org/abs/2410.18160)|null|
 |**2024-10-23**|**Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers**|Edoardo Legnaro et.al.|[2410.17816](http://arxiv.org/abs/2410.17816)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
 |**2024-10-24**|**Advancing Interpretability in Text Classification through Prototype Learning**|Bowen Wei et.al.|[2410.17546](http://arxiv.org/abs/2410.17546)|null|
@@ -1114,6 +1120,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|null|
+|**2024-10-24**|**You Only Look Around: Learning Illumination Invariant Feature for Low-light Object Detection**|Mingbo Hong et.al.|[2410.18398](http://arxiv.org/abs/2410.18398)|null|
+|**2024-10-24**|**Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**|Dong-Guw Lee et.al.|[2410.18340](http://arxiv.org/abs/2410.18340)|**[link](https://github.com/donkeymouse/thermalchameleon)**|
+|**2024-10-23**|**KhmerST: A Low-Resource Khmer Scene Text Detection and Recognition Benchmark**|Vannkinh Nom et.al.|[2410.18277](http://arxiv.org/abs/2410.18277)|null|
+|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
 |**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
 |**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
@@ -2262,6 +2273,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Every Component Counts: Rethinking the Measure of Success for Medical Semantic Segmentation in Multi-Instance Segmentation Tasks**|Alexander Jaus et.al.|[2410.18684](http://arxiv.org/abs/2410.18684)|null|
+|**2024-10-24**|**Unsupervised semantic segmentation of urban high-density multispectral point clouds**|Oona Oinonen et.al.|[2410.18520](http://arxiv.org/abs/2410.18520)|null|
+|**2024-10-23**|**CARLA2Real: a tool for reducing the sim2real gap in CARLA simulator**|Stefanos Pasios et.al.|[2410.18238](http://arxiv.org/abs/2410.18238)|null|
 |**2024-10-23**|**Towards Safer Planetary Exploration: A Hybrid Architecture for Terrain Traversability Analysis in Mars Rovers**|Achille Chiuchiarelli et.al.|[2410.17738](http://arxiv.org/abs/2410.17738)|null|
 |**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
@@ -3498,6 +3512,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**Research on gesture recognition method based on SEDCNN-SVM**|Mingjin Zhang et.al.|[2410.18557](http://arxiv.org/abs/2410.18557)|null|
 |**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489](http://arxiv.org/abs/2410.17489)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149](http://arxiv.org/abs/2410.17149)|null|
 |**2024-10-22**|**Masked Differential Privacy**|David Schneider et.al.|[2410.17098](http://arxiv.org/abs/2410.17098)|null|
@@ -3883,6 +3899,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962](http://arxiv.org/abs/2410.18962)|null|
+|**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983](http://arxiv.org/abs/2410.17983)|**[link](https://github.com/vladpyatov/ihls)**|
 |**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
 |**2024-10-21**|**Assisted Physical Interaction: Autonomous Aerial Robots with Neural Network Detection, Navigation, and Safety Layers**|Andrea Berra et.al.|[2410.15802](http://arxiv.org/abs/2410.15802)|null|
@@ -4433,6 +4451,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Generation of synthetic financial time series by diffusion models**|Tomonori Takahashi et.al.|[2410.18897](http://arxiv.org/abs/2410.18897)|null|
+|**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
+|**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
+|**2024-10-24**|**Towards Visual Text Design Transfer Across Languages**|Yejin Choi et.al.|[2410.18823](http://arxiv.org/abs/2410.18823)|null|
+|**2024-10-24**|**Ali-AUG: Innovative Approaches to Labeled Data Augmentation using One-Step Diffusion Model**|Ali Hamza et.al.|[2410.18678](http://arxiv.org/abs/2410.18678)|null|
+|**2024-10-24**|**FairQueue: Rethinking Prompt Learning for Fair Text-to-Image Generation**|Christopher T. H Teo et.al.|[2410.18615](http://arxiv.org/abs/2410.18615)|null|
+|**2024-10-24**|**FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling**|Zhengqiang Zhang et.al.|[2410.18410](http://arxiv.org/abs/2410.18410)|**[link](https://github.com/xtudbxk/frecas)**|
+|**2024-10-23**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](http://arxiv.org/abs/2410.18267)|null|
 |**2024-10-23**|**FreeVS: Generative View Synthesis on Free Driving Trajectory**|Qitai Wang et.al.|[2410.18079](http://arxiv.org/abs/2410.18079)|null|
 |**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
 |**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
@@ -5817,6 +5843,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
+|**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
+|**2024-10-24**|**Does Data Contamination Detection Work (Well) for LLMs? A Survey and Evaluation on Detection Assumptions**|Yujuan Fu et.al.|[2410.18966](http://arxiv.org/abs/2410.18966)|null|
+|**2024-10-24**|**OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**|Xiaoqiang Wang et.al.|[2410.18963](http://arxiv.org/abs/2410.18963)|null|
+|**2024-10-24**|**Bridge-Coder: Unlocking LLMs' Potential to Overcome Language Gaps in Low-Resource Code**|Jipeng Zhang et.al.|[2410.18957](http://arxiv.org/abs/2410.18957)|null|
+|**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955](http://arxiv.org/abs/2410.18955)|null|
+|**2024-10-24**|**Dynamic Vocabulary Pruning in Early-Exit LLMs**|Jort Vincenti et.al.|[2410.18952](http://arxiv.org/abs/2410.18952)|null|
+|**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927](http://arxiv.org/abs/2410.18927)|null|
+|**2024-10-24**|**From Blind Solvers to Logical Thinkers: Benchmarking LLMs' Logical Integrity on Faulty Mathematical Problems**|A M Muntasir Rahman et.al.|[2410.18921](http://arxiv.org/abs/2410.18921)|null|
+|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
 |**2024-10-23**|**TP-Eval: Tap Multimodal LLMs' Potential in Evaluation by Customizing Prompts**|Yuxuan Xie et.al.|[2410.18071](http://arxiv.org/abs/2410.18071)|null|
 |**2024-10-23**|**LongRAG: A Dual-Perspective Retrieval-Augmented Generation Paradigm for Long-Context Question Answering**|Qingfei Zhao et.al.|[2410.18050](http://arxiv.org/abs/2410.18050)|**[link](https://github.com/qingfei1/longrag)**|
 |**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040](http://arxiv.org/abs/2410.18040)|null|
@@ -7727,6 +7763,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction**|Hongxin Peng et.al.|[2410.18433](http://arxiv.org/abs/2410.18433)|null|
+|**2024-10-24**|**Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**|Dong-Guw Lee et.al.|[2410.18340](http://arxiv.org/abs/2410.18340)|**[link](https://github.com/donkeymouse/thermalchameleon)**|
 |**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074](http://arxiv.org/abs/2410.18074)|null|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
 |**2024-10-22**|**DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**|Kun Wang et.al.|[2410.14980](http://arxiv.org/abs/2410.14980)|**[link](https://github.com/w2kun/dcdepth)**|
@@ -8065,6 +8103,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
+|**2024-10-24**|**We Augmented Whisper With kNN and You Won't Believe What Came Next**|Maya K. Nachesa et.al.|[2410.18850](http://arxiv.org/abs/2410.18850)|null|
+|**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
+|**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
+|**2024-10-24**|**Contextual Biasing to Improve Domain-specific Custom Vocabulary Audio Transcription without Explicit Fine-Tuning of Whisper Model**|Vishakha Lall et.al.|[2410.18363](http://arxiv.org/abs/2410.18363)|null|
+|**2024-10-23**|**Music102: An $D_{12}$ -equivariant transformer for chord progression accompaniment**|Weiliang Luo et.al.|[2410.18151](http://arxiv.org/abs/2410.18151)|null|
 |**2024-10-23**|**ELAICHI: Enhancing Low-resource TTS by Addressing Infrequent and Low-frequency Character Bigrams**|Srija Anand et.al.|[2410.17901](http://arxiv.org/abs/2410.17901)|null|
 |**2024-10-23**|**OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation**|Qinglin Zhang et.al.|[2410.17799](http://arxiv.org/abs/2410.17799)|null|
 |**2024-10-23**|**Exploring Tokenization Methods for Multitrack Sheet Music Generation**|Yashan Wang et.al.|[2410.17584](http://arxiv.org/abs/2410.17584)|null|
@@ -8885,6 +8929,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**UGotMe: An Embodied System for Affective Human-Robot Interaction**|Peizhen Li et.al.|[2410.18373](http://arxiv.org/abs/2410.18373)|null|
 |**2024-10-22**|**EVC-MF: End-to-end Video Captioning Network with Multi-scale Features**|Tian-Zi Niu et.al.|[2410.16624](http://arxiv.org/abs/2410.16624)|null|
 |**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Multimodal Learning for Embryo Viability Prediction in Clinical IVF**|Junsik Kim et.al.|[2410.15581](http://arxiv.org/abs/2410.15581)|null|
@@ -9106,6 +9151,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Exploring the Universe with SNAD: Anomaly Detection in Astronomy**|Alina A. Volnova et.al.|[2410.18875](http://arxiv.org/abs/2410.18875)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717](http://arxiv.org/abs/2410.18717)|null|
+|**2024-10-24**|**NIDS Neural Networks Using Sliding Time Window Data Processing with Trainable Activations and its Generalization Capability**|Anton Raskovalov et.al.|[2410.18658](http://arxiv.org/abs/2410.18658)|null|
+|**2024-10-24**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487](http://arxiv.org/abs/2410.18487)|null|
+|**2024-10-24**|**Harnessing PU Learning for Enhanced Cloud-based DDoS Detection: A Comparative Analysis**|Robert Dilworth et.al.|[2410.18380](http://arxiv.org/abs/2410.18380)|null|
+|**2024-10-23**|**Advancing Network Security: A Comprehensive Testbed and Dataset for Machine Learning-Based Intrusion Detection**|Talaya Farasat et.al.|[2410.18332](http://arxiv.org/abs/2410.18332)|null|
 |**2024-10-23**|**Real time anomalies detection on video**|Fabien Poirier et.al.|[2410.18051](http://arxiv.org/abs/2410.18051)|null|
 |**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-22**|**Coniferest: a complete active anomaly detection framework**|M. V. Kornilov et.al.|[2410.17142](http://arxiv.org/abs/2410.17142)|null|
@@ -9984,6 +10035,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
+|**2024-10-24**|**Transferring Knowledge from High-Quality to Low-Quality MRI for Adult Glioma Diagnosis**|Yanguang Zhao et.al.|[2410.18698](http://arxiv.org/abs/2410.18698)|null|
+|**2024-10-24**|**Enhancing pretraining efficiency for medical image segmentation via transferability metrics**|Gábor Hidy et.al.|[2410.18677](http://arxiv.org/abs/2410.18677)|**[link](https://github.com/aielte-research/MedSegPretrainImageNet)**|
+|**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
 |**2024-10-23**|**Together We Can: Multilingual Automatic Post-Editing for Low-Resource Languages**|Sourabh Deoghare et.al.|[2410.17973](http://arxiv.org/abs/2410.17973)|null|
 |**2024-10-23**|**SimRAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains**|Ran Xu et.al.|[2410.17952](http://arxiv.org/abs/2410.17952)|null|
 |**2024-10-23**|**Deep learning for model correction of dynamical systems with data scarcity**|Caroline Tatsuoka et.al.|[2410.17913](http://arxiv.org/abs/2410.17913)|null|
@@ -11263,6 +11318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317](http://arxiv.org/abs/2410.18317)|null|
 |**2024-10-17**|**Self-Supervised Scene Flow Estimation with Point-Voxel Fusion and Surface Representation**|Xuezhi Xiang et.al.|[2410.13355](http://arxiv.org/abs/2410.13355)|null|
 |**2024-10-16**|**Imagine2Servo: Intelligent Visual Servoing with Diffusion-Driven Goal Generation for Robotic Tasks**|Pranjali Pathre et.al.|[2410.12432](http://arxiv.org/abs/2410.12432)|null|
 |**2024-10-14**|**Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world**|Han Ling et.al.|[2410.10453](http://arxiv.org/abs/2410.10453)|**[link](https://github.com/hanlingsgjk/unifiedgeneralization)**|
@@ -11506,6 +11562,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907](http://arxiv.org/abs/2410.18907)|null|
+|**2024-10-24**|**Improving Small-Scale Large Language Models Function Calling for Reasoning Tasks**|Graziano A. Manduzio et.al.|[2410.18890](http://arxiv.org/abs/2410.18890)|null|
+|**2024-10-24**|**Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**|Weijian Luo et.al.|[2410.18881](http://arxiv.org/abs/2410.18881)|null|
+|**2024-10-24**|**Learning Collusion in Episodic, Inventory-Constrained Markets**|Paul Friedrich et.al.|[2410.18871](http://arxiv.org/abs/2410.18871)|null|
+|**2024-10-24**|**Towards Visual Text Design Transfer Across Languages**|Yejin Choi et.al.|[2410.18823](http://arxiv.org/abs/2410.18823)|null|
+|**2024-10-24**|**PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds**|Balázs Gyenes et.al.|[2410.18800](http://arxiv.org/abs/2410.18800)|null|
+|**2024-10-24**|**Adapting MLOps for Diverse In-Network Intelligence in 6G Era: Challenges and Solutions**|Peizheng Li et.al.|[2410.18793](http://arxiv.org/abs/2410.18793)|null|
+|**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647](http://arxiv.org/abs/2410.18647)|null|
+|**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
+|**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
 |**2024-10-23**|**Prioritized Generative Replay**|Renhao Wang et.al.|[2410.18082](http://arxiv.org/abs/2410.18082)|null|
 |**2024-10-23**|**Leveraging Skills from Unlabeled Prior Data for Efficient Online Exploration**|Max Wilcoxson et.al.|[2410.18076](http://arxiv.org/abs/2410.18076)|null|
 |**2024-10-23**|**SPIRE: Synergistic Planning, Imitation, and Reinforcement Learning for Long-Horizon Manipulation**|Zihan Zhou et.al.|[2410.18065](http://arxiv.org/abs/2410.18065)|null|
@@ -13046,6 +13112,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912](http://arxiv.org/abs/2410.18912)|null|
+|**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
+|**2024-10-24**|**Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations**|Xiuwei Shang et.al.|[2410.18561](http://arxiv.org/abs/2410.18561)|null|
+|**2024-10-24**|**Local and Global Graph Modeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition**|Yejing Xie et.al.|[2410.18555](http://arxiv.org/abs/2410.18555)|null|
+|**2024-10-24**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487](http://arxiv.org/abs/2410.18487)|null|
+|**2024-10-24**|**A Causal Graph-Enhanced Gaussian Process Regression for Modeling Engine-out NOx**|Shrenik Zinage et.al.|[2410.18424](http://arxiv.org/abs/2410.18424)|null|
 |**2024-10-23**|**GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**|Xin Li et.al.|[2410.18032](http://arxiv.org/abs/2410.18032)|**[link](https://github.com/bupt-gamma/graphteam)**|
 |**2024-10-23**|**Spiking Graph Neural Network on Riemannian Manifolds**|Li Sun et.al.|[2410.17941](http://arxiv.org/abs/2410.17941)|null|
 |**2024-10-23**|**TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment**|Bingqing Han et.al.|[2410.17815](http://arxiv.org/abs/2410.17815)|null|
