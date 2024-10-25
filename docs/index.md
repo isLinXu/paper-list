@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-23**|**Deep Learning for Active Region Classification: A Systematic Study from Convolutional Neural Networks to Vision Transformers**|Edoardo Legnaro et.al.|[2410.17816](http://arxiv.org/abs/2410.17816)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
-|**2024-10-23**|**ProtoLens: Advancing Prototype Learning for Fine-Grained Interpretability in Text Classification**|Bowen Wei et.al.|[2410.17546](http://arxiv.org/abs/2410.17546)|null|
+|**2024-10-24**|**Advancing Interpretability in Text Classification through Prototype Learning**|Bowen Wei et.al.|[2410.17546](http://arxiv.org/abs/2410.17546)|null|
 |**2024-10-23**|**Enhancing Multimodal Medical Image Classification using Cross-Graph Modal Contrastive Learning**|Jun-En Ding et.al.|[2410.17494](http://arxiv.org/abs/2410.17494)|null|
 |**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
