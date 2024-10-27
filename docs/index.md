@@ -1099,11 +1099,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|null|
+|**2024-10-24**|**Optimizing Edge Offloading Decisions for Object Detection**|Jiaming Qiu et.al.|[2410.18919](http://arxiv.org/abs/2410.18919)|**[link](https://github.com/qiujiaming315/edgeml-object-detection)**|
 |**2024-10-24**|**You Only Look Around: Learning Illumination Invariant Feature for Low-light Object Detection**|Mingbo Hong et.al.|[2410.18398](http://arxiv.org/abs/2410.18398)|null|
 |**2024-10-24**|**Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**|Dong-Guw Lee et.al.|[2410.18340](http://arxiv.org/abs/2410.18340)|**[link](https://github.com/donkeymouse/thermalchameleon)**|
 |**2024-10-23**|**KhmerST: A Low-Resource Khmer Scene Text Detection and Recognition Benchmark**|Vannkinh Nom et.al.|[2410.18277](http://arxiv.org/abs/2410.18277)|null|
-|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|**[link](https://github.com/nasrin117/Piarom-datenet)**|
+|**2024-10-23**|**Automated Defect Detection and Grading of Piarom Dates Using Deep Learning**|Nasrin Azimi et.al.|[2410.18208](http://arxiv.org/abs/2410.18208)|null|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
 |**2024-10-23**|**YOLO-Vehicle-Pro: A Cloud-Edge Collaborative Framework for Object Detection in Autonomous Driving under Adverse Weather Conditions**|Xiguang Li et.al.|[2410.17734](http://arxiv.org/abs/2410.17734)|null|
 |**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725](http://arxiv.org/abs/2410.17725)|null|
@@ -3490,7 +3490,7 @@ layout: default
 |**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489](http://arxiv.org/abs/2410.17489)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149](http://arxiv.org/abs/2410.17149)|null|
 |**2024-10-22**|**Masked Differential Privacy**|David Schneider et.al.|[2410.17098](http://arxiv.org/abs/2410.17098)|null|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-21**|**Improving the Multi-label Atomic Activity Recognition by Robust Visual Feature and Advanced Attention @ ROAD++ Atomic Activity Recognition 2024**|Jiamin Cao et.al.|[2410.16037](http://arxiv.org/abs/2410.16037)|null|
 |**2024-10-19**|**CAGE: Causal Attention Enables Data-Efficient Generalizable Robotic Manipulation**|Shangning Xia et.al.|[2410.14974](http://arxiv.org/abs/2410.14974)|null|
 |**2024-10-18**|**DFlow: Diverse Dialogue Flow Simulation with Large Language Models**|Wanyu Du et.al.|[2410.14853](http://arxiv.org/abs/2410.14853)|null|
@@ -8888,7 +8888,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-24**|**UGotMe: An Embodied System for Affective Human-Robot Interaction**|Peizhen Li et.al.|[2410.18373](http://arxiv.org/abs/2410.18373)|null|
+|**2024-10-24**|**UGotMe: An Embodied System for Affective Human-Robot Interaction**|Peizhen Li et.al.|[2410.18373](http://arxiv.org/abs/2410.18373)|**[link](https://github.com/lipzh5/amecavle)**|
 |**2024-10-22**|**EVC-MF: End-to-end Video Captioning Network with Multi-scale Features**|Tian-Zi Niu et.al.|[2410.16624](http://arxiv.org/abs/2410.16624)|null|
 |**2024-10-22**|**MoRE: Multi-Modal Contrastive Pre-training with Transformers on X-Rays, ECGs, and Diagnostic Report**|Samrajya Thapa et.al.|[2410.16239](http://arxiv.org/abs/2410.16239)|**[link](https://github.com/svthapa/more)**|
 |**2024-10-21**|**Multimodal Learning for Embryo Viability Prediction in Clinical IVF**|Junsik Kim et.al.|[2410.15581](http://arxiv.org/abs/2410.15581)|null|
@@ -9109,7 +9109,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**Exploring the Universe with SNAD: Anomaly Detection in Astronomy**|Alina A. Volnova et.al.|[2410.18875](http://arxiv.org/abs/2410.18875)|null|
-|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717](http://arxiv.org/abs/2410.18717)|null|
+|**2024-10-24**|**Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance**|Mulugeta Weldezgina Asres et.al.|[2410.18717](http://arxiv.org/abs/2410.18717)|**[link](https://github.com/muleina/la3d)**|
 |**2024-10-24**|**NIDS Neural Networks Using Sliding Time Window Data Processing with Trainable Activations and its Generalization Capability**|Anton Raskovalov et.al.|[2410.18658](http://arxiv.org/abs/2410.18658)|null|
 |**2024-10-24**|**Graph Pre-Training Models Are Strong Anomaly Detectors**|Jiashun Cheng et.al.|[2410.18487](http://arxiv.org/abs/2410.18487)|null|
 |**2024-10-24**|**Harnessing PU Learning for Enhanced Cloud-based DDoS Detection: A Comparative Analysis**|Robert Dilworth et.al.|[2410.18380](http://arxiv.org/abs/2410.18380)|null|
