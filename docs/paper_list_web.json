@@ -1106,7 +1106,7 @@
         "2410.21886": "|**2024-10-29**|**Bayesian Optimization for Hyperparameters Tuning in Neural Networks**|Gabriele Onorato et.al.|[2410.21886](http://arxiv.org/abs/2410.21886)|null|\n",
         "2410.21872": "|**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872](http://arxiv.org/abs/2410.21872)|null|\n",
         "2410.21561": "|**2024-10-28**|**Audio Classification of Low Feature Spectrograms Utilizing Convolutional Neural Networks**|Noel Elias et.al.|[2410.21561](http://arxiv.org/abs/2410.21561)|null|\n",
-        "2410.21557": "|**2024-10-28**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|\n"
+        "2410.21557": "|**2024-10-30**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|\n"
     },
     "Object Detection": {
         "2402.18573": "|**2024-02-28**|**UniMODE: Unified Monocular 3D Object Detection**|Zhuoling Li et.al.|[2402.18573](http://arxiv.org/abs/2402.18573)|null|\n",
@@ -3243,7 +3243,7 @@
         "2410.19446": "|**2024-10-25**|**Fusion-then-Distillation: Toward Cross-modal Positive Distillation for Domain Adaptive 3D Semantic Segmentation**|Yao Wu et.al.|[2410.19446](http://arxiv.org/abs/2410.19446)|**[link](https://github.com/barcaaaa/ftd-plusplus)**|\n",
         "2410.19341": "|**2024-10-25**|**Context-Based Visual-Language Place Recognition**|Soojin Woo et.al.|[2410.19341](http://arxiv.org/abs/2410.19341)|**[link](https://github.com/woo-soojin/context-based-vlpr)**|\n",
         "2410.20953": "|**2024-10-28**|**IndraEye: Infrared Electro-Optical UAV-based Perception Dataset for Robust Downstream Tasks**|Manjunath D et.al.|[2410.20953](http://arxiv.org/abs/2410.20953)|null|\n",
-        "2410.20595": "|**2024-10-27**|**A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models**|Camilo Espinosa-Curilem et.al.|[2410.20595](http://arxiv.org/abs/2410.20595)|null|\n",
+        "2410.20595": "|**2024-10-27**|**A Framework for Real-Time Volcano-Seismic Event Recognition Based on Multi-Station Seismograms and Semantic Segmentation Models**|Camilo Espinosa-Curilem et.al.|[2410.20595](http://arxiv.org/abs/2410.20595)|**[link](https://github.com/camilo-espinosa/volcano-seismic-segmentation)**|\n",
         "2410.20459": "|**2024-10-27**|**Unlocking Comics: The AI4VA Dataset for Visual Understanding**|Peter Gr\u00f6nquist et.al.|[2410.20459](http://arxiv.org/abs/2410.20459)|**[link](https://github.com/ivrl/ai4va)**|\n",
         "2410.20346": "|**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](http://arxiv.org/abs/2410.20346)|null|\n",
         "2410.19965": "|**2024-10-25**|**OReole-FM: successes and challenges toward billion-parameter foundation models for high-resolution satellite imagery**|Philipe Dias et.al.|[2410.19965](http://arxiv.org/abs/2410.19965)|null|\n",
@@ -3912,7 +3912,7 @@
         "2410.21108": "|**2024-10-28**|**LiGAR: LiDAR-Guided Hierarchical Transformer for Multi-Modal Group Activity Recognition**|Naga Venkata Sai Raviteja Chappa et.al.|[2410.21108](http://arxiv.org/abs/2410.21108)|null|\n",
         "2410.20621": "|**2024-10-27**|**Exocentric To Egocentric Transfer For Action Recognition: A Short Survey**|Anirudh Thatipelli et.al.|[2410.20621](http://arxiv.org/abs/2410.20621)|null|\n",
         "2410.20349": "|**2024-10-27**|**Idempotent Unsupervised Representation Learning for Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2410.20349](http://arxiv.org/abs/2410.20349)|null|\n",
-        "2410.22211": "|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|null|\n",
+        "2410.22211": "|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|**[link](https://github.com/kimihiroh/promqa)**|\n",
         "2410.22184": "|**2024-10-29**|**Multi-Level Feature Distillation of Joint Teachers Trained on Distinct Image Datasets**|Adrian Iordache et.al.|[2410.22184](http://arxiv.org/abs/2410.22184)|**[link](https://github.com/adrianiordache/mlfd)**|\n"
     },
     "Pose Estimation": {
@@ -4463,7 +4463,7 @@
         "2410.18723": "|**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723](http://arxiv.org/abs/2410.18723)|null|\n",
         "2410.19336": "|**2024-10-25**|**DECADE: Towards Designing Efficient-yet-Accurate Distance Estimation Modules for Collision Avoidance in Mobile Advanced Driver Assistance Systems**|Muhammad Zaeem Shahzad et.al.|[2410.19336](http://arxiv.org/abs/2410.19336)|null|\n",
         "2410.21153": "|**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153](http://arxiv.org/abs/2410.21153)|null|\n",
-        "2410.20731": "|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731](http://arxiv.org/abs/2410.20731)|null|\n",
+        "2410.20731": "|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731](http://arxiv.org/abs/2410.20731)|**[link](https://github.com/hs1ang-hsu/BLAPose)**|\n",
         "2410.20358": "|**2024-10-27**|**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**|Mingjiang Liang et.al.|[2410.20358](http://arxiv.org/abs/2410.20358)|null|\n",
         "2410.20294": "|**2024-10-27**|**Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions**|Rawal Khirodkar et.al.|[2410.20294](http://arxiv.org/abs/2410.20294)|null|\n",
         "2410.20220": "|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|\n",
@@ -5881,7 +5881,7 @@
         "2410.21653": "|**2024-10-29**|**Fingerprints of Super Resolution Networks**|Jeremy Vonderfecht et.al.|[2410.21653](http://arxiv.org/abs/2410.21653)|null|\n",
         "2410.21638": "|**2024-10-29**|**Adapting Diffusion Models for Improved Prompt Compliance and Controllable Image Synthesis**|Deepak Sridhar et.al.|[2410.21638](http://arxiv.org/abs/2410.21638)|null|\n",
         "2410.21611": "|**2024-10-28**|**CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation**|Claudius Krause et.al.|[2410.21611](http://arxiv.org/abs/2410.21611)|null|\n",
-        "2410.21557": "|**2024-10-28**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|\n",
+        "2410.21557": "|**2024-10-30**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|\n",
         "2410.21497": "|**2024-10-28**|**Denoising Diffusion Planner: Learning Complex Paths from Low-Quality Demonstrations**|Michiel Nikken et.al.|[2410.21497](http://arxiv.org/abs/2410.21497)|null|\n"
     },
     "LLM": {
@@ -7480,14 +7480,14 @@
         "2410.21218": "|**2024-10-28**|**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**|Kaifeng Huang et.al.|[2410.21218](http://arxiv.org/abs/2410.21218)|null|\n",
         "2410.21200": "|**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200](http://arxiv.org/abs/2410.21200)|null|\n",
         "2410.22323": "|**2024-10-29**|**Enhancing Code Annotation Reliability: Generative AI's Role in Comment Quality Assessment Models**|Seetharam Killivalavan et.al.|[2410.22323](http://arxiv.org/abs/2410.22323)|null|\n",
-        "2410.22318": "|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|null|\n",
+        "2410.22318": "|**2024-10-29**|**Online Detecting LLM-Generated Texts via Sequential Hypothesis Testing by Betting**|Can Chen et.al.|[2410.22318](http://arxiv.org/abs/2410.22318)|**[link](https://github.com/canchen-cc/online-llm-detection)**|\n",
         "2410.22315": "|**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|\n",
         "2410.22309": "|**2024-10-29**|**GPT-4o reads the mind in the eyes**|James W. A. Strachan et.al.|[2410.22309](http://arxiv.org/abs/2410.22309)|null|\n",
         "2410.22307": "|**2024-10-29**|**SVIP: Towards Verifiable Inference of Open-source Large Language Models**|Yifan Sun et.al.|[2410.22307](http://arxiv.org/abs/2410.22307)|null|\n",
         "2410.22304": "|**2024-10-29**|**Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning**|Yihe Deng et.al.|[2410.22304](http://arxiv.org/abs/2410.22304)|null|\n",
         "2410.22296": "|**2024-10-29**|**LLMs are Highly-Constrained Biophysical Sequence Optimizers**|Angelica Chen et.al.|[2410.22296](http://arxiv.org/abs/2410.22296)|null|\n",
         "2410.22293": "|**2024-10-29**|**Fine-Tuning LLMs for Code Mutation: A New Era of Cyber Threats**|Mohammad Setak et.al.|[2410.22293](http://arxiv.org/abs/2410.22293)|null|\n",
-        "2410.22284": "|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|\n",
+        "2410.22284": "|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|\n",
         "2410.22282": "|**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|null|\n"
     },
     "Scene Understanding": {
@@ -7822,9 +7822,9 @@
         "2410.15185": "|**2024-10-19**|**Semantically Safe Robot Manipulation: From Semantic Scene Understanding to Motion Safeguards**|Lukas Brunke et.al.|[2410.15185](http://arxiv.org/abs/2410.15185)|null|\n",
         "2410.14944": "|**2024-10-19**|**Part-Whole Relational Fusion Towards Multi-Modal Scene Understanding**|Yi Liu et.al.|[2410.14944](http://arxiv.org/abs/2410.14944)|**[link](https://github.com/liuyi1989/pwrf)**|\n",
         "2410.16824": "|**2024-10-22**|**PerspectiveNet: Multi-View Perception for Dynamic Scene Understanding**|Vinh Nguyen et.al.|[2410.16824](http://arxiv.org/abs/2410.16824)|null|\n",
-        "2410.17642": "|**2024-10-23**|**Surgical Scene Segmentation by Transformer With Asymmetric Feature Enhancement**|Cheng Yuan et.al.|[2410.17642](http://arxiv.org/abs/2410.17642)|null|\n",
+        "2410.17642": "|**2024-10-23**|**Surgical Scene Segmentation by Transformer With Asymmetric Feature Enhancement**|Cheng Yuan et.al.|[2410.17642](http://arxiv.org/abs/2410.17642)|**[link](https://github.com/cyuan-sjtu/vit-asym)**|\n",
         "2410.20026": "|**2024-10-26**|**Towards Robust Algorithms for Surgical Phase Recognition via Digital Twin-based Scene Representation**|Hao Ding et.al.|[2410.20026](http://arxiv.org/abs/2410.20026)|null|\n",
-        "2410.22313": "|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|\n"
+        "2410.22313": "|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|\n"
     },
     "Depth Estimation": {
         "2402.18181": "|**2024-02-29**|**CFDNet: A Generalizable Foggy Stereo Matching Network with Contrastive Feature Distillation**|Zihua Liu et.al.|[2402.18181](http://arxiv.org/abs/2402.18181)|null|\n",
@@ -8990,7 +8990,7 @@
         "2410.19199": "|**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199](http://arxiv.org/abs/2410.19199)|null|\n",
         "2410.20742": "|**2024-10-28**|**Mitigating Unauthorized Speech Synthesis for Voice Protection**|Zhisheng Zhang et.al.|[2410.20742](http://arxiv.org/abs/2410.20742)|**[link](https://github.com/wxzyd123/pivotal_objective_perturbation)**|\n",
         "2410.20564": "|**2024-10-27**|**Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors**|Sadia Nowrin et.al.|[2410.20564](http://arxiv.org/abs/2410.20564)|null|\n",
-        "2410.20515": "|**2024-10-27**|**Symbotunes: unified hub for symbolic music generative models**|Pawe\u0142 Skier\u015b et.al.|[2410.20515](http://arxiv.org/abs/2410.20515)|null|\n",
+        "2410.20515": "|**2024-10-27**|**Symbotunes: unified hub for symbolic music generative models**|Pawe\u0142 Skier\u015b et.al.|[2410.20515](http://arxiv.org/abs/2410.20515)|**[link](https://github.com/pskiers/symbotunes)**|\n",
         "2410.20478": "|**2024-10-27**|**MusicFlow: Cascaded Flow Matching for Text Guided Music Generation**|K R Prajwal et.al.|[2410.20478](http://arxiv.org/abs/2410.20478)|null|\n",
         "2410.20336": "|**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|\n",
         "2410.20334": "|**2024-10-27**|**Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**|Enshi Zhang et.al.|[2410.20334](http://arxiv.org/abs/2410.20334)|null|\n",
@@ -10113,13 +10113,13 @@
         "2410.20047": "|**2024-10-26**|**ResAD: A Simple Framework for Class Generalizable Anomaly Detection**|Xincheng Yao et.al.|[2410.20047](http://arxiv.org/abs/2410.20047)|**[link](https://github.com/xcyao00/resad)**|\n",
         "2410.20003": "|**2024-10-25**|**Federated Anomaly Detection for Early-Stage Diagnosis of Autism Spectrum Disorders using Serious Game Data**|Nikolaos Pavlidis et.al.|[2410.20003](http://arxiv.org/abs/2410.20003)|null|\n",
         "2410.22256": "|**2024-10-29**|**Hypergraph-based multi-scale spatio-temporal graph convolution network for Time-Series anomaly detection**|Hongyi Xu et.al.|[2410.22256](http://arxiv.org/abs/2410.22256)|null|\n",
-        "2410.21982": "|**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al.|[2410.21982](http://arxiv.org/abs/2410.21982)|null|\n",
+        "2410.21982": "|**2024-10-29**|**A Survey on RGB, 3D, and Multimodal Approaches for Unsupervised Industrial Anomaly Detection**|Yuxuan Lin et.al.|[2410.21982](http://arxiv.org/abs/2410.21982)|**[link](https://github.com/sunny5250/awesome-multi-setting-uiad)**|\n",
         "2410.21936": "|**2024-10-29**|**LogSHIELD: A Graph-based Real-time Anomaly Detection Framework using Frequency Analysis**|Krishna Chandra Roy et.al.|[2410.21936](http://arxiv.org/abs/2410.21936)|null|\n",
         "2410.21928": "|**2024-10-29**|**Differentiable Inductive Logic Programming for Fraud Detection**|Boris Wolfson et.al.|[2410.21928](http://arxiv.org/abs/2410.21928)|null|\n",
         "2410.21873": "|**2024-10-29**|**SCGNet-Stacked Convolution with Gated Recurrent Unit Network for Cyber Network Intrusion Detection and Intrusion Type Classification**|Rajana Akter et.al.|[2410.21873](http://arxiv.org/abs/2410.21873)|null|\n",
         "2410.21797": "|**2024-10-29**|**Representational learning for an anomalous sound detection system with source separation model**|Seunghyeon Shin et.al.|[2410.21797](http://arxiv.org/abs/2410.21797)|null|\n",
         "2410.21712": "|**2024-10-29**|**Sliced-Wasserstein-based Anomaly Detection and Open Dataset for Localized Critical Peak Rebates**|Julien Pallage et.al.|[2410.21712](http://arxiv.org/abs/2410.21712)|null|\n",
-        "2410.21574": "|**2024-10-28**|**A Generative Model Based Honeypot for Industrial OPC UA Communication**|Olaf Sassnick et.al.|[2410.21574](http://arxiv.org/abs/2410.21574)|null|\n",
+        "2410.21574": "|**2024-10-28**|**A Generative Model Based Honeypot for Industrial OPC UA Communication**|Olaf Sassnick et.al.|[2410.21574](http://arxiv.org/abs/2410.21574)|**[link](https://github.com/JRC-ISIA/paper-2024-eurocast-honeypot)**|\n",
         "2410.21484": "|**2024-10-28**|**A Systematic Review of Machine Learning in Sports Betting: Techniques, Challenges, and Future Directions**|Ren\u00e9 Manass\u00e9 Galekwa et.al.|[2410.21484](http://arxiv.org/abs/2410.21484)|null|\n"
     },
     "Transfer Learning": {
@@ -11412,7 +11412,7 @@
         "2410.20356": "|**2024-10-27**|**Uncovering Capabilities of Model Pruning in Graph Contrastive Learning**|Wu Junran et.al.|[2410.20356](http://arxiv.org/abs/2410.20356)|null|\n",
         "2410.20182": "|**2024-10-26**|**Chemical Language Model Linker: blending text and molecules with modular adapters**|Yifan Deng et.al.|[2410.20182](http://arxiv.org/abs/2410.20182)|**[link](https://github.com/gitter-lab/chemlml)**|\n",
         "2410.22264": "|**2024-10-29**|**Meta-Learning Adaptable Foundation Models**|Jacob L. Block et.al.|[2410.22264](http://arxiv.org/abs/2410.22264)|null|\n",
-        "2410.22023": "|**2024-10-29**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|null|\n",
+        "2410.22023": "|**2024-10-29**|**Feature distribution Adaptation Network for Speech Emotion Recognition**|Shaokai Li et.al.|[2410.22023](http://arxiv.org/abs/2410.22023)|**[link](https://github.com/shaokai1209/fdan)**|\n",
         "2410.21872": "|**2024-10-29**|**Advancing Efficient Brain Tumor Multi-Class Classification -- New Insights from the Vision Mamba Model in Transfer Learning**|Yinyi Lai et.al.|[2410.21872](http://arxiv.org/abs/2410.21872)|null|\n",
         "2410.21827": "|**2024-10-29**|**Cross-Domain Transfer Learning Method for Thermal Adaptive Behavior Recognition with WiFi**|Zhaohe Lv et.al.|[2410.21827](http://arxiv.org/abs/2410.21827)|null|\n",
         "2410.21708": "|**2024-10-29**|**Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation**|Ruihao Xia et.al.|[2410.21708](http://arxiv.org/abs/2410.21708)|**[link](https://github.com/xiarho/madm)**|\n",
@@ -11664,7 +11664,7 @@
         "2410.21275": "|**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275](http://arxiv.org/abs/2410.21275)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|\n",
         "2410.20451": "|**2024-10-27**|**BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events**|Yijin Li et.al.|[2410.20451](http://arxiv.org/abs/2410.20451)|null|\n",
         "2410.20084": "|**2024-10-26**|**UniVST: A Unified Framework for Training-free Localized Video Style Transfer**|Quanjian Song et.al.|[2410.20084](http://arxiv.org/abs/2410.20084)|null|\n",
-        "2410.22288": "|**2024-10-29**|**Motion Graph Unleashed: A Novel Approach to Video Prediction**|Yiqi Zhong et.al.|[2410.22288](http://arxiv.org/abs/2410.22288)|null|\n",
+        "2410.22288": "|**2024-10-29**|**Motion Graph Unleashed: A Novel Approach to Video Prediction**|Yiqi Zhong et.al.|[2410.22288](http://arxiv.org/abs/2410.22288)|**[link](https://github.com/Kay1794/Motion-Graph-Video-Prediction)**|\n",
         "2410.22070": "|**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](http://arxiv.org/abs/2410.22070)|null|\n",
         "2410.21639": "|**2024-10-29**|**Investigation of moving objects through atmospheric turbulence from a non-stationary platform**|Nicholas Ferrante et.al.|[2410.21639](http://arxiv.org/abs/2410.21639)|null|\n",
         "2410.21329": "|**2024-10-27**|**CloudCast -- Total Cloud Cover Nowcasting with Machine Learning**|Mikko Partio et.al.|[2410.21329](http://arxiv.org/abs/2410.21329)|null|\n"
@@ -13238,7 +13238,7 @@
         "2410.22133": "|**2024-10-29**|**Learning Successor Features the Simple Way**|Raymond Chua et.al.|[2410.22133](http://arxiv.org/abs/2410.22133)|null|\n",
         "2410.22093": "|**2024-10-29**|**PC-Gym: Benchmark Environments For Process Control Problems**|Maximilian Bloor et.al.|[2410.22093](http://arxiv.org/abs/2410.22093)|null|\n",
         "2410.21966": "|**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966](http://arxiv.org/abs/2410.21966)|null|\n",
-        "2410.21940": "|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|null|\n",
+        "2410.21940": "|**2024-10-29**|**Human-Readable Programs as Actors of Reinforcement Learning Agents Using Critic-Moderated Evolution**|Senne Deproost et.al.|[2410.21940](http://arxiv.org/abs/2410.21940)|**[link](https://github.com/SenneDeproost/CM-GP)**|\n",
         "2410.21845": "|**2024-10-29**|**Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**|Jianlan Luo et.al.|[2410.21845](http://arxiv.org/abs/2410.21845)|null|\n",
         "2410.21795": "|**2024-10-29**|**Robot Policy Learning with Temporal Optimal Transport Reward**|Yuwei Fu et.al.|[2410.21795](http://arxiv.org/abs/2410.21795)|**[link](https://github.com/fuyw/temporalot)**|\n",
         "2410.21704": "|**2024-10-29**|**Stochastic Approximation with Unbounded Markovian Noise: A General-Purpose Theorem**|Shaan Ul Haque et.al.|[2410.21704](http://arxiv.org/abs/2410.21704)|null|\n",
