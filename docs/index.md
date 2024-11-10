@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.11.09
+## Updated on 2024.11.10
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -14,7 +14,7 @@ layout: default
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
 |**2024-11-07**|**Is network fragmentation a useful complexity measure?**|Coenraad Mouton et.al.|[2411.04695](http://arxiv.org/abs/2411.04695)|null|
 |**2024-11-07**|**DISCO: DISCovering Overfittings as Causal Rules for Text Classification Models**|Zijian Zhang et.al.|[2411.04649](http://arxiv.org/abs/2411.04649)|null|
-|**2024-11-07**|**Neural Fingerprints for Adversarial Attack Detection**|Haim Fisher et.al.|[2411.04533](http://arxiv.org/abs/2411.04533)|null|
+|**2024-11-07**|**Neural Fingerprints for Adversarial Attack Detection**|Haim Fisher et.al.|[2411.04533](http://arxiv.org/abs/2411.04533)|**[link](https://github.com/HaimFisher/fingerprints-armor)**|
 |**2024-11-06**|**Multimodal Structure-Aware Quantum Data Processing**|Hala Hawashin et.al.|[2411.04242](http://arxiv.org/abs/2411.04242)|null|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097](http://arxiv.org/abs/2411.04097)|**[link](https://github.com/stanford-aimi/ravl)**|
 |**2024-11-06**|**Overcoming label shift in targeted federated learning**|Edvin Listo Zec et.al.|[2411.03799](http://arxiv.org/abs/2411.03799)|null|
