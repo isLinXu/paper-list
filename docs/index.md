@@ -3,13 +3,13 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|**[link](https://github.com/YoffeG/Thematic-nonThematic_Hypothesis_Testing)**|
+|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|null|
 |**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772](http://arxiv.org/abs/2411.04772)|**[link](https://github.com/FrankShi9/Attention-Mask-Attack)**|
 |**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
 |**2024-11-07**|**Is network fragmentation a useful complexity measure?**|Coenraad Mouton et.al.|[2411.04695](http://arxiv.org/abs/2411.04695)|null|
@@ -7784,7 +7784,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702](http://arxiv.org/abs/2411.03702)|null|
-|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|
+|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|
 |**2024-11-05**|**OLAF: A Plug-and-Play Framework for Enhanced Multi-object Multi-part Scene Parsing**|Pranav Gupta et.al.|[2411.02858](http://arxiv.org/abs/2411.02858)|null|
 |**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|
 |**2024-11-04**|**Multi-task Geometric Estimation of Depth and Surface Normal from Monocular 360° Images**|Kun Huang et.al.|[2411.01749](http://arxiv.org/abs/2411.01749)|**[link](https://github.com/huangkun101230/360mtlgeometricestimation)**|
@@ -9581,7 +9581,7 @@ layout: default
 |**2024-11-07**|**From CNN to ConvRNN: Adapting Visualization Techniques for Time-Series Anomaly Detection**|Fabien Poirier et.al.|[2411.04707](http://arxiv.org/abs/2411.04707)|null|
 |**2024-11-07**|**Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis**|Qiang Wu et.al.|[2411.04554](http://arxiv.org/abs/2411.04554)|**[link](https://github.com/WuQiangXDU/Peri-midFormer)**|
 |**2024-11-07**|**GPT-Guided Monte Carlo Tree Search for Symbolic Regression in Financial Fraud Detection**|Prashank Kadam et.al.|[2411.04459](http://arxiv.org/abs/2411.04459)|null|
-|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|null|
+|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|**[link](https://github.com/MichelleLochner/astronomaly)**|
 |**2024-11-06**|**Synomaly Noise and Multi-Stage Diffusion: A Novel Approach for Unsupervised Anomaly Detection in Ultrasound Imaging**|Yuan Bi et.al.|[2411.04004](http://arxiv.org/abs/2411.04004)|null|
 |**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996](http://arxiv.org/abs/2411.03996)|null|
 |**2024-11-05**|**Enhanced Real-Time Threat Detection in 5G Networks: A Self-Attention RNN Autoencoder Approach for Spectral Intrusion Analysis**|Mohammadreza Kouchaki et.al.|[2411.03365](http://arxiv.org/abs/2411.03365)|null|
@@ -12127,7 +12127,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
 |**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|
-|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|null|
+|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|**[link](https://github.com/hukz18/Stem-Ob)**|
 |**2024-11-07**|**Evaluating Robustness of Reinforcement Learning Algorithms for Autonomous Shipping**|Bavo Lesy et.al.|[2411.04915](http://arxiv.org/abs/2411.04915)|null|
 |**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|
 |**2024-11-07**|**Asymptotic regularity of a generalised stochastic Halpern scheme with applications**|Nicholas Pischke et.al.|[2411.04845](http://arxiv.org/abs/2411.04845)|null|
@@ -13767,7 +13767,7 @@ layout: default
 |**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907](http://arxiv.org/abs/2411.04907)|null|
 |**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899](http://arxiv.org/abs/2411.04899)|null|
 |**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|
-|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|**[link](https://github.com/abbahaddou/CGSO)**|
+|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|null|
 |**2024-11-07**|**Cybercrime Prediction via Geographically Weighted Learning**|Muhammad Al-Zafar Khan et.al.|[2411.04635](http://arxiv.org/abs/2411.04635)|null|
 |**2024-11-07**|**Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks**|Jhony H. Giraldo et.al.|[2411.04570](http://arxiv.org/abs/2411.04570)|**[link](https://github.com/jhonygiraldo/S2-GNN)**|
 |**2024-11-07**|**ComFairGNN: Community Fair Graph Neural Network**|Yonas Sium et.al.|[2411.04371](http://arxiv.org/abs/2411.04371)|null|

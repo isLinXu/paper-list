@@ -1140,7 +1140,7 @@
         "2411.04097": "|**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097](http://arxiv.org/abs/2411.04097)|**[link](https://github.com/stanford-aimi/ravl)**|\n",
         "2411.03799": "|**2024-11-06**|**Overcoming label shift in targeted federated learning**|Edvin Listo Zec et.al.|[2411.03799](http://arxiv.org/abs/2411.03799)|null|\n",
         "2411.03752": "|**2024-11-06**|**Deferred Poisoning: Making the Model More Vulnerable via Hessian Singularization**|Yuhao He et.al.|[2411.03752](http://arxiv.org/abs/2411.03752)|null|\n",
-        "2411.04950": "|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|**[link](https://github.com/YoffeG/Thematic-nonThematic_Hypothesis_Testing)**|\n",
+        "2411.04950": "|**2024-11-07**|**Estimating the Influence of Sequentially Correlated Literary Properties in Textual Classification: A Data-Centric Hypothesis-Testing Approach**|Gideon Yoffe et.al.|[2411.04950](http://arxiv.org/abs/2411.04950)|null|\n",
         "2411.04772": "|**2024-11-07**|**Attention Masks Help Adversarial Attacks to Bypass Safety Detectors**|Yunfan Shi et.al.|[2411.04772](http://arxiv.org/abs/2411.04772)|**[link](https://github.com/FrankShi9/Attention-Mask-Attack)**|\n",
         "2411.04760": "|**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|\n",
         "2411.04695": "|**2024-11-07**|**Is network fragmentation a useful complexity measure?**|Coenraad Mouton et.al.|[2411.04695](http://arxiv.org/abs/2411.04695)|null|\n",
@@ -8094,7 +8094,7 @@
         "2411.02858": "|**2024-11-05**|**OLAF: A Plug-and-Play Framework for Enhanced Multi-object Multi-part Scene Parsing**|Pranav Gupta et.al.|[2411.02858](http://arxiv.org/abs/2411.02858)|null|\n",
         "2411.02547": "|**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|\n",
         "2411.03702": "|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702](http://arxiv.org/abs/2411.03702)|null|\n",
-        "2411.03540": "|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|null|\n"
+        "2411.03540": "|**2024-11-05**|**VLA-3D: A Dataset for 3D Semantic Scene Understanding and Navigation**|Haochen Zhang et.al.|[2411.03540](http://arxiv.org/abs/2411.03540)|**[link](https://github.com/haochenz11/vla-3d)**|\n"
     },
     "Depth Estimation": {
         "2402.18181": "|**2024-02-29**|**CFDNet: A Generalizable Foggy Stereo Matching Network with Contrastive Feature Distillation**|Zihua Liu et.al.|[2402.18181](http://arxiv.org/abs/2402.18181)|null|\n",
@@ -10464,7 +10464,7 @@
         "2411.04707": "|**2024-11-07**|**From CNN to ConvRNN: Adapting Visualization Techniques for Time-Series Anomaly Detection**|Fabien Poirier et.al.|[2411.04707](http://arxiv.org/abs/2411.04707)|null|\n",
         "2411.04554": "|**2024-11-07**|**Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis**|Qiang Wu et.al.|[2411.04554](http://arxiv.org/abs/2411.04554)|**[link](https://github.com/WuQiangXDU/Peri-midFormer)**|\n",
         "2411.04459": "|**2024-11-07**|**GPT-Guided Monte Carlo Tree Search for Symbolic Regression in Financial Fraud Detection**|Prashank Kadam et.al.|[2411.04459](http://arxiv.org/abs/2411.04459)|null|\n",
-        "2411.04188": "|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|null|\n"
+        "2411.04188": "|**2024-11-06**|**Astronomaly Protege: Discovery Through Human-Machine Collaboration**|Michelle Lochner et.al.|[2411.04188](http://arxiv.org/abs/2411.04188)|**[link](https://github.com/MichelleLochner/astronomaly)**|\n"
     },
     "Transfer Learning": {
         "2402.18490": "|**2024-02-28**|**TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding**|Zhihao Zhang et.al.|[2402.18490](http://arxiv.org/abs/2402.18490)|null|\n",
@@ -13696,7 +13696,7 @@
         "2411.03817": "|**2024-11-06**|**From Novice to Expert: LLM Agent Policy Optimization via Step-wise Reinforcement Learning**|Zhirui Deng et.al.|[2411.03817](http://arxiv.org/abs/2411.03817)|null|\n",
         "2411.04976": "|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|\n",
         "2411.04942": "|**2024-11-07**|**A Reinforcement Learning-Based Automatic Video Editing Method Using Pre-trained Vision-Language Model**|Panwen Hu et.al.|[2411.04942](http://arxiv.org/abs/2411.04942)|null|\n",
-        "2411.04919": "|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|null|\n",
+        "2411.04919": "|**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|**[link](https://github.com/hukz18/Stem-Ob)**|\n",
         "2411.04915": "|**2024-11-07**|**Evaluating Robustness of Reinforcement Learning Algorithms for Autonomous Shipping**|Bavo Lesy et.al.|[2411.04915](http://arxiv.org/abs/2411.04915)|null|\n",
         "2411.04867": "|**2024-11-07**|**Think Smart, Act SMARL! Analyzing Probabilistic Logic Driven Safety in Multi-Agent Reinforcement Learning**|Satchit Chatterji et.al.|[2411.04867](http://arxiv.org/abs/2411.04867)|**[link](https://github.com/satchitchatterji/shieldedmarlthesis)**|\n",
         "2411.04845": "|**2024-11-07**|**Asymptotic regularity of a generalised stochastic Halpern scheme with applications**|Nicholas Pischke et.al.|[2411.04845](http://arxiv.org/abs/2411.04845)|null|\n",
@@ -15059,7 +15059,7 @@
         "2411.04907": "|**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907](http://arxiv.org/abs/2411.04907)|null|\n",
         "2411.04899": "|**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899](http://arxiv.org/abs/2411.04899)|null|\n",
         "2411.04747": "|**2024-11-07**|**Equivariant Graph Attention Networks with Structural Motifs for Predicting Cell Line-Specific Synergistic Drug Combinations**|Zachary Schwehr et.al.|[2411.04747](http://arxiv.org/abs/2411.04747)|**[link](https://github.com/wetothemoon/egat_drugsynergy)**|\n",
-        "2411.04655": "|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|**[link](https://github.com/abbahaddou/CGSO)**|\n",
+        "2411.04655": "|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|null|\n",
         "2411.04635": "|**2024-11-07**|**Cybercrime Prediction via Geographically Weighted Learning**|Muhammad Al-Zafar Khan et.al.|[2411.04635](http://arxiv.org/abs/2411.04635)|null|\n",
         "2411.04570": "|**2024-11-07**|**Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks**|Jhony H. Giraldo et.al.|[2411.04570](http://arxiv.org/abs/2411.04570)|**[link](https://github.com/jhonygiraldo/S2-GNN)**|\n",
         "2411.04371": "|**2024-11-07**|**ComFairGNN: Community Fair Graph Neural Network**|Yonas Sium et.al.|[2411.04371](http://arxiv.org/abs/2411.04371)|null|\n",
