@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -1277,7 +1277,7 @@ layout: default
 |**2024-12-05**|**YOLO-CCA: A Context-Based Approach for Traffic Sign Detection**|Linfeng Jiang et.al.|[2412.04289](http://arxiv.org/abs/2412.04289)|**[link](https://github.com/zippiest/yolo-cca)**|
 |**2024-12-05**|**DEIM: DETR with Improved Matching for Fast Convergence**|Shihua Huang et.al.|[2412.04234](http://arxiv.org/abs/2412.04234)|**[link](https://github.com/shihuahuang95/deim)**|
 |**2024-12-05**|**Frequency-Adaptive Low-Latency Object Detection Using Events and Frames**|Haitian Zhang et.al.|[2412.04149](http://arxiv.org/abs/2412.04149)|null|
-|**2024-12-05**|**MVUDA: Unsupervised Domain Adaptation for Multi-view Pedestrian Detection**|Erik Brorsson et.al.|[2412.04117](http://arxiv.org/abs/2412.04117)|null|
+|**2024-12-05**|**MVUDA: Unsupervised Domain Adaptation for Multi-view Pedestrian Detection**|Erik Brorsson et.al.|[2412.04117](http://arxiv.org/abs/2412.04117)|**[link](https://github.com/ErikBrorsson/MVUDA)**|
 |**2024-12-05**|**Thermal and RGB Images Work Better Together in Wind Turbine Damage Detection**|Serhii Svystun et.al.|[2412.04114](http://arxiv.org/abs/2412.04114)|null|
 |**2024-12-05**|**SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning**|Seokju Yun et.al.|[2412.04077](http://arxiv.org/abs/2412.04077)|null|
 |**2024-12-05**|**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**|Zeel B Patel et.al.|[2412.04065](http://arxiv.org/abs/2412.04065)|null|
@@ -11718,7 +11718,7 @@ layout: default
 |**2024-12-05**|**Assessing and Learning Alignment of Unimodal Vision and Language Models**|Le Zhang et.al.|[2412.04616](http://arxiv.org/abs/2412.04616)|null|
 |**2024-12-05**|**Moto: Latent Motion Token as the Bridging Language for Robot Manipulation**|Yi Chen et.al.|[2412.04445](http://arxiv.org/abs/2412.04445)|null|
 |**2024-12-05**|**Enhancing Whole Slide Image Classification through Supervised Contrastive Domain Adaptation**|Ilán Carretero et.al.|[2412.04260](http://arxiv.org/abs/2412.04260)|null|
-|**2024-12-05**|**MVUDA: Unsupervised Domain Adaptation for Multi-view Pedestrian Detection**|Erik Brorsson et.al.|[2412.04117](http://arxiv.org/abs/2412.04117)|null|
+|**2024-12-05**|**MVUDA: Unsupervised Domain Adaptation for Multi-view Pedestrian Detection**|Erik Brorsson et.al.|[2412.04117](http://arxiv.org/abs/2412.04117)|**[link](https://github.com/ErikBrorsson/MVUDA)**|
 |**2024-12-05**|**Adult Glioma Segmentation in Sub-Saharan Africa using Transfer Learning on Stratified Finetuning Data**|Abhijeet Parida et.al.|[2412.04111](http://arxiv.org/abs/2412.04111)|**[link](https://github.com/MIC-DKFZ/MedNeXt)**|
 |**2024-12-05**|**TransAdapter: Vision Transformer for Feature-Centric Unsupervised Domain Adaptation**|A. Enes Doruk et.al.|[2412.04073](http://arxiv.org/abs/2412.04073)|**[link](https://github.com/enesdoruk/TransAdapter)**|
 |**2024-12-05**|**Boundary-Guided Learning for Gene Expression Prediction in Spatial Transcriptomics**|Mingcheng Qu et.al.|[2412.04072](http://arxiv.org/abs/2412.04072)|**[link](https://github.com/WcloudC0416/BG-TRIPLEX)**|
