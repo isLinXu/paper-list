@@ -2716,11 +2716,11 @@
         "2412.15150": "|**2024-12-19**|**Leveraging Color Channel Independence for Improved Unsupervised Object Detection**|Bastian J\u00e4ckl et.al.|[2412.15150](http://arxiv.org/abs/2412.15150)|null|\n",
         "2412.14816": "|**2024-12-19**|**Explainable Tampered Text Detection via Multimodal Large Models**|Chenfan Qu et.al.|[2412.14816](http://arxiv.org/abs/2412.14816)|null|\n",
         "2412.14692": "|**2024-12-19**|**Explicit Relational Reasoning Network for Scene Text Detection**|Yuchen Su et.al.|[2412.14692](http://arxiv.org/abs/2412.14692)|null|\n",
-        "2412.14680": "|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|null|\n",
+        "2412.14680": "|**2024-12-19**|**A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space**|Yonghao He et.al.|[2412.14680](http://arxiv.org/abs/2412.14680)|**[link](https://github.com/d-robotics-ai-lab/dosod)**|\n",
         "2412.14633": "|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|\n",
         "2412.14576": "|**2024-12-19**|**Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network**|Kunpeng Wang et.al.|[2412.14576](http://arxiv.org/abs/2412.14576)|**[link](https://github.com/angknpng/pcnet)**|\n",
         "2412.14571": "|**2024-12-19**|**SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection**|Ruoyu Xu et.al.|[2412.14571](http://arxiv.org/abs/2412.14571)|null|\n",
-        "2412.14379": "|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|null|\n"
+        "2412.14379": "|**2024-12-18**|**HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection**|Phuc D. A. Nguyen et.al.|[2412.14379](http://arxiv.org/abs/2412.14379)|**[link](https://github.com/phucnda/ha-rdet)**|\n"
     },
     "Semantic Segmentation": {
         "2402.18467": "|**2024-02-29**|**Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation**|Zhiwei Yang et.al.|[2402.18467](http://arxiv.org/abs/2402.18467)|**[link](https://github.com/zwyang6/seco)**|\n",
@@ -3889,7 +3889,7 @@
         "2412.13654": "|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|\n",
         "2412.13652": "|**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|\n",
         "2412.15058": "|**2024-12-19**|**MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**|Hallee E. Wong et.al.|[2412.15058](http://arxiv.org/abs/2412.15058)|null|\n",
-        "2412.15054": "|**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|null|\n",
+        "2412.15054": "|**2024-12-19**|**GIRAFE: Glottal Imaging Dataset for Advanced Segmentation, Analysis, and Facilitative Playbacks Evaluation**|G. Andrade-Miranda et.al.|[2412.15054](http://arxiv.org/abs/2412.15054)|**[link](https://github.com/andrade-miranda/girafe)**|\n",
         "2412.14821": "|**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821](http://arxiv.org/abs/2412.14821)|**[link](https://github.com/skyshoumeng/pc-bev)**|\n",
         "2412.14633": "|**2024-12-19**|**Progressive Fine-to-Coarse Reconstruction for Accurate Low-Bit Post-Training Quantization in Vision Transformers**|Rui Ding et.al.|[2412.14633](http://arxiv.org/abs/2412.14633)|null|\n",
         "2412.14587": "|**2024-12-19**|**Spike2Former: Efficient Spiking Transformer for High-performance Image Segmentation**|Zhenxin Lei et.al.|[2412.14587](http://arxiv.org/abs/2412.14587)|null|\n",
@@ -5371,7 +5371,7 @@
         "2412.13502": "|**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502](http://arxiv.org/abs/2412.13502)|null|\n",
         "2412.13454": "|**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454](http://arxiv.org/abs/2412.13454)|null|\n",
         "2412.15212": "|**2024-12-19**|**Scaling 4D Representations**|Jo\u00e3o Carreira et.al.|[2412.15212](http://arxiv.org/abs/2412.15212)|null|\n",
-        "2412.14195": "|**2024-12-13**|**IMPROVE: Impact of Mobile Phones on Remote Online Virtual Education**|Roberto Daza et.al.|[2412.14195](http://arxiv.org/abs/2412.14195)|null|\n"
+        "2412.14195": "|**2024-12-13**|**IMPROVE: Impact of Mobile Phones on Remote Online Virtual Education**|Roberto Daza et.al.|[2412.14195](http://arxiv.org/abs/2412.14195)|**[link](https://github.com/bidalab/improve)**|\n"
     },
     "Image Generation": {
         "2402.18451": "|**2024-02-28**|**MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**|Jiahao Huang et.al.|[2402.18451](http://arxiv.org/abs/2402.18451)|null|\n",
@@ -9027,13 +9027,13 @@
         "2412.14062": "|**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|\n",
         "2412.15216": "|**2024-12-19**|**UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency**|Enis Simsar et.al.|[2412.15216](http://arxiv.org/abs/2412.15216)|null|\n",
         "2412.15213": "|**2024-12-19**|**Flowing from Words to Pixels: A Framework for Cross-Modality Evolution**|Qihao Liu et.al.|[2412.15213](http://arxiv.org/abs/2412.15213)|null|\n",
-        "2412.15208": "|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|\n",
-        "2412.15206": "|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|\n",
-        "2412.15194": "|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|\n",
+        "2412.15208": "|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|\n",
+        "2412.15206": "|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|\n",
+        "2412.15194": "|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|**[link](https://github.com/microsoft/mmlu-cf)**|\n",
         "2412.15188": "|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|\n",
         "2412.15184": "|**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|\n",
         "2412.15178": "|**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|\n",
-        "2412.15177": "|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|\n",
+        "2412.15177": "|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|\n",
         "2412.15176": "|**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|\n"
     },
     "Scene Understanding": {
@@ -9455,7 +9455,7 @@
         "2412.13654": "|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|\n",
         "2412.13652": "|**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|\n",
         "2412.13569": "|**2024-12-18**|**Multi-View Pedestrian Occupancy Prediction with a Novel Synthetic Dataset**|Sithu Aung et.al.|[2412.13569](http://arxiv.org/abs/2412.13569)|null|\n",
-        "2412.15206": "|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|\n",
+        "2412.15206": "|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|\n",
         "2412.14837": "|**2024-12-19**|**ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects**|Qihang Cao et.al.|[2412.14837](http://arxiv.org/abs/2412.14837)|null|\n",
         "2412.14821": "|**2024-12-19**|**PC-BEV: An Efficient Polar-Cartesian BEV Fusion Framework for LiDAR Semantic Segmentation**|Shoumeng Qiu et.al.|[2412.14821](http://arxiv.org/abs/2412.14821)|**[link](https://github.com/skyshoumeng/pc-bev)**|\n"
     },
@@ -10858,7 +10858,7 @@
         "2412.10705": "|**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|null|\n",
         "2412.12760": "|**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|\n",
         "2412.12635": "|**2024-12-17**|**Streaming Keyword Spotting Boosted by Cross-layer Discrimination Consistency**|Yu Xi et.al.|[2412.12635](http://arxiv.org/abs/2412.12635)|null|\n",
-        "2412.12498": "|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|null|\n",
+        "2412.12498": "|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|**[link](https://github.com/shinshoji01/hed-project-page)**|\n",
         "2412.13387": "|**2024-12-17**|**Deep Speech Synthesis from Multimodal Articulatory Representations**|Peter Wu et.al.|[2412.13387](http://arxiv.org/abs/2412.13387)|null|\n"
     },
     "Multimodal": {
@@ -17619,11 +17619,11 @@
         "2412.13283": "|**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283](http://arxiv.org/abs/2412.13283)|null|\n",
         "2412.13240": "|**2024-12-17**|**Enhancing Internet of Things Security throughSelf-Supervised Graph Neural Networks**|Safa Ben Atitallah et.al.|[2412.13240](http://arxiv.org/abs/2412.13240)|null|\n",
         "2412.15063": "|**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063](http://arxiv.org/abs/2412.15063)|null|\n",
-        "2412.14978": "|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|null|\n",
+        "2412.14978": "|**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|\n",
         "2412.14867": "|**2024-12-19**|**Graph-Convolutional Networks: Named Entity Recognition and Large Language Model Embedding in Document Clustering**|Imed Keraghel et.al.|[2412.14867](http://arxiv.org/abs/2412.14867)|null|\n",
         "2412.14814": "|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|\n",
         "2412.14738": "|**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|\n",
-        "2412.14663": "|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|null|\n",
+        "2412.14663": "|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|**[link](https://github.com/mminici/socgfm)**|\n",
         "2412.14655": "|**2024-12-19**|**Trainable Adaptive Activation Function Structure (TAAFS) Enhances Neural Network Force Field Performance with Only Dozens of Additional Parameters**|Enji Li et.al.|[2412.14655](http://arxiv.org/abs/2412.14655)|null|\n",
         "2412.14602": "|**2024-12-19**|**Towards Scalable and Deep Graph Neural Networks via Noise Masking**|Yuxuan Liang et.al.|[2412.14602](http://arxiv.org/abs/2412.14602)|null|\n",
         "2412.14497": "|**2024-12-19**|**Treatment Effects Estimation on Networked Observational Data using Disentangled Variational Graph Autoencoder**|Di Fan et.al.|[2412.14497](http://arxiv.org/abs/2412.14497)|null|\n",
