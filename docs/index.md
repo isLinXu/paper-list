@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2024.12.23
+## Updated on 2024.12.24
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -9114,7 +9114,7 @@ layout: default
 |**2024-12-17**|**RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning**|Kanghoon Yoon et.al.|[2412.12788](http://arxiv.org/abs/2412.12788)|**[link](https://github.com/KanghoonYoon/torch-rasgg)**|
 |**2024-12-18**|**Dense Audio-Visual Event Localization under Cross-Modal Consistency and Multi-Temporal Granularity Collaboration**|Ziheng Zhou et.al.|[2412.12628](http://arxiv.org/abs/2412.12628)|null|
 |**2024-12-17**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
-|**2024-12-16**|**DINO-Foresight Looking into the Future with DINO**|Efstathios Karypidis et.al.|[2412.11673](http://arxiv.org/abs/2412.11673)|**[link](https://github.com/sta8is/dino-foresight)**|
+|**2024-12-16**|**DINO-Foresight: Looking into the Future with DINO**|Efstathios Karypidis et.al.|[2412.11673](http://arxiv.org/abs/2412.11673)|**[link](https://github.com/sta8is/dino-foresight)**|
 |**2024-12-16**|**An Enhanced Classification Method Based on Adaptive Multi-Scale Fusion for Long-tailed Multispectral Point Clouds**|TianZhu Liu et.al.|[2412.11407](http://arxiv.org/abs/2412.11407)|null|
 |**2024-12-15**|**SceneLLM: Implicit Language Reasoning in LLM for Dynamic Scene Graph Generation**|Hang Zhang et.al.|[2412.11026](http://arxiv.org/abs/2412.11026)|null|
 |**2024-12-13**|**SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians**|Siyun Liang et.al.|[2412.10231](http://arxiv.org/abs/2412.10231)|null|
