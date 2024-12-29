@@ -4793,7 +4793,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|**[link](https://github.com/zhaoxingZ/STVO)**|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742](http://arxiv.org/abs/2412.16742)|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454](http://arxiv.org/abs/2412.16454)|null|
 |**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155](http://arxiv.org/abs/2412.16155)|null|
@@ -14069,7 +14069,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-23**|**FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation**|Min Lin et.al.|[2412.17366](http://arxiv.org/abs/2412.17366)|null|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|**[link](https://github.com/zhaoxingZ/STVO)**|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
 |**2024-12-20**|**SOUS VIDE: Cooking Visual Drone Navigation Policies in a Gaussian Splatting Vacuum**|JunEn Low et.al.|[2412.16346](http://arxiv.org/abs/2412.16346)|null|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
 |**2024-12-18**|**Dynamic semantic VSLAM with known and unknown objects**|Sanghyoup Gu et.al.|[2412.14359](http://arxiv.org/abs/2412.14359)|null|
