@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.01.02
+## Updated on 2025.01.03
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -14560,7 +14560,7 @@ layout: default
 |**2024-12-30**|**Advances in Multi-agent Reinforcement Learning: Persistent Autonomy and Robot Learning Lab Report 2024**|Reza Azadeh et.al.|[2412.21088](http://arxiv.org/abs/2412.21088)|null|
 |**2024-12-30**|**Learning Epidemiological Dynamics via the Finite Expression Method**|Jianda Du et.al.|[2412.21049](http://arxiv.org/abs/2412.21049)|null|
 |**2024-12-30**|**Weber-Fechner Law in Temporal Difference learning derived from Control as Inference**|Keiichiro Takahashi et.al.|[2412.21004](http://arxiv.org/abs/2412.21004)|null|
-|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|null|
+|**2024-12-30**|**LEASE: Offline Preference-based Reinforcement Learning with High Sample Efficiency**|Xiao-Yin Liu et.al.|[2412.21001](http://arxiv.org/abs/2412.21001)|**[link](https://github.com/xiaoyinliu0714/LEASE)**|
 |**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
 |**2024-12-30**|**Data-Based Efficient Off-Policy Stabilizing Optimal Control Algorithms for Discrete-Time Linear Systems via Damping Coefficients**|Dongdong Li et.al.|[2412.20845](http://arxiv.org/abs/2412.20845)|null|
 |**2024-12-30**|**Isoperimetry is All We Need: Langevin Posterior Sampling for RL with Sublinear Regret**|Emilio Jorge et.al.|[2412.20824](http://arxiv.org/abs/2412.20824)|null|
