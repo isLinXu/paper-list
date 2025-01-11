@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.01.10
+## Updated on 2025.01.11
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -11785,7 +11785,7 @@ layout: default
 |**2025-01-09**|**Learning In-Distribution Representations for Anomaly Detection**|William T. Lunardi et.al.|[2501.05130](http://arxiv.org/abs/2501.05130)|null|
 |**2025-01-08**|**Back Home: A Machine Learning Approach to Seashell Classification and Ecosystem Restoration**|Alexander Valverde et.al.|[2501.04873](http://arxiv.org/abs/2501.04873)|null|
 |**2025-01-08**|**Quantum Hybrid Support Vector Machines for Stress Detection in Older Adults**|Md Saif Hassan Onim et.al.|[2501.04831](http://arxiv.org/abs/2501.04831)|null|
-|**2025-01-08**|**Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**|Anthony Deschênes et.al.|[2501.04819](http://arxiv.org/abs/2501.04819)|null|
+|**2025-01-08**|**Planing It by Ear: Convolutional Neural Networks for Acoustic Anomaly Detection in Industrial Wood Planers**|Anthony Deschênes et.al.|[2501.04819](http://arxiv.org/abs/2501.04819)|**[link](https://github.com/AnthonyDeschenes/PlaningItByEarDataset)**|
 |**2025-01-08**|**Leveraging Registers in Vision Transformers for Robust Adaptation**|Srikar Yellapragada et.al.|[2501.04784](http://arxiv.org/abs/2501.04784)|null|
 |**2025-01-07**|**SPECTRE: A Hybrid System for an Adaptative and Optimised Cyber Threats Detection, Response and Investigation in Volatile Memory**|Arslan Tariq Syed et.al.|[2501.03898](http://arxiv.org/abs/2501.03898)|null|
 |**2025-01-07**|**KAnoCLIP: Zero-Shot Anomaly Detection through Knowledge-Driven Prompt Learning and Enhanced Cross-Modal Integration**|Chengyuan Li et.al.|[2501.03786](http://arxiv.org/abs/2501.03786)|null|
