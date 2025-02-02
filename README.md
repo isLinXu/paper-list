@@ -12523,7 +12523,7 @@
 |**2025-01-30**|**CryptoDNA: A Machine Learning Paradigm for DDoS Detection in Healthcare IoT, Inspired by crypto jacking prevention Models**|Zag ElSayed et.al.|[2501.18549](http://arxiv.org/abs/2501.18549)|null|
 |**2025-01-30**|**Causal Inference Real-Time Anomaly Detection with Synthetic Anomaly Monitoring (SAM)**|Emanuele Luzio et.al.|[2501.18417](http://arxiv.org/abs/2501.18417)|null|
 |**2025-01-30**|**GDformer: Going Beyond Subsequence Isolation for Multivariate Time Series Anomaly Detection**|Qingxiang Liu et.al.|[2501.18196](http://arxiv.org/abs/2501.18196)|**[link](https://github.com/yuppielqx/gdformer)**|
-|**2025-01-30**|**Conformal novelty detection for replicate point patterns with FDR or FWER control**|Christophe A. N. Biscio et.al.|[2501.18195](http://arxiv.org/abs/2501.18195)|null|
+|**2025-01-30**|**Conformal novelty detection for replicate point patterns with FDR or FWER control**|Christophe A. N. Biscio et.al.|[2501.18195](http://arxiv.org/abs/2501.18195)|**[link](https://github.com/martin497/conformal-novelty-detection-for-replicate-point-patterns)**|
 |**2025-01-30**|**Battery State of Health Estimation Using LLM Framework**|Aybars Yunusoglu et.al.|[2501.18123](http://arxiv.org/abs/2501.18123)|null|
 |**2025-01-29**|**KoopAGRU: A Koopman-based Anomaly Detection in Time-Series using Gated Recurrent Units**|Issam Ait Yahia et.al.|[2501.17976](http://arxiv.org/abs/2501.17976)|null|
 |**2025-01-29**|**Unsupervised Patch-GAN with Targeted Patch Ranking for Fine-Grained Novelty Detection in Medical Imaging**|Jingkun Chen et.al.|[2501.17906](http://arxiv.org/abs/2501.17906)|null|
