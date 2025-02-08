@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -17,7 +17,7 @@ layout: default
 |**2025-02-06**|**Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free**|Gian Mario Favero et.al.|[2502.03687](http://arxiv.org/abs/2502.03687)|null|
 |**2025-02-05**|**A Study in Dataset Distillation for Image Super-Resolution**|Tobias Dietz et.al.|[2502.03656](http://arxiv.org/abs/2502.03656)|null|
 |**2025-02-05**|**Gompertz Linear Units: Leveraging Asymmetry for Enhanced Learning Dynamics**|Indrashis Das et.al.|[2502.03654](http://arxiv.org/abs/2502.03654)|null|
-|**2025-02-05**|**Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**|Mehrdad Asadi et.al.|[2502.03591](http://arxiv.org/abs/2502.03591)|null|
+|**2025-02-05**|**Clinically-Inspired Hierarchical Multi-Label Classification of Chest X-rays with a Penalty-Based Loss Function**|Mehrdad Asadi et.al.|[2502.03591](http://arxiv.org/abs/2502.03591)|**[link](https://github.com/the-mercury/CIHMLC)**|
 |**2025-02-05**|**Optimal Task Order for Continual Learning of Multiple Tasks**|Ziyan Li et.al.|[2502.03350](http://arxiv.org/abs/2502.03350)|null|
 |**2025-02-05**|**Out-of-Distribution Detection using Synthetic Data Generation**|Momin Abbas et.al.|[2502.03323](http://arxiv.org/abs/2502.03323)|null|
 |**2025-02-05**|**Long-tailed Medical Diagnosis with Relation-aware Representation Learning and Iterative Classifier Calibration**|Li Pan et.al.|[2502.03238](http://arxiv.org/abs/2502.03238)|null|
