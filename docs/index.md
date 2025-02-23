@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -3257,7 +3257,7 @@ layout: default
 |**2025-02-19**|**Remote Sensing Semantic Segmentation Quality Assessment based on Vision Language Model**|Huiying Shi et.al.|[2502.13990](http://arxiv.org/abs/2502.13990)|null|
 |**2025-02-19**|**MGFI-Net: A Multi-Grained Feature Integration Network for Enhanced Medical Image Segmentation**|Yucheng Zeng et.al.|[2502.13808](http://arxiv.org/abs/2502.13808)|null|
 |**2025-02-19**|**CARE: Confidence-Aware Regression Estimation of building density fine-tuning EO Foundation Models**|Nikolaos Dionelis et.al.|[2502.13734](http://arxiv.org/abs/2502.13734)|null|
-|**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103](http://arxiv.org/abs/2502.13103)|null|
+|**2025-02-18**|**WeedsGalore: A Multispectral and Multitemporal UAV-based Dataset for Crop and Weed Segmentation in Agricultural Maize Fields**|Ekin Celikkan et.al.|[2502.13103](http://arxiv.org/abs/2502.13103)|**[link](https://github.com/gfz/weedsgalore)**|
 |**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
 |**2025-02-18**|**DAMamba: Vision State Space Model with Dynamic Adaptive Scan**|Tanzhe Li et.al.|[2502.12627](http://arxiv.org/abs/2502.12627)|null|
 |**2025-02-17**|**From Open-Vocabulary to Vocabulary-Free Semantic Segmentation**|Klara Reichard et.al.|[2502.11891](http://arxiv.org/abs/2502.11891)|null|
@@ -11705,8 +11705,8 @@ layout: default
 |**2025-02-20**|**Moshi Moshi? A Model Selection Hijacking Adversarial Attack**|Riccardo Petrucci et.al.|[2502.14586](http://arxiv.org/abs/2502.14586)|null|
 |**2025-02-19**|**On the application of Visibility Graphs in the Spectral Domain for Speaker Recognition**|Hernan Bocaccio et.al.|[2502.14110](http://arxiv.org/abs/2502.14110)|null|
 |**2025-02-18**|**Gesture-Aware Zero-Shot Speech Recognition for Patients with Language Disorders**|Seungbae Kim et.al.|[2502.13983](http://arxiv.org/abs/2502.13983)|null|
-|**2025-02-19**|**Measuring the Effect of Transcription Noise on Downstream Language Understanding Tasks**|Ori Shapira et.al.|[2502.13645](http://arxiv.org/abs/2502.13645)|null|
-|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**Measuring the Effect of Transcription Noise on Downstream Language Understanding Tasks**|Ori Shapira et.al.|[2502.13645](http://arxiv.org/abs/2502.13645)|**[link](https://github.com/OriShapira/ENDow)**|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|**[link](https://github.com/whichwhichgone/VLAS)**|
 |**2025-02-19**|**Adopting Whisper for Confidence Estimation**|Vaibhav Aggarwal et.al.|[2502.13446](http://arxiv.org/abs/2502.13446)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-18**|**Neuro-oscillatory models of cortical speech processing**|Olesia Dogonasheva et.al.|[2502.12935](http://arxiv.org/abs/2502.12935)|null|
@@ -14564,7 +14564,7 @@ layout: default
 |**2025-02-20**|**Vision Foundation Models in Medical Image Analysis: Advances and Challenges**|Pengchen Liang et.al.|[2502.14584](http://arxiv.org/abs/2502.14584)|null|
 |**2025-02-20**|**Distribution Matching for Self-Supervised Transfer Learning**|Yuling Jiao et.al.|[2502.14424](http://arxiv.org/abs/2502.14424)|**[link](https://github.com/vincen-github/DM)**|
 |**2025-02-20**|**A Macro- and Micro-Hierarchical Transfer Learning Framework for Cross-Domain Fake News Detection**|Xuankai Yang et.al.|[2502.14403](http://arxiv.org/abs/2502.14403)|null|
-|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|null|
+|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|**[link](https://github.com/av9ash/gitbugs/blob/main/multilingual/)**|
 |**2025-02-20**|**Asymmetric Co-Training for Source-Free Few-Shot Domain Adaptation**|Gengxu Li et.al.|[2502.14214](http://arxiv.org/abs/2502.14214)|null|
 |**2025-02-20**|**Spatial and Frequency Domain Adaptive Fusion Network for Image Deblurring**|Hu Gao et.al.|[2502.14209](http://arxiv.org/abs/2502.14209)|null|
 |**2025-02-19**|**A dynamic domain semi-Lagrangian method for stochastic Vlasov equations**|Jianbo Cui et.al.|[2502.13700](http://arxiv.org/abs/2502.13700)|null|
