@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -5617,7 +5617,7 @@ layout: default
 |**2025-02-25**|**Learning Structure-Supporting Dependencies via Keypoint Interactive Transformer for General Mammal Pose Estimation**|Tianyang Xu et.al.|[2502.18214](http://arxiv.org/abs/2502.18214)|**[link](https://github.com/Raojiyong/KITPose)**|
 |**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495](http://arxiv.org/abs/2502.16495)|null|
-|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|null|
+|**2025-02-23**|**DeProPose: Deficiency-Proof 3D Human Pose Estimation via Adaptive Multi-View Fusion**|Jianbin Jiao et.al.|[2502.16419](http://arxiv.org/abs/2502.16419)|**[link](https://github.com/wujinhuan/depropose)**|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251](http://arxiv.org/abs/2502.15251)|null|
 |**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179](http://arxiv.org/abs/2502.15179)|null|
@@ -6406,7 +6406,7 @@ layout: default
 |**2025-02-25**|**Investigating Youth AI Auditing**|Jaemarie Solyst et.al.|[2502.18576](http://arxiv.org/abs/2502.18576)|null|
 |**2025-02-25**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**|Yifan Pu et.al.|[2502.18364](http://arxiv.org/abs/2502.18364)|null|
 |**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
-|**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197](http://arxiv.org/abs/2502.18197)|null|
+|**2025-02-25**|**Training Consistency Models with Variational Noise Coupling**|Gianluigi Silvestri et.al.|[2502.18197](http://arxiv.org/abs/2502.18197)|**[link](https://github.com/sony/vct)**|
 |**2025-02-25**|**Inverse Materials Design by Large Language Model-Assisted Generative Framework**|Yun Hao et.al.|[2502.18127](http://arxiv.org/abs/2502.18127)|null|
 |**2025-02-26**|**Bayesian Optimization for Controlled Image Editing via LLMs**|Chengkun Cai et.al.|[2502.18116](http://arxiv.org/abs/2502.18116)|null|
 |**2025-02-25**|**Robust Polyp Detection and Diagnosis through Compositional Prompt-Guided Diffusion Models**|Jia Yu et.al.|[2502.17951](http://arxiv.org/abs/2502.17951)|null|
@@ -10864,7 +10864,7 @@ layout: default
 |**2025-02-21**|**Weakly Supervised Video Scene Graph Generation via Natural Language Supervision**|Kibum Kim et.al.|[2502.15370](http://arxiv.org/abs/2502.15370)|null|
 |**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
 |**2025-02-21**|**Hierarchical Context Transformer for Multi-level Semantic Scene Understanding**|Luoying Hao et.al.|[2502.15184](http://arxiv.org/abs/2502.15184)|**[link](https://github.com/aurora-hao/hct)**|
-|**2025-02-20**|**CrossOver: 3D Scene Cross-Modal Alignment**|Sayan Deb Sarkar et.al.|[2502.15011](http://arxiv.org/abs/2502.15011)|null|
+|**2025-02-20**|**CrossOver: 3D Scene Cross-Modal Alignment**|Sayan Deb Sarkar et.al.|[2502.15011](http://arxiv.org/abs/2502.15011)|**[link](https://github.com/GradientSpaces/CrossOver)**|
 |**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
 |**2025-02-19**|**Sce2DriveX: A Generalized MLLM Framework for Scene-to-Drive Learning**|Rui Zhao et.al.|[2502.14917](http://arxiv.org/abs/2502.14917)|null|
 |**2025-02-16**|**Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review**|Ufaq Khan et.al.|[2502.14886](http://arxiv.org/abs/2502.14886)|null|
@@ -13402,7 +13402,7 @@ layout: default
 |**2025-02-25**|**Identification and Characterization for Disruptions in the U.S. National Airspace System (NAS)**|Jing Xu et.al.|[2502.18687](http://arxiv.org/abs/2502.18687)|null|
 |**2025-02-25**|**Tighten The Lasso: A Convex Hull Volume-based Anomaly Detection Method**|Uri Itai et.al.|[2502.18601](http://arxiv.org/abs/2502.18601)|null|
 |**2025-02-25**|**Structural Alignment Improves Graph Test-Time Adaptation**|Hans Hao-Hsun Hsu et.al.|[2502.18334](http://arxiv.org/abs/2502.18334)|null|
-|**2025-02-25**|**From Vision to Sound: Advancing Audio Anomaly Detection with Vision-Based Algorithms**|Manuel Barusco et.al.|[2502.18328](http://arxiv.org/abs/2502.18328)|null|
+|**2025-02-25**|**From Vision to Sound: Advancing Audio Anomaly Detection with Vision-Based Algorithms**|Manuel Barusco et.al.|[2502.18328](http://arxiv.org/abs/2502.18328)|**[link](https://bitbucket.org/papers_vad_group/vision_to_sound_ad)**|
 |**2025-02-25**|**Sequential Outlier Detection in Non-Stationary Time Series**|Florian Heinrichs et.al.|[2502.18038](http://arxiv.org/abs/2502.18038)|null|
 |**2025-02-25**|**Radon-Nikodým Derivative: Re-imagining Anomaly Detection from a Measure Theoretic Perspective**|Shlok Mehendale et.al.|[2502.18002](http://arxiv.org/abs/2502.18002)|null|
 |**2025-02-25**|**Improved YOLOv7x-Based Defect Detection Algorithm for Power Equipment**|Jin Hou et.al.|[2502.17961](http://arxiv.org/abs/2502.17961)|null|
