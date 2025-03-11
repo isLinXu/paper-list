@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -6563,7 +6563,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-07**|**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**|Martin Spitznagel et.al.|[2503.05333](http://arxiv.org/abs/2503.05333)|null|
 |**2025-03-07**|**Frequency Autoregressive Image Generation with Continuous Tokens**|Hu Yu et.al.|[2503.05305](http://arxiv.org/abs/2503.05305)|null|
@@ -17157,7 +17157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Stereo Any Video: Temporally Consistent Stereo Matching**|Junpeng Jing et.al.|[2503.05549](http://arxiv.org/abs/2503.05549)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
@@ -17166,7 +17166,7 @@ layout: default
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
 |**2025-03-04**|**Anomaly detection in non-stationary videos using time-recursive differencing network based prediction**|Gargi V. Pillai et.al.|[2503.02234](http://arxiv.org/abs/2503.02234)|null|
-|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571](http://arxiv.org/abs/2503.01571)|null|
+|**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571](http://arxiv.org/abs/2503.01571)|**[link](https://github.com/lihaoy-ux/mline-vins)**|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547](http://arxiv.org/abs/2503.01547)|**[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**|
 |**2025-03-02**|**Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting**|Zhiwei Zhao et.al.|[2503.00868](http://arxiv.org/abs/2503.00868)|null|
 |**2025-03-02**|**HiMo: High-Speed Objects Motion Compensation in Point Clouds**|Qingwen Zhang et.al.|[2503.00803](http://arxiv.org/abs/2503.00803)|null|
