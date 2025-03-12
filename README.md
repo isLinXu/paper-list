@@ -1,5 +1,5 @@
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)<details>
   <summary>Table of Contents</summary>
@@ -1662,7 +1662,7 @@
 |**2024-02-27**|**Scaling Supervised Local Learning with Augmented Auxiliary Networks**|Chenxiang Ma et.al.|[2402.17318](http://arxiv.org/abs/2402.17318)|**[link](https://github.com/chenxiangma/auglocal)**|
 |**2024-02-26**|**Offline Writer Identification Using Convolutional Neural Network Activation Features**|Vincent Christlein et.al.|[2402.17029](http://arxiv.org/abs/2402.17029)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Object Detection
 
@@ -3407,7 +3407,7 @@
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](http://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](http://arxiv.org/abs/2402.17304)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Semantic Segmentation
 
@@ -4831,7 +4831,7 @@
 |**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Object Tracking
 
@@ -5229,7 +5229,7 @@
 |**2024-02-24**|**Multi-Object Tracking by Hierarchical Visual Representations**|Jinkun Cao et.al.|[2402.15895](http://arxiv.org/abs/2402.15895)|null|
 |**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](http://arxiv.org/abs/2402.15756)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Action Recognition
 
@@ -5798,7 +5798,7 @@
 |**2024-02-13**|**Vision-Based Hand Gesture Customization from a Single Demonstration**|Soroush Shahi et.al.|[2402.08420](http://arxiv.org/abs/2402.08420)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814](http://arxiv.org/abs/2402.07814)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Pose Estimation
 
@@ -6629,7 +6629,7 @@
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175](http://arxiv.org/abs/2402.16175)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Image Generation
 
@@ -6645,6 +6645,8 @@
 |**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
 |**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
+|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|
+|**2025-03-10**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
 |**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-07**|**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**|Martin Spitznagel et.al.|[2503.05333](http://arxiv.org/abs/2503.05333)|null|
@@ -8777,7 +8779,7 @@
 |**2024-02-28**|**Breaking the Black-Box: Confidence-Guided Model Inversion Attack for Distribution Shift**|Xinhao Liu et.al.|[2402.18027](http://arxiv.org/abs/2402.18027)|null|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624](http://arxiv.org/abs/2402.17624)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## LLM
 
@@ -8793,6 +8795,16 @@
 |**2025-03-10**|**XIFBench: Evaluating Large Language Models on Multilingual Instruction Following**|Zhenyu Li et.al.|[2503.07539](http://arxiv.org/abs/2503.07539)|null|
 |**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
 |**2025-03-10**|**Language Models Fail to Introspect About Their Knowledge of Language**|Siyuan Song et.al.|[2503.07513](http://arxiv.org/abs/2503.07513)|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|null|
+|**2025-03-10**|**LLMs syntactically adapt their language use to their conversational partner**|Florian Kandra et.al.|[2503.07457](http://arxiv.org/abs/2503.07457)|null|
+|**2025-03-10**|**From Idea to Implementation: Evaluating the Influence of Large Language Models in Software Development -- An Opinion Paper**|Sargam Yadav et.al.|[2503.07450](http://arxiv.org/abs/2503.07450)|null|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
+|**2025-03-10**|**RePO: ReLU-based Preference Optimization**|Junkang Wu et.al.|[2503.07426](http://arxiv.org/abs/2503.07426)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Revisiting Noise in Natural Language Processing for Computational Social Science**|Nadav Borenstein et.al.|[2503.07395](http://arxiv.org/abs/2503.07395)|null|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
@@ -11228,7 +11240,7 @@
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Scene Understanding
 
@@ -11770,7 +11782,7 @@
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643](http://arxiv.org/abs/2402.13643)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-25**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[2402.12289](http://arxiv.org/abs/2402.12289)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Depth Estimation
 
@@ -12301,7 +12313,7 @@
 |**2024-02-19**|**An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**|Jan Emily Mangulabnan et.al.|[2402.11840](http://arxiv.org/abs/2402.11840)|null|
 |**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu et.al.|[2402.11826](http://arxiv.org/abs/2402.11826)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Audio Processing
 
@@ -13511,7 +13523,7 @@
 |**2024-02-26**|**Effect of utterance duration and phonetic content on speaker identification using second-order statistical methods**|Ivan Magrin-Chagnolleau et.al.|[2402.16429](http://arxiv.org/abs/2402.16429)|null|
 |**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish et.al.|[2402.15733](http://arxiv.org/abs/2402.15733)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Multimodal
 
@@ -13870,7 +13882,7 @@
 |**2024-02-19**|**Multimodal Emotion Recognition from Raw Audio with Sinc-convolution**|Xiaohui Zhang et.al.|[2402.11954](http://arxiv.org/abs/2402.11954)|null|
 |**2024-02-18**|**Efficient Multimodal Learning from Data-centric Perspective**|Muyang He et.al.|[2402.11530](http://arxiv.org/abs/2402.11530)|**[link](https://github.com/baai-dcai/bunny)**|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Anomaly Detection
 
@@ -15310,7 +15322,7 @@
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
 |**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$ -Values**|Oliver Hennhöfer et.al.|[2402.16388](http://arxiv.org/abs/2402.16388)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Transfer Learning
 
@@ -17304,7 +17316,7 @@
 |**2024-02-28**|**OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**|Xiaosong Wang et.al.|[2402.18028](http://arxiv.org/abs/2402.18028)|null|
 |**2024-02-28**|**Collaborative decoding of critical tokens for boosting factuality of large language models**|Lifeng Jin et.al.|[2402.17982](http://arxiv.org/abs/2402.17982)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Optical Flow
 
@@ -17313,7 +17325,7 @@
 |**2025-03-10**|**MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation**|Juntian Du et.al.|[2503.07046](http://arxiv.org/abs/2503.07046)|null|
 |**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992](http://arxiv.org/abs/2503.06992)|null|
 |**2025-03-09**|**Online Dense Point Tracking with Streaming Memory**|Qiaole Dong et.al.|[2503.06471](http://arxiv.org/abs/2503.06471)|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
+|**2025-03-10**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Stereo Any Video: Temporally Consistent Stereo Matching**|Junpeng Jing et.al.|[2503.05549](http://arxiv.org/abs/2503.05549)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
@@ -17685,7 +17697,7 @@
 |**2024-02-12**|**A Flow-based Credibility Metric for Safety-critical Pedestrian Detection**|Maria Lyssenko et.al.|[2402.07642](http://arxiv.org/abs/2402.07642)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](http://arxiv.org/abs/2402.06611)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Reinforcement Learning
 
@@ -20100,7 +20112,7 @@
 |**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](http://arxiv.org/abs/2402.18284)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ## Graph Neural Networks
 
@@ -22106,6 +22118,6 @@
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905](http://arxiv.org/abs/2402.17905)|null|
 |**2024-02-27**|**Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem**|Cong Zhang et.al.|[2402.17606](http://arxiv.org/abs/2402.17606)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)

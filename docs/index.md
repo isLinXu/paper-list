@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -6614,6 +6614,8 @@ layout: default
 |**2025-03-10**|**AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models**|Bo Huang et.al.|[2503.07307](http://arxiv.org/abs/2503.07307)|null|
 |**2025-03-10**|**WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation**|Yuwei Niu et.al.|[2503.07265](http://arxiv.org/abs/2503.07265)|null|
 |**2025-03-10**|**Synthetic Lung X-ray Generation through Cross-Attention and Affinity Transformation**|Ruochen Pi et.al.|[2503.07209](http://arxiv.org/abs/2503.07209)|null|
+|**2025-03-10**|**Effective and Efficient Masked Image Generation Models**|Zebin You et.al.|[2503.07197](http://arxiv.org/abs/2503.07197)|**[link](https://github.com/ML-GSAI/eMIGM)**|
+|**2025-03-10**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
 |**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-07**|**PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?**|Martin Spitznagel et.al.|[2503.05333](http://arxiv.org/abs/2503.05333)|null|
@@ -8760,6 +8762,16 @@ layout: default
 |**2025-03-10**|**XIFBench: Evaluating Large Language Models on Multilingual Instruction Following**|Zhenyu Li et.al.|[2503.07539](http://arxiv.org/abs/2503.07539)|null|
 |**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
 |**2025-03-10**|**Language Models Fail to Introspect About Their Knowledge of Language**|Siyuan Song et.al.|[2503.07513](http://arxiv.org/abs/2503.07513)|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**GenAIReading: Augmenting Human Cognition with Interactive Digital Textbooks Using Large Language Models and Image Generation Models**|Ryugo Morita et.al.|[2503.07463](http://arxiv.org/abs/2503.07463)|null|
+|**2025-03-10**|**MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning**|Xiangru Tang et.al.|[2503.07459](http://arxiv.org/abs/2503.07459)|null|
+|**2025-03-10**|**LLMs syntactically adapt their language use to their conversational partner**|Florian Kandra et.al.|[2503.07457](http://arxiv.org/abs/2503.07457)|null|
+|**2025-03-10**|**From Idea to Implementation: Evaluating the Influence of Large Language Models in Software Development -- An Opinion Paper**|Sargam Yadav et.al.|[2503.07450](http://arxiv.org/abs/2503.07450)|null|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
+|**2025-03-10**|**RePO: ReLU-based Preference Optimization**|Junkang Wu et.al.|[2503.07426](http://arxiv.org/abs/2503.07426)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**Revisiting Noise in Natural Language Processing for Computational Social Science**|Nadav Borenstein et.al.|[2503.07395](http://arxiv.org/abs/2503.07395)|null|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
@@ -17266,7 +17278,7 @@ layout: default
 |**2025-03-10**|**MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation**|Juntian Du et.al.|[2503.07046](http://arxiv.org/abs/2503.07046)|null|
 |**2025-03-10**|**Bridge Frame and Event: Common Spatiotemporal Fusion for High-Dynamic Scene Optical Flow**|Hanyu Zhou et.al.|[2503.06992](http://arxiv.org/abs/2503.06992)|null|
 |**2025-03-09**|**Online Dense Point Tracking with Streaming Memory**|Qiaole Dong et.al.|[2503.06471](http://arxiv.org/abs/2503.06471)|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
+|**2025-03-10**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Stereo Any Video: Temporally Consistent Stereo Matching**|Junpeng Jing et.al.|[2503.05549](http://arxiv.org/abs/2503.05549)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**Implicit Neural Representation for Video and Image Super-Resolution**|Mary Aiyetigbo et.al.|[2503.04665](http://arxiv.org/abs/2503.04665)|null|
