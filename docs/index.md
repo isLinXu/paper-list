@@ -3,7 +3,7 @@ layout: default
 ---
 
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)![img](https://hits.dwyl.com/isLinXu/paper-list.svg)<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 
 ![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)## Classification
 
@@ -4936,7 +4936,7 @@ layout: default
 |**2025-03-15**|**ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object**|Zhe Shan et.al.|[2503.12006](http://arxiv.org/abs/2503.12006)|null|
 |**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496](http://arxiv.org/abs/2503.11496)|null|
 |**2025-03-13**|**3D Extended Object Tracking based on Extruded B-Spline Side View Profiles**|Longfei Han et.al.|[2503.10730](http://arxiv.org/abs/2503.10730)|null|
-|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|null|
+|**2025-03-13**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](http://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
 |**2025-03-13**|**Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking**|Xinglong Sun et.al.|[2503.09951](http://arxiv.org/abs/2503.09951)|null|
 |**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807](http://arxiv.org/abs/2503.09807)|null|
 |**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471](http://arxiv.org/abs/2503.08471)|null|
@@ -12594,12 +12594,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-17**|**Halving transcription time: A fast, user-friendly and GDPR-compliant workflow to create AI-assisted transcripts for content analysis**|Jakob Sponholz et.al.|[2503.13031](http://arxiv.org/abs/2503.13031)|null|
-|**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|null|
+|**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|**[link](https://github.com/JeongHun0716/MMS-LLaMA)**|
 |**2025-03-13**|**AudioX: Diffusion Transformer for Anything-to-Audio Generation**|Zeyue Tian et.al.|[2503.10522](http://arxiv.org/abs/2503.10522)|null|
 |**2025-03-13**|**Whisper Speaker Identification: Leveraging Pre-Trained Multilingual Transformers for Robust Speaker Embeddings**|Jakaria Islam Emon et.al.|[2503.10446](http://arxiv.org/abs/2503.10446)|**[link](https://github.com/jakariaemon/WSI)**|
 |**2025-03-14**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-12**|**ValSub: Subsampling Validation Data to Mitigate Forgetting during ASR Personalization**|Haaris Mehmood et.al.|[2503.09906](http://arxiv.org/abs/2503.09906)|null|
-|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
+|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|**[link](https://github.com/allisonandreyev/WhisperQuantization)**|
 |**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
 |**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
 |**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|**[link](https://github.com/multimodal-art-projection/yue)**|
