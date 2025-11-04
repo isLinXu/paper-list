@@ -7,7 +7,7 @@ import requests
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "http://arxiv.org/"
+arxiv_url = "https://arxiv.org/"
 
 def get_code_link(qword: str, github_url: str) -> str:
     """
@@ -53,15 +53,13 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
     content = dict()
     content_to_web = dict()
 
+    logging.info(f"Executing arXiv search for topic '{topic}' with query: {query}")
+
     search_engine = arxiv.Search(
         query=query,
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
-
-    # today = datetime.date.today()
-    # if end_date is None:
-    #     end_date = today
 
     today = datetime.date.today()
     if end_date is None:
@@ -72,13 +70,16 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
     if start_date is not None:
         start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
 
+    result_count = 0
     for result in search_engine.results():
         publish_time = result.published.date()
-        # print(f"publish_time = {publish_time}")
+        # date window filter
         if start_date and publish_time < start_date:
             continue
         if end_date and publish_time > end_date:
             continue
+
+        result_count += 1
 
         paper_id = result.get_short_id()
         paper_title = result.title
@@ -128,6 +129,8 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
 
         except Exception as e:
             logging.error(f"exception: {e} with id: {paper_key}")
+
+    logging.info(f"arXiv search returned {result_count} items for topic '{topic}'")
 
     data = {topic: content}
     data_web = {topic: content_to_web}

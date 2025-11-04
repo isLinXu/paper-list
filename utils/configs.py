@@ -14,19 +14,17 @@ def load_config(config_file: str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = ''  # NO-USE
-        OR = 'OR'  # TODO
+        OR = ' OR '
 
         def parse_filters(filters: list):
-            ret = ''
-            for idx in range(0, len(filters)):
-                filter = filters[idx]
+            # build arXiv query like: ("Image Classification" OR "Video Classification" OR ...)
+            terms = []
+            for filter in filters:
                 if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)
+                    terms.append(EXCAPE + filter + EXCAPE)
                 else:
-                    ret += (QUOTA + filter + QUOTA)
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
+                    terms.append(filter)
+            return '(' + OR.join(terms) + ')'
 
         for k, v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
