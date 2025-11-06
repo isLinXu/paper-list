@@ -1,0 +1,64 @@
+# Generated: 2025-11-06T00:00Z
+# Rules-Ver: 3.0.2
+# Context-ID: MONTHLY-2025-11
+start_date: "2025-11-01"
+end_date: "2025-11-05"
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "isLinXu"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 100
+filename: "output.json"
+filename_web: "output_web.json"
+md_filename: "output.md"
+md_filename_web: "output_web.md"
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+task: "Monthly November Backfill"
+json_readme_path: './docs/paper_list.json'
+json_gitpage_path: './docs/paper_list_web.json'
+json_wechat_path: './docs/paper_list_wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+  "Classification":
+    filters: [ "Image Classification", "Video Classification", "Text Classification", "Audio Classification", "Scene Classification" ]
+  "Object Detection":
+    filters: [ "Object Detection", "2D Object Detection", "3D Object Detection", "Face Detection", "Text Detection", "Vehicle Detection", "Pedestrian Detection" ]
+  "Semantic Segmentation":
+    filters: [ "Semantic Segmentation", "Instance Segmentation", "Panoptic Segmentation", "Interactive Segmentation" ]
+  "Object Tracking":
+    filters: [ "Object Tracking", "Multi-Object Tracking", "Single Object Tracking", "Face Tracking", "Vehicle Tracking", "Pedestrian Tracking" ]
+  "Action Recognition":
+    filters: [ "Action Recognition", "Temporal Action Localization", "Action Prediction", "Gesture Recognition", "Group Activity Recognition" ]
+  "Pose Estimation":
+    filters: [ "Pose Estimation", "2D Pose Estimation", "3D Pose Estimation", "Human Pose Estimation", "Animal Pose Estimation", "Hand Pose Estimation", "Facial Landmark Detection" ]
+  "Image Generation":
+    filters: [ "Generative Adversarial Networks", "Image Generation", "Text-to-Image Generation", "Image Inpainting", "Style Transfer", "Image-to-Image Translation", "Super-resolution", "Image Synthesis" ]
+  "LLM":
+    filters: [ "Large Language Model", "Visual Question Answering", "Image Captioning", "Image Retrieval", "Text Summarization", "Text Translation", "Text Generation", "Text Completion", "Conversational AI", "Sentiment Analysis", "Named Entity Recognition", "Topic Modeling" ]
+  "Scene Understanding":
+    filters: [ "Scene Understanding", "Scene Graph Generation", "Scene Text Recognition", "Scene Parsing", "Layout Estimation" ]
+  "Depth Estimation":
+    filters: [ "Depth Estimation", "Monocular Depth Estimation", "Stereo Depth Estimation", "Lidar-based Depth Estimation" ]
+  "Audio Processing":
+    filters: [ "Speech Recognition", "Speech Synthesis", "Audio Source Separation", "Audio Event Detection", "Music Generation", "Voice Conversion", "Speaker Identification", "Speaker Verification" ]
+  "Multimodal":
+    filters: [ "Multimodal Learning", "Audio-Visual Processing", "Text-Image Fusion", "Cross-modal Retrieval", "Language Grounding", "Video Description", "Multimodal Emotion Recognition" ]
+  "Anomaly Detection":
+    filters: [ "Anomaly Detection", "Outlier Detection", "Novelty Detection", "Fraud Detection", "Intrusion Detection" ]
+  "Transfer Learning":
+    filters: [ "Transfer Learning", "Domain Adaptation", "Fine-tuning", "Pretrained Models", "Few-shot Learning", "Zero-shot Learning", "Meta-learning" ]
+  "Optical Flow":
+    filters: [ "Optical Flow", "Dense Optical Flow", "Sparse Optical Flow", "Scene Flow" ]
+  "Reinforcement Learning":
+    filters: [ "Reinforcement Learning", "Deep Reinforcement Learning", "Inverse Reinforcement Learning", "Multi-agent Reinforcement Learning", "Imitation Learning" ]
+  "Graph Neural Networks":
+    filters: [ "Graph Neural Networks", "Graph Convolutional Networks", "Graph Attention Networks", "Graph Autoencoders", "Graph Generative Models" ]

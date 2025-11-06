@@ -1,0 +1,19 @@
+{
+    "Classification": {},
+    "Object Detection": {},
+    "Semantic Segmentation": {},
+    "Object Tracking": {},
+    "Action Recognition": {},
+    "Pose Estimation": {},
+    "Image Generation": {},
+    "LLM": {},
+    "Scene Understanding": {},
+    "Depth Estimation": {},
+    "Audio Processing": {},
+    "Multimodal": {},
+    "Anomaly Detection": {},
+    "Transfer Learning": {},
+    "Optical Flow": {},
+    "Reinforcement Learning": {},
+    "Graph Neural Networks": {}
+}

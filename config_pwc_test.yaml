@@ -1,0 +1,28 @@
+start_date: "2025-07-22"
+end_date: "2025-07-23"
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "isLinXu"
+repo_name: "cv-arxiv-daily"
+show_authors: true
+show_links: true
+show_badge: false
+max_results: 200
+filename: "output.json"
+filename_web: "output_web.json"
+md_filename: "output.md"
+md_filename_web: "output_web.md"
+publish_readme: true
+publish_gitpage: false
+publish_wechat: false
+task: "PWC Fallback Test"
+json_readme_path: './docs/pwc_test.json'
+json_gitpage_path: './docs/pwc_test_web.json'
+json_wechat_path: './docs/pwc_test_wechat.json'
+
+md_readme_path: './docs/pwc_test.md'
+md_gitpage_path: './docs/pwc_test_index.md'
+md_wechat_path: './docs/pwc_test_wechat.md'
+
+keywords:
+  "Graph Neural Networks":
+    filters: [ "Graph Neural Networks" ]

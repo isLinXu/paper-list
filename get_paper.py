@@ -2,13 +2,17 @@
 import logging
 import argparse
 import sys
+import os
+
+# Ensure project root is at the front of sys.path
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
 
 from utils.configs import load_config
 from utils.get_infos import get_daily_papers
 from utils.json_tools import json_to_md
 from utils.updates import update_paper_links, update_json_file
-
-sys.path.insert(0, '/utils/')
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -16,7 +20,7 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "http://arxiv.org/"
+arxiv_url = "https://arxiv.org/"
 
 def run(**config):
     # TODO: use config
@@ -36,7 +40,7 @@ def run(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query=keyword,max_results=max_results,
+            data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results,
                                               start_date=config['start_date'], end_date=config['end_date'])
             data_collector.append(data)
             data_collector_web.append(data_web)

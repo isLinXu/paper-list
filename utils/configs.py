@@ -13,18 +13,18 @@ def load_config(config_file: str) -> dict:
     def pretty_filters(**config) -> dict:
         keywords = dict()
         EXCAPE = '\"'
-        QUOTA = ''  # NO-USE
         OR = ' OR '
 
         def parse_filters(filters: list):
-            # build arXiv query like: ("Image Classification" OR "Video Classification" OR ...)
+            # build arXiv query like: "Image Classification" OR "Video Classification" OR ...
             terms = []
             for filter in filters:
                 if len(filter.split()) > 1:
                     terms.append(EXCAPE + filter + EXCAPE)
                 else:
                     terms.append(filter)
-            return '(' + OR.join(terms) + ')'
+            # remove outer parentheses to avoid extra bracket at end of URL
+            return OR.join(terms)
 
         for k, v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
