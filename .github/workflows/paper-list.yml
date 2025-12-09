@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 0/12 * * *"  #'*/60 * * * *'
+    - cron:  "0 0 * * *"  #'Run once daily at 00:00 UTC'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -47,6 +47,9 @@ jobs:
       - name: Run daily arxiv 
         run: |
           python get_paper.py
+      - name: Enrich paper links
+        run: |
+          python get_paper.py --update_paper_links
           
       - name: Push new paper_list.md
         uses: github-actions-x/commit@v2.9
