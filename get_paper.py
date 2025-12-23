@@ -59,7 +59,7 @@ def run(**config):
             update_json_file(json_file, data_collector)
         # json data to markdown
         json_to_md(json_file, md_file, task='Update Readme',
-                   show_badge=show_badge)
+                   show_badge=show_badge, split_to_docs=True)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:

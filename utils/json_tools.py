@@ -2,6 +2,7 @@ import datetime
 import json
 import logging
 import re
+import os
 
 from .sorts import sort_papers
 
@@ -12,7 +13,8 @@ def json_to_md(filename, md_filename,
                use_title=True,
                use_tc=True,
                show_badge=True,
-               use_b2t=True):
+               use_b2t=True,
+               split_to_docs=False):
     """
     @param filename: str
     @param md_filename: str
@@ -88,8 +90,12 @@ def json_to_md(filename, md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ', '-')
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                if split_to_docs:
+                    kw = keyword.replace(' ', '_')
+                    f.write(f"    <li><a href=docs/{kw}.md>{keyword}</a></li>\n")
+                else:
+                    kw = keyword.replace(' ', '-')
+                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
 
@@ -97,30 +103,51 @@ def json_to_md(filename, md_filename,
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
 
-            if use_title == True:
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+            if split_to_docs:
+                if not os.path.exists('docs'):
+                    os.makedirs('docs')
+                kw = keyword.replace(' ', '_')
+                with open(f"docs/{kw}.md", "w+") as f_sub:
+                    f_sub.write(f"## {keyword}\n\n")
+                    if use_title == True:
+                        if to_web == False:
+                            f_sub.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                        else:
+                            f_sub.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                            f_sub.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                    
+                    day_content = sort_papers(day_content)
+                    for _, v in day_content.items():
+                        if v is not None:
+                            f_sub.write(pretty_math(v))
+                    
+                    f_sub.write(f"\n<p align=right>(<a href=../README.md>back to main</a>)</p>\n\n")
+            else:
+                # the head of each part
+                f.write(f"## {keyword}\n\n")
 
-            # sort papers by date
-            day_content = sort_papers(day_content)
+                if use_title == True:
+                    if to_web == False:
+                        f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    else:
+                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
-            for _, v in day_content.items():
-                if v is not None:
-                    f.write(pretty_math(v))  # make latex pretty
+                # sort papers by date
+                day_content = sort_papers(day_content)
 
-            f.write(f"\n")
+                for _, v in day_content.items():
+                    if v is not None:
+                        f.write(pretty_math(v))  # make latex pretty
 
-            # Add: back to top
-            if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ', '-').replace('.', '')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+                f.write(f"\n")
+
+                # Add: back to top
+                if use_b2t:
+                    top_info = f"#Updated on {DateNow}"
+                    top_info = top_info.replace(' ', '-').replace('.', '')
+                    f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
         if show_badge == True:
             # we don't like long string, break it!
