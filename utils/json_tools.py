@@ -176,19 +176,4 @@ def json_to_md(filename, md_filename,
                     top_info = top_info.replace(' ', '-').replace('.', '')
                     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
-        if show_badge == True:
-            # we don't like long string, break it!
-            f.write("![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)")
-            f.write("![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)")
-            f.write("![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)")
-            f.write("![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)") 
-            f.write("[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)")  
-            f.write("![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)") 
-            f.write("![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)")  
-            f.write("![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)")   
-            f.write("![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)")  
-            f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)") 
-            f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)") 
-
-
     logging.info(f"{task} finished")
