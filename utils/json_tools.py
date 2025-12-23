@@ -78,13 +78,40 @@ def json_to_md(filename, md_filename,
 
         f.write(f"\n")
         f.write("![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)")
-        # TODO: add usage
-        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        
+        # Add Introduction
+        f.write("\n\n## Introduction\n\n")
+        f.write("This repository provides a daily-updated list of computer vision papers from arXiv, organized by topic. ")
+        f.write("The updates are automated using GitHub Actions to ensure you stay current with the latest research.\n\n")
+        f.write("Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
+        
+        # Add Usage Instructions
+        f.write("## Usage\n\n")
+        f.write("To generate the paper list locally, follow these steps:\n\n")
+        f.write("1. **Install Dependencies**\n")
+        f.write("   ```bash\n")
+        f.write("   pip install -r requirements.txt\n")
+        f.write("   ```\n\n")
+        f.write("2. **Run the Script**\n")
+        f.write("   ```bash\n")
+        f.write("   python get_paper.py\n")
+        f.write("   ```\n\n")
+        f.write("3. **Configuration**\n")
+        f.write("   You can customize the search keywords and other settings in `config.yaml`.\n\n")
+        
+        # Add Advanced Usage
+        f.write("### Advanced Usage\n\n")
+        f.write("You can also use the scripts in the `scripts/` directory for additional tasks:\n\n")
+        f.write("- **Count Papers in Range**: Count the number of papers within a specific date range.\n")
+        f.write("  ```bash\n")
+        f.write("  python scripts/count_range.py 2024-01-01 2024-12-31\n")
+        f.write("  ```\n\n")
 
         # Add: table of contents
         if use_tc == True:
-            f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
+            f.write("## Paper List\n\n")
+            # f.write("<details>\n")
+            # f.write("  <summary>Table of Contents</summary>\n")
             f.write("  <ol>\n")
             for keyword in data.keys():
                 day_content = data[keyword]
@@ -97,7 +124,7 @@ def json_to_md(filename, md_filename,
                     kw = keyword.replace(' ', '-')
                     f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
-            f.write("</details>\n\n")
+            # f.write("</details>\n\n")
 
         for keyword in data.keys():
             day_content = data[keyword]
