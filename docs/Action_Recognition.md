@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](https://arxiv.org/abs/2512.20501)|null|
+|**2025-12-23**|**Beyond Motion Pattern: An Empirical Study of Physical Forces for Human Motion Understanding**|Anh Dao et.al.|[2512.20451](https://arxiv.org/abs/2512.20451)|null|
+|**2025-12-23**|**DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning**|Junho Yoon et.al.|[2512.20409](https://arxiv.org/abs/2512.20409)|null|
+|**2025-12-23**|**Effect of Activation Function and Model Optimizer on the Performance of Human Activity Recognition System Using Various Deep Learning Models**|Subrata Kumer Paula et.al.|[2512.20104](https://arxiv.org/abs/2512.20104)|null|
+|**2025-12-23**|**A Contextual Analysis of Driver-Facing and Dual-View Video Inputs for Distraction Detection in Naturalistic Driving Environments**|Anthony Dontoh et.al.|[2512.20025](https://arxiv.org/abs/2512.20025)|null|
+|**2025-12-22**|**Distinguishing Visually Similar Actions: Prompt-Guided Semantic Prototype Modulation for Few-Shot Action Recognition**|Xiaoyang Li et.al.|[2512.19036](https://arxiv.org/abs/2512.19036)|null|
+|**2025-12-21**|**Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos**|Xiaoyang Li et.al.|[2512.18750](https://arxiv.org/abs/2512.18750)|null|
+|**2025-12-21**|**Hierarchical Bayesian Framework for Multisource Domain Adaptation**|Alexander M. Glandon et.al.|[2512.18553](https://arxiv.org/abs/2512.18553)|null|
+|**2025-12-17**|**Seeing Beyond the Scene: Analyzing and Mitigating Background Bias in Action Recognition**|Ellie Zhou et.al.|[2512.17953](https://arxiv.org/abs/2512.17953)|null|
+|**2025-12-19**|**Xiaomi MiMo-VL-Miloco Technical Report**|Jiaze Li et.al.|[2512.17436](https://arxiv.org/abs/2512.17436)|null|
 |**2025-12-18**|**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**|Haochen Chang et.al.|[2512.16727](https://arxiv.org/abs/2512.16727)|null|
 |**2025-12-18**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504](https://arxiv.org/abs/2512.16504)|null|
 |**2025-12-06**|**Smart Surveillance: Identifying IoT Device Behaviours using ML-Powered Traffic Analysis**|Reza Ryan et.al.|[2512.13709](https://arxiv.org/abs/2512.13709)|null|
@@ -378,7 +388,7 @@
 |**2025-04-04**|**An Exploration-free Method for a Linear Stochastic Bandit Driven by a Linear Gaussian Dynamical System**|Jonathan Gornet et.al.|[2504.03926](https://arxiv.org/abs/2504.03926)|null|
 |**2025-04-04**|**Electromyography-Based Gesture Recognition: Hierarchical Feature Extraction for Enhanced Spatial-Temporal Dynamics**|Jungpil Shin et.al.|[2504.03221](https://arxiv.org/abs/2504.03221)|null|
 |**2025-04-02**|**UAC: Uncertainty-Aware Calibration of Neural Networks for Gesture Detection**|Farida Al Haddad et.al.|[2504.02895](https://arxiv.org/abs/2504.02895)|null|
-|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](https://arxiv.org/abs/2504.02792)|null|
+|**2025-04-03**|**Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets**|Chuning Zhu et.al.|[2504.02792](https://arxiv.org/abs/2504.02792)|**[link](https://github.com/WEIRDLabUW/unified-world-model)**|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](https://arxiv.org/abs/2504.02287)|**[link](https://github.com/thanhhff/MultiTSF.)**|
 |**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](https://arxiv.org/abs/2504.02279)|null|
 |**2025-04-03**|**SocialGesture: Delving into Multi-person Gesture Understanding**|Xu Cao et.al.|[2504.02244](https://arxiv.org/abs/2504.02244)|null|

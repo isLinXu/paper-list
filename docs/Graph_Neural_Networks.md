@@ -2,8 +2,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](https://arxiv.org/abs/2512.20531)|null|
+|**2025-12-23**|**Modeling Bank Systemic Risk of Emerging Markets under Geopolitical Shocks: Empirical Evidence from BRICS Countries**|Haibo Wang et.al.|[2512.20515](https://arxiv.org/abs/2512.20515)|null|
+|**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](https://arxiv.org/abs/2512.20097)|null|
+|**2025-12-23**|**Jensen-Shannon Divergence Message-Passing for Rich-Text Graph Representation Learning**|Zuo Wang et.al.|[2512.20094](https://arxiv.org/abs/2512.20094)|null|
+|**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al.|[2512.20086](https://arxiv.org/abs/2512.20086)|null|
+|**2025-12-23**|**QE-Catalytic: A Graph-Language Multimodal Base Model for Relaxed-Energy Prediction in Catalytic Adsorption**|Yanjie Li et.al.|[2512.20084](https://arxiv.org/abs/2512.20084)|null|
+|**2025-12-23**|**MAPI-GNN: Multi-Activation Plane Interaction Graph Neural Network for Multimodal Medical Diagnosis**|Ziwei Qin et.al.|[2512.20026](https://arxiv.org/abs/2512.20026)|null|
+|**2025-12-23**|**A hybrid global local computational framework for ship hull structural analysis using homogenized model and graph neural network**|Yuecheng Cai et.al.|[2512.20020](https://arxiv.org/abs/2512.20020)|null|
+|**2025-12-23**|**IoT-based Android Malware Detection Using Graph Neural Network With Adversarial Defense**|Rahul Yumlembam et.al.|[2512.20004](https://arxiv.org/abs/2512.20004)|null|
+|**2025-12-23**|**Spatio-Temporal Graph Neural Networks for Dairy Farm Sustainability Forecasting and Counterfactual Policy Analysis**|Surya Jayakumar et.al.|[2512.19970](https://arxiv.org/abs/2512.19970)|null|
+|**2025-12-21**|**Learning to Design City-scale Transit Routes**|Bibek Poudel et.al.|[2512.19767](https://arxiv.org/abs/2512.19767)|null|
+|**2025-12-16**|**Composition-agnostic prediction of self-assembly in multicomponent amphiphile mixtures from molecular structure**|Yuuki Ishiwatari et.al.|[2512.19724](https://arxiv.org/abs/2512.19724)|null|
+|**2025-12-22**|**Learning Continuous Solvent Effects from Transient Flow Data: A Graph Neural Network Benchmark on Catechol Rearrangement**|Hongsheng Xing et.al.|[2512.19530](https://arxiv.org/abs/2512.19530)|null|
+|**2025-12-22**|**Kolmogorov-Arnold Graph Neural Networks Applied to Inorganic Nanomaterials Dataset**|Nikita Volzhin et.al.|[2512.19494](https://arxiv.org/abs/2512.19494)|null|
+|**2025-12-22**|**Learning General Policies with Policy Gradient Methods**|Simon Ståhlberg et.al.|[2512.19366](https://arxiv.org/abs/2512.19366)|null|
+|**2025-12-22**|**A Logical View of GNN-Style Computation and the Role of Activation Functions**|Pablo Barceló et.al.|[2512.19332](https://arxiv.org/abs/2512.19332)|null|
+|**2025-12-22**|**From Pixels to Predicates Structuring urban perception with scene graphs**|Yunlong Liu et.al.|[2512.19221](https://arxiv.org/abs/2512.19221)|null|
+|**2025-12-22**|**Photonic Spiking Graph Neural Network for Energy-Efficient Structured Data Processing**|Wanting Yu et.al.|[2512.19182](https://arxiv.org/abs/2512.19182)|null|
+|**2025-12-21**|**Text2Graph VPR: A Text-to-Graph Expert System for Explainable Place Recognition in Changing Environments**|Saeideh Yousefzadeh et.al.|[2512.18613](https://arxiv.org/abs/2512.18613)|null|
+|**2025-12-20**|**Scaling up Stability: Reinforcement Learning for Distributed Control of Networked Systems in the Space of Stabilizing Policies**|John Cao et.al.|[2512.18540](https://arxiv.org/abs/2512.18540)|null|
+|**2025-12-20**|**Feature-Enhanced Graph Neural Networks for Classification of Synthetic Graph Generative Models: A Benchmarking Study**|Janek Dyer et.al.|[2512.18524](https://arxiv.org/abs/2512.18524)|null|
+|**2025-12-20**|**Insider Threat Detection Using GCN and Bi-LSTM with Explicit and Implicit Graph Representations**|Rahul Yumlembam et.al.|[2512.18483](https://arxiv.org/abs/2512.18483)|null|
+|**2025-12-20**|**APC-GNN++: An Adaptive Patient-Centric GNN with Context-Aware Attention and Mini-Graph Explainability for Diabetes Classification**|Khaled Berkani et.al.|[2512.18473](https://arxiv.org/abs/2512.18473)|null|
+|**2025-12-20**|**A Distributed Hierarchical Spatio-Temporal Edge-Enhanced Graph Neural Network for City-Scale Dynamic Logistics Routing**|Zihan Han et.al.|[2512.18441](https://arxiv.org/abs/2512.18441)|null|
+|**2025-12-20**|**Through the PRISm: Importance-Aware Scene Graphs for Image Retrieval**|Dimitrios Georgoulopoulos et.al.|[2512.18407](https://arxiv.org/abs/2512.18407)|null|
+|**2025-12-20**|**AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning**|Xuling Zhang et.al.|[2512.18295](https://arxiv.org/abs/2512.18295)|null|
+|**2025-12-20**|**AutoSchA: Automatic Hierarchical Music Representations via Multi-Relational Node Isolation**|Stephen Ni-Hahn et.al.|[2512.18232](https://arxiv.org/abs/2512.18232)|null|
+|**2025-12-20**|**Toward Efficient Testing of Graph Neural Networks via Test Input Prioritization**|Lichen Yang et.al.|[2512.18228](https://arxiv.org/abs/2512.18228)|null|
+|**2025-12-20**|**PROVEX: Enhancing SOC Analyst Trust with Explainable Provenance-Based IDS**|Devang Dhanuka et.al.|[2512.18199](https://arxiv.org/abs/2512.18199)|null|
+|**2025-12-20**|**FairExpand: Individual Fairness on Graphs with Partial Similarity Information**|Rebecca Salganik et.al.|[2512.18180](https://arxiv.org/abs/2512.18180)|null|
+|**2025-12-20**|**On Swarm Leader Identification using Probing Policies**|Stergios E. Bachoumas et.al.|[2512.18146](https://arxiv.org/abs/2512.18146)|null|
+|**2025-12-11**|**Risk-Aware Financial Forecasting Enhanced by Machine Learning and Intuitionistic Fuzzy Multi-Criteria Decision-Making**|Safiye Turgay et.al.|[2512.17936](https://arxiv.org/abs/2512.17936)|null|
+|**2025-12-19**|**Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation**|Luca Miglior et.al.|[2512.17762](https://arxiv.org/abs/2512.17762)|null|
+|**2025-12-19**|**Spatially-informed transformers: Injecting geostatistical covariance biases into self-attention for spatio-temporal forecasting**|Yuri Calleo et.al.|[2512.17696](https://arxiv.org/abs/2512.17696)|null|
+|**2025-12-19**|**A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting**|Henok Tenaw Moges et.al.|[2512.17453](https://arxiv.org/abs/2512.17453)|null|
+|**2025-12-19**|**Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs**|Ivan Kralj et.al.|[2512.17352](https://arxiv.org/abs/2512.17352)|null|
+|**2025-12-19**|**From Priors to Predictions: Explaining and Visualizing Human Reasoning in a Graph Neural Network Framework**|Quan Do et.al.|[2512.17255](https://arxiv.org/abs/2512.17255)|null|
+|**2025-12-18**|**DiffeoMorph: Learning to Morph 3D Shapes Using Differentiable Agent-Based Simulations**|Seong Ho Pahng et.al.|[2512.17129](https://arxiv.org/abs/2512.17129)|null|
+|**2025-12-18**|**Dirichlet Meets Horvitz and Thompson: Estimating Homophily in Large Networks via Sampling**|Hamed Ajorlou et.al.|[2512.17084](https://arxiv.org/abs/2512.17084)|null|
 |**2025-12-18**|**Deep learning directed synthesis of fluid ferroelectric materials**|Charles Parton-Barr et.al.|[2512.16671](https://arxiv.org/abs/2512.16671)|null|
-|**2025-12-18**|**Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance**|Jacob Reiss et.al.|[2512.16661](https://arxiv.org/abs/2512.16661)|null|
+|**2025-12-18**|**Microsoft Academic Graph Information Retrieval for Research Recommendation and Assistance**|Shikshya Shiwakoti et.al.|[2512.16661](https://arxiv.org/abs/2512.16661)|null|
 |**2025-12-18**|**Riemannian Stochastic Interpolants for Amorphous Particle Systems**|Louis Grenioux et.al.|[2512.16607](https://arxiv.org/abs/2512.16607)|null|
 |**2025-12-18**|**GFLAN: Generative Functional Layouts**|Mohamed Abouagour et.al.|[2512.16275](https://arxiv.org/abs/2512.16275)|null|
 |**2025-12-18**|**Sharpness-aware Federated Graph Learning**|Ruiyu Li et.al.|[2512.16247](https://arxiv.org/abs/2512.16247)|null|
@@ -1249,7 +1288,7 @@
 |**2025-02-05**|**SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels**|Xiangyu Dong et.al.|[2502.03201](https://arxiv.org/abs/2502.03201)|null|
 |**2025-02-05**|**Efficient Triangular Arbitrage Detection via Graph Neural Networks**|Di Zhang et.al.|[2502.03194](https://arxiv.org/abs/2502.03194)|null|
 |**2025-02-05**|**Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks**|Stavros Orfanoudakis et.al.|[2502.03067](https://arxiv.org/abs/2502.03067)|null|
-|**2025-02-05**|**TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics**|Lu Yi et.al.|[2502.02975](https://arxiv.org/abs/2502.02975)|null|
+|**2025-02-05**|**TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics**|Lu Yi et.al.|[2502.02975](https://arxiv.org/abs/2502.02975)|**[link](https://github.com/TGB-Seq/TGB-Seq)**|
 |**2025-02-04**|**Beyond Topological Self-Explainable GNNs: A Formal Explainability Perspective**|Steve Azzolin et.al.|[2502.02719](https://arxiv.org/abs/2502.02719)|null|
 |**2025-02-04**|**scBIT: Integrating Single-cell Transcriptomic Data into fMRI-based Prediction for Alzheimer's Disease Diagnosis**|Yu-An Huang et.al.|[2502.02630](https://arxiv.org/abs/2502.02630)|null|
 |**2025-02-04**|**Graph Structure Learning for Tumor Microenvironment with Cell Type Annotation from non-spatial scRNA-seq data**|Yu-An Huang et.al.|[2502.02629](https://arxiv.org/abs/2502.02629)|null|
@@ -2961,7 +3000,7 @@
 |**2024-03-17**|**Jointly Optimizing Terahertz based Sensing and Communications in Vehicular Networks: A Dynamic Graph Neural Network Approach**|Xuefei Li et.al.|[2403.11102](https://arxiv.org/abs/2403.11102)|null|
 |**2024-03-17**|**Incorporating Higher-order Structural Information for Graph Clustering**|Qiankun Li et.al.|[2403.11087](https://arxiv.org/abs/2403.11087)|null|
 |**2024-03-16**|**Forward Learning of Graph Neural Networks**|Namyong Park et.al.|[2403.11004](https://arxiv.org/abs/2403.11004)|**[link](https://github.com/facebookresearch/forwardgnn.)**|
-|**2024-03-14**|**SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition**|Jeonghyeok Do et.al.|[2403.09508](https://arxiv.org/abs/2403.09508)|null|
+|**2024-03-14**|**SkateFormer: Skeletal-Temporal Transformer for Human Action Recognition**|Jeonghyeok Do et.al.|[2403.09508](https://arxiv.org/abs/2403.09508)|**[link](https://github.com/KAIST-VICLab/SkateFormer)**|
 |**2024-03-14**|**Code Revert Prediction with Graph Neural Networks: A Case Study at J.P. Morgan Chase**|Yulong Pei et.al.|[2403.09507](https://arxiv.org/abs/2403.09507)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367](https://arxiv.org/abs/2403.09367)|null|
 |**2024-03-14**|**Rumor Mitigation in Social Media Platforms with Deep Reinforcement Learning**|Hongyuan Su et.al.|[2403.09217](https://arxiv.org/abs/2403.09217)|null|

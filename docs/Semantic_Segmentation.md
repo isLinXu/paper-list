@@ -2,6 +2,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**BiCoR-Seg: Bidirectional Co-Refinement Framework for High-Resolution Remote Sensing Image Segmentation**|Jinghao Shi et.al.|[2512.20255](https://arxiv.org/abs/2512.20255)|null|
+|**2025-12-22**|**Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation**|Khanh Nguyen et.al.|[2512.19088](https://arxiv.org/abs/2512.19088)|null|
+|**2025-12-22**|**ICP-4D: Bridging Iterative Closest Point and LiDAR Panoptic Segmentation**|Gyeongrok Oh et.al.|[2512.18991](https://arxiv.org/abs/2512.18991)|null|
+|**2025-12-22**|**VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**|Zaidao Han et.al.|[2512.18954](https://arxiv.org/abs/2512.18954)|null|
+|**2025-12-20**|**Multifaceted Exploration of Spatial Openness in Rental Housing: A Big Data Analysis in Tokyo's 23 Wards**|Takuya OKi et.al.|[2512.18226](https://arxiv.org/abs/2512.18226)|null|
+|**2025-12-19**|**Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation**|Shreshth Rajan et.al.|[2512.18082](https://arxiv.org/abs/2512.18082)|null|
+|**2025-12-19**|**Chorus: Multi-Teacher Pretraining for Holistic 3D Gaussian Scene Encoding**|Yue Li et.al.|[2512.17817](https://arxiv.org/abs/2512.17817)|null|
+|**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[2512.17724](https://arxiv.org/abs/2512.17724)|null|
+|**2025-12-19**|**A 28nm 0.22 μJ/token memory-compute-intensity-aware CNN-Transformer accelerator with hybrid-attention-based layer-fusion and cascaded pruning for semanticsegmentation**|Pingcheng Dong et.al.|[2512.17555](https://arxiv.org/abs/2512.17555)|null|
+|**2025-12-19**|**MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation**|Jon Muhovič et.al.|[2512.17450](https://arxiv.org/abs/2512.17450)|null|
+|**2025-12-19**|**AIFloodSense: A Global Aerial Imagery Dataset for Semantic Segmentation and Understanding of Flooded Environments**|Georgios Simantiris et.al.|[2512.17432](https://arxiv.org/abs/2512.17432)|null|
 |**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[2512.16922](https://arxiv.org/abs/2512.16922)|null|
 |**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](https://arxiv.org/abs/2512.16740)|null|
 |**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[2512.16567](https://arxiv.org/abs/2512.16567)|null|
@@ -1356,12 +1367,12 @@
 |**2024-10-04**|**SpecSAR-Former: A Lightweight Transformer-based Network for Global LULC Mapping Using Integrated Sentinel-1 and Sentinel-2**|Hao Yu et.al.|[2410.03962](https://arxiv.org/abs/2410.03962)|null|
 |**2024-10-04**|**Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**|Benyuan Meng et.al.|[2410.03558](https://arxiv.org/abs/2410.03558)|**[link](https://github.com/darkbblue/generic-diffusion-feature)**|
 |**2024-10-04**|**Semantic Segmentation Based Quality Control of Histopathology Whole Slide Images**|Abhijeet Patil et.al.|[2410.03289](https://arxiv.org/abs/2410.03289)|**[link](https://github.com/abhijeetptl5/wsisegqc)**|
-|**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](https://arxiv.org/abs/2410.03174)|null|
+|**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174](https://arxiv.org/abs/2410.03174)|**[link](https://github.com/zhanghao5201/HRVMamba.)**|
 |**2024-10-03**|**HiFiSeg: High-Frequency Information Enhanced Polyp Segmentation with Global-Local Vision Transformer**|Jingjing Ren et.al.|[2410.02528](https://arxiv.org/abs/2410.02528)|null|
 |**2024-10-06**|**SynCo: Synthetic Hard Negatives in Contrastive Learning for Better Unsupervised Visual Representations**|Nikolaos Giakoumoglou et.al.|[2410.02401](https://arxiv.org/abs/2410.02401)|**[link](https://github.com/giakoumoglou/synco)**|
-|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](https://arxiv.org/abs/2410.02369)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](https://arxiv.org/abs/2410.02369)|**[link](https://github.com/aim-uofa/DiffewS)**|
 |**2024-10-03**|**ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method**|Remco Royen et.al.|[2410.02352](https://arxiv.org/abs/2410.02352)|null|
-|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](https://arxiv.org/abs/2410.02323)|null|
+|**2024-10-03**|**RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds**|Remco Royen et.al.|[2410.02323](https://arxiv.org/abs/2410.02323)|**[link](https://github.com/remcoroyen/vx-s3dis.)**|
 |**2024-10-03**|**Efficient Semantic Segmentation via Lightweight Multiple-Information Interaction Network**|Yangyang Qiu et.al.|[2410.02224](https://arxiv.org/abs/2410.02224)|null|
 |**2024-10-03**|**Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images**|Qingyuan Liu et.al.|[2410.02207](https://arxiv.org/abs/2410.02207)|null|
 |**2024-10-02**|**SegEarth-OV: Towards Traning-Free Open-Vocabulary Segmentation for Remote Sensing Images**|Kaiyu Li et.al.|[2410.01768](https://arxiv.org/abs/2410.01768)|**[link](https://github.com/likyoo/SegEarth-OV)**|

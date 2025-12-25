@@ -2,7 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](https://arxiv.org/abs/2512.16401)|null|
+|**2025-12-23**|**QuarkAudio Technical Report**|Chengwei Liu et.al.|[2512.20151](https://arxiv.org/abs/2512.20151)|null|
+|**2025-12-23**|**VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement**|Chang Sun et.al.|[2512.20032](https://arxiv.org/abs/2512.20032)|null|
+|**2025-12-22**|**From Speech to Subtitles: Evaluating ASR Models in Subtitling Italian Television Programs**|Alessandro Lucca et.al.|[2512.19161](https://arxiv.org/abs/2512.19161)|null|
+|**2025-12-22**|**Enhancing Fully Formatted End-to-End Speech Recognition with Knowledge Distillation via Multi-Codebook Vector Quantization**|Jian You et.al.|[2512.18967](https://arxiv.org/abs/2512.18967)|null|
+|**2025-12-21**|**Speaker Recognition -- Wavelet Packet Based Multiresolution Feature Extraction Approach**|Saurabh Bhardwaj et.al.|[2512.18902](https://arxiv.org/abs/2512.18902)|null|
+|**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](https://arxiv.org/abs/2512.18699)|null|
+|**2025-12-20**|**Phoneme-based speech recognition driven by large language models and sampling marginalization**|Te Ma et.al.|[2512.18371](https://arxiv.org/abs/2512.18371)|null|
+|**2025-12-20**|**TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition**|Haolong Zheng et.al.|[2512.18263](https://arxiv.org/abs/2512.18263)|null|
+|**2025-12-19**|**SAM Audio: Segment Anything in Audio**|Bowen Shi et.al.|[2512.18099](https://arxiv.org/abs/2512.18099)|null|
+|**2025-11-27**|**Supplementary Resources and Analysis for Automatic Speech Recognition Systems Trained on the Loquacious Dataset**|Nick Rossenbach et.al.|[2512.17915](https://arxiv.org/abs/2512.17915)|null|
+|**2025-12-19**|**Peeking Into The Future For Contextual Biasing**|Ramaneswaran Selvakumar et.al.|[2512.17657](https://arxiv.org/abs/2512.17657)|null|
+|**2025-12-19**|**When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems**|Sujal Chondhekar et.al.|[2512.17562](https://arxiv.org/abs/2512.17562)|null|
+|**2025-12-19**|**Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models**|Ali Alsayegh et.al.|[2512.17474](https://arxiv.org/abs/2512.17474)|null|
+|**2025-12-19**|**Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition**|Zahra Rahmani et.al.|[2512.17247](https://arxiv.org/abs/2512.17247)|null|
+|**2025-12-18**|**Navigating the Reality Gap: Privacy-Preserving Adaptation of ASR for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](https://arxiv.org/abs/2512.16401)|null|
 |**2025-12-16**|**ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples**|Yunfei Yang et.al.|[2512.15641](https://arxiv.org/abs/2512.15641)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](https://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**MuseCPBench: an Empirical Study of Music Editing Methods through Music Context Preservation**|Yash Vishe et.al.|[2512.14629](https://arxiv.org/abs/2512.14629)|null|
@@ -1043,8 +1057,8 @@
 |**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](https://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
 |**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](https://arxiv.org/abs/2411.10362)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](https://arxiv.org/abs/2411.10285)|null|
-|**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](https://arxiv.org/abs/2411.10193)|null|
-|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](https://arxiv.org/abs/2411.10027)|null|
+|**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](https://arxiv.org/abs/2411.10193)|**[link](https://github.com/mever-team/dimodif.)**|
+|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](https://arxiv.org/abs/2411.10027)|**[link](https://github.com/swagshaw/XLSR-Mamba.)**|
 |**2024-11-15**|**Zero-shot Voice Conversion with Diffusion Transformers**|Songting Liu et.al.|[2411.09943](https://arxiv.org/abs/2411.09943)|null|
 |**2024-11-14**|**Everyone deserves their voice to be heard: Analyzing Predictive Gender Bias in ASR Models Applied to Dutch Speech Data**|Rik Raes et.al.|[2411.09431](https://arxiv.org/abs/2411.09431)|null|
 |**2024-11-14**|**Transferable Adversarial Attacks against ASR**|Xiaoxue Gao et.al.|[2411.09220](https://arxiv.org/abs/2411.09220)|null|
@@ -1110,7 +1124,7 @@
 |**2024-10-21**|**LSCodec: Low-Bitrate and Speaker-Decoupled Discrete Speech Codec**|Yiwei Guo et.al.|[2410.15764](https://arxiv.org/abs/2410.15764)|null|
 |**2024-10-21**|**Acoustic Model Optimization over Multiple Data Sources: Merging and Valuation**|Victor Junqiu Wei et.al.|[2410.15620](https://arxiv.org/abs/2410.15620)|null|
 |**2024-10-21**|**Interventional Speech Noise Injection for ASR Generalizable Spoken Language Understanding**|Yeonjoon Jung et.al.|[2410.15609](https://arxiv.org/abs/2410.15609)|null|
-|**2024-10-21**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries et.al.|[2410.15608](https://arxiv.org/abs/2410.15608)|null|
+|**2024-10-21**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries et.al.|[2410.15608](https://arxiv.org/abs/2410.15608)|**[link](https://github.com/usefulsensors/moonshine)**|
 |**2024-10-20**|**Anonymising Elderly and Pathological Speech: Voice Conversion Using DDSP and Query-by-Example**|Suhita Ghosh et.al.|[2410.15500](https://arxiv.org/abs/2410.15500)|**[link](https://github.com/suhitaghosh10/ddsp-qbe)**|
 |**2024-10-20**|**Improving Voice Quality in Speech Anonymization With Just Perception-Informed Losses**|Suhita Ghosh et.al.|[2410.15499](https://arxiv.org/abs/2410.15499)|null|
 |**2024-10-20**|**Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant**|Alan Dao et.al.|[2410.15316](https://arxiv.org/abs/2410.15316)|**[link](https://github.com/homebrewltd/ichigo)**|
@@ -1137,8 +1151,8 @@
 |**2024-10-14**|**Everyday Speech in the Indian Subcontinent**|Utkarsh Pathak et.al.|[2410.10508](https://arxiv.org/abs/2410.10508)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad et.al.|[2410.10434](https://arxiv.org/abs/2410.10434)|null|
 |**2024-10-13**|**State of NLP in Kenya: A Survey**|Cynthia Jayne Amol et.al.|[2410.09948](https://arxiv.org/abs/2410.09948)|null|
-|**2024-10-13**|**M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models**|Megha Sharma et.al.|[2410.09928](https://arxiv.org/abs/2410.09928)|null|
-|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](https://arxiv.org/abs/2410.09503)|null|
+|**2024-10-13**|**M2M-Gen: A Multimodal Framework for Automated Background Music Generation in Japanese Manga Using Large Language Models**|Megha Sharma et.al.|[2410.09928](https://arxiv.org/abs/2410.09928)|**[link](https://github.com/emanuelevivoli/awesome-comics-understanding)**|
+|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](https://arxiv.org/abs/2410.09503)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-10-12**|**Automatic Speech Recognition with BERT and CTC Transformers: A Review**|Noussaiba Djeffal et.al.|[2410.09456](https://arxiv.org/abs/2410.09456)|null|
 |**2024-10-11**|**UniGlyph: A Seven-Segment Script for Universal Language Representation**|G. V. Bency Sherin et.al.|[2410.08974](https://arxiv.org/abs/2410.08974)|null|
 |**2024-10-14**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila et.al.|[2410.08828](https://arxiv.org/abs/2410.08828)|null|
@@ -1259,7 +1273,7 @@
 |**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](https://arxiv.org/abs/2409.08711)|null|
 |**2024-09-13**|**NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training**|Minglun Han et.al.|[2409.08680](https://arxiv.org/abs/2409.08680)|null|
 |**2024-09-13**|**LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation**|Shaojun Li et.al.|[2409.08597](https://arxiv.org/abs/2409.08597)|null|
-|**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](https://arxiv.org/abs/2409.08596)|null|
+|**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](https://arxiv.org/abs/2409.08596)|**[link](https://github.com/cuhealthybrains/mt-llm)**|
 |**2024-09-13**|**LHQ-SVC: Lightweight and High Quality Singing Voice Conversion Modeling**|Yubo Huang et.al.|[2409.08583](https://arxiv.org/abs/2409.08583)|null|
 |**2024-09-13**|**LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study**|Mahta Fetrat Qharabagh et.al.|[2409.08554](https://arxiv.org/abs/2409.08554)|null|
 |**2024-09-12**|**Hierarchical Symbolic Pop Music Generation with Graph Neural Networks**|Wen Qing Lim et.al.|[2409.08155](https://arxiv.org/abs/2409.08155)|null|
@@ -1310,7 +1324,7 @@
 |**2024-09-04**|**Parameter estimation of hidden Markov models: comparison of EM and quasi-Newton methods with a new hybrid algorithm**|Sidonie Foulon et.al.|[2409.02477](https://arxiv.org/abs/2409.02477)|null|
 |**2024-09-04**|**Fast, High-Quality and Parameter-Efficient Articulatory Synthesis using Differentiable DSP**|Yisi Liu et.al.|[2409.02451](https://arxiv.org/abs/2409.02451)|null|
 |**2024-09-04**|**What is lost in Normalization? Exploring Pitfalls in Multilingual ASR Model Evaluations**|Kavya Manohar et.al.|[2409.02449](https://arxiv.org/abs/2409.02449)|null|
-|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421](https://arxiv.org/abs/2409.02421)|null|
+|**2024-09-04**|**MusicMamba: A Dual-Feature Modeling Approach for Generating Chinese Traditional Music with Modal Precision**|Jiatao Chen et.al.|[2409.02421](https://arxiv.org/abs/2409.02421)|**[link](https://github.com/Wietc/MusicMamba)**|
 |**2024-09-03**|**FastVoiceGrad: One-step Diffusion-Based Voice Conversion with Adversarial Conditional Diffusion Distillation**|Takuhiro Kaneko et.al.|[2409.02245](https://arxiv.org/abs/2409.02245)|null|
 |**2024-09-03**|**Temporal Order Preserved Optimal Transport-based Cross-modal Knowledge Transfer Learning for ASR**|Xugang Lu et.al.|[2409.02239](https://arxiv.org/abs/2409.02239)|null|
 |**2024-09-03**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang et.al.|[2409.02050](https://arxiv.org/abs/2409.02050)|null|
@@ -1322,7 +1336,7 @@
 |**2024-08-30**|**Generative Modeling Perspective for Control and Reasoning in Robotics**|Takuma Yoneda et.al.|[2408.17041](https://arxiv.org/abs/2408.17041)|null|
 |**2024-08-30**|**Utilizing Speaker Profiles for Impersonation Audio Detection**|Hao Gu et.al.|[2408.17009](https://arxiv.org/abs/2408.17009)|null|
 |**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](https://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
-|**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](https://arxiv.org/abs/2408.16589)|null|
+|**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](https://arxiv.org/abs/2408.16589)|**[link](https://github.com/nyrahealth/CrisperWhisper.)**|
 |**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564](https://arxiv.org/abs/2408.16564)|null|
 |**2024-08-29**|**RAVE for Speech: Efficient Voice Conversion at High Sampling Rates**|Anders R. Bargum et.al.|[2408.16546](https://arxiv.org/abs/2408.16546)|null|
 |**2024-08-29**|**Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis**|Zehai Tu et.al.|[2408.16373](https://arxiv.org/abs/2408.16373)|null|
@@ -1330,7 +1344,7 @@
 |**2024-08-29**|**Revisit Micro-batch Clipping: Adaptive Data Pruning via Gradient Manipulation**|Lun Wang et.al.|[2408.16204](https://arxiv.org/abs/2408.16204)|null|
 |**2024-08-29**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko et.al.|[2408.16180](https://arxiv.org/abs/2408.16180)|null|
 |**2024-08-28**|**Spoofing-Robust Speaker Verification Using Parallel Embedding Fusion: BTU Speech Group's Approach for ASVspoof5 Challenge**|Oğuzhan Kurnaz et.al.|[2408.15877](https://arxiv.org/abs/2408.15877)|null|
-|**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](https://arxiv.org/abs/2408.15676)|null|
+|**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](https://arxiv.org/abs/2408.15676)|**[link](https://github.com/thuhcsi/VoxInstruct.)**|
 |**2024-08-28**|**Beyond Levenshtein: Leveraging Multiple Algorithms for Robust Word Error Rate Computations And Granular Error Classifications**|Korbinian Kuhn et.al.|[2408.15616](https://arxiv.org/abs/2408.15616)|**[link](https://github.com/shuffle-project/beyond-levenshtein)**|
 |**2024-08-28**|**Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models**|Yiyang Zhao et.al.|[2408.15585](https://arxiv.org/abs/2408.15585)|null|
 |**2024-08-28**|**EmoAttack: Utilizing Emotional Voice Conversion for Speech Backdoor Attacks on Deep Speech Classification Models**|Wenhan Yao et.al.|[2408.15508](https://arxiv.org/abs/2408.15508)|null|
@@ -1347,7 +1361,7 @@
 |**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739](https://arxiv.org/abs/2408.13739)|null|
 |**2024-08-24**|**Studying the Effect of Audio Filters in Pre-Trained Models for Environmental Sound Classification**|Aditya Dawn et.al.|[2408.13644](https://arxiv.org/abs/2408.13644)|null|
 |**2024-08-24**|**As Biased as You Measure: Methodological Pitfalls of Bias Evaluations in Speaker Verification Research**|Wiebke Hutiri et.al.|[2408.13614](https://arxiv.org/abs/2408.13614)|null|
-|**2024-08-24**|**SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description**|Zeyu Jin et.al.|[2408.13608](https://arxiv.org/abs/2408.13608)|null|
+|**2024-08-24**|**SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description**|Zeyu Jin et.al.|[2408.13608](https://arxiv.org/abs/2408.13608)|**[link](https://github.com/thuhcsi/speechcraft)**|
 |**2024-08-23**|**Toward Improving Synthetic Audio Spoofing Detection Robustness via Meta-Learning and Disentangled Training With Adversarial Examples**|Zhenyu Wang et.al.|[2408.13341](https://arxiv.org/abs/2408.13341)|null|
 |**2024-08-23**|**Which Prosodic Features Matter Most for Pragmatics?**|Nigel G. Ward et.al.|[2408.13240](https://arxiv.org/abs/2408.13240)|null|
 |**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](https://arxiv.org/abs/2408.13106)|null|

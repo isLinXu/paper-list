@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Yinhuai Wang et.al.|[2512.19583](https://arxiv.org/abs/2512.19583)|null|
+|**2025-12-12**|**A 96pJ/Frame/Pixel and 61pJ/Event Anti-UAV System with Hybrid Object Tracking Modes**|Yuncheng Lu et.al.|[2512.17939](https://arxiv.org/abs/2512.17939)|null|
 |**2025-12-17**|**Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank**|Chenxiao Zhang et.al.|[2512.15066](https://arxiv.org/abs/2512.15066)|null|
 |**2025-12-17**|**Beyond Proximity: A Keypoint-Trajectory Framework for Classifying Affiliative and Agonistic Social Networks in Dairy Cattle**|Sibi Parivendan et.al.|[2512.14998](https://arxiv.org/abs/2512.14998)|null|
 |**2025-12-16**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](https://arxiv.org/abs/2512.14595)|null|
@@ -318,9 +320,9 @@
 |**2025-04-12**|**PapMOT: Exploring Adversarial Patch Attack against Multiple Object Tracking**|Jiahuan Long et.al.|[2504.09361](https://arxiv.org/abs/2504.09361)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328](https://arxiv.org/abs/2504.09328)|null|
 |**2025-04-12**|**ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking**|Tzoulio Chamiti et.al.|[2504.09195](https://arxiv.org/abs/2504.09195)|null|
-|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](https://arxiv.org/abs/2504.07962)|null|
+|**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](https://arxiv.org/abs/2504.07962)|**[link](https://github.com/GLUS-video/GLUS)**|
 |**2025-04-09**|**Multi-Object Tracking for Collision Avoidance Using Multiple Cameras in Open RAN Networks**|Jordi Serra et.al.|[2504.07163](https://arxiv.org/abs/2504.07163)|null|
-|**2025-04-13**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](https://arxiv.org/abs/2504.06958)|null|
+|**2025-04-13**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](https://arxiv.org/abs/2504.06958)|**[link](https://github.com/opengvlab/videochat-r1)**|
 |**2025-04-16**|**SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation**|Junjie Jiang et.al.|[2504.04519](https://arxiv.org/abs/2504.04519)|**[link](https://github.com/TripleJoy/SAM2MOT)**|
 |**2025-04-05**|**Risk-Aware Robot Control in Dynamic Environments Using Belief Control Barrier Functions**|Shaohang Han et.al.|[2504.04097](https://arxiv.org/abs/2504.04097)|**[link](https://github.com/KTH-RPL-Planiacs/sample_based_bcbf)**|
 |**2025-04-04**|**TQD-Track: Temporal Query Denoising for 3D Multi-Object Tracking**|Shuxiao Ding et.al.|[2504.03258](https://arxiv.org/abs/2504.03258)|null|
@@ -328,7 +330,7 @@
 |**2025-04-03**|**Data-Driven Object Tracking: Integrating Modular Neural Networks into a Kalman Framework**|Christian Alexander Holz et.al.|[2504.02519](https://arxiv.org/abs/2504.02519)|null|
 |**2025-04-02**|**Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**|Ting Meng et.al.|[2504.01457](https://arxiv.org/abs/2504.01457)|null|
 |**2025-04-02**|**COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking**|Chunhui Zhang et.al.|[2504.01321](https://arxiv.org/abs/2504.01321)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
-|**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](https://arxiv.org/abs/2504.00954)|null|
+|**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](https://arxiv.org/abs/2504.00954)|**[link](https://github.com/BwLiu01/IDMR.)**|
 |**2025-04-01**|**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**|Lan Sun et.al.|[2504.00438](https://arxiv.org/abs/2504.00438)|null|
 |**2025-04-03**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943](https://arxiv.org/abs/2503.22943)|null|
 |**2025-03-28**|**Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**|Long Gao et.al.|[2503.22199](https://arxiv.org/abs/2503.22199)|null|
@@ -339,19 +341,19 @@
 |**2025-03-17**|**Real-Time Multi-Object Tracking using YOLOv8 and SORT on a SoC FPGA**|Michal Danilowicz et.al.|[2503.13023](https://arxiv.org/abs/2503.13023)|null|
 |**2025-03-17**|**OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**|Guanhua Ding et.al.|[2503.12968](https://arxiv.org/abs/2503.12968)|null|
 |**2025-03-17**|**UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network**|Siyuan Yao et.al.|[2503.12888](https://arxiv.org/abs/2503.12888)|**[link](https://github.com/ManOfStory/UncTrack)**|
-|**2025-03-16**|**History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.|[2503.12562](https://arxiv.org/abs/2503.12562)|null|
+|**2025-03-16**|**History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.|[2503.12562](https://arxiv.org/abs/2503.12562)|**[link](https://github.com/HELLORPG/HATReID-MOT.)**|
 |**2025-03-15**|**ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object**|Zhe Shan et.al.|[2503.12006](https://arxiv.org/abs/2503.12006)|null|
 |**2025-03-14**|**Cognitive Disentanglement for Referring Multi-Object Tracking**|Shaofeng Liang et.al.|[2503.11496](https://arxiv.org/abs/2503.11496)|null|
 |**2025-03-13**|**3D Extended Object Tracking based on Extruded B-Spline Side View Profiles**|Longfei Han et.al.|[2503.10730](https://arxiv.org/abs/2503.10730)|null|
 |**2025-03-18**|**OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|[2503.10616](https://arxiv.org/abs/2503.10616)|**[link](https://github.com/jinyanglii/ovtr)**|
 |**2025-03-13**|**Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking**|Xinglong Sun et.al.|[2503.09951](https://arxiv.org/abs/2503.09951)|null|
 |**2025-03-12**|**How good are deep learning methods for automated road safety analysis using video data? An experimental study**|Qingwu Liu et.al.|[2503.09807](https://arxiv.org/abs/2503.09807)|null|
-|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471](https://arxiv.org/abs/2503.08471)|null|
-|**2025-03-11**|**HRAvatar: High-Quality and Relightable Gaussian Head Avatar**|Dongbin Zhang et.al.|[2503.08224](https://arxiv.org/abs/2503.08224)|null|
+|**2025-03-11**|**TrackOcc: Camera-based 4D Panoptic Occupancy Tracking**|Zhuoguang Chen et.al.|[2503.08471](https://arxiv.org/abs/2503.08471)|**[link](https://github.com/Tsinghua-MARS-Lab/TrackOcc.)**|
+|**2025-03-11**|**HRAvatar: High-Quality and Relightable Gaussian Head Avatar**|Dongbin Zhang et.al.|[2503.08224](https://arxiv.org/abs/2503.08224)|**[link](https://github.com/Pixel-Talk/HRAvatar)**|
 |**2025-03-11**|**Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking**|Yunhao Li et.al.|[2503.08145](https://arxiv.org/abs/2503.08145)|null|
 |**2025-03-10**|**CPAny: Couple With Any Encoder to Refer Multi-Object Tracking**|Weize Li et.al.|[2503.07516](https://arxiv.org/abs/2503.07516)|null|
 |**2025-03-06**|**Omnidirectional Multi-Object Tracking**|Kai Luo et.al.|[2503.04565](https://arxiv.org/abs/2503.04565)|**[link](https://github.com/xifen523/omnitrack)**|
-|**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](https://arxiv.org/abs/2503.04500)|null|
+|**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500](https://arxiv.org/abs/2503.04500)|**[link](https://github.com/wish44165/ReynoldsFlow)**|
 |**2025-03-06**|**A Modular Pipeline for 3D Object Tracking Using RGB Cameras**|Lars Bredereke et.al.|[2503.04322](https://arxiv.org/abs/2503.04322)|**[link](https://github.com/larsbredereke/object_tracking)**|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547](https://arxiv.org/abs/2503.01547)|**[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**|
 |**2025-02-27**|**ACCORD: Application Context-aware Cross-layer Optimization and Resource Design for 5G/NextG Machine-centric Applications**|Azuka Chiejina et.al.|[2502.20320](https://arxiv.org/abs/2502.20320)|null|
@@ -397,7 +399,7 @@
 |**2024-12-26**|**SUTrack: Towards Simple and Unified Single Object Tracking**|Xin Chen et.al.|[2412.19138](https://arxiv.org/abs/2412.19138)|**[link](https://github.com/chenxin-dlut/sutrack)**|
 |**2024-12-23**|**Cross-View Referring Multi-Object Tracking**|Sijia Chen et.al.|[2412.17807](https://arxiv.org/abs/2412.17807)|**[link](https://github.com/chen-si-jia/crmot)**|
 |**2024-12-20**|**Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking**|Xiantao Hu et.al.|[2412.15691](https://arxiv.org/abs/2412.15691)|**[link](https://github.com/nju-pcalab/sttrack)**|
-|**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212](https://arxiv.org/abs/2412.15212)|null|
+|**2024-12-19**|**Scaling 4D Representations**|João Carreira et.al.|[2412.15212](https://arxiv.org/abs/2412.15212)|**[link](https://github.com/google-deepmind/representations4d)**|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](https://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](https://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-18**|**MambaLCT: Boosting Tracking via Long-term Context State Space Model**|Xiaohai Li et.al.|[2412.13615](https://arxiv.org/abs/2412.13615)|**[link](https://github.com/gxnu-zhonglab/mambalct)**|
@@ -415,11 +417,11 @@
 |**2024-12-11**|**TGOSPA Metric Parameters Selection and Evaluation for Visual Multi-object Tracking**|Jan Krejčí et.al.|[2412.08321](https://arxiv.org/abs/2412.08321)|null|
 |**2024-12-11**|**Post-Hoc MOTS: Exploring the Capabilities of Time-Symmetric Multi-Object Tracking**|Gergely Szabó et.al.|[2412.08313](https://arxiv.org/abs/2412.08313)|null|
 |**2024-12-11**|**DTAA: A Detect, Track and Avoid Architecture for navigation in spaces with Multiple Velocity Objects**|Samuel Nordström et.al.|[2412.08121](https://arxiv.org/abs/2412.08121)|null|
-|**2024-12-10**|**Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation**|Kurt H. W. Stolle et.al.|[2412.07966](https://arxiv.org/abs/2412.07966)|null|
+|**2024-12-10**|**Balancing Shared and Task-Specific Representations: A Hybrid Approach to Depth-Aware Video Panoptic Segmentation**|Kurt H. W. Stolle et.al.|[2412.07966](https://arxiv.org/abs/2412.07966)|**[link](https://github.com/khwstolle/multiformer)**|
 |**2024-12-10**|**Benchmarking Vision-Based Object Tracking for USVs in Complex Maritime Environments**|Muhayy Ud Din et.al.|[2412.07392](https://arxiv.org/abs/2412.07392)|null|
 |**2024-12-10**|**Optical Levitation of Arrays of Microspheres**|Benjamin Siegel et.al.|[2412.07088](https://arxiv.org/abs/2412.07088)|null|
 |**2024-12-09**|**Enhanced Multi-Object Tracking Using Pose-based Virtual Markers in 3x3 Basketball**|Li Yin et.al.|[2412.06258](https://arxiv.org/abs/2412.06258)|null|
-|**2024-12-07**|**Street Gaussians without 3D Object Tracker**|Ruida Zhang et.al.|[2412.05548](https://arxiv.org/abs/2412.05548)|null|
+|**2024-12-07**|**Street Gaussians without 3D Object Tracker**|Ruida Zhang et.al.|[2412.05548](https://arxiv.org/abs/2412.05548)|**[link](https://github.com/zju3dv/street_gaussians)**|
 |**2024-12-06**|**HOLa: HoloLens Object Labeling**|Michael Schwimmbeck et.al.|[2412.04945](https://arxiv.org/abs/2412.04945)|**[link](https://github.com/mschwimmbeck/hola)**|
 |**2024-12-06**|**Beyond Boxes: Mask-Guided Spatio-Temporal Feature Aggregation for Video Object Detection**|Khurram Azeem Hashmi et.al.|[2412.04915](https://arxiv.org/abs/2412.04915)|null|
 |**2024-12-04**|**Distillation of Diffusion Features for Semantic Correspondence**|Frank Fundel et.al.|[2412.03512](https://arxiv.org/abs/2412.03512)|null|

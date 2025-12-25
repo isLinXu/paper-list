@@ -2,6 +2,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](https://arxiv.org/abs/2512.19083)|null|
+|**2025-12-22**|**CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization**|Zelin Zhao et.al.|[2512.19020](https://arxiv.org/abs/2512.19020)|null|
+|**2025-12-21**|**A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**|Huimin Wu et.al.|[2512.18684](https://arxiv.org/abs/2512.18684)|null|
+|**2025-12-20**|**EndoStreamDepth: Temporally Consistent Monocular Depth Estimation for Endoscopic Video Streams**|Hao Li et.al.|[2512.18159](https://arxiv.org/abs/2512.18159)|null|
+|**2025-12-17**|**A Modular Framework for Single-View 3D Reconstruction of Indoor Environments**|Yuxiao Li et.al.|[2512.17955](https://arxiv.org/abs/2512.17955)|null|
+|**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](https://arxiv.org/abs/2512.17908)|null|
+|**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[2512.17784](https://arxiv.org/abs/2512.17784)|null|
+|**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[2512.17724](https://arxiv.org/abs/2512.17724)|null|
+|**2025-12-18**|**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation**|Min-Jung Kim et.al.|[2512.17040](https://arxiv.org/abs/2512.17040)|null|
 |**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](https://arxiv.org/abs/2512.16913)|null|
 |**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](https://arxiv.org/abs/2512.16561)|null|
 |**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](https://arxiv.org/abs/2512.15715)|null|
@@ -769,10 +778,10 @@
 |**2024-09-04**|**Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects**|Kyungmin Jo et.al.|[2409.02653](https://arxiv.org/abs/2409.02653)|null|
 |**2024-09-04**|**UniTT-Stereo: Unified Training of Transformer for Enhanced Stereo Matching**|Soomin Kim et.al.|[2409.02545](https://arxiv.org/abs/2409.02545)|null|
 |**2024-09-04**|**SG-MIM: Structured Knowledge Guided Efficient Pre-training for Dense Prediction**|Sumin Son et.al.|[2409.02513](https://arxiv.org/abs/2409.02513)|null|
-|**2024-09-04**|**Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation**|Li Liu et.al.|[2409.02494](https://arxiv.org/abs/2409.02494)|null|
+|**2024-09-04**|**Plane2Depth: Hierarchical Adaptive Plane Guidance for Monocular Depth Estimation**|Li Liu et.al.|[2409.02494](https://arxiv.org/abs/2409.02494)|**[link](https://github.com/RuijieZhu94/mmdepth)**|
 |**2024-09-04**|**Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization**|Cho-Ying Wu et.al.|[2409.02486](https://arxiv.org/abs/2409.02486)|null|
 |**2024-09-04**|**GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving**|Huasong Han et.al.|[2409.02382](https://arxiv.org/abs/2409.02382)|null|
-|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](https://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](https://arxiv.org/abs/2409.02095)|**[link](https://github.com/Tencent/DepthCrafter)**|
 |**2024-09-02**|**Large Language Models Can Understanding Depth from Monocular Images**|Zhongyi Xia et.al.|[2409.01133](https://arxiv.org/abs/2409.01133)|null|
 |**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](https://arxiv.org/abs/2408.17433)|null|
 |**2024-08-30**|**Enhancing Underwater Imaging with 4-D Light Fields: Dataset and Method**|Yuji Lin et.al.|[2408.17339](https://arxiv.org/abs/2408.17339)|null|
@@ -785,11 +794,11 @@
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](https://arxiv.org/abs/2408.13770)|null|
 |**2024-08-25**|**InSpaceType: Dataset and Benchmark for Reconsidering Cross-Space Type Performance in Indoor Monocular Depth**|Cho-Ying Wu et.al.|[2408.13708](https://arxiv.org/abs/2408.13708)|null|
 |**2024-08-25**|**SeeBelow: Sub-dermal 3D Reconstruction of Tumors with Surgical Robotic Palpation and Tactile Exploration**|Raghava Uppuluri et.al.|[2408.13699](https://arxiv.org/abs/2408.13699)|null|
-|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](https://arxiv.org/abs/2408.12569)|null|
+|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](https://arxiv.org/abs/2408.12569)|**[link](https://github.com/facebookresearch/sapiens)**|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682](https://arxiv.org/abs/2408.11682)|null|
 |**2024-08-19**|**Structure-preserving Image Translation for Depth Estimation in Colonoscopy Video**|Shuxian Wang et.al.|[2408.10153](https://arxiv.org/abs/2408.10153)|null|
 |**2024-08-19**|**SHARP: Segmentation of Hands and Arms by Range using Pseudo-Depth for Enhanced Egocentric 3D Hand Pose Estimation and Action Recognition**|Wiktor Mucha et.al.|[2408.10037](https://arxiv.org/abs/2408.10037)|**[link](https://github.com/wiktormucha/SHARP)**|
-|**2024-08-19**|**P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders**|Xuechao Chen et.al.|[2408.10007](https://arxiv.org/abs/2408.10007)|null|
+|**2024-08-19**|**P3P: Pseudo-3D Pre-training for Scaling 3D Masked Autoencoders**|Xuechao Chen et.al.|[2408.10007](https://arxiv.org/abs/2408.10007)|**[link](https://github.com/XuechaoChen/P3P-MAE.)**|
 |**2024-08-14**|**Enhanced Scale-aware Depth Estimation for Monocular Endoscopic Scenes with Geometric Modeling**|Ruofeng Wei et.al.|[2408.07266](https://arxiv.org/abs/2408.07266)|null|
 |**2024-08-12**|**Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces**|Junrui Zhang et.al.|[2408.06083](https://arxiv.org/abs/2408.06083)|null|
 |**2024-08-08**|**Depth Any Canopy: Leveraging Depth Foundation Models for Canopy Height Estimation**|Daniele Rege Cambrin et.al.|[2408.04523](https://arxiv.org/abs/2408.04523)|**[link](https://github.com/DarthReca/depth-any-canopy)**|
@@ -799,14 +808,14 @@
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](https://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-05**|**Gaussian Mixture based Evidential Learning for Stereo Matching**|Weide Liu et.al.|[2408.02796](https://arxiv.org/abs/2408.02796)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](https://arxiv.org/abs/2408.02657)|**[link](https://github.com/alpha-vllm/lumina-mgpt)**|
-|**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao et.al.|[2408.01653](https://arxiv.org/abs/2408.01653)|null|
+|**2024-08-03**|**MCPDepth: Omnidirectional Depth Estimation via Stereo Matching from Multi-Cylindrical Panoramas**|Feng Qiao et.al.|[2408.01653](https://arxiv.org/abs/2408.01653)|**[link](https://github.com/Qjizhi/MCPDepth)**|
 |**2024-08-02**|**Self-Supervised Depth Estimation Based on Camera Models**|Jinchang Zhang et.al.|[2408.01565](https://arxiv.org/abs/2408.01565)|null|
 |**2024-08-01**|**MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**|Youjia Fu et.al.|[2408.00438](https://arxiv.org/abs/2408.00438)|null|
 |**2024-08-01**|**High-Precision Self-Supervised Monocular Depth Estimation with Rich-Resource Prior**|Wencheng Han et.al.|[2408.00361](https://arxiv.org/abs/2408.00361)|null|
 |**2024-07-31**|**Unifying Event-based Flow, Stereo and Depth Estimation via Feature Similarity Matching**|Pengjie Zhang et.al.|[2407.21735](https://arxiv.org/abs/2407.21735)|null|
 |**2024-07-29**|**BaseBoostDepth: Exploiting Larger Baselines For Self-supervised Monocular Depth Estimation**|Kieran Saunders et.al.|[2407.20437](https://arxiv.org/abs/2407.20437)|null|
 |**2024-07-29**|**Analysis and Improvement of Rank-Ordered Mean Algorithm in Single-Photon LiDAR**|William C. Yau et.al.|[2407.20399](https://arxiv.org/abs/2407.20399)|null|
-|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229](https://arxiv.org/abs/2407.20229)|null|
+|**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229](https://arxiv.org/abs/2407.20229)|**[link](https://github.com/ywyue/FiT3D)**|
 |**2024-07-27**|**Revisit Self-supervised Depth Estimation with Local Structure-from-Motion**|Shengjie Zhu et.al.|[2407.19166](https://arxiv.org/abs/2407.19166)|null|
 |**2024-07-27**|**RePLAy: Remove Projective LiDAR Depthmap Artifacts via Exploiting Epipolar Geometry**|Shengjie Zhu et.al.|[2407.19154](https://arxiv.org/abs/2407.19154)|null|
 |**2024-07-26**|**HybridDepth: Robust Depth Fusion for Mobile AR by Leveraging Depth from Focus and Single-Image Priors**|Ashkan Ganj et.al.|[2407.18443](https://arxiv.org/abs/2407.18443)|**[link](https://github.com/cake-lab/hybriddepth)**|
@@ -831,7 +840,7 @@
 |**2024-07-10**|**Controlling Space and Time with Diffusion Models**|Daniel Watson et.al.|[2407.07860](https://arxiv.org/abs/2407.07860)|null|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283](https://arxiv.org/abs/2407.05283)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-05**|**A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation**|Dazhao Du et.al.|[2407.04230](https://arxiv.org/abs/2407.04230)|null|
-|**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041](https://arxiv.org/abs/2407.04041)|null|
+|**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041](https://arxiv.org/abs/2407.04041)|**[link](https://github.com/denyingmxd/CVCDepth)**|
 |**2024-07-02**|**Parametric Modeling and Estimation of Photon Registrations for 3D Imaging**|Weijian Zhang et.al.|[2407.02712](https://arxiv.org/abs/2407.02712)|null|
 |**2024-07-02**|**Depth-Aware Endoscopic Video Inpainting**|Francis Xiatian Zhang et.al.|[2407.02675](https://arxiv.org/abs/2407.02675)|**[link](https://github.com/FrancisXZhang/DAEVI)**|
 |**2024-07-04**|**Camera-LiDAR Cross-modality Gait Recognition**|Wenxuan Guo et.al.|[2407.02038](https://arxiv.org/abs/2407.02038)|null|

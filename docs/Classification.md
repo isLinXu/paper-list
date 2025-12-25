@@ -2,6 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Programmable Optical Spectrum Shapers as Computing Primitives for Accelerating Convolutional Neural Networks**|Georgios Moustakas et.al.|[2512.20580](https://arxiv.org/abs/2512.20580)|null|
+|**2025-12-23**|**FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning**|Mrinmay Sen et.al.|[2512.20329](https://arxiv.org/abs/2512.20329)|null|
+|**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](https://arxiv.org/abs/2512.20097)|null|
+|**2025-12-23**|**3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras**|Hongyang Shang et.al.|[2512.20073](https://arxiv.org/abs/2512.20073)|null|
+|**2025-12-23**|**Gaussian Process Assisted Meta-learning for Image Classification and Object Detection Models**|Anna R. Flowers et.al.|[2512.20021](https://arxiv.org/abs/2512.20021)|null|
+|**2025-12-23**|**WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification**|Le Feng et.al.|[2512.19982](https://arxiv.org/abs/2512.19982)|null|
+|**2025-12-22**|**Phase-space entropy at acquisition reflects downstream learnability**|Xiu-Cheng Wang et.al.|[2512.19223](https://arxiv.org/abs/2512.19223)|null|
+|**2025-12-22**|**Photonic Spiking Graph Neural Network for Energy-Efficient Structured Data Processing**|Wanting Yu et.al.|[2512.19182](https://arxiv.org/abs/2512.19182)|null|
+|**2025-12-20**|**Towards Ancient Plant Seed Classification: A Benchmark Dataset and Baseline Model**|Rui Xing et.al.|[2512.18247](https://arxiv.org/abs/2512.18247)|null|
+|**2025-12-17**|**SCS-SupCon: Sigmoid-based Common and Style Supervised Contrastive Learning with Adaptive Decision Boundaries**|Bin Wang et.al.|[2512.17954](https://arxiv.org/abs/2512.17954)|null|
+|**2025-12-19**|**Domain-Aware Quantum Circuit for QML**|Gurinder Singh et.al.|[2512.17800](https://arxiv.org/abs/2512.17800)|null|
+|**2025-12-19**|**Resource-efficient medical image classification for edge devices**|Mahsa Lavaei et.al.|[2512.17515](https://arxiv.org/abs/2512.17515)|null|
+|**2025-12-19**|**AIFloodSense: A Global Aerial Imagery Dataset for Semantic Segmentation and Understanding of Flooded Environments**|Georgios Simantiris et.al.|[2512.17432](https://arxiv.org/abs/2512.17432)|null|
+|**2025-12-19**|**Can Synthetic Images Serve as Effective and Efficient Class Prototypes?**|Dianxing Shi et.al.|[2512.17160](https://arxiv.org/abs/2512.17160)|null|
+|**2025-12-18**|**Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?**|Brandon Marks et.al.|[2512.17038](https://arxiv.org/abs/2512.17038)|null|
 |**2025-12-18**|**Blog Data Showdown: Machine Learning vs Neuro-Symbolic Models for Gender Classification**|Natnael Tilahun Sinshaw et.al.|[2512.16687](https://arxiv.org/abs/2512.16687)|null|
 |**2025-12-18**|**Protecting Deep Neural Network Intellectual Property with Chaos-Based White-Box Watermarking**|Sangeeth B et.al.|[2512.16658](https://arxiv.org/abs/2512.16658)|null|
 |**2025-12-10**|**D3G: Diverse Demographic Data Generation Increases Zero-Shot Image Classification Accuracy within Multimodal Models**|Javon Hickmon et.al.|[2512.15747](https://arxiv.org/abs/2512.15747)|null|
@@ -43,7 +58,7 @@
 |**2025-12-10**|**Benchmarking Real-World Medical Image Classification with Noisy Labels: Challenges, Practice, and Outlook**|Yuan Ma et.al.|[2512.09315](https://arxiv.org/abs/2512.09315)|null|
 |**2025-12-09**|**GS-KAN: Parameter-Efficient Kolmogorov-Arnold Networks via Sprecher-Type Shared Basis Functions**|Oscar Eliasson et.al.|[2512.09084](https://arxiv.org/abs/2512.09084)|null|
 |**2025-12-09**|**Improving Multi-Class Calibration through Normalization-Aware Isotonic Techniques**|Alon Arad et.al.|[2512.09054](https://arxiv.org/abs/2512.09054)|null|
-|**2025-12-09**|**Luxical: High-Speed Lexical-Dense Text Embeddings**|DatologyAI et.al.|[2512.09015](https://arxiv.org/abs/2512.09015)|null|
+|**2025-12-09**|**Luxical: High-Speed Lexical-Dense Text Embeddings**|DatologyAI et.al.|[2512.09015](https://arxiv.org/abs/2512.09015)|**[link](https://github.com/datologyai/luxical.)**|
 |**2025-12-08**|**Enhancing Knowledge Transfer in Hyperspectral Image Classification via Cross-scene Knowledge Integration**|Lu Huo et.al.|[2512.08989](https://arxiv.org/abs/2512.08989)|null|
 |**2025-12-09**|**Automated Pollen Recognition in Optical and Holographic Microscopy Images**|Swarn Singh Warshaneyan et.al.|[2512.08589](https://arxiv.org/abs/2512.08589)|null|
 |**2025-12-09**|**Low Rank Support Quaternion Matrix Machine**|Wang Chen et.al.|[2512.08327](https://arxiv.org/abs/2512.08327)|null|
@@ -1510,7 +1525,7 @@
 |**2025-01-08**|**Enhancing Scene Classification in Cloudy Image Scenarios: A Collaborative Transfer Method with Information Regulation Mechanism using Optical Cloud-Covered and SAR Remote Sensing Images**|Yuze Wang et.al.|[2501.04283](https://arxiv.org/abs/2501.04283)|null|
 |**2025-01-08**|**Comparison of Neural Models for X-ray Image Classification in COVID-19 Detection**|Jimi Togni et.al.|[2501.04196](https://arxiv.org/abs/2501.04196)|null|
 |**2025-01-07**|**Temporal Feature Weaving for Neonatal Echocardiographic Viewpoint Video Classification**|Satchel French et.al.|[2501.03967](https://arxiv.org/abs/2501.03967)|**[link](https://github.com/satchelfrench/ned)**|
-|**2025-01-07**|**Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**|Jiakang Yuan et.al.|[2501.03916](https://arxiv.org/abs/2501.03916)|null|
+|**2025-01-07**|**Dolphin: Closed-loop Open-ended Auto-research through Thinking, Practice, and Feedback**|Jiakang Yuan et.al.|[2501.03916](https://arxiv.org/abs/2501.03916)|**[link](https://github.com/UniModal4Reasoning/Dolphin)**|
 |**2025-01-07**|**MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention**|Aadya Arora et.al.|[2501.03839](https://arxiv.org/abs/2501.03839)|null|
 |**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464](https://arxiv.org/abs/2501.03464)|null|
 |**2025-01-06**|**FTA-FTL: A Fine-Tuned Aggregation Federated Transfer Learning Scheme for Lithology Microscopic Image Classification**|Keyvan RahimiZadeh et.al.|[2501.03349](https://arxiv.org/abs/2501.03349)|**[link](https://github.com/ahmadtaheri2021/lithology-microscopic-images-mini-dataset)**|
@@ -2084,7 +2099,7 @@
 |**2024-08-19**|**A Strategy to Combine 1stGen Transformers and Open LLMs for Automatic Text Classification**|Claudio M. V. de Andrade et.al.|[2408.09629](https://arxiv.org/abs/2408.09629)|null|
 |**2024-08-18**|**Attention Is Not What You Need: Revisiting Multi-Instance Learning for Whole Slide Image Classification**|Xin Liu et.al.|[2408.09449](https://arxiv.org/abs/2408.09449)|null|
 |**2024-08-17**|**Narrowing the Focus: Learned Optimizers for Pretrained Models**|Gus Kristiansen et.al.|[2408.09310](https://arxiv.org/abs/2408.09310)|null|
-|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](https://arxiv.org/abs/2408.08855)|null|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](https://arxiv.org/abs/2408.08855)|**[link](https://github.com/Externalhappy/DPA)**|
 |**2024-08-16**|**LEVIS: Large Exact Verifiable Input Spaces for Neural Networks**|Mohamad Fares El Hajj Chehade et.al.|[2408.08824](https://arxiv.org/abs/2408.08824)|null|
 |**2024-08-16**|**Leveraging FourierKAN Classification Head for Pre-Trained Transformer-based Text Classification**|Abdullah Al Imran et.al.|[2408.08803](https://arxiv.org/abs/2408.08803)|null|
 |**2024-08-16**|**Xpikeformer: Hybrid Analog-Digital Hardware Acceleration for Spiking Transformers**|Zihang Song et.al.|[2408.08794](https://arxiv.org/abs/2408.08794)|null|
@@ -2092,11 +2107,11 @@
 |**2024-08-16**|**MM-UNet: A Mixed MLP Architecture for Improved Ophthalmic Image Segmentation**|Zunjie Xiao et.al.|[2408.08600](https://arxiv.org/abs/2408.08600)|null|
 |**2024-08-16**|**Tell Codec What Worth Compressing: Semantically Disentangled Image Coding for Machine with LMMs**|Jinming Liu et.al.|[2408.08575](https://arxiv.org/abs/2408.08575)|null|
 |**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](https://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
-|**2024-08-15**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454](https://arxiv.org/abs/2408.08454)|null|
+|**2024-08-15**|**Beyond Uniform Query Distribution: Key-Driven Grouped Query Attention**|Zohaib Khan et.al.|[2408.08454](https://arxiv.org/abs/2408.08454)|**[link](https://github.com/zohaib-khan5040/key-driven-gqa)**|
 |**2024-08-15**|**Predictive uncertainty estimation in deep learning for lung carcinoma classification in digital pathology under real dataset shifts**|Abdur R. Fayjie et.al.|[2408.08432](https://arxiv.org/abs/2408.08432)|null|
 |**2024-08-15**|**SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**|Gengwei Zhang et.al.|[2408.08295](https://arxiv.org/abs/2408.08295)|**[link](https://github.com/gengdavid/slca)**|
 |**2024-08-15**|**Moving Healthcare AI-Support Systems for Visually Detectable Diseases onto Constrained Devices**|Tess Watt et.al.|[2408.08215](https://arxiv.org/abs/2408.08215)|null|
-|**2024-08-15**|**Towards flexible perception with visual memory**|Robert Geirhos et.al.|[2408.08172](https://arxiv.org/abs/2408.08172)|null|
+|**2024-08-15**|**Towards flexible perception with visual memory**|Robert Geirhos et.al.|[2408.08172](https://arxiv.org/abs/2408.08172)|**[link](https://github.com/google-deepmind/visual-memory)**|
 |**2024-08-15**|**Category-Prompt Refined Feature Learning for Long-Tailed Multi-Label Image Classification**|Jiexuan Yan et.al.|[2408.08125](https://arxiv.org/abs/2408.08125)|**[link](https://github.com/jiexuanyan/cprfl)**|
 |**2024-08-15**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091](https://arxiv.org/abs/2408.08091)|**[link](https://github.com/toummHus/HAIR)**|
 |**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](https://arxiv.org/abs/2408.07465)|null|

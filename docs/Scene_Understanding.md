@@ -2,6 +2,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](https://arxiv.org/abs/2512.19083)|null|
+|**2025-12-22**|**VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**|Zaidao Han et.al.|[2512.18954](https://arxiv.org/abs/2512.18954)|null|
+|**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](https://arxiv.org/abs/2512.18211)|null|
+|**2025-12-19**|**InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion**|Hoiyeong Jin et.al.|[2512.17504](https://arxiv.org/abs/2512.17504)|null|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](https://arxiv.org/abs/2512.16909)|null|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](https://arxiv.org/abs/2512.16461)|null|
 |**2025-12-18**|**Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception**|Bangya Liu et.al.|[2512.16265](https://arxiv.org/abs/2512.16265)|null|

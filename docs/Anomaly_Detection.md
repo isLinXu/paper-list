@@ -2,6 +2,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al.|[2512.20432](https://arxiv.org/abs/2512.20432)|null|
+|**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|Pedro Domingos et.al.|[2512.20417](https://arxiv.org/abs/2512.20417)|null|
+|**2025-12-23**|**Machine-learning techniques for model-independent searches in dijet final states**|CMS Collaboration et.al.|[2512.20395](https://arxiv.org/abs/2512.20395)|null|
+|**2025-12-23**|**Population Protocols Revisited: Parity and Beyond**|Leszek Gąsieniec et.al.|[2512.20163](https://arxiv.org/abs/2512.20163)|null|
+|**2025-12-23**|**Spatio-Temporal Graphs Beyond Grids: Benchmark for Maritime Anomaly Detection**|Jeehong Kim et.al.|[2512.20086](https://arxiv.org/abs/2512.20086)|null|
+|**2025-12-22**|**Lightweight Intrusion Detection in IoT via SHAP-Guided Feature Pruning and Knowledge-Distilled Kronecker Networks**|Hafsa Benaddi et.al.|[2512.19488](https://arxiv.org/abs/2512.19488)|null|
+|**2025-12-22**|**Real-Time Machine Learning for Embedded Anomaly Detection**|Abdelmadjid Benmachiche et.al.|[2512.19383](https://arxiv.org/abs/2512.19383)|null|
+|**2025-12-22**|**Evaluating MCC for Low-Frequency Cyberattack Detection in Imbalanced Intrusion Detection Data**|Prameshwar Thiyagarajan et.al.|[2512.19203](https://arxiv.org/abs/2512.19203)|null|
+|**2025-12-22**|**Fraud Detection Through Large-Scale Graph Clustering with Heterogeneous Link Transformation**|Chi Liu et.al.|[2512.19061](https://arxiv.org/abs/2512.19061)|null|
+|**2025-12-22**|**Elevating Intrusion Detection and Security Fortification in Intelligent Networks through Cutting-Edge Machine Learning Paradigms**|Md Minhazul Islam Munna et.al.|[2512.19037](https://arxiv.org/abs/2512.19037)|null|
+|**2025-12-22**|**Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy**|Baiyang Chen et.al.|[2512.18978](https://arxiv.org/abs/2512.18978)|null|
+|**2025-12-22**|**Consistency-guided semi-supervised outlier detection in heterogeneous data using fuzzy rough sets**|Baiyang Chen et.al.|[2512.18977](https://arxiv.org/abs/2512.18977)|null|
+|**2025-12-21**|**Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection**|Souhail Abdelmouaiz Sadat et.al.|[2512.18826](https://arxiv.org/abs/2512.18826)|null|
+|**2025-12-21**|**Label-Informed Outlier Detection Based on Granule Density**|Baiyang Chen et.al.|[2512.18774](https://arxiv.org/abs/2512.18774)|null|
+|**2025-12-21**|**Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**|Junjun Pan et.al.|[2512.18733](https://arxiv.org/abs/2512.18733)|null|
+|**2025-12-21**|**Improving Pattern Recognition of Scheduling Anomalies through Structure-Aware and Semantically-Enhanced Graphs**|Ning Lyu et.al.|[2512.18673](https://arxiv.org/abs/2512.18673)|null|
+|**2025-12-20**|**Cyber Threat Detection Enabled by Quantum Computing**|Zisheng Chen et.al.|[2512.18493](https://arxiv.org/abs/2512.18493)|null|
+|**2025-12-20**|**Towards Scalable Visual Data Wrangling via Direct Manipulation**|El Kindi Rezig et.al.|[2512.18405](https://arxiv.org/abs/2512.18405)|null|
+|**2025-12-20**|**Unsupervised Anomaly Detection with an Enhanced Teacher for Student-Teacher Feature Pyramid Matching**|Mohammad Zolfaghari et.al.|[2512.18219](https://arxiv.org/abs/2512.18219)|null|
+|**2025-12-20**|**PROVEX: Enhancing SOC Analyst Trust with Explainable Provenance-Based IDS**|Devang Dhanuka et.al.|[2512.18199](https://arxiv.org/abs/2512.18199)|null|
+|**2025-12-19**|**Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection**|Jie Yang et.al.|[2512.18133](https://arxiv.org/abs/2512.18133)|null|
+|**2025-12-19**|**AI Assisted Next Gen Outdoor Optical Networks: Camera Sensing for Monitoring and User Localization**|Meysam Ghanbari et.al.|[2512.18087](https://arxiv.org/abs/2512.18087)|null|
+|**2025-12-19**|**Fraud detection in credit card transactions using Quantum-Assisted Restricted Boltzmann Machines**|João Marcos Cavalcanti de Albuquerque Neto et.al.|[2512.17660](https://arxiv.org/abs/2512.17660)|null|
+|**2025-12-19**|**HeadHunt-VAD: Hunting Robust Anomaly-Sensitive Heads in MLLM for Tuning-Free Video Anomaly Detection**|Zhaolin Cai et.al.|[2512.17601](https://arxiv.org/abs/2512.17601)|null|
+|**2025-12-18**|**Another Fit Bites the Dust: Conformal Prediction as a Calibration Standard for Machine Learning in High-Energy Physics**|Jack Y. Araz et.al.|[2512.17048](https://arxiv.org/abs/2512.17048)|null|
+|**2025-12-18**|**New Theoretical Insights and Algorithmic Solutions for Reconstructing Score Sequences from Tournament Score Sets**|Bowen Liu et.al.|[2512.16961](https://arxiv.org/abs/2512.16961)|null|
 |**2025-12-18**|**TimeSeries2Report prompting enables adaptive large language model management of lithium-ion batteries**|Jiayang Yang et.al.|[2512.16453](https://arxiv.org/abs/2512.16453)|null|
 |**2025-12-18**|**Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**|Xueqi Ma et.al.|[2512.16244](https://arxiv.org/abs/2512.16244)|null|
 |**2025-12-17**|**Explainable AI in Big Data Fraud Detection**|Ayush Jain et.al.|[2512.16037](https://arxiv.org/abs/2512.16037)|null|

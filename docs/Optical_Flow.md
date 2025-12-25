@@ -2,6 +2,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Learning Skills from Action-Free Videos**|Hung-Chieh Fang et.al.|[2512.20052](https://arxiv.org/abs/2512.20052)|null|
+|**2025-12-22**|**WaTeRFlow: Watermark Temporal Robustness via Flow Consistency**|Utae Jeong et.al.|[2512.19048](https://arxiv.org/abs/2512.19048)|null|
+|**2025-12-21**|**A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**|Huimin Wu et.al.|[2512.18684](https://arxiv.org/abs/2512.18684)|null|
+|**2025-12-19**|**Robotic VLA Benefits from Joint Learning with Motion Image Diffusion**|Yu Fang et.al.|[2512.18007](https://arxiv.org/abs/2512.18007)|null|
+|**2025-12-19**|**SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation**|Shihang Li et.al.|[2512.17331](https://arxiv.org/abs/2512.17331)|null|
+|**2025-12-19**|**DESSERT: Diffusion-based Event-driven Single-frame Synthesis via Residual Training**|Jiyun Kong et.al.|[2512.17323](https://arxiv.org/abs/2512.17323)|null|
 |**2025-12-18**|**A2VISR: An Active and Adaptive Ground-Aerial Localization System Using Visual Inertial and Single-Range Fusion**|Sijia Chen et.al.|[2512.16367](https://arxiv.org/abs/2512.16367)|null|
 |**2025-12-17**|**GenAI-enabled Residual Motion Estimation for Energy-Efficient Semantic Video Communication**|Shavbo Salehi et.al.|[2512.15481](https://arxiv.org/abs/2512.15481)|null|
 |**2025-12-16**|**Investigating the Efficacy of Topologically Derived Time Series for Flare Forecasting. II. XGBoost Model**|Thomas Williams et.al.|[2512.14840](https://arxiv.org/abs/2512.14840)|null|
@@ -13,7 +19,7 @@
 |**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](https://arxiv.org/abs/2512.11792)|null|
 |**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[2512.11350](https://arxiv.org/abs/2512.11350)|null|
 |**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[2512.11327](https://arxiv.org/abs/2512.11327)|null|
-|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|null|
+|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|**[link](https://github.com/Any-4D/Any4D)**|
 |**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](https://arxiv.org/abs/2512.10450)|null|
 |**2025-12-11**|**RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds**|Jingyun Fu et.al.|[2512.10376](https://arxiv.org/abs/2512.10376)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](https://arxiv.org/abs/2512.09646)|null|
@@ -91,12 +97,12 @@
 |**2025-10-27**|**EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction**|Taoyu Wu et.al.|[2510.23087](https://arxiv.org/abs/2510.23087)|null|
 |**2025-10-25**|**Glymphatic Clearance in the Optic Nerve: A Multidomain Electro-osmostic Model**|Shanfeng Xiao et.al.|[2510.22271](https://arxiv.org/abs/2510.22271)|null|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](https://arxiv.org/abs/2510.22201)|**[link](https://github.com/DAVIAN-Robotics/ACG)**|
-|**2025-10-25**|**STG-Avatar: Animatable Human Avatars via Spacetime Gaussian**|Guangan Jiang et.al.|[2510.22140](https://arxiv.org/abs/2510.22140)|**[link](https://github.com/jiangguangan/STG-Avatar)**|
+|**2025-10-25**|**STG-Avatar: Animatable Human Avatars via Spacetime Gaussian**|Guangan Jiang et.al.|[2510.22140](https://arxiv.org/abs/2510.22140)|null|
 |**2025-10-25**|**CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding**|Lihuang Fang et.al.|[2510.22119](https://arxiv.org/abs/2510.22119)|null|
 |**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](https://arxiv.org/abs/2510.21615)|null|
 |**2025-10-24**|**Shadow and Polarization Images of Rotating Black Holes in Kalb-Ramond Gravity Illuminated by Several Thick Accretion Disks**|Chen-Yu Yang et.al.|[2510.21229](https://arxiv.org/abs/2510.21229)|null|
 |**2025-10-23**|**CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling**|Binbin Huang et.al.|[2510.20776](https://arxiv.org/abs/2510.20776)|null|
-|**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](https://arxiv.org/abs/2510.20206)|**[link](https://github.com/Vchitect/RAPO)**|
+|**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](https://arxiv.org/abs/2510.20206)|null|
 |**2025-10-23**|**Inverse Image-Based Rendering for Light Field Generation from Single Images**|Hyunjun Jung et.al.|[2510.20132](https://arxiv.org/abs/2510.20132)|null|
 |**2025-10-22**|**Magnetic flux cancellation in the solar atmosphere through 3D realistic numerical modeling**|F. Moreno-Insertis et.al.|[2510.19993](https://arxiv.org/abs/2510.19993)|null|
 |**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](https://arxiv.org/abs/2510.19022)|null|
@@ -115,9 +121,9 @@
 |**2025-10-17**|**MAVR-Net: Robust Multi-View Learning for MAV Action Recognition with Cross-View Attention**|Nengbo Zhang et.al.|[2510.15448](https://arxiv.org/abs/2510.15448)|null|
 |**2025-10-16**|**A low-cost, open-source maskless photolithography stepper for microfabrication**|B. Joel Gonzalez et.al.|[2510.15082](https://arxiv.org/abs/2510.15082)|null|
 |**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang et.al.|[2510.14977](https://arxiv.org/abs/2510.14977)|null|
-|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|**[link](https://github.com/littlepure2333/C4D)**|
+|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|null|
 |**2025-10-15**|**An Explicit M1 Radiation-hydrodynamics Scheme for Three-dimensional Protostellar Evolution**|Kazutaka Kimura et.al.|[2510.13949](https://arxiv.org/abs/2510.13949)|null|
-|**2025-10-15**|**Removing Cost Volumes from Optical Flow Estimators**|Simon Kiefhaber et.al.|[2510.13317](https://arxiv.org/abs/2510.13317)|**[link](https://github.com/visinf/recover)**|
+|**2025-10-15**|**Removing Cost Volumes from Optical Flow Estimators**|Simon Kiefhaber et.al.|[2510.13317](https://arxiv.org/abs/2510.13317)|null|
 |**2025-10-15**|**Scalable Generalized Meta-Spanners Enabling Parallel Multitasking Optical Manipulation**|Tianyue Li et.al.|[2510.13146](https://arxiv.org/abs/2510.13146)|null|
 |**2025-10-15**|**Macroscopic Self-Trapping and Dynamical Phase Transition in Momentum Space Bose-Einstein Condensates**|Colby Schimelfenig et.al.|[2510.13056](https://arxiv.org/abs/2510.13056)|null|
 |**2025-10-14**|**What If : Understanding Motion Through Sparse Interactions**|Stefan Andreas Baumann et.al.|[2510.12777](https://arxiv.org/abs/2510.12777)|**[link](https://github.com/CompVis/flow-poke-transformer)**|
@@ -503,12 +509,12 @@
 |**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](https://arxiv.org/abs/2411.01505)|null|
 |**2024-11-02**|**Optimizing Violence Detection in Video Classification Accuracy through 3D Convolutional Neural Networks**|Aarjav Kavathia et.al.|[2411.01348](https://arxiv.org/abs/2411.01348)|null|
 |**2024-10-29**|**Motion Graph Unleashed: A Novel Approach to Video Prediction**|Yiqi Zhong et.al.|[2410.22288](https://arxiv.org/abs/2410.22288)|**[link](https://github.com/Kay1794/Motion-Graph-Video-Prediction)**|
-|**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](https://arxiv.org/abs/2410.22070)|null|
+|**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](https://arxiv.org/abs/2410.22070)|**[link](https://github.com/Tavish9/freegaussian)**|
 |**2024-10-29**|**Investigation of moving objects through atmospheric turbulence from a non-stationary platform**|Nicholas Ferrante et.al.|[2410.21639](https://arxiv.org/abs/2410.21639)|null|
 |**2024-10-27**|**CloudCast -- Total Cloud Cover Nowcasting with Machine Learning**|Mikko Partio et.al.|[2410.21329](https://arxiv.org/abs/2410.21329)|**[link](https://github.com/fmidev/cloudcast)**|
 |**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275](https://arxiv.org/abs/2410.21275)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
 |**2024-10-27**|**BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events**|Yijin Li et.al.|[2410.20451](https://arxiv.org/abs/2410.20451)|null|
-|**2024-10-26**|**UniVST: A Unified Framework for Training-free Localized Video Style Transfer**|Quanjian Song et.al.|[2410.20084](https://arxiv.org/abs/2410.20084)|null|
+|**2024-10-26**|**UniVST: A Unified Framework for Training-free Localized Video Style Transfer**|Quanjian Song et.al.|[2410.20084](https://arxiv.org/abs/2410.20084)|**[link](https://github.com/QuanjianSong/UniVST.)**|
 |**2024-10-25**|**FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation**|Tianyu Zhang et.al.|[2410.19573](https://arxiv.org/abs/2410.19573)|**[link](https://github.com/genuszty/fastpci)**|
 |**2024-10-23**|**Separating edges from microstructure in X-ray dark-field imaging: Evolving and devolving perspectives via the X-ray Fokker-Planck equation**|Samantha J. Alloo et.al.|[2410.18317](https://arxiv.org/abs/2410.18317)|null|
 |**2024-10-17**|**Self-Supervised Scene Flow Estimation with Point-Voxel Fusion and Surface Representation**|Xuezhi Xiang et.al.|[2410.13355](https://arxiv.org/abs/2410.13355)|null|
@@ -551,7 +557,7 @@
 |**2024-09-09**|**FacialFlowNet: Advancing Facial Optical Flow Estimation with a Diverse Dataset and a Decomposed Model**|Jianzhi Lu et.al.|[2409.05396](https://arxiv.org/abs/2409.05396)|**[link](https://github.com/ria1159/facialflownet)**|
 |**2024-09-06**|**Hybrid Cost Volume for Memory-Efficient Optical Flow**|Yang Zhao et.al.|[2409.04243](https://arxiv.org/abs/2409.04243)|**[link](https://github.com/gangweix/hcvflow)**|
 |**2024-09-06**|**SDformerFlow: Spatiotemporal swin spikeformer for event-based optical flow estimation**|Yi Tian et.al.|[2409.04082](https://arxiv.org/abs/2409.04082)|**[link](https://github.com/yitian97/SDformerFlow)**|
-|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](https://arxiv.org/abs/2409.02095)|null|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095](https://arxiv.org/abs/2409.02095)|**[link](https://github.com/Tencent/DepthCrafter)**|
 |**2024-09-01**|**IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching**|Gangwei Xu et.al.|[2409.00638](https://arxiv.org/abs/2409.00638)|**[link](https://github.com/gangweix/igev)**|
 |**2024-08-29**|**FlowRetrieval: Flow-Guided Data Retrieval for Few-Shot Imitation Learning**|Li-Heng Lin et.al.|[2408.16944](https://arxiv.org/abs/2408.16944)|null|
 |**2024-08-29**|**Estimating Dynamic Flow Features in Groups of Tracked Objects**|Tanner D. Harms et.al.|[2408.16190](https://arxiv.org/abs/2408.16190)|null|
@@ -561,7 +567,7 @@
 |**2024-09-02**|**Video Diffusion Models are Strong Video Inpainter**|Minhyeok Lee et.al.|[2408.11402](https://arxiv.org/abs/2408.11402)|null|
 |**2024-08-20**|**PooDLe: Pooled and dense self-supervised learning from naturalistic videos**|Alex N. Wang et.al.|[2408.11208](https://arxiv.org/abs/2408.11208)|null|
 |**2024-08-21**|**NeuFlow v2: High-Efficiency Optical Flow Estimation on Edge Devices**|Zhiyong Zhang et.al.|[2408.10161](https://arxiv.org/abs/2408.10161)|**[link](https://github.com/neufieldrobotics/neuflow_v2)**|
-|**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](https://arxiv.org/abs/2408.10119)|null|
+|**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](https://arxiv.org/abs/2408.10119)|**[link](https://github.com/yangxy/Factorized-Dreamer)**|
 |**2024-08-18**|**Contactless seismocardiography via Gunnar-Farneback optical flow**|Mohammad Muntasir Rahman et.al.|[2408.09512](https://arxiv.org/abs/2408.09512)|null|
 |**2024-08-18**|**OPPH: A Vision-Based Operator for Measuring Body Movements for Personal Healthcare**|Chen Long-fei et.al.|[2408.09409](https://arxiv.org/abs/2408.09409)|null|
 |**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](https://arxiv.org/abs/2408.08500)|null|
@@ -588,7 +594,7 @@
 |**2024-07-16**|**ReLaX-VQA: Residual Fragment and Layer Stack Extraction for Enhancing Video Quality Assessment**|Xinyi Wang et.al.|[2407.11496](https://arxiv.org/abs/2407.11496)|**[link](https://github.com/xinyiw915/relax-vqa)**|
 |**2024-07-16**|**Hybrid physics-AI outperforms numerical weather prediction for extreme precipitation nowcasting**|Puja Das et.al.|[2407.11317](https://arxiv.org/abs/2407.11317)|null|
 |**2024-07-16**|**Gaussian Splatting LK**|Liuyue Xie et.al.|[2407.11309](https://arxiv.org/abs/2407.11309)|null|
-|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](https://arxiv.org/abs/2407.10831)|null|
+|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](https://arxiv.org/abs/2407.10831)|**[link](https://github.com/mickeykang16/TemporalEventStereo.)**|
 |**2024-07-15**|**Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation**|Friedhelm Hamann et.al.|[2407.10802](https://arxiv.org/abs/2407.10802)|**[link](https://github.com/tub-rip/motionpriorcmax)**|
 |**2024-07-14**|**Research Experience of an Undergraduate Student in Computer Vision and Robotics**|Ayush V. Gowda et.al.|[2407.10044](https://arxiv.org/abs/2407.10044)|null|
 |**2024-07-13**|**ScaleRAFT: Cross-Scale Recurrent All-Pairs Field Transforms for 3D Motion Estimation**|Han Ling et.al.|[2407.09797](https://arxiv.org/abs/2407.09797)|**[link](https://github.com/HanLingsgjk/CSCV)**|
@@ -638,10 +644,10 @@
 |**2024-05-24**|**Time-Harmonic Optical Flow with Applications in Elastography**|Oleh Melnyk et.al.|[2405.15507](https://arxiv.org/abs/2405.15507)|null|
 |**2024-05-24**|**Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features**|Lichuan Ji et.al.|[2405.15343](https://arxiv.org/abs/2405.15343)|null|
 |**2024-05-24**|**Unsupervised Motion Segmentation for Neuromorphic Aerial Surveillance**|Sami Arja et.al.|[2405.15209](https://arxiv.org/abs/2405.15209)|null|
-|**2024-05-23**|**SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow**|Yihan Wang et.al.|[2405.14793](https://arxiv.org/abs/2405.14793)|null|
+|**2024-05-23**|**SEA-RAFT: Simple, Efficient, Accurate RAFT for Optical Flow**|Yihan Wang et.al.|[2405.14793](https://arxiv.org/abs/2405.14793)|**[link](https://github.com/princeton-vl/SEA-RAFT.)**|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](https://arxiv.org/abs/2405.14709)|null|
 |**2024-05-23**|**Neuroexplicit Diffusion Models for Inpainting of Optical Flow Fields**|Tom Fischer et.al.|[2405.14599](https://arxiv.org/abs/2405.14599)|null|
-|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](https://arxiv.org/abs/2405.13557)|null|
+|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](https://arxiv.org/abs/2405.13557)|**[link](https://github.com/mezzelfo/MotionCraft)**|
 |**2024-05-21**|**Weakly supervised alignment and registration of MR-CT for cervical cancer radiotherapy**|Jjahao Zhang et.al.|[2405.12850](https://arxiv.org/abs/2405.12850)|null|
 |**2024-05-21**|**Rethink Predicting the Optical Flow with the Kinetics Perspective**|Yuhao Cheng et.al.|[2405.12512](https://arxiv.org/abs/2405.12512)|**[link](https://github.com/YuhaoCheng/OpticalFlow_Kinetic)**|
 |**2024-05-18**|**GestFormer: Multiscale Wavelet Pooling Transformer Network for Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2405.11180](https://arxiv.org/abs/2405.11180)|**[link](https://github.com/mallikagarg/gestformer)**|

@@ -2,6 +2,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI**|Muhammad Usman et.al.|[2512.20436](https://arxiv.org/abs/2512.20436)|null|
+|**2025-12-23**|**Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems**|YuChe Hsu et.al.|[2512.20387](https://arxiv.org/abs/2512.20387)|null|
+|**2025-12-23**|**Retrieval-augmented Prompt Learning for Pre-trained Foundation Models**|Xiang Chen et.al.|[2512.20145](https://arxiv.org/abs/2512.20145)|null|
+|**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663](https://arxiv.org/abs/2512.19663)|null|
+|**2025-12-22**|**Non-Contrast CT Esophageal Varices Grading through Clinical Prior-Enhanced Multi-Organ Analysis**|Xiaoming Zhang et.al.|[2512.19415](https://arxiv.org/abs/2512.19415)|null|
+|**2025-12-22**|**OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation**|Xueming Yan et.al.|[2512.19379](https://arxiv.org/abs/2512.19379)|null|
+|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](https://arxiv.org/abs/2512.17667)|null|
+|**2025-12-19**|**PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology**|Fengchun Liu et.al.|[2512.17621](https://arxiv.org/abs/2512.17621)|null|
 |**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](https://arxiv.org/abs/2512.16760)|null|
 |**2025-12-18**|**Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors**|Kejun Liu et.al.|[2512.16485](https://arxiv.org/abs/2512.16485)|null|
 |**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](https://arxiv.org/abs/2512.15707)|null|
@@ -392,7 +400,7 @@
 |**2025-05-09**|**Multimodal Sentiment Analysis on CMU-MOSEI Dataset using Transformer-based Models**|Jugal Gajjar et.al.|[2505.06110](https://arxiv.org/abs/2505.06110)|null|
 |**2025-05-09**|**Why Are You Wrong? Counterfactual Explanations for Language Grounding with 3D Objects**|Tobias Preintner et.al.|[2505.06030](https://arxiv.org/abs/2505.06030)|**[link](https://github.com/toprei/why-are-you-wrong)**|
 |**2025-05-08**|**The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction**|Tom Sander et.al.|[2505.05644](https://arxiv.org/abs/2505.05644)|null|
-|**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601](https://arxiv.org/abs/2505.04601)|null|
+|**2025-05-07**|**OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning**|Xianhang Li et.al.|[2505.04601](https://arxiv.org/abs/2505.04601)|**[link](https://github.com/UCSC-VLAA/OpenVision)**|
 |**2025-05-02**|**Mapping the Climate Change Landscape on TikTok**|Alessia Galdeman et.al.|[2505.03813](https://arxiv.org/abs/2505.03813)|null|
 |**2025-05-06**|**Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant**|Haonan Wang et.al.|[2505.03380](https://arxiv.org/abs/2505.03380)|null|
 |**2025-05-06**|**A Vision-Language Model for Focal Liver Lesion Classification**|Song Jian et.al.|[2505.03350](https://arxiv.org/abs/2505.03350)|null|
@@ -408,8 +416,8 @@
 |**2025-04-23**|**Towards Explainable AI: Multi-Modal Transformer for Video-based Image Description Generation**|Lakshita Agarwal et.al.|[2504.16788](https://arxiv.org/abs/2504.16788)|null|
 |**2025-04-23**|**PsyCounAssist: A Full-Cycle AI-Powered Psychological Counseling Assistant System**|Xianghe Liu et.al.|[2504.16573](https://arxiv.org/abs/2504.16573)|null|
 |**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](https://arxiv.org/abs/2504.16181)|null|
-|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](https://arxiv.org/abs/2504.15728)|null|
-|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](https://arxiv.org/abs/2504.15271)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](https://arxiv.org/abs/2504.15728)|**[link](https://github.com/airliisc/IndraEye.)**|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](https://arxiv.org/abs/2504.15271)|**[link](https://github.com/NVlabs/EAGLE)**|
 |**2025-04-21**|**IoT-AMLHP: Aligned Multimodal Learning of Header-Payload Representations for Resource-Efficient Malicious IoT Traffic Classification**|Fengyuan Nie et.al.|[2504.14833](https://arxiv.org/abs/2504.14833)|null|
 |**2025-04-19**|**Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction**|Li Yu et.al.|[2504.14267](https://arxiv.org/abs/2504.14267)|null|
 |**2025-04-19**|**PEFT A2Z: Parameter-Efficient Fine-Tuning Survey for Large Language and Vision Models**|Nusrat Jahan Prottasha et.al.|[2504.14117](https://arxiv.org/abs/2504.14117)|null|

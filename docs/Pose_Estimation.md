@@ -2,6 +2,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538](https://arxiv.org/abs/2512.20538)|null|
+|**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](https://arxiv.org/abs/2512.20531)|null|
+|**2025-12-23**|**Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms**|Ipek Sena Yilmaz et.al.|[2512.20323](https://arxiv.org/abs/2512.20323)|null|
+|**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148](https://arxiv.org/abs/2512.20148)|null|
+|**2025-12-23**|**milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion**|Niraj Prakash Kini et.al.|[2512.20128](https://arxiv.org/abs/2512.20128)|null|
+|**2025-12-22**|**Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**|Tao Li et.al.|[2512.19110](https://arxiv.org/abs/2512.19110)|null|
+|**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058](https://arxiv.org/abs/2512.19058)|null|
+|**2025-12-20**|**A two-stream network with global-local feature fusion for bone age assessment**|Qiong Lou et.al.|[2512.18331](https://arxiv.org/abs/2512.18331)|null|
+|**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Juo-Tung Chen et.al.|[2512.18068](https://arxiv.org/abs/2512.18068)|null|
+|**2025-12-19**|**G3Splat: Geometrically Consistent Generalizable Gaussian Splatting**|Mehdi Hosseinzadeh et.al.|[2512.17547](https://arxiv.org/abs/2512.17547)|null|
+|**2025-12-19**|**Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry**|Ufuk Asil et.al.|[2512.17505](https://arxiv.org/abs/2512.17505)|null|
+|**2025-12-19**|**VAIR: Visual Analytics for Injury Risk Exploration in Sports**|Chunggi Lee et.al.|[2512.17446](https://arxiv.org/abs/2512.17446)|null|
+|**2025-12-19**|**Globally Optimal Solution to the Generalized Relative Pose Estimation Problem using Affine Correspondences**|Zhenbao Yu et.al.|[2512.17188](https://arxiv.org/abs/2512.17188)|null|
+|**2025-12-19**|**InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing**|Zhedong Zhang et.al.|[2512.17154](https://arxiv.org/abs/2512.17154)|null|
 |**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494](https://arxiv.org/abs/2512.16494)|null|
 |**2025-12-18**|**Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation**|Jerrin Bright et.al.|[2512.16199](https://arxiv.org/abs/2512.16199)|null|
 |**2025-12-18**|**LAPX: Lightweight Hourglass Network with Global Context**|Haopeng Zhao et.al.|[2512.16089](https://arxiv.org/abs/2512.16089)|null|
@@ -1141,7 +1155,7 @@
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](https://arxiv.org/abs/2409.10925)|null|
 |**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815](https://arxiv.org/abs/2409.10815)|null|
 |**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](https://arxiv.org/abs/2409.10441)|null|
-|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](https://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](https://arxiv.org/abs/2409.10419)|**[link](https://github.com/vineet2104/hifics)**|
 |**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357](https://arxiv.org/abs/2409.10357)|null|
 |**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095](https://arxiv.org/abs/2409.10095)|null|
 |**2024-09-15**|**Precise Pick-and-Place using Score-Based Diffusion Networks**|Shih-Wei Guo et.al.|[2409.09725](https://arxiv.org/abs/2409.09725)|null|
@@ -1157,7 +1171,7 @@
 |**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933](https://arxiv.org/abs/2409.07933)|null|
 |**2024-09-12**|**GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**|Liang Feng et.al.|[2409.07798](https://arxiv.org/abs/2409.07798)|null|
 |**2024-09-12**|**GatedUniPose: A Novel Approach for Pose Estimation Combining UniRepLKNet and Gated Convolution**|Liang Feng et.al.|[2409.07752](https://arxiv.org/abs/2409.07752)|null|
-|**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](https://arxiv.org/abs/2409.07571)|null|
+|**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](https://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**Benchmarking 2D Egocentric Hand Pose Datasets**|Olga Taran et.al.|[2409.07337](https://arxiv.org/abs/2409.07337)|null|
 |**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116](https://arxiv.org/abs/2409.07116)|**[link](https://github.com/unsigned-long/ikalibr)**|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948](https://arxiv.org/abs/2409.06948)|null|
@@ -1168,7 +1182,7 @@
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](https://arxiv.org/abs/2409.05413)|null|
 |**2024-09-08**|**HelmetPoser: A Helmet-Mounted IMU Dataset for Data-Driven Estimation of Human Head Motion in Diverse Conditions**|Jianping Li et.al.|[2409.05006](https://arxiv.org/abs/2409.05006)|null|
 |**2024-09-06**|**Casper DPM: Cascaded Perceptual Dynamic Projection Mapping onto Hands**|Yotam Erel et.al.|[2409.04397](https://arxiv.org/abs/2409.04397)|null|
-|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](https://arxiv.org/abs/2409.04196)|null|
+|**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](https://arxiv.org/abs/2409.04196)|**[link](https://github.com/prosperolo/gst)**|
 |**2024-09-06**|**Dense Hand-Object(HO) GraspNet with Full Grasping Taxonomy and Dynamics**|Woojin Cho et.al.|[2409.04033](https://arxiv.org/abs/2409.04033)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](https://arxiv.org/abs/2409.03998)|null|
 |**2024-09-09**|**The Influence of Faulty Labels in Data Sets on Human Pose Estimation**|Arnold Schwarz et.al.|[2409.03887](https://arxiv.org/abs/2409.03887)|null|
@@ -1199,8 +1213,8 @@
 |**2024-08-25**|**InterTrack: Tracking Human Object Interaction without Object Templates**|Xianghui Xie et.al.|[2408.13953](https://arxiv.org/abs/2408.13953)|null|
 |**2024-08-24**|**Temporally-consistent 3D Reconstruction of Birds**|Johannes Hägerlind et.al.|[2408.13629](https://arxiv.org/abs/2408.13629)|null|
 |**2024-08-24**|**Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation**|Jianing Song et.al.|[2408.13587](https://arxiv.org/abs/2408.13587)|null|
-|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](https://arxiv.org/abs/2408.12569)|null|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](https://arxiv.org/abs/2408.11085)|null|
+|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569](https://arxiv.org/abs/2408.12569)|**[link](https://github.com/facebookresearch/sapiens)**|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](https://arxiv.org/abs/2408.11085)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831](https://arxiv.org/abs/2408.10831)|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805](https://arxiv.org/abs/2408.10805)|**[link](https://github.com/aghasemzadeh/openmpl)**|
 |**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450](https://arxiv.org/abs/2408.10450)|null|
@@ -1238,7 +1252,7 @@
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](https://arxiv.org/abs/2408.02110)|null|
 |**2024-08-04**|**Generalized Maximum Likelihood Estimation for Perspective-n-Point Problem**|Tian Zhan et.al.|[2408.01945](https://arxiv.org/abs/2408.01945)|null|
 |**2024-08-03**|**MotionTrace: IMU-based Field of View Prediction for Smartphone AR Interactions**|Rahul Islam et.al.|[2408.01850](https://arxiv.org/abs/2408.01850)|null|
-|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](https://arxiv.org/abs/2408.01841)|null|
+|**2024-08-03**|**BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles**|Lun Luo et.al.|[2408.01841](https://arxiv.org/abs/2408.01841)|**[link](https://github.com/zjuluolun/BEVPlace2.)**|
 |**2024-08-03**|**E $^3$ NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**|Yunshan Qi et.al.|[2408.01840](https://arxiv.org/abs/2408.01840)|null|
 |**2024-08-03**|**Survey on Emotion Recognition through Posture Detection and the possibility of its application in Virtual Reality**|Leina Elansary et.al.|[2408.01728](https://arxiv.org/abs/2408.01728)|null|
 |**2024-08-03**|**Stimulating Imagination: Towards General-purpose Object Rearrangement**|Jianyang Wu et.al.|[2408.01655](https://arxiv.org/abs/2408.01655)|null|
