@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**SHRP: Specialized Head Routing and Pruning for Efficient Encoder Compression**|Zeli Su et.al.|[2512.20635](https://arxiv.org/abs/2512.20635)|null|
 |**2025-12-23**|**Programmable Optical Spectrum Shapers as Computing Primitives for Accelerating Convolutional Neural Networks**|Georgios Moustakas et.al.|[2512.20580](https://arxiv.org/abs/2512.20580)|null|
 |**2025-12-23**|**FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning**|Mrinmay Sen et.al.|[2512.20329](https://arxiv.org/abs/2512.20329)|null|
 |**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](https://arxiv.org/abs/2512.20097)|null|
@@ -894,7 +895,7 @@
 |**2025-06-02**|**Domain Lexical Knowledge-based Word Embedding Learning for Text Classification under Small Data**|Zixiao Zhu et.al.|[2506.01621](https://arxiv.org/abs/2506.01621)|null|
 |**2025-06-02**|**Speed-up of Vision Transformer Models by Attention-aware Token Filtering**|Takahiro Naruko et.al.|[2506.01519](https://arxiv.org/abs/2506.01519)|null|
 |**2025-06-02**|**A Novel Context-Adaptive Fusion of Shadow and Highlight Regions for Efficient Sonar Image Classification**|Kamal Basha S et.al.|[2506.01445](https://arxiv.org/abs/2506.01445)|null|
-|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](https://arxiv.org/abs/2505.24558)|null|
+|**2025-05-30**|**Optimal Weighted Convolution for Classification and Denosing**|Simone Cammarasana et.al.|[2505.24558](https://arxiv.org/abs/2505.24558)|**[link](https://github.com/cammarasana123/weightedConvolution2.0.)**|
 |**2025-05-30**|**SASP: Strip-Aware Spatial Perception for Fine-Grained Bird Image Classification**|Zheng Wang et.al.|[2505.24380](https://arxiv.org/abs/2505.24380)|null|
 |**2025-05-30**|**Spatiotemporal Analysis of Forest Machine Operations Using 3D Video Classification**|Maciej Wielgosz et.al.|[2505.24375](https://arxiv.org/abs/2505.24375)|null|
 |**2025-05-30**|**GeoVision Labeler: Zero-Shot Geospatial Classification with Vision and Language Models**|Gilles Quentin Hacheme et.al.|[2505.24340](https://arxiv.org/abs/2505.24340)|null|
@@ -902,7 +903,7 @@
 |**2025-05-30**|**FeatureSense: Protecting Speaker Attributes in Always-On Audio Sensing System**|Bhawana Chhaglani et.al.|[2505.24115](https://arxiv.org/abs/2505.24115)|null|
 |**2025-05-30**|**Proxy-FDA: Proxy-based Feature Distribution Alignment for Fine-tuning Vision Foundation Models without Forgetting**|Chen Huang et.al.|[2505.24088](https://arxiv.org/abs/2505.24088)|null|
 |**2025-05-29**|**BIRD: Behavior Induction via Representation-structure Distillation**|Galen Pogoncheff et.al.|[2505.23933](https://arxiv.org/abs/2505.23933)|null|
-|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](https://arxiv.org/abs/2505.23744)|null|
+|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](https://arxiv.org/abs/2505.23744)|**[link](https://github.com/qwangcv/SOYO.)**|
 |**2025-05-29**|**Spectrotemporal Modulation: Efficient and Interpretable Feature Representation for Classifying Speech, Music, and Environmental Sounds**|Andrew Chang et.al.|[2505.23509](https://arxiv.org/abs/2505.23509)|**[link](https://github.com/curlsloth/MusicSpeech-STM)**|
 |**2025-05-29**|**MCFNet: A Multimodal Collaborative Fusion Network for Fine-Grained Semantic Classification**|Yang Qiao et.al.|[2505.23365](https://arxiv.org/abs/2505.23365)|null|
 |**2025-05-29**|**DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification**|Daoxi Cao et.al.|[2505.23341](https://arxiv.org/abs/2505.23341)|null|
@@ -923,7 +924,7 @@
 |**2025-05-26**|**Task-Oriented Low-Label Semantic Communication With Self-Supervised Learning**|Run Gu et.al.|[2505.19940](https://arxiv.org/abs/2505.19940)|null|
 |**2025-05-26**|**Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models**|Mobina Mansoori et.al.|[2505.19779](https://arxiv.org/abs/2505.19779)|**[link](https://github.com/sajjad-sh33/medical-transfer-learning)**|
 |**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](https://arxiv.org/abs/2505.19699)|null|
-|**2025-05-26**|**Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models**|Rui Cai et.al.|[2505.19616](https://arxiv.org/abs/2505.19616)|null|
+|**2025-05-26**|**Diagnosing and Mitigating Modality Interference in Multimodal Large Language Models**|Rui Cai et.al.|[2505.19616](https://arxiv.org/abs/2505.19616)|**[link](https://github.com/luisrui/Modality-Interference-in-MLLMs)**|
 |**2025-05-26**|**Applications and Effect Evaluation of Generative Adversarial Networks in Semi-Supervised Learning**|Jiyu Hu et.al.|[2505.19522](https://arxiv.org/abs/2505.19522)|null|
 |**2025-05-26**|**DiSa: Directional Saliency-Aware Prompt Learning for Generalizable Vision-Language Models**|Niloufar Alipour Talemi et.al.|[2505.19373](https://arxiv.org/abs/2505.19373)|null|
 |**2025-05-25**|**Remote Sensing Image Classification with Decoupled Knowledge Distillation**|Yaping He et.al.|[2505.19111](https://arxiv.org/abs/2505.19111)|null|
@@ -953,7 +954,7 @@
 |**2025-05-21**|**Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data**|Adib Bazgir et.al.|[2505.15132](https://arxiv.org/abs/2505.15132)|null|
 |**2025-05-20**|**Reliable Decision Support with LLMs: A Framework for Evaluating Consistency in Binary Text Classification Applications**|Fadel M. Megahed et.al.|[2505.14918](https://arxiv.org/abs/2505.14918)|null|
 |**2025-05-20**|**Solving MNIST with a globally trained Mixture of Quantum Experts**|Paolo Alessandro Xavier Tognini et.al.|[2505.14789](https://arxiv.org/abs/2505.14789)|null|
-|**2025-05-20**|**Guarded Query Routing for Large Language Models**|Richard Šléher et.al.|[2505.14524](https://arxiv.org/abs/2505.14524)|null|
+|**2025-05-20**|**Guarded Query Routing for Large Language Models**|Richard Šléher et.al.|[2505.14524](https://arxiv.org/abs/2505.14524)|**[link](https://github.com/williambrach/gqr.)**|
 |**2025-05-20**|**PRL: Prompts from Reinforcement Learning**|Paweł Batorski et.al.|[2505.14412](https://arxiv.org/abs/2505.14412)|null|
 |**2025-05-20**|**Domain Adaptation for Multi-label Image Classification: a Discriminator-free Approach**|Inder Pal Singh et.al.|[2505.14333](https://arxiv.org/abs/2505.14333)|**[link](https://github.com/cvi2snt/dda-mlic)**|
 |**2025-05-20**|**HausaNLP: Current Status, Challenges and Future Directions for Hausa Natural Language Processing**|Shamsuddeen Hassan Muhammad et.al.|[2505.14311](https://arxiv.org/abs/2505.14311)|null|
@@ -961,7 +962,7 @@
 |**2025-05-20**|**Scaling Vision Mamba Across Resolutions via Fractal Traversal**|Bo Li et.al.|[2505.14062](https://arxiv.org/abs/2505.14062)|null|
 |**2025-05-20**|**Learning Concept-Driven Logical Rules for Interpretable and Generalizable Medical Image Classification**|Yibo Gao et.al.|[2505.14049](https://arxiv.org/abs/2505.14049)|null|
 |**2025-05-20**|**A Challenge to Build Neuro-Symbolic Video Agents**|Sahil Shah et.al.|[2505.13851](https://arxiv.org/abs/2505.13851)|null|
-|**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](https://arxiv.org/abs/2505.13432)|null|
+|**2025-05-19**|**Synthetic-Powered Predictive Inference**|Meshi Bashari et.al.|[2505.13432](https://arxiv.org/abs/2505.13432)|**[link](https://github.com/meshiba/sppi)**|
 |**2025-05-20**|**Unlabeled Data or Pre-trained Model: Rethinking Semi-Supervised Learning and Pretrain-Finetuning**|Song-Lin Li et.al.|[2505.13317](https://arxiv.org/abs/2505.13317)|null|
 |**2025-05-19**|**A Physics-Inspired Optimizer: Velocity Regularized Adam**|Pranav Vaidhyanathan et.al.|[2505.13196](https://arxiv.org/abs/2505.13196)|null|
 |**2025-05-19**|**Emergence of Fixational and Saccadic Movements in a Multi-Level Recurrent Attention Model for Vision**|Pengcheng Pan et.al.|[2505.13191](https://arxiv.org/abs/2505.13191)|null|
@@ -1795,7 +1796,7 @@
 |**2024-10-30**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](https://arxiv.org/abs/2410.21557)|null|
 |**2024-10-28**|**Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models**|Piotr Przybyła et.al.|[2410.20940](https://arxiv.org/abs/2410.20940)|null|
 |**2024-10-28**|**Data-Efficient Low-Complexity Acoustic Scene Classification via Distilling and Progressive Pruning**|Bing Han et.al.|[2410.20775](https://arxiv.org/abs/2410.20775)|null|
-|**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722](https://arxiv.org/abs/2410.20722)|null|
+|**2024-10-28**|**Interpretable Image Classification with Adaptive Prototype-based Vision Transformers**|Chiyu Ma et.al.|[2410.20722](https://arxiv.org/abs/2410.20722)|**[link](https://github.com/Henrymachiyu/ProtoViT)**|
 |**2024-10-27**|**Graph Neural Networks on Discriminative Graphs of Words**|Yassine Abbahaddou et.al.|[2410.20469](https://arxiv.org/abs/2410.20469)|null|
 |**2024-10-27**|**Historical Test-time Prompt Tuning for Vision Foundation Models**|Jingyi Zhang et.al.|[2410.20346](https://arxiv.org/abs/2410.20346)|null|
 |**2024-10-27**|**Sequential Large Language Model-Based Hyper-Parameter Optimization**|Kanan Mahammadli et.al.|[2410.20302](https://arxiv.org/abs/2410.20302)|**[link](https://github.com/kananmahammadli/sllmbo)**|
@@ -1807,7 +1808,7 @@
 |**2024-10-24**|**Noise Adaption Network for Morse Code Image Classification**|Xiaxia Wang et.al.|[2410.19180](https://arxiv.org/abs/2410.19180)|**[link](https://github.com/apple1986/morsecodeimageclassify)**|
 |**2024-10-24**|**Hybrid Quantum-Classical Feature Extraction approach for Image Classification using Autoencoders and Quantum SVMs**|Donovan Slabbert et.al.|[2410.18814](https://arxiv.org/abs/2410.18814)|null|
 |**2024-10-24**|**Spatial-Temporal Search for Spiking Neural Networks**|Kaiwei Che et.al.|[2410.18580](https://arxiv.org/abs/2410.18580)|null|
-|**2024-10-25**|**Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks**|Lehan Wang et.al.|[2410.18387](https://arxiv.org/abs/2410.18387)|null|
+|**2024-10-25**|**Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks**|Lehan Wang et.al.|[2410.18387](https://arxiv.org/abs/2410.18387)|**[link](https://github.com/xmed-lab/MedRegA)**|
 |**2024-10-23**|**Using Cartesian slice plots of a cosmological simulation as input of a convolutional neural network**|Guillermo Arreaga-Garcia et.al.|[2410.18320](https://arxiv.org/abs/2410.18320)|null|
 |**2024-10-25**|**Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing**|Dongliang Guo et.al.|[2410.18267](https://arxiv.org/abs/2410.18267)|null|
 |**2024-10-23**|**Future Token Prediction -- Causal Language Modelling with Per-Token Semantic State Vector for Multi-Token Prediction**|Nicholas Walker et.al.|[2410.18160](https://arxiv.org/abs/2410.18160)|null|

@@ -1787,7 +1787,7 @@
 |**2024-04-23**|**Killkan: The Automatic Speech Recognition Dataset for Kichwa with Morphosyntactic Information**|Chihiro Taguchi et.al.|[2404.15501](https://arxiv.org/abs/2404.15501)|**[link](https://github.com/ctaguchi/killkan)**|
 |**2024-04-23**|**Additive Margin in Contrastive Self-Supervised Frameworks to Learn Discriminative Speaker Representations**|Theo Lepage et.al.|[2404.14913](https://arxiv.org/abs/2404.14913)|null|
 |**2024-04-23**|**Rethinking Processing Distortions: Disentangling the Impact of Speech Enhancement Errors on Speech Recognition Performance**|Tsubasa Ochiai et.al.|[2404.14860](https://arxiv.org/abs/2404.14860)|null|
-|**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](https://arxiv.org/abs/2404.14700)|null|
+|**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](https://arxiv.org/abs/2404.14700)|**[link](https://github.com/zhenye234/CoMoSpeech)**|
 |**2024-04-22**|**Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants**|Nina Tran et.al.|[2404.14605](https://arxiv.org/abs/2404.14605)|null|
 |**2024-04-22**|**Exploring neural oscillations during speech perception via surrogate gradient spiking neural networks**|Alexandre Bittar et.al.|[2404.14024](https://arxiv.org/abs/2404.14024)|null|
 |**2024-04-23**|**Retrieval-Augmented Audio Deepfake Detection**|Zuheng Kang et.al.|[2404.13892](https://arxiv.org/abs/2404.13892)|null|
@@ -1833,7 +1833,7 @@
 |**2024-04-05**|**Zero-Shot Multi-Lingual Speaker Verification in Clinical Trials**|Ali Akram et.al.|[2404.01981](https://arxiv.org/abs/2404.01981)|null|
 |**2024-04-02**|**Transfer Learning from Whisper for Microscopic Intelligibility Prediction**|Paul Best et.al.|[2404.01737](https://arxiv.org/abs/2404.01737)|null|
 |**2024-03-31**|**Humane Speech Synthesis through Zero-Shot Emotion and Disfluency Generation**|Rohan Chaudhury et.al.|[2404.01339](https://arxiv.org/abs/2404.01339)|**[link](https://github.com/rohan-chaudhury/humane-speech-synthesis-through-zero-shot-emotion-and-disfluency-generation)**|
-|**2024-04-01**|**KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis**|Adal Abilbekov et.al.|[2404.01033](https://arxiv.org/abs/2404.01033)|null|
+|**2024-04-01**|**KazEmoTTS: A Dataset for Kazakh Emotional Text-to-Speech Synthesis**|Adal Abilbekov et.al.|[2404.01033](https://arxiv.org/abs/2404.01033)|**[link](https://github.com/is2ai/kazemotts)**|
 |**2024-04-01**|**Voice Conversion Augmentation for Speaker Recognition on Defective Datasets**|Ruijie Tao et.al.|[2404.00863](https://arxiv.org/abs/2404.00863)|null|
 |**2024-04-01**|**Removing Speaker Information from Speech Representation using Variable-Length Soft Pooling**|Injune Hwang et.al.|[2404.00856](https://arxiv.org/abs/2404.00856)|null|
 |**2024-03-31**|**CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models**|Xiang Li et.al.|[2404.00569](https://arxiv.org/abs/2404.00569)|**[link](https://github.com/xiangli2022/cm-tts)**|
@@ -1891,10 +1891,10 @@
 |**2024-03-07**|**A Study of Dropout-Induced Modality Bias on Robustness to Missing Video Frames for Audio-Visual Speech Recognition**|Yusheng Dai et.al.|[2403.04245](https://arxiv.org/abs/2403.04245)|**[link](https://github.com/dalision/modalbiasavsr)**|
 |**2024-03-06**|**RADIA -- Radio Advertisement Detection with Intelligent Analytics**|Jorge Álvarez et.al.|[2403.03538](https://arxiv.org/abs/2403.03538)|null|
 |**2024-03-06**|**Non-verbal information in spontaneous speech -- towards a new framework of analysis**|Tirza Biron et.al.|[2403.03522](https://arxiv.org/abs/2403.03522)|null|
-|**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](https://arxiv.org/abs/2403.03100)|null|
+|**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](https://arxiv.org/abs/2403.03100)|**[link](https://github.com/lifeiteng/naturalspeech3_facodec)**|
 |**2024-03-05**|**AIx Speed: Playback Speed Optimization Using Listening Comprehension of Speech Recognition Models**|Kazuki Kawamura et.al.|[2403.02938](https://arxiv.org/abs/2403.02938)|null|
 |**2024-03-05**|**Single-Channel Robot Ego-Speech Filtering during Human-Robot Interaction**|Yue Li et.al.|[2403.02918](https://arxiv.org/abs/2403.02918)|null|
-|**2024-03-04**|**PixIT: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings**|Joonas Kalda et.al.|[2403.02288](https://arxiv.org/abs/2403.02288)|null|
+|**2024-03-04**|**PixIT: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings**|Joonas Kalda et.al.|[2403.02288](https://arxiv.org/abs/2403.02288)|**[link](https://github.com/joonaskalda/pixit)**|
 |**2024-03-04**|**What has LeBenchmark Learnt about French Syntax?**|Zdravko Dugonjić et.al.|[2403.02173](https://arxiv.org/abs/2403.02173)|null|
 |**2024-03-04**|**SA-SOT: Speaker-Aware Serialized Output Training for Multi-Talker ASR**|Zhiyun Fan et.al.|[2403.02010](https://arxiv.org/abs/2403.02010)|null|
 |**2024-03-04**|**Language and Speech Technology for Central Kurdish Varieties**|Sina Ahmadi et.al.|[2403.01983](https://arxiv.org/abs/2403.01983)|**[link](https://github.com/sinaahmadi/cordi)**|
@@ -1915,7 +1915,7 @@
 |**2024-02-28**|**Multilingual Speech Models for Automatic Speech Recognition Exhibit Gender Performance Gaps**|Giuseppe Attanasio et.al.|[2402.17954](https://arxiv.org/abs/2402.17954)|**[link](https://github.com/g8a9/multilingual-asr-gender-gap)**|
 |**2024-02-24**|**ByteComposer: a Human-like Melody Composition Method based on Language Model Agent**|Xia Liang et.al.|[2402.17785](https://arxiv.org/abs/2402.17785)|null|
 |**2024-02-27**|**High-Fidelity Neural Phonetic Posteriorgrams**|Cameron Churchwell et.al.|[2402.17735](https://arxiv.org/abs/2402.17735)|**[link](https://github.com/interactiveaudiolab/ppgs)**|
-|**2024-02-27**|**Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: a Survey**|Dinh-Viet-Toan Le et.al.|[2402.17467](https://arxiv.org/abs/2402.17467)|null|
+|**2024-02-27**|**Natural Language Processing Methods for Symbolic Music Generation and Information Retrieval: a Survey**|Dinh-Viet-Toan Le et.al.|[2402.17467](https://arxiv.org/abs/2402.17467)|**[link](https://github.com/dinhviettoanle/survey-music-nlp)**|
 |**2024-02-27**|**An Effective Mixture-Of-Experts Approach For Code-Switching Speech Recognition Leveraging Encoder Disentanglement**|Tzu-Ting Yang et.al.|[2402.17189](https://arxiv.org/abs/2402.17189)|null|
 |**2024-02-27**|**Extreme Encoder Output Frame Rate Reduction: Improving Computational Latencies of Large End-to-End Models**|Rohit Prabhavalkar et.al.|[2402.17184](https://arxiv.org/abs/2402.17184)|null|
 |**2024-02-26**|**Towards Decoding Brain Activity During Passive Listening of Speech**|Milán András Fodor et.al.|[2402.16996](https://arxiv.org/abs/2402.16996)|**[link](https://github.com/milaniusz/speech2brain2speech)**|

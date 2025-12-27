@@ -2,6 +2,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot**|Shuhan Zhang et.al.|[2512.21226](https://arxiv.org/abs/2512.21226)|null|
+|**2025-12-24**|**Optical Flow-Guided 6DoF Object Pose Tracking with an Event Camera**|Zibin Liu et.al.|[2512.21053](https://arxiv.org/abs/2512.21053)|null|
+|**2025-12-24**|**Decoding Predictive Inference in Visual Language Processing via Spatiotemporal Neural Coherence**|Sean C. Borneman et.al.|[2512.20929](https://arxiv.org/abs/2512.20929)|null|
 |**2025-12-23**|**Learning Skills from Action-Free Videos**|Hung-Chieh Fang et.al.|[2512.20052](https://arxiv.org/abs/2512.20052)|null|
 |**2025-12-22**|**WaTeRFlow: Watermark Temporal Robustness via Flow Consistency**|Utae Jeong et.al.|[2512.19048](https://arxiv.org/abs/2512.19048)|null|
 |**2025-12-21**|**A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**|Huimin Wu et.al.|[2512.18684](https://arxiv.org/abs/2512.18684)|null|
@@ -19,7 +22,7 @@
 |**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](https://arxiv.org/abs/2512.11792)|null|
 |**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[2512.11350](https://arxiv.org/abs/2512.11350)|null|
 |**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[2512.11327](https://arxiv.org/abs/2512.11327)|null|
-|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|**[link](https://github.com/Any-4D/Any4D)**|
+|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|null|
 |**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](https://arxiv.org/abs/2512.10450)|null|
 |**2025-12-11**|**RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds**|Jingyun Fu et.al.|[2512.10376](https://arxiv.org/abs/2512.10376)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](https://arxiv.org/abs/2512.09646)|null|

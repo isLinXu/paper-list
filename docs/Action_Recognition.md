@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update**|Zhe Su et.al.|[2512.21153](https://arxiv.org/abs/2512.21153)|null|
 |**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](https://arxiv.org/abs/2512.20501)|null|
 |**2025-12-23**|**Beyond Motion Pattern: An Empirical Study of Physical Forces for Human Motion Understanding**|Anh Dao et.al.|[2512.20451](https://arxiv.org/abs/2512.20451)|null|
 |**2025-12-23**|**DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning**|Junho Yoon et.al.|[2512.20409](https://arxiv.org/abs/2512.20409)|null|
@@ -118,7 +119,7 @@
 |**2025-11-03**|**Euler-Heisenberg action for fermions coupled to gauge and axial vectors: Hessian diagonalization, sector classification, and applications**|Lucas Pereira de Souza et.al.|[2511.02118](https://arxiv.org/abs/2511.02118)|null|
 |**2025-11-03**|**Neural dynamics of cognitive control: Current tensions and future promise**|Dale Zhou et.al.|[2511.02063](https://arxiv.org/abs/2511.02063)|null|
 |**2025-11-03**|**Path-Coordinated Continual Learning with Neural Tangent Kernel-Justified Plasticity: A Theoretical Framework with Near State-of-the-Art Performance**|Rathin Chandra Shit et.al.|[2511.02025](https://arxiv.org/abs/2511.02025)|null|
-|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718](https://arxiv.org/abs/2511.01718)|null|
+|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718](https://arxiv.org/abs/2511.01718)|**[link](https://github.com/OpenHelix-Team/UD-VLA)**|
 |**2025-11-03**|**OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation**|Heyu Guo et.al.|[2511.01210](https://arxiv.org/abs/2511.01210)|null|
 |**2025-11-02**|**Rhythm in the Air: Vision-based Real-Time Music Generation through Gestures**|Barathi Subramanian et.al.|[2511.00793](https://arxiv.org/abs/2511.00793)|null|
 |**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088](https://arxiv.org/abs/2511.00088)|null|

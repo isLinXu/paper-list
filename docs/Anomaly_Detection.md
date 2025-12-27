@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al.|[2512.21264](https://arxiv.org/abs/2512.21264)|null|
+|**2025-12-24**|**Neutralization of IMU-Based GPS Spoofing Detection using external IMU sensor and feedback methodology**|Ji Hyuk Jung et.al.|[2512.20964](https://arxiv.org/abs/2512.20964)|null|
 |**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al.|[2512.20432](https://arxiv.org/abs/2512.20432)|null|
 |**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|Pedro Domingos et.al.|[2512.20417](https://arxiv.org/abs/2512.20417)|null|
 |**2025-12-23**|**Machine-learning techniques for model-independent searches in dijet final states**|CMS Collaboration et.al.|[2512.20395](https://arxiv.org/abs/2512.20395)|null|

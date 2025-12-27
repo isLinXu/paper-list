@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies**|Jing Han et.al.|[2512.20938](https://arxiv.org/abs/2512.20938)|null|
 |**2025-12-23**|**Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI**|Muhammad Usman et.al.|[2512.20436](https://arxiv.org/abs/2512.20436)|null|
 |**2025-12-23**|**Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems**|YuChe Hsu et.al.|[2512.20387](https://arxiv.org/abs/2512.20387)|null|
 |**2025-12-23**|**Retrieval-augmented Prompt Learning for Pre-trained Foundation Models**|Xiang Chen et.al.|[2512.20145](https://arxiv.org/abs/2512.20145)|null|
@@ -471,20 +472,20 @@
 |**2025-03-09**|**Multimodal Emotion Recognition and Sentiment Analysis in Multi-Party Conversation Contexts**|Aref Farhadipour et.al.|[2503.06805](https://arxiv.org/abs/2503.06805)|null|
 |**2025-03-13**|**DynCIM: Dynamic Curriculum for Imbalanced Multimodal Learning**|Chengxuan Qian et.al.|[2503.06456](https://arxiv.org/abs/2503.06456)|**[link](https://github.com/raymond-qiancx/dyncim)**|
 |**2025-03-05**|**Beyond H&E: Unlocking Pathological Insights with Polarization via Self-supervised Learning**|Yao Du et.al.|[2503.05933](https://arxiv.org/abs/2503.05933)|null|
-|**2025-03-10**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**|Jiaxing Zhao et.al.|[2503.05379](https://arxiv.org/abs/2503.05379)|null|
+|**2025-03-10**|**R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**|Jiaxing Zhao et.al.|[2503.05379](https://arxiv.org/abs/2503.05379)|**[link](https://github.com/HumanMLLM/R1-Omni)**|
 |**2025-03-07**|**Robust Multimodal Learning for Ophthalmic Disease Grading via Disentangled Representation**|Xinkun Wang et.al.|[2503.05319](https://arxiv.org/abs/2503.05319)|null|
 |**2025-03-06**|**Large Language Models in Bioinformatics: A Survey**|Zhenyu Wang et.al.|[2503.04490](https://arxiv.org/abs/2503.04490)|null|
 |**2025-03-05**|**Rebalanced Multimodal Learning with Data-aware Unimodal Sampling**|Qingyuan Jiang et.al.|[2503.03792](https://arxiv.org/abs/2503.03792)|null|
 |**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](https://arxiv.org/abs/2503.02849)|null|
-|**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](https://arxiv.org/abs/2503.02781)|null|
-|**2025-03-03**|**Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA**|Zhusi Zhong et.al.|[2503.02034](https://arxiv.org/abs/2503.02034)|null|
+|**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](https://arxiv.org/abs/2503.02781)|**[link](https://github.com/mims-harvard/Madrigal)**|
+|**2025-03-03**|**Abn-BLIP: Abnormality-aligned Bootstrapping Language-Image Pre-training for Pulmonary Embolism Diagnosis and Report Generation from CTPA**|Zhusi Zhong et.al.|[2503.02034](https://arxiv.org/abs/2503.02034)|**[link](https://github.com/zzs95/abn-blip.)**|
 |**2025-03-03**|**DeepSuM: Deep Sufficient Modality Learning Framework**|Zhe Gao et.al.|[2503.01728](https://arxiv.org/abs/2503.01728)|null|
 |**2025-03-03**|**Dementia Insights: A Context-Based MultiModal Approach**|Sahar Sinene Mehdoui et.al.|[2503.01226](https://arxiv.org/abs/2503.01226)|null|
 |**2025-03-03**|**HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation**|Hongye Cheng et.al.|[2503.01175](https://arxiv.org/abs/2503.01175)|null|
 |**2025-02-28**|**Foundation-Model-Boosted Multimodal Learning for fMRI-based Neuropathic Pain Drug Response Prediction**|Wenrui Fan et.al.|[2503.00210](https://arxiv.org/abs/2503.00210)|null|
 |**2025-02-28**|**PathVG: A New Benchmark and Dataset for Pathology Visual Grounding**|Chunlin Zhong et.al.|[2502.20869](https://arxiv.org/abs/2502.20869)|null|
 |**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](https://arxiv.org/abs/2502.20806)|null|
-|**2025-02-27**|**VideoA11y: Method and Dataset for Accessible Video Description**|Chaoyu Li et.al.|[2502.20480](https://arxiv.org/abs/2502.20480)|null|
+|**2025-02-27**|**VideoA11y: Method and Dataset for Accessible Video Description**|Chaoyu Li et.al.|[2502.20480](https://arxiv.org/abs/2502.20480)|**[link](https://github.com/CyL97/VideoA11y)**|
 |**2025-02-27**|**LIFT-GS: Cross-Scene Render-Supervised Distillation for 3D Language Grounding**|Ang Cao et.al.|[2502.20389](https://arxiv.org/abs/2502.20389)|null|
 |**2025-02-27**|**Rethinking Multimodal Learning from the Perspective of Mitigating Classification Ability Disproportion**|QingYuan Jiang et.al.|[2502.20120](https://arxiv.org/abs/2502.20120)|null|
 |**2025-02-27**|**MICINet: Multi-Level Inter-Class Confusing Information Removal for Reliable Multimodal Classification**|Tong Zhang et.al.|[2502.19674](https://arxiv.org/abs/2502.19674)|null|
@@ -557,7 +558,7 @@
 |**2024-12-17**|**DoPTA: Improving Document Layout Analysis using Patch-Text Alignment**|Nikitha SR et.al.|[2412.12902](https://arxiv.org/abs/2412.12902)|null|
 |**2024-12-17**|**Implicit Location-Caption Alignment via Complementary Masking for Weakly-Supervised Dense Video Captioning**|Shiping Ge et.al.|[2412.12791](https://arxiv.org/abs/2412.12791)|**[link](https://github.com/ShipingGe/ILCACM)**|
 |**2024-12-17**|**PBVS 2024 Solution: Self-Supervised Learning and Sampling Strategies for SAR Classification in Extreme Long-Tail Distribution**|Yuhyun Kim et.al.|[2412.12565](https://arxiv.org/abs/2412.12565)|null|
-|**2024-12-16**|**Gramian Multimodal Representation Learning and Alignment**|Giordano Cicchetti et.al.|[2412.11959](https://arxiv.org/abs/2412.11959)|null|
+|**2024-12-16**|**Gramian Multimodal Representation Learning and Alignment**|Giordano Cicchetti et.al.|[2412.11959](https://arxiv.org/abs/2412.11959)|**[link](https://github.com/ispamm/GRAM)**|
 |**2024-12-10**|**Explaining and Mitigating the Modality Gap in Contrastive Multimodal Learning**|Can Yaras et.al.|[2412.07909](https://arxiv.org/abs/2412.07909)|null|
 |**2024-12-07**|**WavFusion: Towards wav2vec 2.0 Multimodal Speech Emotion Recognition**|Feng Li et.al.|[2412.05558](https://arxiv.org/abs/2412.05558)|null|
 |**2024-12-05**|**Lattice Lingo: Effect of Textual Detail on Multimodal Learning for Property Prediction of Crystals**|Mrigi Munjal et.al.|[2412.04670](https://arxiv.org/abs/2412.04670)|null|
@@ -703,7 +704,7 @@
 |**2024-06-27**|**RAVEN: Multitask Retrieval Augmented Vision-Language Learning**|Varun Nagaraj Rao et.al.|[2406.19150](https://arxiv.org/abs/2406.19150)|null|
 |**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068](https://arxiv.org/abs/2406.18068)|null|
 |**2024-06-25**|**Data curation via joint example selection further accelerates multimodal learning**|Talfan Evans et.al.|[2406.17711](https://arxiv.org/abs/2406.17711)|null|
-|**2024-06-23**|**LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control**|Delin Qu et.al.|[2406.16038](https://arxiv.org/abs/2406.16038)|null|
+|**2024-06-23**|**LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control**|Delin Qu et.al.|[2406.16038](https://arxiv.org/abs/2406.16038)|**[link](https://github.com/Tavish9/livescene)**|
 |**2024-06-20**|**Knowledge-driven Subspace Fusion and Gradient Coordination for Multi-modal Learning**|Yupei Zhang et.al.|[2406.13979](https://arxiv.org/abs/2406.13979)|**[link](https://github.com/helenypzhang/subspace-multimodal-learning)**|
 |**2024-06-19**|**VisualRWKV: Exploring Recurrent Neural Networks for Visual Language Models**|Haowen Hou et.al.|[2406.13362](https://arxiv.org/abs/2406.13362)|**[link](https://github.com/howard-hou/visualrwkv)**|
 |**2024-06-18**|**Language and Multimodal Models in Sports: A Survey of Datasets and Applications**|Haotian Xia et.al.|[2406.12252](https://arxiv.org/abs/2406.12252)|null|

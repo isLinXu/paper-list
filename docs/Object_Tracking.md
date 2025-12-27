@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**SPOT!: Map-Guided LLM Agent for Unsupervised Multi-CCTV Dynamic Object Tracking**|Yujin Noh et.al.|[2512.20975](https://arxiv.org/abs/2512.20975)|null|
 |**2025-12-22**|**Learning Generalizable Hand-Object Tracking from Synthetic Demonstrations**|Yinhuai Wang et.al.|[2512.19583](https://arxiv.org/abs/2512.19583)|null|
 |**2025-12-12**|**A 96pJ/Frame/Pixel and 61pJ/Event Anti-UAV System with Hybrid Object Tracking Modes**|Yuncheng Lu et.al.|[2512.17939](https://arxiv.org/abs/2512.17939)|null|
 |**2025-12-17**|**Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank**|Chenxiao Zhang et.al.|[2512.15066](https://arxiv.org/abs/2512.15066)|null|
@@ -18,7 +19,7 @@
 |**2025-12-08**|**How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline**|Chunhui Zhang et.al.|[2512.07385](https://arxiv.org/abs/2512.07385)|null|
 |**2025-12-06**|**NexusFlow: Unifying Disparate Tasks under Partial Supervision via Invertible Flow Networks**|Fangzhou Lin et.al.|[2512.06251](https://arxiv.org/abs/2512.06251)|null|
 |**2025-12-04**|**Two-Stage Camera Calibration Method for Multi-Camera Systems Using Scene Geometry**|Aleksandr Abramov et.al.|[2512.05171](https://arxiv.org/abs/2512.05171)|null|
-|**2025-12-02**|**TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking**|Tang Haonan et.al.|[2512.02789](https://arxiv.org/abs/2512.02789)|null|
+|**2025-12-02**|**TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking**|Haonan Tang et.al.|[2512.02789](https://arxiv.org/abs/2512.02789)|null|
 |**2025-12-02**|**UAUTrack: Towards Unified Multimodal Anti-UAV Visual Tracking**|Qionglin Ren et.al.|[2512.02668](https://arxiv.org/abs/2512.02668)|null|
 |**2025-12-02**|**From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking**|Yuqing Shao et.al.|[2512.02392](https://arxiv.org/abs/2512.02392)|null|
 |**2025-12-01**|**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**|Chenyi Wang et.al.|[2512.01934](https://arxiv.org/abs/2512.01934)|null|
@@ -139,7 +140,7 @@
 |**2025-10-07**|**GAZE:Governance-Aware pre-annotation for Zero-shot World Model Environments**|Leela Krishna et.al.|[2510.14992](https://arxiv.org/abs/2510.14992)|null|
 |**2025-10-15**|**EPIPTrack: Rethinking Prompt Modeling with Explicit and Implicit Prompts for Multi-Object Tracking**|Yukuan Zhang et.al.|[2510.13235](https://arxiv.org/abs/2510.13235)|null|
 |**2025-10-14**|**SVAG-Bench: A Large-Scale Benchmark for Multi-Instance Spatio-temporal Video Action Grounding**|Tanveer Hannan et.al.|[2510.13016](https://arxiv.org/abs/2510.13016)|null|
-|**2025-10-14**|**MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|[2510.12565](https://arxiv.org/abs/2510.12565)|null|
+|**2025-10-14**|**MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**|Tianhao Li et.al.|[2510.12565](https://arxiv.org/abs/2510.12565)|**[link](https://github.com/Annzstbl/MMOT.)**|
 |**2025-10-10**|**LTGS: Long-Term Gaussian Scene Chronology From Sparse View Updates**|Minkwan Kim et.al.|[2510.09881](https://arxiv.org/abs/2510.09881)|null|
 |**2025-10-10**|**Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking**|Milad Khanchi et.al.|[2510.09878](https://arxiv.org/abs/2510.09878)|null|
 |**2025-10-10**|**GL-DT: Multi-UAV Detection and Tracking with Global-Local Integration**|Juanqin Liu et.al.|[2510.09092](https://arxiv.org/abs/2510.09092)|null|

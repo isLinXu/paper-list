@@ -2,6 +2,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**A Community-Enhanced Graph Representation Model for Link Prediction**|Lei Wang et.al.|[2512.21166](https://arxiv.org/abs/2512.21166)|null|
+|**2025-12-24**|**Semantic Refinement with LLMs for Graph Representations**|Safal Thapaliya et.al.|[2512.21106](https://arxiv.org/abs/2512.21106)|null|
+|**2025-12-24**|**A Multi-fidelity Double-Delta Wing Dataset and Empirical Scaling Laws for GNN-based Aerodynamic Field Surrogate**|Yiren Shen et.al.|[2512.20941](https://arxiv.org/abs/2512.20941)|null|
+|**2025-12-24**|**Towards a General Framework for Predicting and Explaining the Hardness of Graph-based Combinatorial Optimization Problems using Machine Learning and Association Rule Mining**|Bharat Sharman et.al.|[2512.20915](https://arxiv.org/abs/2512.20915)|null|
+|**2025-12-23**|**GraphFire-X: Physics-Informed Graph Attention Networks and Structural Gradient Boosting for Building-Scale Wildfire Preparedness at the Wildland-Urban Interface**|Miguel Esparza et.al.|[2512.20813](https://arxiv.org/abs/2512.20813)|null|
+|**2025-12-23**|**Symbolic regression for defect interactions in 2D materials**|Mikhail Lazarev et.al.|[2512.20785](https://arxiv.org/abs/2512.20785)|null|
+|**2025-12-18**|**Graph Neural Networks for Source Detection: A Review and Benchmark Study**|Martin Sterchi et.al.|[2512.20657](https://arxiv.org/abs/2512.20657)|null|
 |**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531](https://arxiv.org/abs/2512.20531)|null|
 |**2025-12-23**|**Modeling Bank Systemic Risk of Emerging Markets under Geopolitical Shocks: Empirical Evidence from BRICS Countries**|Haibo Wang et.al.|[2512.20515](https://arxiv.org/abs/2512.20515)|null|
 |**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](https://arxiv.org/abs/2512.20097)|null|
@@ -1816,8 +1823,8 @@
 |**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550](https://arxiv.org/abs/2410.19550)|null|
 |**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373](https://arxiv.org/abs/2410.19373)|null|
 |**2024-10-25**|**Double Difference Earthquake Location with Graph Neural Networks**|Ian W. McBrearty et.al.|[2410.19323](https://arxiv.org/abs/2410.19323)|null|
-|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193](https://arxiv.org/abs/2410.19193)|null|
-|**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912](https://arxiv.org/abs/2410.18912)|null|
+|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193](https://arxiv.org/abs/2410.19193)|**[link](https://github.com/brunocroso/contextualgnns-fakenews)**|
+|**2024-10-24**|**Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**|Mingtong Zhang et.al.|[2410.18912](https://arxiv.org/abs/2410.18912)|**[link](https://github.com/robo-alex/gs-dynamics)**|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](https://arxiv.org/abs/2410.18631)|null|
 |**2024-10-24**|**Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations**|Xiuwei Shang et.al.|[2410.18561](https://arxiv.org/abs/2410.18561)|null|
 |**2024-10-24**|**Local and Global Graph Modeling with Edge-weighted Graph Attention Network for Handwritten Mathematical Expression Recognition**|Yejing Xie et.al.|[2410.18555](https://arxiv.org/abs/2410.18555)|null|
