@@ -2,6 +2,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation**|Takeru Kusakabe et.al.|[2512.24792](https://arxiv.org/abs/2512.24792)|null|
+|**2025-12-30**|**Guided Diffusion-based Generation of Adversarial Objects for Real-World Monocular Depth Estimation Attacks**|Yongtao Chen et.al.|[2512.24111](https://arxiv.org/abs/2512.24111)|null|
+|**2025-12-29**|**Leveraging Synthetic Priors for Monocular Depth Estimation in Specular Surgical Environments**|Ankan Aich et.al.|[2512.23786](https://arxiv.org/abs/2512.23786)|null|
+|**2025-12-28**|**With Great Context Comes Great Prediction Power: Classifying Objects via Geo-Semantic Scene Graphs**|Ciprian Constantinescu et.al.|[2512.23024](https://arxiv.org/abs/2512.23024)|null|
+|**2025-12-28**|**Depth Anything in $360^\circ$ : Towards Scale Invariance in the Wild**|Hualie Jiang et.al.|[2512.22819](https://arxiv.org/abs/2512.22819)|null|
+|**2025-12-27**|**Visual Autoregressive Modelling for Monocular Depth Estimation**|Amir El-Ghoussani et.al.|[2512.22653](https://arxiv.org/abs/2512.22653)|null|
+|**2025-12-26**|**iOSPointMapper: RealTime Pedestrian and Accessibility Mapping with Mobile AI**|Himanshu Naidu et.al.|[2512.22392](https://arxiv.org/abs/2512.22392)|null|
+|**2025-12-26**|**Bab_Sak Robotic Intubation System (BRIS): A Learning-Enabled Control Framework for Safe Fiberoptic Endotracheal Intubation**|Saksham Gupta et.al.|[2512.21983](https://arxiv.org/abs/2512.21983)|null|
+|**2025-12-26**|**StereoVLA: Enhancing Vision-Language-Action Models with Stereo Vision**|Shengliang Deng et.al.|[2512.21970](https://arxiv.org/abs/2512.21970)|**[link](https://github.com/shengliangd/StereoVLA)**|
 |**2025-12-22**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](https://arxiv.org/abs/2512.19083)|null|
 |**2025-12-22**|**CETCAM: Camera-Controllable Video Generation via Consistent and Extensible Tokenization**|Zelin Zhao et.al.|[2512.19020](https://arxiv.org/abs/2512.19020)|null|
 |**2025-12-21**|**A Study of Finetuning Video Transformers for Multi-view Geometry Tasks**|Huimin Wu et.al.|[2512.18684](https://arxiv.org/abs/2512.18684)|null|
@@ -10,10 +19,10 @@
 |**2025-12-19**|**Re-Depth Anything: Test-Time Depth Refinement via Self-Supervised Re-lighting**|Ananta R. Bhattarai et.al.|[2512.17908](https://arxiv.org/abs/2512.17908)|null|
 |**2025-12-19**|**Long-Range depth estimation using learning based Hybrid Distortion Model for CCTV cameras**|Ami Pandat et.al.|[2512.17784](https://arxiv.org/abs/2512.17784)|null|
 |**2025-12-19**|**SAVeD: A First-Person Social Media Video Dataset for ADAS-equipped vehicle Near-Miss and Crash Event Analyses**|Shaoyan Zhai et.al.|[2512.17724](https://arxiv.org/abs/2512.17724)|null|
-|**2025-12-18**|**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation**|Min-Jung Kim et.al.|[2512.17040](https://arxiv.org/abs/2512.17040)|null|
-|**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](https://arxiv.org/abs/2512.16913)|null|
-|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](https://arxiv.org/abs/2512.16561)|null|
-|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](https://arxiv.org/abs/2512.15715)|null|
+|**2025-12-18**|**Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation**|Min-Jung Kim et.al.|[2512.17040](https://arxiv.org/abs/2512.17040)|**[link](https://github.com/emjay73/InfCam)**|
+|**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913](https://arxiv.org/abs/2512.16913)|**[link](https://github.com/Insta360-Research-Team/DAP)**|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](https://arxiv.org/abs/2512.16561)|**[link](https://github.com/W-Ted/N3D-VLM)**|
+|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](https://arxiv.org/abs/2512.15715)|**[link](https://github.com/facebookresearch/pixio)**|
 |**2025-12-16**|**DASP: Self-supervised Nighttime Monocular Depth Estimation with Domain Adaptation of Spatiotemporal Priors**|Yiheng Huang et.al.|[2512.14536](https://arxiv.org/abs/2512.14536)|null|
 |**2025-12-16**|**Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding**|Nando Metzger et.al.|[2512.14236](https://arxiv.org/abs/2512.14236)|null|
 |**2025-12-16**|**Robust Single-shot Structured Light 3D Imaging via Neural Feature Decoding**|Jiaheng Li et.al.|[2512.14028](https://arxiv.org/abs/2512.14028)|null|
@@ -23,7 +32,7 @@
 |**2025-12-12**|**ProbeMDE: Uncertainty-Guided Active Proprioception for Monocular Depth Estimation in Surgical Robotics**|Britton Jordan et.al.|[2512.11773](https://arxiv.org/abs/2512.11773)|null|
 |**2025-12-11**|**Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision**|Wentao Zhou et.al.|[2512.10956](https://arxiv.org/abs/2512.10956)|null|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725](https://arxiv.org/abs/2512.10725)|null|
-|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](https://arxiv.org/abs/2512.10719)|null|
+|**2025-12-11**|**SpaceDrive: Infusing Spatial Awareness into VLM-based Autonomous Driving**|Peizheng Li et.al.|[2512.10719](https://arxiv.org/abs/2512.10719)|**[link](https://github.com/zhenghao2519/SpaceDrive)**|
 |**2025-12-11**|**Robust Shape from Focus via Multiscale Directional Dilated Laplacian and Recurrent Network**|Khurram Ashfaq et.al.|[2512.10498](https://arxiv.org/abs/2512.10498)|null|
 |**2025-12-09**|**Scale-invariant and View-relational Representation Learning for Full Surround Monocular Depth**|Kyumin Hwang et.al.|[2512.08700](https://arxiv.org/abs/2512.08700)|null|
 |**2025-12-09**|**Development & first Performance evaluation of multi-element monolithic HPGe detector for X-ray spectroscopy**|N. Goyal et.al.|[2512.08389](https://arxiv.org/abs/2512.08389)|null|
@@ -35,14 +44,14 @@
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](https://arxiv.org/abs/2512.05412)|null|
 |**2025-12-03**|**Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications**|Gasser Elazab et.al.|[2512.04303](https://arxiv.org/abs/2512.04303)|null|
 |**2025-12-03**|**Unique Lives, Shared World: Learning from Single-Life Videos**|Tengda Han et.al.|[2512.04085](https://arxiv.org/abs/2512.04085)|null|
-|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](https://arxiv.org/abs/2512.04069)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](https://arxiv.org/abs/2512.04069)|**[link](https://github.com/spacetools/SpaceTools)**|
 |**2025-12-03**|**MDE-AgriVLN: Agricultural Vision-and-Language Navigation with Monocular Depth Estimation**|Xiaobei Zhao et.al.|[2512.03958](https://arxiv.org/abs/2512.03958)|null|
 |**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](https://arxiv.org/abs/2512.03427)|null|
-|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](https://arxiv.org/abs/2512.03000)|null|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](https://arxiv.org/abs/2512.03000)|**[link](https://github.com/Dynamics-X/DynamicVerse)**|
 |**2025-12-02**|**BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection**|Guowen Zhang et.al.|[2512.02972](https://arxiv.org/abs/2512.02972)|null|
 |**2025-12-01**|**DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction**|Xia Su et.al.|[2512.02263](https://arxiv.org/abs/2512.02263)|null|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](https://arxiv.org/abs/2512.01366)|null|
-|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](https://arxiv.org/abs/2512.01030)|null|
+|**2025-11-30**|**Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model**|Jing He et.al.|[2512.01030](https://arxiv.org/abs/2512.01030)|**[link](https://github.com/EnVision-Research/Lotus-2)**|
 |**2025-11-30**|**EAG3R: Event-Augmented 3D Geometry Estimation for Dynamic and Extreme-Lighting Scenes**|Xiaoshan Wu et.al.|[2512.00771](https://arxiv.org/abs/2512.00771)|null|
 |**2025-11-26**|**Multi-modal On-Device Learning for Monocular Depth Estimation on Ultra-low-power MCUs**|Davide Nadalini et.al.|[2512.00086](https://arxiv.org/abs/2512.00086)|null|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044](https://arxiv.org/abs/2511.23044)|null|
@@ -60,7 +69,7 @@
 |**2025-11-20**|**Dexterity from Smart Lenses: Multi-Fingered Robot Manipulation with In-the-Wild Human Demonstrations**|Irmak Guzey et.al.|[2511.16661](https://arxiv.org/abs/2511.16661)|null|
 |**2025-11-20**|**Lite Any Stereo: Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2511.16555](https://arxiv.org/abs/2511.16555)|null|
 |**2025-11-20**|**CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation**|Samer Abualhanud et.al.|[2511.16428](https://arxiv.org/abs/2511.16428)|null|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](https://arxiv.org/abs/2511.16301)|null|
+|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](https://arxiv.org/abs/2511.16301)|**[link](https://github.com/seominseok0429/Upsample-Anything-A-Simple-and-Hard-to-Beat-Baseline-for-Feature-Upsampling)**|
 |**2025-11-19**|**Learning Depth from Past Selves: Self-Evolution Contrast for Robust Depth Estimation**|Jing Cao et.al.|[2511.15167](https://arxiv.org/abs/2511.15167)|null|
 |**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](https://arxiv.org/abs/2511.14970)|null|
 |**2025-11-18**|**Cheating Stereo Matching in Full-scale: Physical Adversarial Attack against Binocular Depth Estimation in Autonomous Driving**|Kangqiao Zhao et.al.|[2511.14386](https://arxiv.org/abs/2511.14386)|null|
@@ -68,17 +77,17 @@
 |**2025-11-18**|**RTS-Mono: A Real-Time Self-Supervised Monocular Depth Estimation Method for Real-World Deployment**|Zeyu Cheng et.al.|[2511.14107](https://arxiv.org/abs/2511.14107)|null|
 |**2025-11-17**|**Towards Metric-Aware Multi-Person Mesh Recovery by Jointly Optimizing Human Crowd in Camera Space**|Kaiwen Wang et.al.|[2511.13282](https://arxiv.org/abs/2511.13282)|null|
 |**2025-11-17**|**Difficulty-Aware Label-Guided Denoising for Monocular 3D Object Detection**|Soyul Lee et.al.|[2511.13195](https://arxiv.org/abs/2511.13195)|null|
-|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](https://arxiv.org/abs/2511.10647)|null|
+|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](https://arxiv.org/abs/2511.10647)|**[link](https://github.com/ByteDance-Seed/depth-anything-3)**|
 |**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](https://arxiv.org/abs/2511.10560)|null|
 |**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng et.al.|[2511.10316](https://arxiv.org/abs/2511.10316)|null|
 |**2025-11-13**|**RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo**|Jueun Ko et.al.|[2511.10107](https://arxiv.org/abs/2511.10107)|null|
-|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](https://arxiv.org/abs/2511.09724)|null|
+|**2025-11-12**|**PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model**|Yunqian Cheng et.al.|[2511.09724](https://arxiv.org/abs/2511.09724)|**[link](https://github.com/Head-inthe-Cloud/PALMS-Plane-based-Accessible-Indoor-Localization-Using-Mobile-Smartphones)**|
 |**2025-11-12**|**PIFF: A Physics-Informed Generative Flow Model for Real-Time Flood Depth Mapping**|ChunLiang Wu et.al.|[2511.09130](https://arxiv.org/abs/2511.09130)|null|
 |**2025-11-11**|**WEDepth: Efficient Adaptation of World Knowledge for Monocular Depth Estimation**|Gongshu Wang et.al.|[2511.08036](https://arxiv.org/abs/2511.08036)|null|
 |**2025-11-11**|**Visual Bridge: Universal Visual Perception Representations Generating**|Yilin Gao et.al.|[2511.07877](https://arxiv.org/abs/2511.07877)|null|
 |**2025-11-10**|**FlowFeat: Pixel-Dense Embedding of Motion Profiles**|Nikita Araslanov et.al.|[2511.07696](https://arxiv.org/abs/2511.07696)|null|
 |**2025-11-09**|**How Wide and How Deep? Mitigating Over-Squashing of GNNs via Channel Capacity Constrained Estimation**|Zinuo You et.al.|[2511.06443](https://arxiv.org/abs/2511.06443)|null|
-|**2025-11-09**|**Temporal-Guided Visual Foundation Models for Event-Based Vision**|Ruihao Xia et.al.|[2511.06238](https://arxiv.org/abs/2511.06238)|null|
+|**2025-11-09**|**Temporal-Guided Visual Foundation Models for Event-Based Vision**|Ruihao Xia et.al.|[2511.06238](https://arxiv.org/abs/2511.06238)|**[link](https://github.com/XiaRho/TGVFM.)**|
 |**2025-11-08**|**Light-Field Dataset for Disparity Based Depth Estimation**|Suresh Nehra et.al.|[2511.05866](https://arxiv.org/abs/2511.05866)|null|
 |**2025-11-06**|**FiCABU: A Fisher-Based, Context-Adaptive Machine Unlearning Processor for Edge AI**|Eun-Su Cho et.al.|[2511.05605](https://arxiv.org/abs/2511.05605)|null|
 |**2025-11-07**|**No Pose Estimation? No Problem: Pose-Agnostic and Instance-Aware Test-Time Adaptation for Monocular Depth Estimation**|Mingyu Sung et.al.|[2511.05055](https://arxiv.org/abs/2511.05055)|null|
@@ -112,7 +121,7 @@
 |**2025-10-29**|**Seeing Clearly and Deeply: An RGBD Imaging Approach with a Bio-inspired Monocentric Design**|Zongxi Yu et.al.|[2510.25314](https://arxiv.org/abs/2510.25314)|null|
 |**2025-10-28**|**GeVI-SLAM: Gravity-Enhanced Stereo Visua Inertial SLAM for Underwater Robots**|Yuan Shen et.al.|[2510.24533](https://arxiv.org/abs/2510.24533)|null|
 |**2025-10-27**|**The case for an Astrometric Mission Extension of Euclid. Extending Gaia by 6 magnitudes with Euclid covering one-third of the sky**|Luigi "Rolly'' BEDIN et.al.|[2510.23694](https://arxiv.org/abs/2510.23694)|null|
-|**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](https://arxiv.org/abs/2510.23574)|null|
+|**2025-10-27**|**More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models**|Hongkai Lin et.al.|[2510.23574](https://arxiv.org/abs/2510.23574)|**[link](https://github.com/H-EmbodVis/MERGE)**|
 |**2025-10-27**|**Group-Level and Personalized Optimization for the Insula and Hippocampus Focal Electric Field in Transcranial Temporal Interferential Stimulation: A Computational Study**|Taiga Inoue et.al.|[2510.23290](https://arxiv.org/abs/2510.23290)|null|
 |**2025-10-27**|**Precise Time Delay Measurement and Compensation for Tightly Coupled Underwater SINS/piUSBL Navigation**|Jin Huang et.al.|[2510.23286](https://arxiv.org/abs/2510.23286)|null|
 |**2025-10-27**|**Development of the Reconstruction Procedure of the Fluorescence detector Array of Single-pixel Telescopes for measuring Ultra-High Energy Cosmic Rays**|Fraser Bradfield et.al.|[2510.23219](https://arxiv.org/abs/2510.23219)|null|
@@ -151,26 +160,26 @@
 |**2025-10-17**|**FIDDLE: Reinforcement Learning for Quantum Fidelity Enhancement**|Hoang M. Ngo et.al.|[2510.15833](https://arxiv.org/abs/2510.15833)|null|
 |**2025-10-17**|**Adaptive time Compressed QITE (ACQ) and its geometrical interpretation**|Alberto Acevedo Meléndez et.al.|[2510.15781](https://arxiv.org/abs/2510.15781)|null|
 |**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](https://arxiv.org/abs/2510.15072)|null|
-|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|null|
+|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|**[link](https://github.com/littlepure2333/C4D)**|
 |**2025-10-16**|**Multi-modal video data-pipelines for machine learning with minimal human supervision**|Mihai-Cristian Pîrvu et.al.|[2510.14862](https://arxiv.org/abs/2510.14862)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](https://arxiv.org/abs/2510.13565)|null|
 |**2025-10-15**|**FlyAwareV2: A Multimodal Cross-Domain UAV Dataset for Urban Scene Understanding**|Francesco Barbato et.al.|[2510.13243](https://arxiv.org/abs/2510.13243)|null|
 |**2025-10-14**|**E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization**|Wenpu Li et.al.|[2510.12753](https://arxiv.org/abs/2510.12753)|null|
-|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](https://arxiv.org/abs/2510.12276)|null|
+|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li et.al.|[2510.12276](https://arxiv.org/abs/2510.12276)|**[link](https://github.com/OpenHelix-Team/Spatial-Forcing)**|
 |**2025-10-13**|**Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**|Jean-Paul Travert et.al.|[2510.11305](https://arxiv.org/abs/2510.11305)|null|
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](https://arxiv.org/abs/2510.10097)|null|
 |**2025-10-10**|**Fast Self-Supervised depth and mask aware Association for Multi-Object Tracking**|Milad Khanchi et.al.|[2510.09878](https://arxiv.org/abs/2510.09878)|null|
-|**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](https://arxiv.org/abs/2510.09320)|null|
+|**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](https://arxiv.org/abs/2510.09320)|**[link](https://github.com/Zhangwenyao1/Hybrid-depth)**|
 |**2025-10-10**|**Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption**|Johann-Friedrich Feiden et.al.|[2510.09182](https://arxiv.org/abs/2510.09182)|null|
 |**2025-10-08**|**Into the Rabbit Hull: From Task-Relevant Concepts in DINO to Minkowski Geometry**|Thomas Fel et.al.|[2510.08638](https://arxiv.org/abs/2510.08638)|null|
 |**2025-10-09**|**RayFusion: Ray Fusion Enhanced Collaborative Visual Perception**|Shaohong Wang et.al.|[2510.08017](https://arxiv.org/abs/2510.08017)|null|
-|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](https://arxiv.org/abs/2510.07944)|null|
+|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang et.al.|[2510.07944](https://arxiv.org/abs/2510.07944)|**[link](https://github.com/SenseTime-FVG/OpenDWM)**|
 |**2025-10-09**|**An End-to-End Room Geometry Constrained Depth Estimation Framework for Indoor Panorama Images**|Kanglin Ning et.al.|[2510.07817](https://arxiv.org/abs/2510.07817)|null|
 |**2025-10-08**|**Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers**|Gangwei Xu et.al.|[2510.07316](https://arxiv.org/abs/2510.07316)|null|
 |**2025-10-08**|**MV-Performer: Taming Video Diffusion Model for Faithful and Synchronized Multi-view Performer Synthesis**|Yihao Zhi et.al.|[2510.07190](https://arxiv.org/abs/2510.07190)|null|
-|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](https://arxiv.org/abs/2510.06219)|null|
+|**2025-10-07**|**Human3R: Everyone Everywhere All at Once**|Yue Chen et.al.|[2510.06219](https://arxiv.org/abs/2510.06219)|**[link](https://github.com/fanegg/Human3R)**|
 |**2025-10-07**|**EgoNight: Towards Egocentric Vision Understanding at Night with a Challenging Benchmark**|Deheng Zhang et.al.|[2510.06218](https://arxiv.org/abs/2510.06218)|null|
-|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](https://arxiv.org/abs/2510.06216)|null|
+|**2025-10-07**|**Dropping the D: RGB-D SLAM Without the Depth Sensor**|Mert Kiray et.al.|[2510.06216](https://arxiv.org/abs/2510.06216)|**[link](https://github.com/tum-pf/dropd-slam)**|
 |**2025-10-07**|**DeLTa: Demonstration and Language-Guided Novel Transparent Object Manipulation**|Taeyeop Lee et.al.|[2510.05662](https://arxiv.org/abs/2510.05662)|null|
 |**2025-10-07**|**Human Action Recognition from Point Clouds over Time**|James Dickens et.al.|[2510.05506](https://arxiv.org/abs/2510.05506)|null|
 |**2025-10-06**|**HybridFlow: Quantification of Aleatoric and Epistemic Uncertainty with a Single Hybrid Model**|Peter Van Katwyk et.al.|[2510.05054](https://arxiv.org/abs/2510.05054)|null|
@@ -188,7 +197,7 @@
 |**2025-09-29**|**BRIDGE -- Building Reinforcement-Learning Depth-to-Image Data Generation Engine for Monocular Depth Estimation**|Dingning Liu et.al.|[2509.25077](https://arxiv.org/abs/2509.25077)|**[link](https://github.com/lnbxldn/BRIDGE)**|
 |**2025-09-29**|**HBSplat: Robust Sparse-View Gaussian Reconstruction with Hybrid-Loss Guided Depth and Bidirectional Warping**|Yu Ma et.al.|[2509.24893](https://arxiv.org/abs/2509.24893)|null|
 |**2025-09-28**|**RPG360: Robust 360 Depth Estimation with Perspective Foundation Models and Graph Optimization**|Dongki Jung et.al.|[2509.23991](https://arxiv.org/abs/2509.23991)|null|
-|**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](https://arxiv.org/abs/2509.23733)|null|
+|**2025-09-28**|**FastViDAR: Real-Time Omnidirectional Depth Estimation via Alternative Hierarchical Attention**|Hangtian Zhao et.al.|[2509.23733](https://arxiv.org/abs/2509.23733)|**[link](https://github.com/3F7DFC/FastVidar)**|
 |**2025-09-28**|**Efficient Domain-Adaptive Multi-Task Dense Prediction with Vision Foundation Models**|Beomseok Kang et.al.|[2509.23626](https://arxiv.org/abs/2509.23626)|null|
 |**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](https://arxiv.org/abs/2509.22627)|**[link](https://github.com/alelopes/CCNext)**|
 |**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](https://arxiv.org/abs/2509.22527)|null|

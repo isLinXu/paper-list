@@ -7,7 +7,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 100
+max_results: 200
 filename: "output.json"
 filename_web: "output_web.json"
 md_filename: "output.md"

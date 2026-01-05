@@ -2,6 +2,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Trustworthy Equipment Monitoring via Cascaded Anomaly Detection and Thermal Localization**|Sungwoo Kang et.al.|[2512.24755](https://arxiv.org/abs/2512.24755)|null|
+|**2025-12-30**|**Using Large Language Models To Translate Machine Results To Human Results**|Trishna Niraula et.al.|[2512.24518](https://arxiv.org/abs/2512.24518)|null|
+|**2025-12-30**|**FAST-IDS: A Fast Two-Stage Intrusion Detection System with Hybrid Compression for Real-Time Threat Detection in Connected and Autonomous Vehicles**|Devika S et.al.|[2512.24391](https://arxiv.org/abs/2512.24391)|null|
+|**2025-12-30**|**FedSecureFormer: A Fast, Federated and Secure Transformer Framework for Lightweight Intrusion Detection in Connected and Autonomous Vehicles**|Devika S et.al.|[2512.24345](https://arxiv.org/abs/2512.24345)|null|
+|**2025-12-30**|**Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC**|F. D. Amaro et.al.|[2512.24290](https://arxiv.org/abs/2512.24290)|null|
+|**2025-12-30**|**FedLiTeCAN : A Federated Lightweight Transformer for Fast and Robust CAN Bus Intrusion Detection**|Devika S et.al.|[2512.24088](https://arxiv.org/abs/2512.24088)|null|
+|**2025-12-30**|**Anomaly detection in satellite imagery through temporal inpainting**|Bertrand Rouet-Leduc et.al.|[2512.23986](https://arxiv.org/abs/2512.23986)|null|
+|**2025-12-30**|**Causify DataFlow: A Framework For High-performance Machine Learning Stream Computing**|Giacinto Paolo Saggese et.al.|[2512.23977](https://arxiv.org/abs/2512.23977)|null|
+|**2025-12-29**|**Security Without Detection: Economic Denial as a Primitive for Edge and IoT Defense**|Samaresh Kumar Singh et.al.|[2512.23849](https://arxiv.org/abs/2512.23849)|null|
+|**2025-12-29**|**Zero-Trust Agentic Federated Learning for Secure IIoT Defense Systems**|Samaresh Kumar Singh et.al.|[2512.23809](https://arxiv.org/abs/2512.23809)|null|
+|**2025-12-29**|**A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms**|Kanishka Hewageegana et.al.|[2512.23777](https://arxiv.org/abs/2512.23777)|null|
+|**2025-12-29**|**Distribution-Free Process Monitoring with Conformal Prediction**|Christopher Burger et.al.|[2512.23602](https://arxiv.org/abs/2512.23602)|null|
+|**2025-12-29**|**Unsupervised Learning for Detection of Rare Driving Scenarios**|Dat Le et.al.|[2512.23585](https://arxiv.org/abs/2512.23585)|null|
+|**2025-12-29**|**A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers**|Mohammad Nasirzadeh et.al.|[2512.23380](https://arxiv.org/abs/2512.23380)|**[link](https://github.com/NasirzadehMoh/CoLog.)**|
+|**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](https://arxiv.org/abs/2512.23227)|null|
+|**2025-12-28**|**Determining habitat anomalies in cross-diffusion predator-prey chemotaxis models**|Yuhan Li et.al.|[2512.22946](https://arxiv.org/abs/2512.22946)|null|
+|**2025-12-25**|**Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al.|[2512.22291](https://arxiv.org/abs/2512.22291)|null|
+|**2025-12-23**|**Scalable Cloud-Native Architectures for Intelligent PMU Data Processing**|Nachiappan Chockalingam et.al.|[2512.22231](https://arxiv.org/abs/2512.22231)|null|
+|**2025-12-20**|**Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation**|Teja Chinthala et.al.|[2512.22199](https://arxiv.org/abs/2512.22199)|null|
+|**2025-12-19**|**Latent Sculpting for Zero-Shot Generalization: A Manifold Learning Approach to Out-of-Distribution Anomaly Detection**|Rajeeb Thapa Chhetri et.al.|[2512.22179](https://arxiv.org/abs/2512.22179)|null|
+|**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al.|[2512.21924](https://arxiv.org/abs/2512.21924)|null|
+|**2025-12-26**|**Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation**|Yiming Qian et.al.|[2512.21866](https://arxiv.org/abs/2512.21866)|null|
+|**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al.|[2512.21650](https://arxiv.org/abs/2512.21650)|null|
+|**2025-12-25**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al.|[2512.21459](https://arxiv.org/abs/2512.21459)|**[link](https://github.com/chloeqxq/CCAD.)**|
+|**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al.|[2512.21264](https://arxiv.org/abs/2512.21264)|null|
+|**2025-12-24**|**Neutralization of IMU-Based GPS Spoofing Detection using external IMU sensor and feedback methodology**|Ji Hyuk Jung et.al.|[2512.20964](https://arxiv.org/abs/2512.20964)|null|
 |**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al.|[2512.20432](https://arxiv.org/abs/2512.20432)|null|
 |**2025-12-23**|**Chain-of-Anomaly Thoughts with Large Vision-Language Models**|Pedro Domingos et.al.|[2512.20417](https://arxiv.org/abs/2512.20417)|null|
 |**2025-12-23**|**Machine-learning techniques for model-independent searches in dijet final states**|CMS Collaboration et.al.|[2512.20395](https://arxiv.org/abs/2512.20395)|null|
@@ -134,7 +160,7 @@
 |**2025-12-01**|**AI-Driven Cybersecurity Testbed for Nuclear Infrastructure: Comprehensive Evaluation Using METL Operational Data**|Benjamin Blakely et.al.|[2512.01727](https://arxiv.org/abs/2512.01727)|null|
 |**2025-12-01**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al.|[2512.01672](https://arxiv.org/abs/2512.01672)|null|
 |**2025-12-01**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al.|[2512.01534](https://arxiv.org/abs/2512.01534)|null|
-|**2025-12-01**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al.|[2512.01498](https://arxiv.org/abs/2512.01498)|null|
+|**2025-12-01**|**No Trust Issues Here: A Technical Report on the Winning Solutions for the Rayan AI Contest**|Ali Nafisi et.al.|[2512.01498](https://arxiv.org/abs/2512.01498)|**[link](https://github.com/safinal/rayan-ai-contest-solutions)**|
 |**2025-12-01**|**Modeling Wavelet Transformed Quantum Support Vector for Network Intrusion Detection**|Swati Kumari et.al.|[2512.01365](https://arxiv.org/abs/2512.01365)|null|
 |**2025-12-01**|**The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications**|Yutong Zhang et.al.|[2512.01279](https://arxiv.org/abs/2512.01279)|null|
 |**2025-11-30**|**Opportunities and Challenges for Data Quality in the Era of Quantum Computing**|Sven Groppe et.al.|[2512.00870](https://arxiv.org/abs/2512.00870)|null|
@@ -158,7 +184,7 @@
 |**2025-11-26**|**Anomaly Detection with Adaptive and Aggressive Rejection for Contaminated Training Data**|Jungi Lee et.al.|[2511.21378](https://arxiv.org/abs/2511.21378)|null|
 |**2025-11-26**|**Evaluation of Large Language Models for Numeric Anomaly Detection in Power Systems**|Yichen Liu et.al.|[2511.21371](https://arxiv.org/abs/2511.21371)|null|
 |**2025-11-26**|**Hybrid SIFT-SNN for Efficient Anomaly Detection of Traffic Flow-Control Infrastructure**|Munish Rathee et.al.|[2511.21337](https://arxiv.org/abs/2511.21337)|null|
-|**2025-11-26**|**I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation**|Lucas Thil et.al.|[2511.21208](https://arxiv.org/abs/2511.21208)|null|
+|**2025-11-26**|**I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation**|Lucas Thil et.al.|[2511.21208](https://arxiv.org/abs/2511.21208)|**[link](https://github.com/LucasStill/I-GLIDE)**|
 |**2025-11-25**|**Securing the Model Context Protocol (MCP): Risks, Controls, and Governance**|Herman Errico et.al.|[2511.20920](https://arxiv.org/abs/2511.20920)|null|
 |**2025-11-25**|**Ranking-Enhanced Anomaly Detection Using Active Learning-Assisted Attention Adversarial Dual AutoEncoders**|Sidahmed Benabderrahmane et.al.|[2511.20480](https://arxiv.org/abs/2511.20480)|null|
 |**2025-11-25**|**DRL-Guided Neural Batch Sampling for Semi-Supervised Pixel-Level Anomaly Detection**|Amirhossein Khadivi Noghredeh et.al.|[2511.20270](https://arxiv.org/abs/2511.20270)|null|

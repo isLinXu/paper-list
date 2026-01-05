@@ -2,6 +2,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](https://arxiv.org/abs/2512.24763)|null|
+|**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](https://arxiv.org/abs/2512.24593)|null|
+|**2025-12-30**|**From Static to Dynamic: Evaluating the Perceptual Impact of Dynamic Elements in Urban Scenes Using Generative Inpainting**|Zhiwei Wei et.al.|[2512.24513](https://arxiv.org/abs/2512.24513)|null|
+|**2025-12-30**|**MambaSeg: Harnessing Mamba for Accurate and Efficient Image-Event Semantic Segmentation**|Fuqiang Gu et.al.|[2512.24243](https://arxiv.org/abs/2512.24243)|null|
+|**2025-12-30**|**ARM: A Learnable, Plug-and-Play Module for CLIP-based Open-vocabulary Semantic Segmentation**|Ziquan Liu et.al.|[2512.24224](https://arxiv.org/abs/2512.24224)|null|
+|**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201](https://arxiv.org/abs/2512.24201)|null|
+|**2025-12-30**|**Targeted Semantic Segmentation of Himalayan Glacial Lakes Using Time-Series SAR: Towards Automated GLOF Early Warning**|Pawan Adhikari et.al.|[2512.24117](https://arxiv.org/abs/2512.24117)|null|
+|**2025-12-30**|**Bridging Structure and Appearance: Topological Features for Robust Self-Supervised Segmentation**|Haotang Li et.al.|[2512.23997](https://arxiv.org/abs/2512.23997)|null|
+|**2025-12-29**|**SOFTooth: Semantics-Enhanced Order-Aware Fusion for Tooth Instance Segmentation**|Xiaolan Li et.al.|[2512.23411](https://arxiv.org/abs/2512.23411)|null|
+|**2025-12-29**|**PCR-ORB: Enhanced ORB-SLAM3 with Point Cloud Refinement Using Deep Learning-Based Dynamic Object Filtering**|Sheng-Kai Chen et.al.|[2512.23318](https://arxiv.org/abs/2512.23318)|null|
+|**2025-12-29**|**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**|Jongoh Jeong et.al.|[2512.23215](https://arxiv.org/abs/2512.23215)|null|
+|**2025-12-28**|**3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds**|Ryousuke Yamada et.al.|[2512.23042](https://arxiv.org/abs/2512.23042)|null|
+|**2025-12-28**|**Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion**|Yi Zhou et.al.|[2512.23035](https://arxiv.org/abs/2512.23035)|null|
+|**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](https://arxiv.org/abs/2512.22771)|null|
+|**2025-12-26**|**iOSPointMapper: RealTime Pedestrian and Accessibility Mapping with Mobile AI**|Himanshu Naidu et.al.|[2512.22392](https://arxiv.org/abs/2512.22392)|null|
+|**2025-12-26**|**A Lightweight Multi-Scale Attention Framework for Real-Time Spinal Endoscopic Instance Segmentation**|Qi Lai et.al.|[2512.21984](https://arxiv.org/abs/2512.21984)|null|
+|**2025-12-24**|**Self-supervised Multiplex Consensus Mamba for General Image Fusion**|Yingying Wang et.al.|[2512.20921](https://arxiv.org/abs/2512.20921)|null|
+|**2025-12-23**|**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**|Reeshad Khan et.al.|[2512.20815](https://arxiv.org/abs/2512.20815)|null|
 |**2025-12-23**|**BiCoR-Seg: Bidirectional Co-Refinement Framework for High-Resolution Remote Sensing Image Segmentation**|Jinghao Shi et.al.|[2512.20255](https://arxiv.org/abs/2512.20255)|null|
 |**2025-12-22**|**Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation**|Khanh Nguyen et.al.|[2512.19088](https://arxiv.org/abs/2512.19088)|null|
 |**2025-12-22**|**ICP-4D: Bridging Iterative Closest Point and LiDAR Panoptic Segmentation**|Gyeongrok Oh et.al.|[2512.18991](https://arxiv.org/abs/2512.18991)|null|
@@ -13,17 +31,17 @@
 |**2025-12-19**|**A 28nm 0.22 μJ/token memory-compute-intensity-aware CNN-Transformer accelerator with hybrid-attention-based layer-fusion and cascaded pruning for semanticsegmentation**|Pingcheng Dong et.al.|[2512.17555](https://arxiv.org/abs/2512.17555)|null|
 |**2025-12-19**|**MULTIAQUA: A multimodal maritime dataset and robust training strategies for multimodal semantic segmentation**|Jon Muhovič et.al.|[2512.17450](https://arxiv.org/abs/2512.17450)|null|
 |**2025-12-19**|**AIFloodSense: A Global Aerial Imagery Dataset for Semantic Segmentation and Understanding of Flooded Environments**|Georgios Simantiris et.al.|[2512.17432](https://arxiv.org/abs/2512.17432)|null|
-|**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[2512.16922](https://arxiv.org/abs/2512.16922)|null|
+|**2025-12-18**|**Next-Embedding Prediction Makes Strong Vision Learners**|Sihan Xu et.al.|[2512.16922](https://arxiv.org/abs/2512.16922)|**[link](https://github.com/SihanXU/nepa)**|
 |**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](https://arxiv.org/abs/2512.16740)|null|
 |**2025-12-18**|**Causal-Tune: Mining Causal Factors from Vision Foundation Models for Domain Generalized Semantic Segmentation**|Yin Zhang et.al.|[2512.16567](https://arxiv.org/abs/2512.16567)|null|
 |**2025-12-18**|**PixelArena: A benchmark for Pixel-Precision Visual Intelligence**|Feng Liang et.al.|[2512.16303](https://arxiv.org/abs/2512.16303)|null|
-|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](https://arxiv.org/abs/2512.15715)|null|
+|**2025-12-17**|**In Pursuit of Pixel Supervision for Visual Pre-training**|Lihe Yang et.al.|[2512.15715](https://arxiv.org/abs/2512.15715)|**[link](https://github.com/facebookresearch/pixio)**|
 |**2025-12-17**|**MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors**|Zhipeng Du et.al.|[2512.15577](https://arxiv.org/abs/2512.15577)|null|
 |**2025-12-17**|**SemanticBridge - A Dataset for 3D Semantic Segmentation of Bridges and Domain Gap Analysis**|Maximilian Kellner et.al.|[2512.15369](https://arxiv.org/abs/2512.15369)|null|
 |**2025-12-17**|**Vision-based module for accurately reading linear scales in a laboratory**|Parvesh Saini et.al.|[2512.15327](https://arxiv.org/abs/2512.15327)|null|
 |**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310](https://arxiv.org/abs/2512.15310)|null|
 |**2025-12-16**|**Segmental Attention Decoding With Long Form Acoustic Encodings**|Pawel Swietojanski et.al.|[2512.14652](https://arxiv.org/abs/2512.14652)|null|
-|**2025-12-16**|**S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation**|Leon Sick et.al.|[2512.14440](https://arxiv.org/abs/2512.14440)|null|
+|**2025-12-16**|**S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation**|Leon Sick et.al.|[2512.14440](https://arxiv.org/abs/2512.14440)|**[link](https://github.com/leonsick/s2d)**|
 |**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](https://arxiv.org/abs/2512.14266)|null|
 |**2025-12-16**|**Consistent Instance Field for Dynamic Scene Understanding**|Junyi Wu et.al.|[2512.14126](https://arxiv.org/abs/2512.14126)|null|
 |**2025-12-16**|**ChartAgent: A Chart Understanding Framework with Tool Integrated Reasoning**|Boran Wang et.al.|[2512.14040](https://arxiv.org/abs/2512.14040)|null|
@@ -33,7 +51,7 @@
 |**2025-12-15**|**TWLR: Text-Guided Weakly-Supervised Lesion Localization and Severity Regression for Explainable Diabetic Retinopathy Grading**|Xi Luo et.al.|[2512.13008](https://arxiv.org/abs/2512.13008)|null|
 |**2025-12-13**|**OMUDA: Omni-level Masking for Unsupervised Domain Adaptation in Semantic Segmentation**|Yang Ou et.al.|[2512.12303](https://arxiv.org/abs/2512.12303)|null|
 |**2025-12-12**|**Enhancing deep learning performance on burned area delineation from SPOT-6/7 imagery for emergency management**|Maria Rodriguez et.al.|[2512.12056](https://arxiv.org/abs/2512.12056)|null|
-|**2025-12-09**|**Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors**|Ranjan Sapkota et.al.|[2512.11884](https://arxiv.org/abs/2512.11884)|null|
+|**2025-12-09**|**Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors**|Ranjan Sapkota et.al.|[2512.11884](https://arxiv.org/abs/2512.11884)|**[link](https://github.com/Applied-AI-Research-Lab/Segment-Anything-Model-SAM3-Zero-Shot-Segmentation-Against-Fine-Tuned-YOLO-Detectors)**|
 |**2025-12-07**|**Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training**|Jiahao Jiang et.al.|[2512.11874](https://arxiv.org/abs/2512.11874)|null|
 |**2025-12-12**|**Referring Change Detection in Remote Sensing Imagery**|Yilmaz Korkmaz et.al.|[2512.11719](https://arxiv.org/abs/2512.11719)|null|
 |**2025-12-12**|**DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation**|Mohamed Abdelsamad et.al.|[2512.11465](https://arxiv.org/abs/2512.11465)|null|
@@ -48,19 +66,19 @@
 |**2025-12-10**|**ROI-Packing: Efficient Region-Based Compression for Machine Vision**|Md Eimran Hossain Eimon et.al.|[2512.09258](https://arxiv.org/abs/2512.09258)|null|
 |**2025-12-09**|**SIP: Site in Pieces- A Dataset of Disaggregated Construction-Phase 3D Scans for Semantic Segmentation and Scene Understanding**|Seongyong Kim et.al.|[2512.09062](https://arxiv.org/abs/2512.09062)|null|
 |**2025-12-09**|**Persistent Homology for Labeled Datasets: Gromov-Hausdorff Stability and Generalized Landscapes**|Yaoying Fu et.al.|[2512.08794](https://arxiv.org/abs/2512.08794)|null|
-|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](https://arxiv.org/abs/2512.08730)|null|
+|**2025-12-09**|**SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images**|Kaiyu Li et.al.|[2512.08730](https://arxiv.org/abs/2512.08730)|**[link](https://github.com/earth-insights/SegEarth-OV-3.)**|
 |**2025-12-09**|**Instance-Aware Test-Time Segmentation for Continual Domain Shifts**|Seunghwan Lee et.al.|[2512.08569](https://arxiv.org/abs/2512.08569)|null|
 |**2025-12-09**|**Query-aware Hub Prototype Learning for Few-Shot 3D Point Cloud Semantic Segmentation**|YiLin Zhou et.al.|[2512.08253](https://arxiv.org/abs/2512.08253)|null|
 |**2025-12-08**|**Restrictive Hierarchical Semantic Segmentation for Stratified Tooth Layer Detection**|Ryan Banks et.al.|[2512.07984](https://arxiv.org/abs/2512.07984)|null|
 |**2025-12-08**|**Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation**|Qiming Huang et.al.|[2512.07360](https://arxiv.org/abs/2512.07360)|null|
-|**2025-12-08**|**Generalized Referring Expression Segmentation on Aerial Photos**|Luís Marnoto et.al.|[2512.07338](https://arxiv.org/abs/2512.07338)|null|
+|**2025-12-08**|**Generalized Referring Expression Segmentation on Aerial Photos**|Luís Marnoto et.al.|[2512.07338](https://arxiv.org/abs/2512.07338)|**[link](https://github.com/luispl77/aerial-d)**|
 |**2025-12-08**|**A graph generation pipeline for critical infrastructures based on heuristics, images and depth data**|Mike Diessner et.al.|[2512.07269](https://arxiv.org/abs/2512.07269)|null|
 |**2025-12-07**|**Power of Boundary and Reflection: Semantic Transparent Object Segmentation using Pyramid Vision Transformer with Transparent Cues**|Tuan-Anh Vu et.al.|[2512.07034](https://arxiv.org/abs/2512.07034)|null|
 |**2025-12-07**|**Selective Masking based Self-Supervised Learning for Image Semantic Segmentation**|Yuemin Wang et.al.|[2512.06981](https://arxiv.org/abs/2512.06981)|null|
 |**2025-12-07**|**Balanced Learning for Domain Adaptive Semantic Segmentation**|Wangkai Li et.al.|[2512.06886](https://arxiv.org/abs/2512.06886)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882](https://arxiv.org/abs/2512.06882)|null|
 |**2025-12-07**|**Towards Robust Pseudo-Label Learning in Semantic Segmentation: An Encoding Perspective**|Wangkai Li et.al.|[2512.06870](https://arxiv.org/abs/2512.06870)|null|
-|**2025-12-07**|**Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training**|Kaixuan Lu et.al.|[2512.06864](https://arxiv.org/abs/2512.06864)|null|
+|**2025-12-07**|**Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training**|Kaixuan Lu et.al.|[2512.06864](https://arxiv.org/abs/2512.06864)|**[link](https://github.com/wcbup/AutoQ-VIS.)**|
 |**2025-12-07**|**FedDSR: Federated Deep Supervision and Regularization Towards Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06676](https://arxiv.org/abs/2512.06676)|null|
 |**2025-12-07**|**Statistic-Augmented, Decoupled MoE Routing and Aggregating in Autonomous Driving**|Wei-Bin Kou et.al.|[2512.06664](https://arxiv.org/abs/2512.06664)|null|
 |**2025-12-07**|**CoT4Det: A Chain-of-Thought Framework for Perception-Oriented Vision-Language Tasks**|Yu Qi et.al.|[2512.06663](https://arxiv.org/abs/2512.06663)|null|
@@ -69,7 +87,7 @@
 |**2025-11-30**|**Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation**|Azeez Idris et.al.|[2512.05992](https://arxiv.org/abs/2512.05992)|null|
 |**2025-12-05**|**LPD: Learnable Prototypes with Diversity Regularization for Weakly Supervised Histopathology Segmentation**|Khang Le et.al.|[2512.05922](https://arxiv.org/abs/2512.05922)|null|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759](https://arxiv.org/abs/2512.05759)|null|
-|**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](https://arxiv.org/abs/2512.05613)|null|
+|**2025-12-05**|**DistillFSS: Synthesizing Few-Shot Knowledge into a Lightweight Segmentation Model**|Pasquale De Marinis et.al.|[2512.05613](https://arxiv.org/abs/2512.05613)|**[link](https://github.com/pasqualedem/DistillFSS.)**|
 |**2025-12-01**|**FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation**|Georges Le Bellier et.al.|[2512.05140](https://arxiv.org/abs/2512.05140)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](https://arxiv.org/abs/2512.04963)|null|
 |**2025-12-04**|**MT-Depth: Multi-task Instance feature analysis for the Depth Completion**|Abdul Haseeb Nizamani et.al.|[2512.04734](https://arxiv.org/abs/2512.04734)|null|
@@ -93,7 +111,7 @@
 |**2025-11-30**|**The Outline of Deception: Physical Adversarial Attacks on Traffic Signs Using Edge Patches**|Haojie Ji et.al.|[2512.00765](https://arxiv.org/abs/2512.00765)|null|
 |**2025-11-30**|**VFM-ISRefiner: Towards Better Adapting Vision Foundation Models for Interactive Segmentation of Remote Sensing Images**|Deliang Wang et.al.|[2512.00718](https://arxiv.org/abs/2512.00718)|null|
 |**2025-11-29**|**Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation**|Mahmoud El Hussieni et.al.|[2512.00639](https://arxiv.org/abs/2512.00639)|null|
-|**2025-11-29**|**EZ-SP: Fast and Lightweight Superpoint-Based 3D Segmentation**|Louis Geist et.al.|[2512.00385](https://arxiv.org/abs/2512.00385)|null|
+|**2025-11-29**|**EZ-SP: Fast and Lightweight Superpoint-Based 3D Segmentation**|Louis Geist et.al.|[2512.00385](https://arxiv.org/abs/2512.00385)|**[link](https://github.com/drprojects/superpoint_transformer)**|
 |**2025-11-29**|**Breaking It Down: Domain-Aware Semantic Segmentation for Retrieval Augmented Generation**|Aparajitha Allamraju et.al.|[2512.00367](https://arxiv.org/abs/2512.00367)|null|
 |**2025-11-29**|**Towards aligned body representations in vision models**|Andrey Gizdov et.al.|[2512.00365](https://arxiv.org/abs/2512.00365)|null|
 |**2025-11-28**|**Learning to Predict Aboveground Biomass from RGB Images with 3D Synthetic Scenes**|Silvia Zuffi et.al.|[2511.23249](https://arxiv.org/abs/2511.23249)|null|
@@ -113,20 +131,20 @@
 |**2025-11-24**|**RADSeg: Unleashing Parameter and Compute Efficient Zero-Shot Open-Vocabulary Segmentation Using Agglomerative Models**|Omar Alama et.al.|[2511.19704](https://arxiv.org/abs/2511.19704)|null|
 |**2025-11-24**|**Studying Maps at Scale: A Digital Investigation of Cartography and the Evolution of Figuration**|Remi Petitpierre et.al.|[2511.19538](https://arxiv.org/abs/2511.19538)|null|
 |**2025-11-24**|**BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation**|Rachit Saluja et.al.|[2511.19394](https://arxiv.org/abs/2511.19394)|null|
-|**2025-11-24**|**nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation**|Carsten T. Lüth et.al.|[2511.19183](https://arxiv.org/abs/2511.19183)|null|
+|**2025-11-24**|**nnActive: A Framework for Evaluation of Active Learning in 3D Biomedical Segmentation**|Carsten T. Lüth et.al.|[2511.19183](https://arxiv.org/abs/2511.19183)|**[link](https://github.com/MIC-DKFZ/nnActive)**|
 |**2025-11-24**|**DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection**|Hai Ci et.al.|[2511.19111](https://arxiv.org/abs/2511.19111)|null|
 |**2025-11-24**|**SupLID: Geometrical Guidance for Out-of-Distribution Detection in Semantic Segmentation**|Nimeshika Udayangani et.al.|[2511.18816](https://arxiv.org/abs/2511.18816)|null|
 |**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801](https://arxiv.org/abs/2511.18801)|null|
 |**2025-11-23**|**SegSplat: Feed-forward Gaussian Splatting and Open-Set Semantic Segmentation**|Peter Siegel et.al.|[2511.18386](https://arxiv.org/abs/2511.18386)|null|
 |**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254](https://arxiv.org/abs/2511.18254)|null|
-|**2025-11-22**|**Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design**|Pasquale De Marinis et.al.|[2511.18163](https://arxiv.org/abs/2511.18163)|null|
+|**2025-11-22**|**Matching-Based Few-Shot Semantic Segmentation Models Are Interpretable by Design**|Pasquale De Marinis et.al.|[2511.18163](https://arxiv.org/abs/2511.18163)|**[link](https://github.com/pasqualedem/AffinityExplainer.)**|
 |**2025-11-22**|**AdaPerceiver: Transformers with Adaptive Width, Depth, and Tokens**|Purvish Jajal et.al.|[2511.18105](https://arxiv.org/abs/2511.18105)|null|
 |**2025-11-18**|**HSMix: Hard and Soft Mixing Data Augmentation for Medical Image Segmentation**|Danyang Sun et.al.|[2511.17614](https://arxiv.org/abs/2511.17614)|null|
 |**2025-11-21**|**Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift**|Björn Michele et.al.|[2511.17455](https://arxiv.org/abs/2511.17455)|null|
 |**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](https://arxiv.org/abs/2511.17442)|null|
 |**2025-11-21**|**FisheyeGaussianLift: BEV Feature Lifting for Surround-View Fisheye Camera Perception**|Shubham Sonarghare et.al.|[2511.17210](https://arxiv.org/abs/2511.17210)|null|
 |**2025-11-20**|**Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision**|Shuyu Cao et.al.|[2511.16650](https://arxiv.org/abs/2511.16650)|null|
-|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](https://arxiv.org/abs/2511.16301)|null|
+|**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo et.al.|[2511.16301](https://arxiv.org/abs/2511.16301)|**[link](https://github.com/seominseok0429/Upsample-Anything-A-Simple-and-Hard-to-Beat-Baseline-for-Feature-Upsampling)**|
 |**2025-11-20**|**Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective**|Jiahao Li et.al.|[2511.16170](https://arxiv.org/abs/2511.16170)|null|
 |**2025-11-20**|**InfoCLIP: Bridging Vision-Language Pretraining and Open-Vocabulary Semantic Segmentation via Information-Theoretic Alignment Transfer**|Muyao Yuan et.al.|[2511.15967](https://arxiv.org/abs/2511.15967)|null|
 |**2025-11-19**|**Automatic Uncertainty-Aware Synthetic Data Bootstrapping for Historical Map Segmentation**|Lukas Arzoumanidis et.al.|[2511.15875](https://arxiv.org/abs/2511.15875)|null|
@@ -135,7 +153,7 @@
 |**2025-11-19**|**WarNav: An Autonomous Driving Benchmark for Segmentation of Navigable Zones in War Scenes**|Marc-Emmanuel Coupvent des Graviers et.al.|[2511.15429](https://arxiv.org/abs/2511.15429)|null|
 |**2025-11-19**|**Controlling False Positives in Image Segmentation via Conformal Prediction**|Luca Mossina et.al.|[2511.15406](https://arxiv.org/abs/2511.15406)|null|
 |**2025-11-18**|**EGSA-PT:Edge-Guided Spatial Attention with Progressive Training for Monocular Depth Estimation and Segmentation of Transparent Objects**|Gbenga Omotara et.al.|[2511.14970](https://arxiv.org/abs/2511.14970)|null|
-|**2025-11-18**|**FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding**|Zhenshi Li et.al.|[2511.14901](https://arxiv.org/abs/2511.14901)|null|
+|**2025-11-18**|**FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding**|Zhenshi Li et.al.|[2511.14901](https://arxiv.org/abs/2511.14901)|**[link](https://github.com/NJU-LHRS/FarSLIP.)**|
 |**2025-11-18**|**Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation**|Aditi Agarwal et.al.|[2511.14481](https://arxiv.org/abs/2511.14481)|null|
 |**2025-11-18**|**Step by Step Network**|Dongchen Han et.al.|[2511.14329](https://arxiv.org/abs/2511.14329)|null|
 |**2025-11-18**|**Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution**|N Dinesh Reddy et.al.|[2511.14210](https://arxiv.org/abs/2511.14210)|null|
@@ -148,12 +166,37 @@
 |**2025-11-14**|**Chain-of-Generation: Progressive Latent Diffusion for Text-Guided Molecular Design**|Lingxiao Li et.al.|[2511.11894](https://arxiv.org/abs/2511.11894)|null|
 |**2025-11-14**|**Advancing Annotat3D with Harpia: A CUDA-Accelerated Library For Large-Scale Volumetric Data Segmentation**|Camila Machado de Araujo et.al.|[2511.11890](https://arxiv.org/abs/2511.11890)|null|
 |**2025-11-13**|**AdaptFly: Prompt-Guided Adaptation of Foundation Models for Low-Altitude UAV Networks**|Jiao Chen et.al.|[2511.11720](https://arxiv.org/abs/2511.11720)|null|
+|**2025-11-12**|**Enhancing Reinforcement Learning in 3D Environments through Semantic Segmentation: A Case Study in ViZDoom**|Hugo Huang et.al.|[2511.11703](https://arxiv.org/abs/2511.11703)|null|
+|**2025-11-12**|**EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance**|Jiahui Wang et.al.|[2511.11700](https://arxiv.org/abs/2511.11700)|null|
 |**2025-11-14**|**Terrain Costmap Generation via Scaled Preference Conditioning**|Luisa Mao et.al.|[2511.11529](https://arxiv.org/abs/2511.11529)|null|
 |**2025-11-13**|**Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations**|Willem Bonnaffé et.al.|[2511.10432](https://arxiv.org/abs/2511.10432)|null|
 |**2025-11-13**|**Domain Adaptation for Camera-Specific Image Characteristics using Shallow Discriminators**|Maximiliane Gruber et.al.|[2511.10424](https://arxiv.org/abs/2511.10424)|null|
 |**2025-11-13**|**DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Semantic Instance Segmentation**|Xuexun Liu et.al.|[2511.10003](https://arxiv.org/abs/2511.10003)|null|
+|**2025-11-12**|**Soiling detection for Advanced Driver Assistance Systems**|Filip Beránek et.al.|[2511.09740](https://arxiv.org/abs/2511.09740)|null|
+|**2025-11-12**|**OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS**|Haiyi Li et.al.|[2511.09397](https://arxiv.org/abs/2511.09397)|null|
+|**2025-11-11**|**Empowering DINO Representations for Underwater Instance Segmentation via Aligner and Prompter**|Zhiyang Chen et.al.|[2511.08334](https://arxiv.org/abs/2511.08334)|null|
+|**2025-11-11**|**Re-coding for Uncertainties: Edge-awareness Semantic Concordance for Resilient Event-RGB Segmentation**|Nan Bao et.al.|[2511.08269](https://arxiv.org/abs/2511.08269)|null|
+|**2025-11-11**|**NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation**|Kunal Mahatha et.al.|[2511.08248](https://arxiv.org/abs/2511.08248)|null|
+|**2025-11-10**|**FlowFeat: Pixel-Dense Embedding of Motion Profiles**|Nikita Araslanov et.al.|[2511.07696](https://arxiv.org/abs/2511.07696)|null|
+|**2025-11-10**|**Glioma C6: A Novel Dataset for Training and Benchmarking Cell Segmentation**|Roman Malashin et.al.|[2511.07286](https://arxiv.org/abs/2511.07286)|null|
+|**2025-11-10**|**StreamKV: Streaming Video Question-Answering with Segment-based KV Cache Retrieval and Compression**|Yilong Chen et.al.|[2511.07278](https://arxiv.org/abs/2511.07278)|null|
+|**2025-11-10**|**HENet++: Hybrid Encoding and Multi-task Learning for 3D Perception and End-to-end Autonomous Driving**|Zhongyu Xia et.al.|[2511.07106](https://arxiv.org/abs/2511.07106)|null|
+|**2025-11-10**|**Metric Analysis for Spatial Semantic Segmentation of Sound Scenes**|Mayank Mishra et.al.|[2511.07075](https://arxiv.org/abs/2511.07075)|null|
+|**2025-11-10**|**TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding**|Duc Nguyen et.al.|[2511.07007](https://arxiv.org/abs/2511.07007)|null|
+|**2025-11-10**|**Exploring the "Great Unseen" in Medieval Manuscripts: Instance-Level Labeling of Legacy Image Collections with Zero-Shot Models**|Christofer Meinecke et.al.|[2511.07004](https://arxiv.org/abs/2511.07004)|null|
+|**2025-11-10**|**Vision-Aided Online A* Path Planning for Efficient and Safe Navigation of Service Robots**|Praveen Kumar et.al.|[2511.06801](https://arxiv.org/abs/2511.06801)|null|
+|**2025-11-09**|**Video Dataset for Surgical Phase, Keypoint, and Instrument Recognition in Laparoscopic Surgery (PhaKIR)**|Tobias Rueckert et.al.|[2511.06549](https://arxiv.org/abs/2511.06549)|null|
+|**2025-11-09**|**EIDSeg: A Pixel-Level Semantic Segmentation Dataset for Post-Earthquake Damage Assessment from Social Media Images**|Huili Huang et.al.|[2511.06456](https://arxiv.org/abs/2511.06456)|null|
+|**2025-11-09**|**Label-Efficient 3D Forest Mapping: Self-Supervised and Transfer Learning for Individual, Structural, and Species Analysis**|Aldino Rizaldy et.al.|[2511.06331](https://arxiv.org/abs/2511.06331)|null|
+|**2025-11-09**|**Temporal-Guided Visual Foundation Models for Event-Based Vision**|Ruihao Xia et.al.|[2511.06238](https://arxiv.org/abs/2511.06238)|**[link](https://github.com/XiaRho/TGVFM.)**|
+|**2025-11-08**|**Polymap: generating high definition map based on rasterized polygons**|Shiyu Gao et.al.|[2511.05944](https://arxiv.org/abs/2511.05944)|null|
+|**2025-11-07**|**CoT-X: An Adaptive Framework for Cross-Model Chain-of-Thought Transfer and Optimization**|Ziqian Bi et.al.|[2511.05747](https://arxiv.org/abs/2511.05747)|null|
 |**2025-11-04**|**Do Street View Imagery and Public Participation GIS align: Comparative Analysis of Urban Attractiveness**|Milad Malekzadeh et.al.|[2511.05570](https://arxiv.org/abs/2511.05570)|null|
 |**2025-11-03**|**Compressing Multi-Task Model for Autonomous Driving via Pruning and Knowledge Distillation**|Jiayuan Wang et.al.|[2511.05557](https://arxiv.org/abs/2511.05557)|null|
+|**2025-11-07**|**How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?**|Tuan Anh Tran et.al.|[2511.05449](https://arxiv.org/abs/2511.05449)|null|
+|**2025-11-07**|**Canonical Space Representation for 4D Panoptic Segmentation of Articulated Objects**|Manuel Gomes et.al.|[2511.05356](https://arxiv.org/abs/2511.05356)|null|
+|**2025-11-07**|**No Pose Estimation? No Problem: Pose-Agnostic and Instance-Aware Test-Time Adaptation for Monocular Depth Estimation**|Mingyu Sung et.al.|[2511.05055](https://arxiv.org/abs/2511.05055)|null|
+|**2025-11-07**|**LG-NuSegHop: A Local-to-Global Self-Supervised Pipeline For Nuclei Instance Segmentation**|Vasileios Magoulianitis et.al.|[2511.04892](https://arxiv.org/abs/2511.04892)|null|
 |**2025-11-06**|**An Active Learning Pipeline for Biomedical Image Instance Segmentation with Minimal Human Intervention**|Shuo Zhao et.al.|[2511.04811](https://arxiv.org/abs/2511.04811)|null|
 |**2025-11-06**|**Cambrian-S: Towards Spatial Supersensing in Video**|Shusheng Yang et.al.|[2511.04670](https://arxiv.org/abs/2511.04670)|null|
 |**2025-11-06**|**Vitessce Link: A Mixed Reality and 2D Display Hybrid Approach for Visual Analysis of 3D Tissue Maps**|Eric Mörth et.al.|[2511.04262](https://arxiv.org/abs/2511.04262)|null|

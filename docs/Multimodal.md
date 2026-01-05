@@ -2,6 +2,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-30**|**Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset**|TsaiChing Ni et.al.|[2512.24160](https://arxiv.org/abs/2512.24160)|null|
+|**2025-12-30**|**Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval**|Yizhi Liu et.al.|[2512.24064](https://arxiv.org/abs/2512.24064)|null|
+|**2025-12-29**|**Wireless Multimodal Foundation Model (WMFM): Integrating Vision and Communication Modalities for 6G ISAC Systems**|Mohammad Farzanullah et.al.|[2512.23897](https://arxiv.org/abs/2512.23897)|null|
+|**2025-12-29**|**Multi-Track Multimodal Learning on iMiGUE: Micro-Gesture and Emotion Recognition**|Arman Martirosyan et.al.|[2512.23291](https://arxiv.org/abs/2512.23291)|null|
+|**2025-12-29**|**Multimodal Interpretation of Remote Sensing Images: Dynamic Resolution Input Strategy and Multi-scale Vision-Language Alignment Mechanism**|Siyu Zhang et.al.|[2512.23243](https://arxiv.org/abs/2512.23243)|null|
+|**2025-12-28**|**Fusion or Confusion? Multimodal Complexity Is Not All You Need**|Tillmann Rheude et.al.|[2512.22991](https://arxiv.org/abs/2512.22991)|null|
+|**2025-12-28**|**Embodied Robot Manipulation in the Era of Foundation Models: Planning and Learning Perspectives**|Shuanghao Bai et.al.|[2512.22983](https://arxiv.org/abs/2512.22983)|null|
+|**2025-12-25**|**TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References**|Jiahong Yu et.al.|[2512.21641](https://arxiv.org/abs/2512.21641)|null|
+|**2025-12-24**|**Pioneering Multimodal Emotion Recognition in the Era of Large Models: From Closed Sets to Open Vocabularies**|Jing Han et.al.|[2512.20938](https://arxiv.org/abs/2512.20938)|null|
 |**2025-12-23**|**Dual-Encoder Transformer-Based Multimodal Learning for Ischemic Stroke Lesion Segmentation Using Diffusion MRI**|Muhammad Usman et.al.|[2512.20436](https://arxiv.org/abs/2512.20436)|null|
 |**2025-12-23**|**Generative Digital Twins: Vision-Language Simulation Models for Executable Industrial Systems**|YuChe Hsu et.al.|[2512.20387](https://arxiv.org/abs/2512.20387)|null|
 |**2025-12-23**|**Retrieval-augmented Prompt Learning for Pre-trained Foundation Models**|Xiang Chen et.al.|[2512.20145](https://arxiv.org/abs/2512.20145)|null|
@@ -10,7 +19,7 @@
 |**2025-12-22**|**OmniMER: Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation**|Xueming Yan et.al.|[2512.19379](https://arxiv.org/abs/2512.19379)|null|
 |**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667](https://arxiv.org/abs/2512.17667)|null|
 |**2025-12-19**|**PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology**|Fengchun Liu et.al.|[2512.17621](https://arxiv.org/abs/2512.17621)|null|
-|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](https://arxiv.org/abs/2512.16760)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](https://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
 |**2025-12-18**|**Smile on the Face, Sadness in the Eyes: Bridging the Emotion Gap with a Multimodal Dataset of Eye and Facial Behaviors**|Kejun Liu et.al.|[2512.16485](https://arxiv.org/abs/2512.16485)|null|
 |**2025-12-17**|**GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection**|Yu Wang et.al.|[2512.15707](https://arxiv.org/abs/2512.15707)|null|
 |**2025-12-17**|**An Efficient and Effective Encoder Model for Vision and Language Tasks in the Remote Sensing Domain**|João Daniel Silva et.al.|[2512.15531](https://arxiv.org/abs/2512.15531)|null|
@@ -33,14 +42,14 @@
 |**2025-12-07**|**A Novel Multimodal RUL Framework for Remaining Useful Life Estimation with Layer-wise Explanations**|Waleed Razzaq et.al.|[2512.06708](https://arxiv.org/abs/2512.06708)|null|
 |**2025-12-06**|**Enhancing Medical Cross-Modal Hashing Retrieval using Dropout-Voting Mixture-of-Experts Fusion**|Jaewon Ahn et.al.|[2512.06449](https://arxiv.org/abs/2512.06449)|null|
 |**2025-12-05**|**Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures**|Amirkia Rafiei Oskooei et.al.|[2512.05908](https://arxiv.org/abs/2512.05908)|null|
-|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](https://arxiv.org/abs/2512.05060)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](https://arxiv.org/abs/2512.05060)|**[link](https://github.com/hustvl/4DLangVGGT)**|
 |**2025-12-03**|**Cross-Space Synergy: A Unified Framework for Multimodal Emotion Recognition in Conversation**|Xiaosen Lyu et.al.|[2512.03521](https://arxiv.org/abs/2512.03521)|null|
 |**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445](https://arxiv.org/abs/2512.03445)|null|
 |**2025-12-03**|**Label-Efficient Hyperspectral Image Classification via Spectral FiLM Modulation of Low-Level Pretrained Diffusion Features**|Yuzhen Hu et.al.|[2512.03430](https://arxiv.org/abs/2512.03430)|null|
 |**2025-12-02**|**Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation**|Ziniu Zhang et.al.|[2512.02920](https://arxiv.org/abs/2512.02920)|null|
 |**2025-12-02**|**Real-Time Multimodal Data Collection Using Smartwatches and Its Visualization in Education**|Alvaro Becerra et.al.|[2512.02651](https://arxiv.org/abs/2512.02651)|null|
-|**2025-12-02**|**Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources**|Phuc Pham et.al.|[2512.02438](https://arxiv.org/abs/2512.02438)|null|
-|**2025-11-30**|**MM-ACT: Learn from Multimodal Parallel Generation to Act**|Haotian Liang et.al.|[2512.00975](https://arxiv.org/abs/2512.00975)|null|
+|**2025-12-02**|**Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources**|Phuc Pham et.al.|[2512.02438](https://arxiv.org/abs/2512.02438)|**[link](https://github.com/phphuc612/MSD)**|
+|**2025-11-30**|**MM-ACT: Learn from Multimodal Parallel Generation to Act**|Haotian Liang et.al.|[2512.00975](https://arxiv.org/abs/2512.00975)|**[link](https://github.com/HHYHRHY/MM-ACT.)**|
 |**2025-11-29**|**Describe Anything Anywhere At Any Moment**|Nicolas Gorlo et.al.|[2512.00565](https://arxiv.org/abs/2512.00565)|null|
 |**2025-11-29**|**CourseTimeQA: A Lecture-Video Benchmark and a Latency-Constrained Cross-Modal Fusion Method for Timestamped QA**|Vsevolod Kovalev et.al.|[2512.00360](https://arxiv.org/abs/2512.00360)|null|
 |**2025-11-28**|**Buffer replay enhances the robustness of multimodal learning under missing-modality**|Hongye Zhu et.al.|[2511.23070](https://arxiv.org/abs/2511.23070)|null|
@@ -52,7 +61,7 @@
 |**2025-11-26**|**Learning Cell-Aware Hierarchical Multi-Modal Representations for Robust Molecular Modeling**|Mengran Li et.al.|[2511.21120](https://arxiv.org/abs/2511.21120)|null|
 |**2025-11-25**|**A review on data fusion in multimodal learning analytics and educational data mining**|Wilson Chango et.al.|[2511.20871](https://arxiv.org/abs/2511.20871)|null|
 |**2025-11-25**|**VibraVerse: A Large-Scale Geometry-Acoustics Alignment Dataset for Physically-Consistent Multimodal Learning**|Bo Pang et.al.|[2511.20422](https://arxiv.org/abs/2511.20422)|null|
-|**2025-11-25**|**MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts**|Zilong Huang et.al.|[2511.20415](https://arxiv.org/abs/2511.20415)|null|
+|**2025-11-25**|**MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts**|Zilong Huang et.al.|[2511.20415](https://arxiv.org/abs/2511.20415)|**[link](https://github.com/LongHZ140516/MajutsuCity)**|
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274](https://arxiv.org/abs/2511.20274)|null|
 |**2025-11-24**|**Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation**|Yingjia Shang et.al.|[2511.19257](https://arxiv.org/abs/2511.19257)|null|
 |**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235](https://arxiv.org/abs/2511.19235)|null|
@@ -64,7 +73,7 @@
 |**2025-11-21**|**MCMoE: Completing Missing Modalities with Mixture of Experts for Incomplete Multimodal Action Quality Assessment**|Huangbiao Xu et.al.|[2511.17397](https://arxiv.org/abs/2511.17397)|null|
 |**2025-11-21**|**UniModel: A Visual-Only Framework for Unified Multimodal Understanding and Generation**|Chi Zhang et.al.|[2511.16917](https://arxiv.org/abs/2511.16917)|null|
 |**2025-11-20**|**LLaVA $^3$ : Representing 3D Scenes like a Cubist Painter to Boost 3D Scene Understanding of VLMs**|Doriand Petit et.al.|[2511.16454](https://arxiv.org/abs/2511.16454)|null|
-|**2025-11-20**|**Boosting Medical Visual Understanding From Multi-Granular Language Learning**|Zihan Li et.al.|[2511.15943](https://arxiv.org/abs/2511.15943)|null|
+|**2025-11-20**|**Boosting Medical Visual Understanding From Multi-Granular Language Learning**|Zihan Li et.al.|[2511.15943](https://arxiv.org/abs/2511.15943)|**[link](https://github.com/HUANGLIZI/MGLL)**|
 |**2025-11-18**|**Uncertainty-Resilient Multimodal Learning via Consistency-Guided Cross-Modal Transfer**|Hyo-Jeong Jang et.al.|[2511.15741](https://arxiv.org/abs/2511.15741)|null|
 |**2025-11-19**|**SIGMMA: Hierarchical Graph-Based Multi-Scale Multi-modal Contrastive Alignment of Histopathology Image and Spatial Transcriptome**|Dabin Jeong et.al.|[2511.15464](https://arxiv.org/abs/2511.15464)|null|
 |**2025-11-19**|**Reflexive Evidence-Based Multimodal Learning for Clean Energy Transitions: Causal Insights on Cooking Fuel Access, Urbanization, and Carbon Emissions**|Shan Shan et.al.|[2511.15342](https://arxiv.org/abs/2511.15342)|null|
@@ -135,6 +144,7 @@
 |**2025-10-23**|**Calibrating Multimodal Consensus for Emotion Recognition**|Guowei Zhong et.al.|[2510.20256](https://arxiv.org/abs/2510.20256)|null|
 |**2025-10-22**|**Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment**|Yuhang Liu et.al.|[2510.19384](https://arxiv.org/abs/2510.19384)|null|
 |**2025-10-22**|**FrogDeepSDM: Improving Frog Counting and Occurrence Prediction Using Multimodal Data and Pseudo-Absence Imputation**|Chirag Padubidri et.al.|[2510.19305](https://arxiv.org/abs/2510.19305)|null|
+|**2025-10-21**|**Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents**|Yiqi Lin et.al.|[2510.18703](https://arxiv.org/abs/2510.18703)|null|
 |**2025-10-21**|**Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation**|Yasser Hamidullah et.al.|[2510.18439](https://arxiv.org/abs/2510.18439)|null|
 |**2025-10-20**|**Transformer Redesign for Late Fusion of Audio-Text Features on Ultra-Low-Power Edge Hardware**|Stavros Mitsis et.al.|[2510.18036](https://arxiv.org/abs/2510.18036)|null|
 |**2025-10-20**|**MILES: Modality-Informed Learning Rate Scheduler for Balancing Multimodal Learning**|Alejandro Guerra-Manzanares et.al.|[2510.17394](https://arxiv.org/abs/2510.17394)|null|
@@ -145,38 +155,51 @@
 |**2025-10-18**|**Structured Interfaces for Automated Reasoning with 3D Scene Graphs**|Aaron Ray et.al.|[2510.16643](https://arxiv.org/abs/2510.16643)|null|
 |**2025-10-09**|**Lyapunov-Stable Adaptive Control for Multimodal Concept Drift**|Tianyu Bell Pan et.al.|[2510.15944](https://arxiv.org/abs/2510.15944)|null|
 |**2025-10-17**|**Towards Relaxed Multimodal Inputs for Gait-based Parkinson's Disease Assessment**|Minlin Zeng et.al.|[2510.15748](https://arxiv.org/abs/2510.15748)|null|
+|**2025-10-17**|**ProofBridge: Auto-Formalization of Natural Language Proofs in Lean via Joint Embeddings**|Prithwish Jana et.al.|[2510.15681](https://arxiv.org/abs/2510.15681)|null|
+|**2025-10-16**|**ChangingGrounding: 3D Visual Grounding in Changing Scenes**|Miao Hu et.al.|[2510.14965](https://arxiv.org/abs/2510.14965)|null|
 |**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li et.al.|[2510.14952](https://arxiv.org/abs/2510.14952)|null|
 |**2025-10-16**|**Revisit Modality Imbalance at the Decision Layer**|Xiaoyu Ma et.al.|[2510.14411](https://arxiv.org/abs/2510.14411)|null|
 |**2025-10-15**|**A Multimodal Approach to Heritage Preservation in the Context of Climate Change**|David Roqui et.al.|[2510.14136](https://arxiv.org/abs/2510.14136)|null|
+|**2025-10-15**|**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**|Run Luo et.al.|[2510.13721](https://arxiv.org/abs/2510.13721)|null|
 |**2025-10-15**|**Grounding Long-Context Reasoning with Contextual Normalization for Retrieval-Augmented Generation**|Jiamin Chen et.al.|[2510.13191](https://arxiv.org/abs/2510.13191)|null|
 |**2025-10-15**|**Information-Theoretic Criteria for Knowledge Distillation in Multimodal Learning**|Rongrong Xie et.al.|[2510.13182](https://arxiv.org/abs/2510.13182)|null|
+|**2025-10-15**|**OS-HGAdapter: Open Semantic Hypergraph Adapter for Large Language Models Assisted Entropy-Enhanced Image-Text Alignment**|Rongjun Chen et.al.|[2510.13131](https://arxiv.org/abs/2510.13131)|null|
 |**2025-10-14**|**A Text-Image Fusion Method with Data Augmentation Capabilities for Referring Medical Image Segmentation**|Shurong Chai et.al.|[2510.12482](https://arxiv.org/abs/2510.12482)|null|
 |**2025-10-14**|**Ground Stratification for a Logic of Definitions with Induction**|Nathan Guermond et.al.|[2510.12297](https://arxiv.org/abs/2510.12297)|null|
 |**2025-10-14**|**IL3D: A Large-Scale Indoor Layout Dataset for LLM-Driven 3D Scene Generation**|Wenxu Zhou et.al.|[2510.12095](https://arxiv.org/abs/2510.12095)|null|
 |**2025-10-13**|**Task-Specific Dual-Model Framework for Comprehensive Traffic Safety Video Description and Analysis**|Blessing Agyei Kyem et.al.|[2510.11907](https://arxiv.org/abs/2510.11907)|null|
+|**2025-10-11**|**Improving Speech Emotion Recognition with Mutual Information Regularized Generative Model**|Chung-Soo Ahn et.al.|[2510.10078](https://arxiv.org/abs/2510.10078)|null|
 |**2025-10-10**|**Cattle-CLIP: A Multimodal Framework for Cattle Behaviour Recognition**|Huimin Liu et.al.|[2510.09203](https://arxiv.org/abs/2510.09203)|null|
 |**2025-10-09**|**Provably Robust Adaptation for Language-Empowered Foundation Models**|Yuni Lai et.al.|[2510.08659](https://arxiv.org/abs/2510.08659)|null|
 |**2025-10-07**|**Centering Emotion Hotspots: Multimodal Local-Global Fusion and Cross-Modal Alignment for Emotion Recognition in Conversations**|Yu Liu et.al.|[2510.08606](https://arxiv.org/abs/2510.08606)|null|
-|**2025-10-09**|**Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling**|Bianca-Mihaela Ganescu et.al.|[2510.08470](https://arxiv.org/abs/2510.08470)|**[link](https://github.com/biancaganescu/looking-to-learn)**|
+|**2025-10-09**|**Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling**|Bianca-Mihaela Ganescu et.al.|[2510.08470](https://arxiv.org/abs/2510.08470)|null|
 |**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera et.al.|[2510.07417](https://arxiv.org/abs/2510.07417)|null|
 |**2025-09-30**|**MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation**|Md Zubair et.al.|[2510.07328](https://arxiv.org/abs/2510.07328)|null|
 |**2025-10-08**|**TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**|Jiaben Chen et.al.|[2510.07249](https://arxiv.org/abs/2510.07249)|null|
 |**2025-10-08**|**Expressive and Scalable Quantum Fusion for Multimodal Learning**|Tuyen Nguyen et.al.|[2510.06938](https://arxiv.org/abs/2510.06938)|null|
-|**2025-10-07**|**Deforming Videos to Masks: Flow Matching for Referring Video Segmentation**|Zanyi Wang et.al.|[2510.06139](https://arxiv.org/abs/2510.06139)|**[link](https://github.com/xmz111/FlowRVS)**|
+|**2025-10-08**|**M3Retrieve: Benchmarking Multimodal Retrieval for Medicine**|Arkadeep Acharya et.al.|[2510.06888](https://arxiv.org/abs/2510.06888)|null|
+|**2025-10-07**|**Deforming Videos to Masks: Flow Matching for Referring Video Segmentation**|Zanyi Wang et.al.|[2510.06139](https://arxiv.org/abs/2510.06139)|null|
+|**2025-10-05**|**Learning-Based Hashing for ANN Search: Foundations and Early Advances**|Sean Moran et.al.|[2510.04127](https://arxiv.org/abs/2510.04127)|null|
+|**2025-10-04**|**UNIDOC-BENCH: A Unified Benchmark for Document-Centric Multimodal RAG**|Xiangyu Peng et.al.|[2510.03663](https://arxiv.org/abs/2510.03663)|null|
 |**2025-10-04**|**Towards Unsupervised Speech Recognition at the Syllable-Level**|Liming Wang et.al.|[2510.03639](https://arxiv.org/abs/2510.03639)|null|
 |**2025-09-25**|**Towards Multimodal Active Learning: Efficient Learning with Limited Paired Data**|Jiancheng Zhang et.al.|[2510.03247](https://arxiv.org/abs/2510.03247)|null|
 |**2025-10-02**|**Latency-aware Multimodal Federated Learning over UAV Networks**|Shaba Shaon et.al.|[2510.01717](https://arxiv.org/abs/2510.01717)|null|
 |**2025-10-01**|**PhraseStereo: The First Open-Vocabulary Stereo Image Segmentation Dataset**|Thomas Campagnolo et.al.|[2510.00818](https://arxiv.org/abs/2510.00818)|null|
 |**2025-09-30**|**MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning**|Seong-Hyeon Hwang et.al.|[2509.25831](https://arxiv.org/abs/2509.25831)|null|
+|**2025-09-30**|**ProbMed: A Probabilistic Framework for Medical Multimodal Binding**|Yuan Gao et.al.|[2509.25711](https://arxiv.org/abs/2509.25711)|null|
+|**2025-09-30**|**Generalized Contrastive Learning for Universal Multimodal Retrieval**|Jungsoo Lee et.al.|[2509.25638](https://arxiv.org/abs/2509.25638)|null|
 |**2025-09-29**|**FishNet++: Analyzing the capabilities of Multimodal Large Language Models in marine biology**|Faizan Farooq Khan et.al.|[2509.25564](https://arxiv.org/abs/2509.25564)|null|
 |**2025-09-29**|**MAESTRO : Adaptive Sparse Attention and Robust Learning for Multimodal Dynamic Time Series**|Payal Mohapatra et.al.|[2509.25278](https://arxiv.org/abs/2509.25278)|null|
 |**2025-09-29**|**A TRIANGLE Enables Multimodal Alignment Beyond Cosine Similarity**|Giordano Cicchetti et.al.|[2509.24734](https://arxiv.org/abs/2509.24734)|null|
-|**2025-09-29**|**Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey**|Yuntao Shou et.al.|[2509.24322](https://arxiv.org/abs/2509.24322)|**[link](https://github.com/yuntaoshou/Awesome-Emotion-Reasoning)**|
+|**2025-09-29**|**Multimodal Large Language Models Meet Multimodal Emotion Recognition and Reasoning: A Survey**|Yuntao Shou et.al.|[2509.24322](https://arxiv.org/abs/2509.24322)|null|
 |**2025-09-28**|**Contrastive Learning Enhances Language Model Based Cell Embeddings for Low-Sample Single Cell Transcriptomics**|Luxuan Zhang et.al.|[2509.23543](https://arxiv.org/abs/2509.23543)|null|
 |**2025-09-26**|**RefAM: Attention Magnets for Zero-Shot Referral Segmentation**|Anna Kukleva et.al.|[2509.22650](https://arxiv.org/abs/2509.22650)|null|
 |**2025-09-26**|**HELIOS: Hierarchical Exploration for Language-grounded Interaction in Open Scenes**|Katrina Ashton et.al.|[2509.22498](https://arxiv.org/abs/2509.22498)|null|
 |**2025-09-26**|**From Watch to Imagine: Steering Long-horizon Manipulation via Human Demonstration and Future Envisionment**|Ke Ye et.al.|[2509.22205](https://arxiv.org/abs/2509.22205)|null|
+|**2025-09-26**|**WAVE: Learning Unified & Versatile Audio-Visual Embeddings with Multimodal LLM**|Changli Tang et.al.|[2509.21990](https://arxiv.org/abs/2509.21990)|null|
 |**2025-09-26**|**VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation**|Huayi Zhou et.al.|[2509.21723](https://arxiv.org/abs/2509.21723)|null|
+|**2025-09-25**|**Decipher-MR: A Vision-Language Foundation Model for 3D MRI Representations**|Zhijian Yang et.al.|[2509.21249](https://arxiv.org/abs/2509.21249)|null|
+|**2025-09-25**|**SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text Contrastive Learning with Support Vector Regularization**|Jiehui Luo et.al.|[2509.21033](https://arxiv.org/abs/2509.21033)|null|
 |**2025-09-14**|**LibEMER: A novel benchmark and algorithms library for EEG-based Multimodal Emotion Recognition**|Zejun Liu et.al.|[2509.19330](https://arxiv.org/abs/2509.19330)|null|
 |**2025-09-10**|**Advancing Few-Shot Pediatric Arrhythmia Classification with a Novel Contrastive Loss and Multimodal Learning**|Yiqiao Chen et.al.|[2509.19315](https://arxiv.org/abs/2509.19315)|null|
 |**2025-09-23**|**Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation**|Christian Ganhör et.al.|[2509.18807](https://arxiv.org/abs/2509.18807)|null|
@@ -185,6 +208,7 @@
 |**2025-09-22**|**ClassMind: Scaling Classroom Observation and Instructional Feedback with Multimodal AI**|Ao Qu et.al.|[2509.18020](https://arxiv.org/abs/2509.18020)|null|
 |**2025-09-22**|**M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer**|Yanxin Zhang et.al.|[2509.18005](https://arxiv.org/abs/2509.18005)|null|
 |**2025-09-22**|**Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training**|Divya Mereddy et.al.|[2509.17888](https://arxiv.org/abs/2509.17888)|null|
+|**2025-09-22**|**MLLM-Driven Semantic Identifier Generation for Generative Cross-Modal Retrieval**|Tianyuan Li et.al.|[2509.17359](https://arxiv.org/abs/2509.17359)|null|
 |**2025-09-20**|**Self-organized epithelial reticulum inhibits cell proliferation**|Liav Daraf et.al.|[2509.16661](https://arxiv.org/abs/2509.16661)|null|
 |**2025-09-19**|**Vision-Language Models as Differentiable Semantic and Spatial Rewards for Text-to-3D Generation**|Weimin Bai et.al.|[2509.15772](https://arxiv.org/abs/2509.15772)|null|
 |**2025-09-19**|**Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion**|Shanghong Li et.al.|[2509.15578](https://arxiv.org/abs/2509.15578)|null|

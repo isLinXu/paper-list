@@ -2,6 +2,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Latent Twins: A Framework for Scene Recognition and Fast Radiative Transfer Inversion in FORUM All-Sky Observations**|Cristina Sgattoni et.al.|[2512.24865](https://arxiv.org/abs/2512.24865)|null|
+|**2025-12-31**|**SliceLens: Fine-Grained and Grounded Error Slice Discovery for Multi-Instance Vision Tasks**|Wei Zhang et.al.|[2512.24592](https://arxiv.org/abs/2512.24592)|null|
+|**2025-12-30**|**Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19**|Sina Jahromi et.al.|[2512.24214](https://arxiv.org/abs/2512.24214)|null|
+|**2025-12-30**|**Bayesian Self-Distillation for Image Classification**|Anton Adelöw et.al.|[2512.24162](https://arxiv.org/abs/2512.24162)|null|
+|**2025-12-29**|**Le Cam Distortion: A Decision-Theoretic Framework for Robust Transfer Learning**|Deniz Akdemir et.al.|[2512.23617](https://arxiv.org/abs/2512.23617)|null|
+|**2025-12-29**|**Semantic Tree Inference on Text Corpa using a Nested Density Approach together with Large Language Model Embeddings**|Thomas Haschka et.al.|[2512.23471](https://arxiv.org/abs/2512.23471)|null|
+|**2025-12-29**|**RS-Prune: Training-Free Data Pruning at High Ratios for Efficient Remote Sensing Diffusion Foundation Models**|Fan Wei et.al.|[2512.23239](https://arxiv.org/abs/2512.23239)|null|
+|**2025-12-29**|**LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing**|Amod Holla et.al.|[2512.23212](https://arxiv.org/abs/2512.23212)|null|
+|**2025-12-27**|**Decomposing Task Vectors for Refined Model Editing**|Hamed Damirchi et.al.|[2512.22511](https://arxiv.org/abs/2512.22511)|null|
+|**2025-12-25**|**S&P 500 Stock's Movement Prediction using CNN**|Rahul Gupta et.al.|[2512.21804](https://arxiv.org/abs/2512.21804)|null|
+|**2025-12-03**|**SHRP: Specialized Head Routing and Pruning for Efficient Encoder Compression**|Zeli Su et.al.|[2512.20635](https://arxiv.org/abs/2512.20635)|null|
 |**2025-12-23**|**Programmable Optical Spectrum Shapers as Computing Primitives for Accelerating Convolutional Neural Networks**|Georgios Moustakas et.al.|[2512.20580](https://arxiv.org/abs/2512.20580)|null|
 |**2025-12-23**|**FedDPC : Handling Data Heterogeneity and Partial Client Participation in Federated Learning**|Mrinmay Sen et.al.|[2512.20329](https://arxiv.org/abs/2512.20329)|null|
 |**2025-12-23**|**A Novel Graph-Sequence Learning Model for Inductive Text Classification**|Zuo Wang et.al.|[2512.20097](https://arxiv.org/abs/2512.20097)|null|
@@ -109,6 +120,7 @@
 |**2025-11-18**|**DNNs, Dataset Statistics, and Correlation Functions**|Robert W. Batterman et.al.|[2511.21715](https://arxiv.org/abs/2511.21715)|null|
 |**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](https://arxiv.org/abs/2511.21652)|null|
 |**2025-11-25**|**CHiQPM: Calibrated Hierarchical Interpretable Image Classification**|Thomas Norrenbrock et.al.|[2511.20779](https://arxiv.org/abs/2511.20779)|null|
+|**2025-11-12**|**A centroid based framework for text classification in itsm environments**|Hossein Mohanna et.al.|[2511.20667](https://arxiv.org/abs/2511.20667)|null|
 |**2025-11-25**|**Adaptive Hopfield Network: Rethinking Similarities in Associative Memory**|Shurong Wang et.al.|[2511.20609](https://arxiv.org/abs/2511.20609)|null|
 |**2025-11-25**|**HVAdam: A Full-Dimension Adaptive Optimizer**|Yiheng Zhang et.al.|[2511.20277](https://arxiv.org/abs/2511.20277)|null|
 |**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274](https://arxiv.org/abs/2511.20274)|null|
@@ -129,6 +141,7 @@
 |**2025-11-21**|**DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture**|Xiangteng He et.al.|[2511.17354](https://arxiv.org/abs/2511.17354)|**[link](https://github.com/SkyShunsuke/DSeq-JEPA.)**|
 |**2025-11-21**|**Attention-Guided Feature Fusion (AGFF) Model for Integrating Statistical and Semantic Features in News Text Classification**|Mohammad Zare et.al.|[2511.17184](https://arxiv.org/abs/2511.17184)|null|
 |**2025-11-15**|**Concept-Based Interpretability for Toxicity Detection**|Samarth Garg et.al.|[2511.16689](https://arxiv.org/abs/2511.16689)|null|
+|**2025-11-13**|**Ellipsoid-Based Decision Boundaries for Open Intent Classification**|Yuetian Zou et.al.|[2511.16685](https://arxiv.org/abs/2511.16685)|null|
 |**2025-11-20**|**Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation**|Md. Samiul Alim et.al.|[2511.16653](https://arxiv.org/abs/2511.16653)|null|
 |**2025-11-20**|**Formal Abductive Latent Explanations for Prototype-Based Networks**|Jules Soria et.al.|[2511.16588](https://arxiv.org/abs/2511.16588)|**[link](https://github.com/julsoria/ale)**|
 |**2025-11-20**|**Unsupervised Image Classification with Adaptive Nearest Neighbor Selection and Cluster Ensembles**|Melih Baydar et.al.|[2511.16213](https://arxiv.org/abs/2511.16213)|null|
@@ -165,7 +178,30 @@
 |**2025-11-15**|**Supervised Multilabel Image Classification Using Residual Networks with Probabilistic Reasoning**|Lokender Singh et.al.|[2511.12082](https://arxiv.org/abs/2511.12082)|null|
 |**2025-11-15**|**FedSDA: Federated Stain Distribution Alignment for Non-IID Histopathological Image Classification**|Cheng-Chang Tsai et.al.|[2511.12044](https://arxiv.org/abs/2511.12044)|null|
 |**2025-11-14**|**Additive Large Language Models for Semi-Structured Text**|Karthikeyan K et.al.|[2511.11922](https://arxiv.org/abs/2511.11922)|null|
+|**2025-11-13**|**Uncertainty Makes It Stable: Curiosity-Driven Quantized Mixture-of-Experts**|Sebastián Andrés Cajas Ordóñez et.al.|[2511.11743](https://arxiv.org/abs/2511.11743)|null|
+|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](https://arxiv.org/abs/2511.11699)|null|
+|**2025-11-11**|**Adaptive Stepsizing for Stochastic Gradient Langevin Dynamics in Bayesian Neural Networks**|Rajit Rajpal et.al.|[2511.11666](https://arxiv.org/abs/2511.11666)|null|
 |**2025-11-14**|**Quantifying and Improving Adaptivity in Conformal Prediction through Input Transformations**|Sooyong Jang et.al.|[2511.11472](https://arxiv.org/abs/2511.11472)|null|
+|**2025-11-14**|**SemanticNN: Compressive and Error-Resilient Semantic Offloading for Extremely Weak Devices**|Jiaming Huang et.al.|[2511.11038](https://arxiv.org/abs/2511.11038)|null|
+|**2025-11-14**|**MSMT-FN: Multi-segment Multi-task Fusion Network for Marketing Audio Classification**|HongYu Liu et.al.|[2511.11006](https://arxiv.org/abs/2511.11006)|null|
+|**2025-11-13**|**Frequency-Aware Vision-Language Multimodality Generalization Network for Remote Sensing Image Classification**|Junjie Zhang et.al.|[2511.10774](https://arxiv.org/abs/2511.10774)|null|
+|**2025-11-13**|**Continuum Dropout for Neural Differential Equations**|Jonghun Lee et.al.|[2511.10446](https://arxiv.org/abs/2511.10446)|null|
+|**2025-11-13**|**Fractional neural attention for efficient multiscale sequence processing**|Cheng Kevin Qu et.al.|[2511.10208](https://arxiv.org/abs/2511.10208)|null|
+|**2025-11-13**|**Perceive, Act and Correct: Confidence Is Not Enough for Hyperspectral Classification**|Muzhou Yang et.al.|[2511.10068](https://arxiv.org/abs/2511.10068)|null|
+|**2025-11-13**|**LampQ: Towards Accurate Layer-wise Mixed Precision Quantization for Vision Transformers**|Minjun Kim et.al.|[2511.10004](https://arxiv.org/abs/2511.10004)|null|
+|**2025-11-12**|**TomoGraphView: 3D Medical Image Classification with Omnidirectional Slice Representations and Graph Neural Networks**|Johannes Kiechle et.al.|[2511.09605](https://arxiv.org/abs/2511.09605)|null|
+|**2025-11-12**|**FedeCouple: Fine-Grained Balancing of Global-Generalization and Local-Adaptability in Federated Learning**|Ming Yang et.al.|[2511.09599](https://arxiv.org/abs/2511.09599)|null|
+|**2025-11-12**|**Iterated Population Based Training with Task-Agnostic Restarts**|Alexander Chebykin et.al.|[2511.09190](https://arxiv.org/abs/2511.09190)|null|
+|**2025-11-12**|**Zero-Order Sharpness-Aware Minimization**|Yao Fu et.al.|[2511.09156](https://arxiv.org/abs/2511.09156)|null|
+|**2025-11-12**|**Selective Sinkhorn Routing for Improved Sparse Mixture of Experts**|Duc Anh Nguyen et.al.|[2511.08972](https://arxiv.org/abs/2511.08972)|null|
+|**2025-11-12**|**Asymmetric Cross-Modal Knowledge Distillation: Bridging Modalities with Weak Semantic Consistency**|Riling Wei et.al.|[2511.08901](https://arxiv.org/abs/2511.08901)|null|
+|**2025-11-11**|**Harnessing Diffusion-Generated Synthetic Images for Fair Image Classification**|Abhipsa Basu et.al.|[2511.08711](https://arxiv.org/abs/2511.08711)|null|
+|**2025-11-11**|**Rethinking generative image pretraining: How far are we from scaling up next-pixel prediction?**|Xinchen Yan et.al.|[2511.08704](https://arxiv.org/abs/2511.08704)|null|
+|**2025-11-11**|**Automatic Grid Updates for Kolmogorov-Arnold Networks using Layer Histograms**|Jamison Moody et.al.|[2511.08570](https://arxiv.org/abs/2511.08570)|null|
+|**2025-11-11**|**Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification**|Anh Mai Vu et.al.|[2511.08464](https://arxiv.org/abs/2511.08464)|null|
+|**2025-11-11**|**Mitigating Negative Flips via Margin Preserving Training**|Simone Ricci et.al.|[2511.08322](https://arxiv.org/abs/2511.08322)|null|
+|**2025-11-11**|**BIPPO: Budget-Aware Independent PPO for Energy-Efficient Federated Learning Services**|Anna Lackinger et.al.|[2511.08142](https://arxiv.org/abs/2511.08142)|null|
+|**2025-11-11**|**State of the Art in Text Classification for South Slavic Languages: Fine-Tuning or Prompting?**|Taja Kuzman Pungeršek et.al.|[2511.07989](https://arxiv.org/abs/2511.07989)|null|
 |**2025-11-06**|**Google-MedGemma Based Abnormality Detection in Musculoskeletal radiographs**|Soumyajit Maity et.al.|[2511.05600](https://arxiv.org/abs/2511.05600)|null|
 |**2025-11-06**|**EETnet: a CNN for Gaze Detection and Tracking for Smart-Eyewear**|Andrea Aspesi et.al.|[2511.04779](https://arxiv.org/abs/2511.04779)|null|
 |**2025-11-06**|**Courant algebroid lifts and curved Courant algebroids**|Filip Moučka et.al.|[2511.04743](https://arxiv.org/abs/2511.04743)|null|

@@ -2,6 +2,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Semi-Supervised Diversity-Aware Domain Adaptation for 3D Object detection**|Bartłomiej Olber et.al.|[2512.24922](https://arxiv.org/abs/2512.24922)|null|
+|**2025-12-31**|**Semi-Automated Data Annotation in Multisensor Datasets for Autonomous Vehicle Testing**|Andrii Gamalii et.al.|[2512.24896](https://arxiv.org/abs/2512.24896)|null|
+|**2025-12-31**|**FireRescue: A UAV-Based Dataset and Enhanced YOLO Model for Object Detection in Fire Rescue Scenes**|Qingyu Xu et.al.|[2512.24622](https://arxiv.org/abs/2512.24622)|null|
+|**2025-12-30**|**AI-Driven Evaluation of Surgical Skill via Action Recognition**|Yan Meng et.al.|[2512.24411](https://arxiv.org/abs/2512.24411)|null|
+|**2025-12-30**|**Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems**|Song Wang et.al.|[2512.24385](https://arxiv.org/abs/2512.24385)|**[link](https://github.com/worldbench/awesome-spatial-intelligence)**|
+|**2025-12-30**|**Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images**|Jingzhou Chen et.al.|[2512.24074](https://arxiv.org/abs/2512.24074)|null|
+|**2025-12-29**|**Automated river gauge plate reading using a hybrid object detection and generative AI framework in the Limpopo River Basin**|Kayathri Vigneswaran et.al.|[2512.23454](https://arxiv.org/abs/2512.23454)|null|
+|**2025-12-29**|**YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection**|Xu Lin et.al.|[2512.23273](https://arxiv.org/abs/2512.23273)|**[link](https://github.com/isLinXu/YOLO-Master)**|
+|**2025-12-29**|**LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing**|Amod Holla et.al.|[2512.23212](https://arxiv.org/abs/2512.23212)|null|
+|**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[2512.23208](https://arxiv.org/abs/2512.23208)|null|
+|**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](https://arxiv.org/abs/2512.23176)|null|
+|**2025-12-29**|**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**|Jingyu Li et.al.|[2512.23147](https://arxiv.org/abs/2512.23147)|null|
+|**2025-12-28**|**RealCamo: Boosting Real Camouflage Synthesis with Layout Controls and Textual-Visual Guidance**|Chunyuan Chen et.al.|[2512.22974](https://arxiv.org/abs/2512.22974)|null|
+|**2025-12-28**|**YOLO-IOD: Towards Real Time Incremental Object Detection**|Shizhou Zhang et.al.|[2512.22973](https://arxiv.org/abs/2512.22973)|null|
+|**2025-12-28**|**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**|Runwei Guan et.al.|[2512.22972](https://arxiv.org/abs/2512.22972)|null|
+|**2025-12-28**|**Evaluating the Performance of Open-Vocabulary Object Detection in Low-quality Image**|Po-Chih Wu et.al.|[2512.22801](https://arxiv.org/abs/2512.22801)|null|
+|**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al.|[2512.22503](https://arxiv.org/abs/2512.22503)|null|
+|**2025-12-27**|**Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection**|Zihan Liu et.al.|[2512.22483](https://arxiv.org/abs/2512.22483)|null|
+|**2025-12-27**|**Comparing Object Detection Models for Electrical Substation Component Mapping**|Haley Mody et.al.|[2512.22454](https://arxiv.org/abs/2512.22454)|null|
+|**2025-12-27**|**SonoVision: A Computer Vision Approach for Helping Visually Challenged Individuals Locate Objects with the Help of Sound Cues**|Md Abu Obaida Zishan et.al.|[2512.22449](https://arxiv.org/abs/2512.22449)|null|
+|**2025-12-27**|**Towards Robust Optical-SAR Object Detection under Missing Modalities: A Dynamic Quality-Aware Fusion Framework**|Zhicheng Zhao et.al.|[2512.22447](https://arxiv.org/abs/2512.22447)|null|
+|**2025-12-26**|**DeFloMat: Detection with Flow Matching for Stable and Efficient Generative Object Localization**|Hansang Lee et.al.|[2512.22406](https://arxiv.org/abs/2512.22406)|null|
+|**2025-12-23**|**Failure Analysis of Safety Controllers in Autonomous Vehicles Under Object-Based LiDAR Attacks**|Daniyal Ganiuly et.al.|[2512.22244](https://arxiv.org/abs/2512.22244)|null|
+|**2025-12-26**|**Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection**|Lupiao Hu et.al.|[2512.21856](https://arxiv.org/abs/2512.21856)|null|
+|**2025-12-25**|**Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers**|Md. Rakibul Islam et.al.|[2512.21709](https://arxiv.org/abs/2512.21709)|null|
+|**2025-12-25**|**Comparative Analysis of Deep Learning Models for Perception in Autonomous Vehicles**|Jalal Khan et.al.|[2512.21673](https://arxiv.org/abs/2512.21673)|null|
+|**2025-12-24**|**ORCA: Object Recognition and Comprehension for Archiving Marine Species**|Yuk-Kwan Wong et.al.|[2512.21150](https://arxiv.org/abs/2512.21150)|null|
+|**2025-12-24**|**Self-supervised Multiplex Consensus Mamba for General Image Fusion**|Yingying Wang et.al.|[2512.20921](https://arxiv.org/abs/2512.20921)|null|
+|**2025-12-23**|**Real-World Adversarial Attacks on RF-Based Drone Detectors**|Omer Gazit et.al.|[2512.20712](https://arxiv.org/abs/2512.20712)|null|
 |**2025-12-23**|**Bridging Modalities and Transferring Knowledge: Enhanced Multimodal Understanding and Recognition**|Gorjan Radevski et.al.|[2512.20501](https://arxiv.org/abs/2512.20501)|null|
 |**2025-12-23**|**${D}^{3}${ETOR}: ${D}$ebate-Enhanced Pseudo Labeling and Frequency-Aware Progressive ${D}$ebiasing for Weakly-Supervised Camouflaged Object ${D}$ etection with Scribble Annotations**|Jiawei Ge et.al.|[2512.20260](https://arxiv.org/abs/2512.20260)|null|
 |**2025-12-23**|**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**|Xiangxuan Ren et.al.|[2512.20217](https://arxiv.org/abs/2512.20217)|null|
@@ -9,7 +38,7 @@
 |**2025-12-23**|**PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification**|Blessing Agyei Kyem et.al.|[2512.20011](https://arxiv.org/abs/2512.20011)|null|
 |**2025-12-22**|**Photonic Spiking Graph Neural Network for Energy-Efficient Structured Data Processing**|Wanting Yu et.al.|[2512.19182](https://arxiv.org/abs/2512.19182)|null|
 |**2025-12-20**|**The size of 3I/ATLAS from non-gravitational acceleration**|John C. Forbes et.al.|[2512.18341](https://arxiv.org/abs/2512.18341)|null|
-|**2025-12-20**|**Pyramidal Adaptive Cross-Gating for Multimodal Detection**|Zidong Gu et.al.|[2512.18291](https://arxiv.org/abs/2512.18291)|null|
+|**2025-12-20**|**Pyramidal Adaptive Cross-Gating for Multimodal Detection**|Zidong Gu et.al.|[2512.18291](https://arxiv.org/abs/2512.18291)|**[link](https://github.com/Alianess/PACGNet)**|
 |**2025-12-20**|**Building UI/UX Dataset for Dark Pattern Detection and YOLOv12x-based Real-Time Object Recognition Detection System**|Se-Young Jang et.al.|[2512.18269](https://arxiv.org/abs/2512.18269)|null|
 |**2025-12-20**|**Spectral Discrepancy and Cross-modal Semantic Consistency Learning for Object Detection in Hyperspectral Image**|Xiao He et.al.|[2512.18245](https://arxiv.org/abs/2512.18245)|null|
 |**2025-12-20**|**ALIGN: Advanced Query Initialization with LiDAR-Image Guidance for Occlusion-Robust 3D Object Detection**|Janghyun Baek et.al.|[2512.18187](https://arxiv.org/abs/2512.18187)|null|
@@ -88,7 +117,7 @@
 |**2025-12-05**|**Moving object detection from multi-depth images with an attention-enhanced CNN**|Masato Shibukawa et.al.|[2512.05415](https://arxiv.org/abs/2512.05415)|null|
 |**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412](https://arxiv.org/abs/2512.05412)|null|
 |**2025-12-04**|**GeoPE:A Unified Geometric Positional Embedding for Structured Tensors**|Yupu Yao et.al.|[2512.04963](https://arxiv.org/abs/2512.04963)|null|
-|**2025-12-04**|**You Only Train Once (YOTO): A Retraining-Free Object Detection Framework**|Priyanto Hidayatullah et.al.|[2512.04888](https://arxiv.org/abs/2512.04888)|null|
+|**2025-12-04**|**ZeBROD: Zero-Retraining Based Recognition and Object Detection Framework**|Priyanto Hidayatullah et.al.|[2512.04888](https://arxiv.org/abs/2512.04888)|null|
 |**2025-12-04**|**DuGI-MAE: Improving Infrared Mask Autoencoders via Dual-Domain Guidance**|Yinghui Xing et.al.|[2512.04511](https://arxiv.org/abs/2512.04511)|null|
 |**2025-12-04**|**Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection**|Xiangyi Gao et.al.|[2512.04413](https://arxiv.org/abs/2512.04413)|null|
 |**2025-12-03**|**Real-time Cricket Sorting By Sex**|Juan Manuel Cantarero Angulo et.al.|[2512.04311](https://arxiv.org/abs/2512.04311)|null|
@@ -169,6 +198,10 @@
 |**2025-11-22**|**State and Scene Enhanced Prototypes for Weakly Supervised Open-Vocabulary Object Detection**|Jiaying Zhou et.al.|[2511.18012](https://arxiv.org/abs/2511.18012)|null|
 |**2025-11-21**|**REXO: Indoor Multi-View Radar Object Detection via 3D Bounding Box Diffusion**|Ryoma Yataka et.al.|[2511.17806](https://arxiv.org/abs/2511.17806)|null|
 |**2025-11-21**|**PUCP-Metrix: An Open-source and Comprehensive Toolkit for Linguistic Analysis of Spanish Texts**|Javier Alonso Villegas Luis et.al.|[2511.17402](https://arxiv.org/abs/2511.17402)|null|
+|**2025-11-21**|**A lightweight detector for real-time detection of remote sensing images**|Qianyi Wang et.al.|[2511.17147](https://arxiv.org/abs/2511.17147)|null|
+|**2025-11-21**|**OmniPT: Unleashing the Potential of Large Vision Language Models for Pedestrian Tracking and Understanding**|Teng Fu et.al.|[2511.17053](https://arxiv.org/abs/2511.17053)|null|
+|**2025-11-20**|**Integrating Deep Learning and Spatial Statistics in Marine Ecosystem Monitoring**|Gian Mario Sangiovanni et.al.|[2511.16447](https://arxiv.org/abs/2511.16447)|null|
+|**2025-11-20**|**StreetView-Waste: A Multi-Task Dataset for Urban Waste Management**|Diogo J. Paulo et.al.|[2511.16440](https://arxiv.org/abs/2511.16440)|null|
 |**2025-11-04**|**In-Context Adaptation of VLMs for Few-Shot Cell Detection in Optical Microscopy**|Shreyan Ganguly et.al.|[2511.05565](https://arxiv.org/abs/2511.05565)|null|
 |**2025-11-03**|**Compressing Multi-Task Model for Autonomous Driving via Pruning and Knowledge Distillation**|Jiayuan Wang et.al.|[2511.05557](https://arxiv.org/abs/2511.05557)|null|
 |**2025-11-06**|**NovisVQ: A Streaming Convolutional Neural Network for No-Reference Opinion-Unaware Frame Quality Assessment**|Kylie Cancilla et.al.|[2511.04628](https://arxiv.org/abs/2511.04628)|null|

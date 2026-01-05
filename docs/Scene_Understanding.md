@@ -2,17 +2,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning**|Ankit Dhiman et.al.|[2512.24763](https://arxiv.org/abs/2512.24763)|null|
+|**2025-12-31**|**3D Semantic Segmentation for Post-Disaster Assessment**|Nhut Le et.al.|[2512.24593](https://arxiv.org/abs/2512.24593)|null|
+|**2025-12-30**|**Foundation models on the bridge: Semantic hazard detection and safety maneuvers for maritime autonomy with vision-language models**|Kim Alexander Christensen et.al.|[2512.24470](https://arxiv.org/abs/2512.24470)|null|
+|**2025-12-30**|**Spatial-aware Vision Language Model for Autonomous Driving**|Weijie Wei et.al.|[2512.24331](https://arxiv.org/abs/2512.24331)|null|
+|**2025-12-25**|**Break Out the Silverware -- Semantic Understanding of Stored Household Items**|Michaela Levi-Richter et.al.|[2512.23739](https://arxiv.org/abs/2512.23739)|null|
+|**2025-12-29**|**Multi-label Classification with Panoptic Context Aggregation Networks**|Mingyuan Jiu et.al.|[2512.23486](https://arxiv.org/abs/2512.23486)|null|
+|**2025-12-29**|**SpatialMosaic: A Multiview VLM Dataset for Partial Visibility**|Kanghee Lee et.al.|[2512.23365](https://arxiv.org/abs/2512.23365)|null|
+|**2025-12-29**|**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**|Jongoh Jeong et.al.|[2512.23215](https://arxiv.org/abs/2512.23215)|null|
+|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](https://arxiv.org/abs/2512.23180)|null|
+|**2025-12-28**|**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**|Qihang Peng et.al.|[2512.22939](https://arxiv.org/abs/2512.22939)|null|
+|**2025-12-28**|**Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting**|Yiqian Li et.al.|[2512.22771](https://arxiv.org/abs/2512.22771)|null|
+|**2025-12-27**|**Instance Communication System for Intelligent Connected Vehicles: Bridging the Gap from Semantic to Instance-Level Transmission**|Daiqi Zhang et.al.|[2512.22693](https://arxiv.org/abs/2512.22693)|null|
+|**2025-12-26**|**VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement**|Zhengfei Kuang et.al.|[2512.22351](https://arxiv.org/abs/2512.22351)|null|
+|**2025-12-24**|**Surgical Scene Segmentation using a Spike-Driven Video Transformer with Real-Time Potential**|Shihao Zou et.al.|[2512.21284](https://arxiv.org/abs/2512.21284)|null|
+|**2025-12-23**|**OccuFly: A 3D Vision Benchmark for Semantic Scene Completion from the Aerial Perspective**|Markus Gross et.al.|[2512.20770](https://arxiv.org/abs/2512.20770)|null|
 |**2025-12-22**|**CoDrone: Autonomous Drone Navigation Assisted by Edge and Cloud Foundation Models**|Pengyu Chen et.al.|[2512.19083](https://arxiv.org/abs/2512.19083)|null|
 |**2025-12-22**|**VOIC: Visible-Occluded Decoupling for Monocular 3D Semantic Scene Completion**|Zaidao Han et.al.|[2512.18954](https://arxiv.org/abs/2512.18954)|null|
 |**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](https://arxiv.org/abs/2512.18211)|null|
-|**2025-12-19**|**InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion**|Hoiyeong Jin et.al.|[2512.17504](https://arxiv.org/abs/2512.17504)|null|
+|**2025-12-19**|**InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion**|Hoiyeong Jin et.al.|[2512.17504](https://arxiv.org/abs/2512.17504)|**[link](https://github.com/myyzzzoooo/InsertAnywhere)**|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909](https://arxiv.org/abs/2512.16909)|null|
 |**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn et.al.|[2512.16461](https://arxiv.org/abs/2512.16461)|null|
 |**2025-12-18**|**Privacy-Aware Sharing of Raw Spatial Sensor Data for Cooperative Perception**|Bangya Liu et.al.|[2512.16265](https://arxiv.org/abs/2512.16265)|null|
 |**2025-12-16**|**Unified Semantic Transformer for 3D Scene Understanding**|Sebastian Koch et.al.|[2512.14364](https://arxiv.org/abs/2512.14364)|null|
 |**2025-12-16**|**Consistent Instance Field for Dynamic Scene Understanding**|Junyi Wu et.al.|[2512.14126](https://arxiv.org/abs/2512.14126)|null|
 |**2025-12-16**|**Deep Learning Perspective of Scene Understanding in Autonomous Robots**|Afia Maham et.al.|[2512.14020](https://arxiv.org/abs/2512.14020)|null|
-|**2025-12-15**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](https://arxiv.org/abs/2512.13683)|null|
+|**2025-12-15**|**I-Scene: 3D Instance Models are Implicit Generalizable Spatial Learners**|Lu Ling et.al.|[2512.13683](https://arxiv.org/abs/2512.13683)|**[link](https://github.com/LuLing06/I-Scene-project)**|
 |**2025-12-15**|**MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion**|Minghui Hou et.al.|[2512.13177](https://arxiv.org/abs/2512.13177)|null|
 |**2025-12-15**|**DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass**|Vivek Alumootil et.al.|[2512.13122](https://arxiv.org/abs/2512.13122)|null|
 |**2025-12-15**|**SLIM-VDB: A Real-Time 3D Probabilistic Semantic Mapping Framework**|Anja Sheppard et.al.|[2512.12945](https://arxiv.org/abs/2512.12945)|null|
@@ -35,7 +50,7 @@
 |**2025-12-05**|**Distilling Expert Surgical Knowledge: How to train local surgical VLMs for anatomy explanation in Complete Mesocolic Excision**|Lennart Maack et.al.|[2512.05740](https://arxiv.org/abs/2512.05740)|null|
 |**2025-12-05**|**Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction**|Ruihong Yin et.al.|[2512.05597](https://arxiv.org/abs/2512.05597)|null|
 |**2025-12-05**|**VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation**|Chinthani Sugandhika et.al.|[2512.05524](https://arxiv.org/abs/2512.05524)|null|
-|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](https://arxiv.org/abs/2512.05060)|null|
+|**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](https://arxiv.org/abs/2512.05060)|**[link](https://github.com/hustvl/4DLangVGGT)**|
 |**2025-12-03**|**C3G: Learning Compact 3D Representations with 2K Gaussians**|Honggyu An et.al.|[2512.04021](https://arxiv.org/abs/2512.04021)|null|
 |**2025-12-03**|**Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding**|Haoran Zhou et.al.|[2512.03601](https://arxiv.org/abs/2512.03601)|null|
 |**2025-12-03**|**What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models**|Tianchen Deng et.al.|[2512.03422](https://arxiv.org/abs/2512.03422)|null|
@@ -44,12 +59,12 @@
 |**2025-11-29**|**When Harmful Content Gets Camouflaged: Unveiling Perception Failure of LVLMs with CamHarmTI**|Yanhui Li et.al.|[2512.03087](https://arxiv.org/abs/2512.03087)|null|
 |**2025-12-02**|**Layout Anything: One Transformer for Universal Room Layout Estimation**|Md Sohag Mia et.al.|[2512.02952](https://arxiv.org/abs/2512.02952)|null|
 |**2025-12-02**|**Masking Matters: Unlocking the Spatial Reasoning Capabilities of LLMs for 3D Scene-Language Understanding**|Yerim Jeon et.al.|[2512.02487](https://arxiv.org/abs/2512.02487)|null|
-|**2025-12-02**|**HouseLayout3D: A Benchmark and Training-Free Baseline for 3D Layout Estimation in the Wild**|Valentin Bieri et.al.|[2512.02450](https://arxiv.org/abs/2512.02450)|null|
+|**2025-12-02**|**HouseLayout3D: A Benchmark and Training-Free Baseline for 3D Layout Estimation in the Wild**|Valentin Bieri et.al.|[2512.02450](https://arxiv.org/abs/2512.02450)|**[link](https://github.com/HouseLayout3D/houselayout3d)**|
 |**2025-12-01**|**ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation**|Chenyang Gu et.al.|[2512.02013](https://arxiv.org/abs/2512.02013)|null|
-|**2025-12-01**|**OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic**|Songyan Zhang et.al.|[2512.01830](https://arxiv.org/abs/2512.01830)|null|
+|**2025-12-01**|**OpenREAD: Reinforced Open-Ended Reasoning for End-to-End Autonomous Driving with LLM-as-Critic**|Songyan Zhang et.al.|[2512.01830](https://arxiv.org/abs/2512.01830)|**[link](https://github.com/wyddmw/OpenREAD)**|
 |**2025-12-01**|**IGen: Scalable Data Generation for Robot Learning from Open-World Images**|Chenghao Gu et.al.|[2512.01773](https://arxiv.org/abs/2512.01773)|null|
 |**2025-12-01**|**SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge**|Yumeng He et.al.|[2512.01629](https://arxiv.org/abs/2512.01629)|null|
-|**2025-12-01**|**MDiff4STR: Mask Diffusion Model for Scene Text Recognition**|Yongkun Du et.al.|[2512.01422](https://arxiv.org/abs/2512.01422)|null|
+|**2025-12-01**|**MDiff4STR: Mask Diffusion Model for Scene Text Recognition**|Yongkun Du et.al.|[2512.01422](https://arxiv.org/abs/2512.01422)|**[link](https://github.com/Topdu/OpenOCR.)**|
 |**2025-12-01**|**VSRD++: Autolabeling for 3D Object Detection via Instance-Aware Volumetric Silhouette Rendering**|Zihua Liu et.al.|[2512.01178](https://arxiv.org/abs/2512.01178)|null|
 |**2025-11-30**|**FOM-Nav: Frontier-Object Maps for Object Goal Navigation**|Thomas Chabal et.al.|[2512.01009](https://arxiv.org/abs/2512.01009)|null|
 |**2025-11-30**|**Smol-GS: Compact Representations for Abstract 3D Gaussian Splatting**|Haishan Wang et.al.|[2512.00850](https://arxiv.org/abs/2512.00850)|null|
@@ -57,7 +72,7 @@
 |**2025-11-29**|**Words into World: A Task-Adaptive Agent for Language-Guided Spatial Retrieval in AR**|Lixing Guo et.al.|[2512.00294](https://arxiv.org/abs/2512.00294)|null|
 |**2025-11-28**|**DenseScan: Advancing 3D Scene Understanding with 2D Dense Annotation**|Zirui Wang et.al.|[2512.00226](https://arxiv.org/abs/2512.00226)|null|
 |**2025-10-28**|**A Comprehensive Survey on Surgical Digital Twin**|Afsah Sharaf Khan et.al.|[2512.00019](https://arxiv.org/abs/2512.00019)|null|
-|**2025-11-28**|**DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation**|Hongfei Zhang et.al.|[2511.23127](https://arxiv.org/abs/2511.23127)|null|
+|**2025-11-28**|**DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation**|Hongfei Zhang et.al.|[2511.23127](https://arxiv.org/abs/2511.23127)|**[link](https://github.com/EnVision-Research/DualCamCtrl)**|
 |**2025-11-28**|**Bharat Scene Text: A Novel Comprehensive Dataset and Benchmark for Indian Language Scene Text Understanding**|Anik De et.al.|[2511.23071](https://arxiv.org/abs/2511.23071)|null|
 |**2025-11-28**|**HMR3D: Hierarchical Multimodal Representation for 3D Scene Understanding with Large Vision-Language Model**|Chen Li et.al.|[2511.22961](https://arxiv.org/abs/2511.22961)|null|
 |**2025-11-28**|**See, Rank, and Filter: Important Word-Aware Clip Filtering via Scene Understanding for Moment Retrieval and Highlight Detection**|YuEun Lee et.al.|[2511.22906](https://arxiv.org/abs/2511.22906)|null|
@@ -82,7 +97,7 @@
 |**2025-11-20**|**POMA-3D: The Point Map Way to 3D Scene Understanding**|Ye Mao et.al.|[2511.16567](https://arxiv.org/abs/2511.16567)|null|
 |**2025-11-20**|**LLaVA $^3$ : Representing 3D Scenes like a Cubist Painter to Boost 3D Scene Understanding of VLMs**|Doriand Petit et.al.|[2511.16454](https://arxiv.org/abs/2511.16454)|null|
 |**2025-11-20**|**Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM**|Gergely Dinya et.al.|[2511.16282](https://arxiv.org/abs/2511.16282)|null|
-|**2025-11-20**|**How Robot Dogs See the Unseeable**|Oliver Bimber et.al.|[2511.16262](https://arxiv.org/abs/2511.16262)|null|
+|**2025-11-20**|**How Robot Dogs See the Unseeable: Improving Visual Interpretability via Peering for Exploratory Robots**|Oliver Bimber et.al.|[2511.16262](https://arxiv.org/abs/2511.16262)|null|
 |**2025-11-20**|**Real-Time 3D Object Detection with Inference-Aligned Learning**|Chenyu Zhao et.al.|[2511.16140](https://arxiv.org/abs/2511.16140)|null|
 |**2025-11-20**|**Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click**|Raphael Ruschel et.al.|[2511.15948](https://arxiv.org/abs/2511.15948)|null|
 |**2025-11-19**|**WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion**|Sajjad Pakdamansavoji et.al.|[2511.15874](https://arxiv.org/abs/2511.15874)|null|
@@ -90,10 +105,10 @@
 |**2025-11-19**|**Look, Zoom, Understand: The Robotic Eyeball for Embodied Perception**|Jiashu Yang et.al.|[2511.15279](https://arxiv.org/abs/2511.15279)|null|
 |**2025-11-18**|**RocSync: Millisecond-Accurate Temporal Synchronization for Heterogeneous Camera Systems**|Jaro Meyer et.al.|[2511.14948](https://arxiv.org/abs/2511.14948)|null|
 |**2025-11-18**|**Multi-view Phase-aware Pedestrian-Vehicle Incident Reasoning Framework with Vision-Language Models**|Hao Zhen et.al.|[2511.14120](https://arxiv.org/abs/2511.14120)|null|
-|**2025-11-18**|**Error-Driven Scene Editing for 3D Grounding in Large Language Models**|Yue Zhang et.al.|[2511.14086](https://arxiv.org/abs/2511.14086)|null|
+|**2025-11-18**|**Error-Driven Scene Editing for 3D Grounding in Large Language Models**|Yue Zhang et.al.|[2511.14086](https://arxiv.org/abs/2511.14086)|**[link](https://github.com/zhangyuejoslin/Deer-3D)**|
 |**2025-11-18**|**RISE: Single Static Radar-based Indoor Scene Understanding**|Kaichen Zhou et.al.|[2511.14019](https://arxiv.org/abs/2511.14019)|null|
 |**2025-11-17**|**VLMs Guided Interpretable Decision Making for Autonomous Driving**|Xin Hu et.al.|[2511.13881](https://arxiv.org/abs/2511.13881)|null|
-|**2025-11-17**|**Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**|Lingfeng Zhang et.al.|[2511.13269](https://arxiv.org/abs/2511.13269)|null|
+|**2025-11-17**|**Is your VLM Sky-Ready? A Comprehensive Spatial Intelligence Benchmark for UAV Navigation**|Lingfeng Zhang et.al.|[2511.13269](https://arxiv.org/abs/2511.13269)|**[link](https://github.com/linglingxiansen/SpatialSKy.)**|
 |**2025-11-17**|**Decoupling Scene Perception and Ego Status: A Multi-Context Fusion Approach for Enhanced Generalization in End-to-End Autonomous Driving**|Jiacheng Tang et.al.|[2511.13079](https://arxiv.org/abs/2511.13079)|null|
 |**2025-11-17**|**Visual Room 2.0: Seeing is Not Understanding for MLLMs**|Haokun Li et.al.|[2511.12928](https://arxiv.org/abs/2511.12928)|null|
 |**2025-11-16**|**RoboAfford++: A Generative AI-Enhanced Dataset for Multimodal Affordance Learning in Robotic Manipulation and Navigation**|Xiaoshuai Hao et.al.|[2511.12436](https://arxiv.org/abs/2511.12436)|null|
@@ -109,7 +124,7 @@
 |**2025-11-11**|**Sparse3DPR: Training-Free 3D Hierarchical Scene Parsing and Task-Adaptive Subgraph Reasoning from Sparse RGB Views**|Haida Feng et.al.|[2511.07813](https://arxiv.org/abs/2511.07813)|null|
 |**2025-11-10**|**Inference-Time Scaling of Diffusion Models for Infrared Data Generation**|Kai A. Horstmann et.al.|[2511.07362](https://arxiv.org/abs/2511.07362)|null|
 |**2025-11-10**|**PlanT 2.0: Exposing Biases and Structural Flaws in Closed-Loop Driving**|Simon Gerstenecker et.al.|[2511.07292](https://arxiv.org/abs/2511.07292)|null|
-|**2025-11-10**|**Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images**|JiaKui Hu et.al.|[2511.07222](https://arxiv.org/abs/2511.07222)|null|
+|**2025-11-10**|**Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images**|JiaKui Hu et.al.|[2511.07222](https://arxiv.org/abs/2511.07222)|**[link](https://github.com/AIDC-AI/Omni-View)**|
 |**2025-11-10**|**TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding**|Duc Nguyen et.al.|[2511.07007](https://arxiv.org/abs/2511.07007)|null|
 |**2025-11-10**|**PanoNav: Mapless Zero-Shot Object Navigation with Panoramic Scene Parsing and Dynamic Memory**|Qunchao Jin et.al.|[2511.06840](https://arxiv.org/abs/2511.06840)|null|
 |**2025-11-09**|**Video Dataset for Surgical Phase, Keypoint, and Instrument Recognition in Laparoscopic Surgery (PhaKIR)**|Tobias Rueckert et.al.|[2511.06549](https://arxiv.org/abs/2511.06549)|null|
@@ -142,7 +157,7 @@
 |**2025-11-01**|**Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models**|Panwang Pan et.al.|[2511.00503](https://arxiv.org/abs/2511.00503)|**[link](https://github.com/paulpanwang/Diff4Splat)**|
 |**2025-10-30**|**AI Powered High Quality Text to Video Generation with Enhanced Temporal Consistency**|Piyushkumar Patel et.al.|[2511.00107](https://arxiv.org/abs/2511.00107)|null|
 |**2025-10-31**|**Toward Accurate Long-Horizon Robotic Manipulation: Language-to-Action with Foundation Models via Scene Graphs**|Sushil Samuel Dinesh et.al.|[2510.27558](https://arxiv.org/abs/2510.27558)|null|
-|**2025-10-31**|**NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding**|Wei Xu et.al.|[2510.27481](https://arxiv.org/abs/2510.27481)|null|
+|**2025-10-31**|**NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding**|Wei Xu et.al.|[2510.27481](https://arxiv.org/abs/2510.27481)|**[link](https://github.com/H-EmbodVis/NAUTILUS.)**|
 |**2025-10-31**|**Understanding the Implicit User Intention via Reasoning with Large Language Model for Image Editing**|Yijia Wang et.al.|[2510.27335](https://arxiv.org/abs/2510.27335)|null|
 |**2025-10-31**|**Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis**|Weiming Chen et.al.|[2510.27324](https://arxiv.org/abs/2510.27324)|null|
 |**2025-10-31**|**HiGS: Hierarchical Generative Scene Framework for Multi-Step Associative Semantic Spatial Composition**|Jiacheng Hong et.al.|[2510.27148](https://arxiv.org/abs/2510.27148)|null|
@@ -195,7 +210,7 @@
 |**2025-10-20**|**Enhanced Motion Forecasting with Plug-and-Play Multimodal Large Language Models**|Katie Luo et.al.|[2510.17274](https://arxiv.org/abs/2510.17274)|null|
 |**2025-10-19**|**SceneCOT: Eliciting Grounded Chain-of-Thought Reasoning in 3D Scenes**|Xiongkun Linghu et.al.|[2510.16714](https://arxiv.org/abs/2510.16714)|null|
 |**2025-10-18**|**Structured Interfaces for Automated Reasoning with 3D Scene Graphs**|Aaron Ray et.al.|[2510.16643](https://arxiv.org/abs/2510.16643)|null|
-|**2025-10-11**|**ESCA: Contextualizing Embodied Agents via Scene-Graph Generation**|Jiani Huang et.al.|[2510.15963](https://arxiv.org/abs/2510.15963)|null|
+|**2025-10-11**|**ESCA: Contextualizing Embodied Agents via Scene-Graph Generation**|Jiani Huang et.al.|[2510.15963](https://arxiv.org/abs/2510.15963)|**[link](https://github.com/video-fm/LASER)**|
 |**2025-10-07**|**GAZE:Governance-Aware pre-annotation for Zero-shot World Model Environments**|Leela Krishna et.al.|[2510.14992](https://arxiv.org/abs/2510.14992)|null|
 |**2025-10-16**|**QuASH: Using Natural-Language Heuristics to Query Visual-Language Robotic Maps**|Matti Pekkanen et.al.|[2510.14546](https://arxiv.org/abs/2510.14546)|null|
 |**2025-10-15**|**Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**|Jia Yun Chua et.al.|[2510.13993](https://arxiv.org/abs/2510.13993)|null|
