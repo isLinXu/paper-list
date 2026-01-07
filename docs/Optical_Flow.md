@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition**|Hongbo Jin et.al.|[2601.00887](https://arxiv.org/abs/2601.00887)|null|
+|**2026-01-01**|**Real-Time Human Detection for Aerial Captured Video Sequences via Deep Models**|Nouar AlDahoul et.al.|[2601.00391](https://arxiv.org/abs/2601.00391)|null|
 |**2025-12-31**|**HaineiFRDM: Explore Diffusion to Restore Defects in Fast-Movement Films**|Rongji Xun et.al.|[2512.24946](https://arxiv.org/abs/2512.24946)|null|
 |**2025-12-30**|**PipeFlow: Pipelined Processing and Motion-Aware Frame Selection for Long-Form Video Editing**|Mustafa Munir et.al.|[2512.24026](https://arxiv.org/abs/2512.24026)|null|
 |**2025-12-24**|**Relative Localization System Design for SnailBot: A Modular Self-reconfigurable Robot**|Shuhan Zhang et.al.|[2512.21226](https://arxiv.org/abs/2512.21226)|null|
@@ -24,16 +26,16 @@
 |**2025-12-12**|**Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation**|Yang Fei et.al.|[2512.11792](https://arxiv.org/abs/2512.11792)|null|
 |**2025-12-12**|**Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture**|Tanu Singh et.al.|[2512.11350](https://arxiv.org/abs/2512.11350)|null|
 |**2025-12-12**|**Physics-Informed Video Flare Synthesis and Removal Leveraging Motion Independence between Flare and Scene**|Junqiao Wang et.al.|[2512.11327](https://arxiv.org/abs/2512.11327)|null|
-|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|**[link](https://github.com/Any-4D/Any4D)**|
+|**2025-12-11**|**Any4D: Unified Feed-Forward Metric 4D Reconstruction**|Jay Karhade et.al.|[2512.10935](https://arxiv.org/abs/2512.10935)|null|
 |**2025-12-11**|**Error-Propagation-Free Learned Video Compression With Dual-Domain Progressive Temporal Alignment**|Han Li et.al.|[2512.10450](https://arxiv.org/abs/2512.10450)|null|
 |**2025-12-11**|**RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds**|Jingyun Fu et.al.|[2512.10376](https://arxiv.org/abs/2512.10376)|null|
 |**2025-12-10**|**VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification**|Wanyue Zhang et.al.|[2512.09646](https://arxiv.org/abs/2512.09646)|null|
-|**2025-12-10**|**Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis**|Zhe Li et.al.|[2512.09418](https://arxiv.org/abs/2512.09418)|**[link](https://github.com/ZheLi2020/LabelfreeMCDM.)**|
+|**2025-12-10**|**Label-free Motion-Conditioned Diffusion Model for Cardiac Ultrasound Synthesis**|Zhe Li et.al.|[2512.09418](https://arxiv.org/abs/2512.09418)|null|
 |**2025-12-09**|**GeoDiffMM: Geometry-Guided Conditional Diffusion for Motion Magnification**|Xuedeng Liu et.al.|[2512.08325](https://arxiv.org/abs/2512.08325)|null|
-|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831](https://arxiv.org/abs/2512.07831)|**[link](https://github.com/dvlab-research/UnityVideo)**|
+|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831](https://arxiv.org/abs/2512.07831)|null|
 |**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[2512.07756](https://arxiv.org/abs/2512.07756)|null|
 |**2025-12-07**|**Overcoming Small Data Limitations in Video-Based Infant Respiration Estimation**|Liyang Song et.al.|[2512.06888](https://arxiv.org/abs/2512.06888)|null|
-|**2025-12-07**|**Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training**|Kaixuan Lu et.al.|[2512.06864](https://arxiv.org/abs/2512.06864)|**[link](https://github.com/wcbup/AutoQ-VIS.)**|
+|**2025-12-07**|**Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training**|Kaixuan Lu et.al.|[2512.06864](https://arxiv.org/abs/2512.06864)|null|
 |**2025-12-04**|**Towards Adaptive Fusion of Multimodal Deep Networks for Human Action Recognition**|Novanto Yudistira et.al.|[2512.04943](https://arxiv.org/abs/2512.04943)|null|
 |**2025-12-04**|**SDG-Track: A Heterogeneous Observer-Follower Framework for High-Resolution UAV Tracking on Embedded Platforms**|Jiawen Wen et.al.|[2512.04883](https://arxiv.org/abs/2512.04883)|null|
 |**2025-12-04**|**Vertical Planetary Landing on Sloped Terrain Using Optical Flow Divergence Estimates**|Hann Woei Ho et.al.|[2512.04373](https://arxiv.org/abs/2512.04373)|null|
@@ -41,15 +43,15 @@
 |**2025-12-03**|**Beyond Boundary Frames: Audio-Visual Semantic Guidance for Context-Aware Video Interpolation**|Yuchen Deng et.al.|[2512.03590](https://arxiv.org/abs/2512.03590)|null|
 |**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427](https://arxiv.org/abs/2512.03427)|null|
 |**2025-12-02**|**LoVoRA: Text-guided and Mask-free Video Object Removal and Addition with Learnable Object-aware Localization**|Zhihan Xiao et.al.|[2512.02933](https://arxiv.org/abs/2512.02933)|null|
-|**2025-11-30**|**PanFlow: Decoupled Motion Control for Panoramic Video Generation**|Cheng Zhang et.al.|[2512.00832](https://arxiv.org/abs/2512.00832)|**[link](https://github.com/chengzhag/PanFlow.)**|
+|**2025-11-30**|**PanFlow: Decoupled Motion Control for Panoramic Video Generation**|Cheng Zhang et.al.|[2512.00832](https://arxiv.org/abs/2512.00832)|null|
 |**2025-11-30**|**CircleFlow: Flow-Guided Camera Blur Estimation using a Circle Grid Target**|Jiajian He et.al.|[2512.00796](https://arxiv.org/abs/2512.00796)|null|
 |**2025-11-30**|**Dynamic-eDiTor: Training-Free Text-Driven 4D Scene Editing with Multimodal Diffusion Transformer**|Dong In Lee et.al.|[2512.00677](https://arxiv.org/abs/2512.00677)|null|
-|**2025-11-29**|**What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards**|Minh-Quan Le et.al.|[2512.00425](https://arxiv.org/abs/2512.00425)|**[link](https://github.com/cvlab-stonybrook/NewtonRewards)**|
+|**2025-11-29**|**What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards**|Minh-Quan Le et.al.|[2512.00425](https://arxiv.org/abs/2512.00425)|null|
 |**2025-11-29**|**Odometry Without Correspondence from Inertially Constrained Ruled Surfaces**|Chenqi Zhu et.al.|[2512.00327](https://arxiv.org/abs/2512.00327)|null|
 |**2025-11-25**|**Conceptual Evaluation of Deep Visual Stereo Odometry for the MARWIN Radiation Monitoring Robot in Accelerator Tunnels**|André Dehne et.al.|[2512.00080](https://arxiv.org/abs/2512.00080)|null|
 |**2025-11-27**|**Gaussians on Fire: High-Frequency Reconstruction of Flames**|Jakob Nazarenus et.al.|[2511.22459](https://arxiv.org/abs/2511.22459)|null|
 |**2025-11-27**|**Prompt-based Consistent Video Colorization**|Silvia Dani et.al.|[2511.22330](https://arxiv.org/abs/2511.22330)|null|
-|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](https://arxiv.org/abs/2511.22167)|**[link](https://github.com/cbsjtu01/IMTalker)**|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](https://arxiv.org/abs/2511.22167)|null|
 |**2025-11-26**|**MoGAN: Improving Motion Quality in Video Diffusion via Few-Step Motion Adversarial Post-Training**|Haotian Xue et.al.|[2511.21592](https://arxiv.org/abs/2511.21592)|null|
 |**2025-11-25**|**ACIT: Attention-Guided Cross-Modal Interaction Transformer for Pedestrian Crossing Intention Prediction**|Yuanzhe Li et.al.|[2511.20020](https://arxiv.org/abs/2511.20020)|null|
 |**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254](https://arxiv.org/abs/2511.18254)|null|
@@ -67,7 +69,7 @@
 |**2025-11-12**|**SMF-VO: Direct Ego-Motion Estimation via Sparse Motion Fields**|Sangheon Yang et.al.|[2511.09072](https://arxiv.org/abs/2511.09072)|null|
 |**2025-11-12**|**Neural B-frame Video Compression with Bi-directional Reference Harmonization**|Yuxi Liu et.al.|[2511.08938](https://arxiv.org/abs/2511.08938)|null|
 |**2025-11-11**|**Visual Bridge: Universal Visual Perception Representations Generating**|Yilin Gao et.al.|[2511.07877](https://arxiv.org/abs/2511.07877)|null|
-|**2025-11-11**|**ViPRA: Video Prediction for Robot Actions**|Sandeep Routray et.al.|[2511.07732](https://arxiv.org/abs/2511.07732)|**[link](https://github.com/sroutray/vipra)**|
+|**2025-11-11**|**ViPRA: Video Prediction for Robot Actions**|Sandeep Routray et.al.|[2511.07732](https://arxiv.org/abs/2511.07732)|null|
 |**2025-11-10**|**FlowFeat: Pixel-Dense Embedding of Motion Profiles**|Nikita Araslanov et.al.|[2511.07696](https://arxiv.org/abs/2511.07696)|null|
 |**2025-11-10**|**ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search**|Zhenjie Liu et.al.|[2511.06833](https://arxiv.org/abs/2511.06833)|null|
 |**2025-11-09**|**VDNeRF: Vision-only Dynamic Neural Radiance Field for Urban Scenes**|Zhengyu Zou et.al.|[2511.06408](https://arxiv.org/abs/2511.06408)|null|
@@ -102,12 +104,12 @@
 |**2025-10-27**|**EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction**|Taoyu Wu et.al.|[2510.23087](https://arxiv.org/abs/2510.23087)|null|
 |**2025-10-25**|**Glymphatic Clearance in the Optic Nerve: A Multidomain Electro-osmostic Model**|Shanfeng Xiao et.al.|[2510.22271](https://arxiv.org/abs/2510.22271)|null|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park et.al.|[2510.22201](https://arxiv.org/abs/2510.22201)|**[link](https://github.com/DAVIAN-Robotics/ACG)**|
-|**2025-10-25**|**STG-Avatar: Animatable Human Avatars via Spacetime Gaussian**|Guangan Jiang et.al.|[2510.22140](https://arxiv.org/abs/2510.22140)|**[link](https://github.com/jiangguangan/STG-Avatar)**|
+|**2025-10-25**|**STG-Avatar: Animatable Human Avatars via Spacetime Gaussian**|Guangan Jiang et.al.|[2510.22140](https://arxiv.org/abs/2510.22140)|null|
 |**2025-10-25**|**CogStereo: Neural Stereo Matching with Implicit Spatial Cognition Embedding**|Lihuang Fang et.al.|[2510.22119](https://arxiv.org/abs/2510.22119)|null|
 |**2025-10-24**|**Epipolar Geometry Improves Video Generation Models**|Orest Kupyn et.al.|[2510.21615](https://arxiv.org/abs/2510.21615)|null|
 |**2025-10-24**|**Shadow and Polarization Images of Rotating Black Holes in Kalb-Ramond Gravity Illuminated by Several Thick Accretion Disks**|Chen-Yu Yang et.al.|[2510.21229](https://arxiv.org/abs/2510.21229)|null|
 |**2025-10-23**|**CUPID: Generative 3D Reconstruction via Joint Object and Pose Modeling**|Binbin Huang et.al.|[2510.20776](https://arxiv.org/abs/2510.20776)|null|
-|**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](https://arxiv.org/abs/2510.20206)|**[link](https://github.com/Vchitect/RAPO)**|
+|**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](https://arxiv.org/abs/2510.20206)|null|
 |**2025-10-23**|**Inverse Image-Based Rendering for Light Field Generation from Single Images**|Hyunjun Jung et.al.|[2510.20132](https://arxiv.org/abs/2510.20132)|null|
 |**2025-10-22**|**Magnetic flux cancellation in the solar atmosphere through 3D realistic numerical modeling**|F. Moreno-Insertis et.al.|[2510.19993](https://arxiv.org/abs/2510.19993)|null|
 |**2025-10-21**|**MoAlign: Motion-Centric Representation Alignment for Video Diffusion Models**|Aritra Bhowmik et.al.|[2510.19022](https://arxiv.org/abs/2510.19022)|null|
@@ -126,9 +128,9 @@
 |**2025-10-17**|**MAVR-Net: Robust Multi-View Learning for MAV Action Recognition with Cross-View Attention**|Nengbo Zhang et.al.|[2510.15448](https://arxiv.org/abs/2510.15448)|null|
 |**2025-10-16**|**A low-cost, open-source maskless photolithography stepper for microfabrication**|B. Joel Gonzalez et.al.|[2510.15082](https://arxiv.org/abs/2510.15082)|null|
 |**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang et.al.|[2510.14977](https://arxiv.org/abs/2510.14977)|null|
-|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|**[link](https://github.com/littlepure2333/C4D)**|
+|**2025-10-16**|**C4D: 4D Made from 3D through Dual Correspondences**|Shizun Wang et.al.|[2510.14960](https://arxiv.org/abs/2510.14960)|null|
 |**2025-10-15**|**An Explicit M1 Radiation-hydrodynamics Scheme for Three-dimensional Protostellar Evolution**|Kazutaka Kimura et.al.|[2510.13949](https://arxiv.org/abs/2510.13949)|null|
-|**2025-10-15**|**Removing Cost Volumes from Optical Flow Estimators**|Simon Kiefhaber et.al.|[2510.13317](https://arxiv.org/abs/2510.13317)|**[link](https://github.com/visinf/recover)**|
+|**2025-10-15**|**Removing Cost Volumes from Optical Flow Estimators**|Simon Kiefhaber et.al.|[2510.13317](https://arxiv.org/abs/2510.13317)|null|
 |**2025-10-15**|**Scalable Generalized Meta-Spanners Enabling Parallel Multitasking Optical Manipulation**|Tianyue Li et.al.|[2510.13146](https://arxiv.org/abs/2510.13146)|null|
 |**2025-10-15**|**Macroscopic Self-Trapping and Dynamical Phase Transition in Momentum Space Bose-Einstein Condensates**|Colby Schimelfenig et.al.|[2510.13056](https://arxiv.org/abs/2510.13056)|null|
 |**2025-10-14**|**What If : Understanding Motion Through Sparse Interactions**|Stefan Andreas Baumann et.al.|[2510.12777](https://arxiv.org/abs/2510.12777)|**[link](https://github.com/CompVis/flow-poke-transformer)**|
@@ -145,7 +147,7 @@
 |**2025-10-11**|**Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting**|Jiahui Lu et.al.|[2510.10097](https://arxiv.org/abs/2510.10097)|null|
 |**2025-10-10**|**Dynamic Weight-based Temporal Aggregation for Low-light Video Enhancement**|Ruirui Lin et.al.|[2510.09450](https://arxiv.org/abs/2510.09450)|null|
 |**2025-10-10**|**Mono4DEditor: Text-Driven 4D Scene Editing from Monocular Video via Point-Level Localization of Language-Embedded Gaussians**|Jin-Chuan Shi et.al.|[2510.09438](https://arxiv.org/abs/2510.09438)|null|
-|**2025-10-10**|**Stable Video Infinity: Infinite-Length Video Generation with Error Recycling**|Wuyang Li et.al.|[2510.09212](https://arxiv.org/abs/2510.09212)|null|
+|**2025-10-10**|**Stable Video Infinity: Infinite-Length Video Generation with Error Recycling**|Wuyang Li et.al.|[2510.09212](https://arxiv.org/abs/2510.09212)|**[link](https://github.com/vita-epfl/Stable-Video-Infinity)**|
 |**2025-10-09**|**Re-Identifying Kākā with AI-Automated Video Key Frame Extraction**|Paula Maddigan et.al.|[2510.08775](https://arxiv.org/abs/2510.08775)|null|
 |**2025-10-09**|**When Light Bends to the Collective Will: A Theory and Vision for Adaptive Photonic Scale-up Domains**|Vamsi Addanki et.al.|[2510.08072](https://arxiv.org/abs/2510.08072)|null|
 |**2025-10-09**|**FMANet: A Novel Dual-Phase Optical Flow Approach with Fusion Motion Attention Network for Robust Micro-expression Recognition**|Luu Tu Nguyen et.al.|[2510.07810](https://arxiv.org/abs/2510.07810)|null|

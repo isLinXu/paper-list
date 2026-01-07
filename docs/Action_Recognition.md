@@ -2,6 +2,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-04**|**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**|Huajie Tan et.al.|[2601.01618](https://arxiv.org/abs/2601.01618)|null|
+|**2026-01-01**|**BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2601.00369](https://arxiv.org/abs/2601.00369)|null|
+|**2026-01-01**|**Effects of Limited Field of View on Musical Collaboration Experience with Avatars in Extended Reality**|Suibi Che-Chuan Weng et.al.|[2601.00333](https://arxiv.org/abs/2601.00333)|null|
+|**2025-12-31**|**Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark**|Pan Wang et.al.|[2601.00092](https://arxiv.org/abs/2601.00092)|null|
 |**2025-12-31**|**FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion**|Dian Shao et.al.|[2512.25067](https://arxiv.org/abs/2512.25067)|null|
 |**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851](https://arxiv.org/abs/2512.24851)|null|
 |**2025-12-30**|**AI-Driven Evaluation of Surgical Skill via Action Recognition**|Yan Meng et.al.|[2512.24411](https://arxiv.org/abs/2512.24411)|null|
@@ -23,7 +27,7 @@
 |**2025-12-21**|**Context-Aware Network Based on Multi-scale Spatio-temporal Attention for Action Recognition in Videos**|Xiaoyang Li et.al.|[2512.18750](https://arxiv.org/abs/2512.18750)|null|
 |**2025-12-21**|**Hierarchical Bayesian Framework for Multisource Domain Adaptation**|Alexander M. Glandon et.al.|[2512.18553](https://arxiv.org/abs/2512.18553)|null|
 |**2025-12-17**|**Seeing Beyond the Scene: Analyzing and Mitigating Background Bias in Action Recognition**|Ellie Zhou et.al.|[2512.17953](https://arxiv.org/abs/2512.17953)|null|
-|**2025-12-19**|**Xiaomi MiMo-VL-Miloco Technical Report**|Jiaze Li et.al.|[2512.17436](https://arxiv.org/abs/2512.17436)|**[link](https://github.com/XiaoMi/xiaomi-mimo-vl-miloco)**|
+|**2025-12-19**|**Xiaomi MiMo-VL-Miloco Technical Report**|Jiaze Li et.al.|[2512.17436](https://arxiv.org/abs/2512.17436)|null|
 |**2025-12-18**|**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**|Haochen Chang et.al.|[2512.16727](https://arxiv.org/abs/2512.16727)|null|
 |**2025-12-18**|**Skeleton-Snippet Contrastive Learning with Multiscale Feature Fusion for Action Localization**|Qiushuo Cheng et.al.|[2512.16504](https://arxiv.org/abs/2512.16504)|null|
 |**2025-12-06**|**Smart Surveillance: Identifying IoT Device Behaviours using ML-Powered Traffic Analysis**|Reza Ryan et.al.|[2512.13709](https://arxiv.org/abs/2512.13709)|null|
@@ -58,7 +62,7 @@
 |**2025-11-29**|**Integrating Skeleton Based Representations for Robust Yoga Pose Classification Using Deep Learning Models**|Mohammed Mohiuddin et.al.|[2512.00572](https://arxiv.org/abs/2512.00572)|null|
 |**2025-10-14**|**MOTION: ML-Assisted On-Device Low-Latency Motion Recognition**|Veeramani Pugazhenthi et.al.|[2512.00008](https://arxiv.org/abs/2512.00008)|null|
 |**2025-11-28**|**LatBot: Distilling Universal Latent Actions for Vision-Language-Action Models**|Zuolei Li et.al.|[2511.23034](https://arxiv.org/abs/2511.23034)|null|
-|**2025-11-27**|**SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2511.22433](https://arxiv.org/abs/2511.22433)|**[link](https://github.com/firework8/SkeletonAgent.)**|
+|**2025-11-27**|**SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition**|Hongda Liu et.al.|[2511.22433](https://arxiv.org/abs/2511.22433)|null|
 |**2025-11-27**|**HandyLabel: Towards Post-Processing to Real-Time Annotation Using Skeleton Based Hand Gesture Recognition**|Sachin Kumar Singh et.al.|[2511.22337](https://arxiv.org/abs/2511.22337)|null|
 |**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](https://arxiv.org/abs/2511.21663)|null|
 |**2025-11-26**|**Active Learning for GCN-based Action Recognition**|Hichem Sahbi et.al.|[2511.21625](https://arxiv.org/abs/2511.21625)|null|
@@ -130,25 +134,25 @@
 |**2025-11-03**|**Euler-Heisenberg action for fermions coupled to gauge and axial vectors: Hessian diagonalization, sector classification, and applications**|Lucas Pereira de Souza et.al.|[2511.02118](https://arxiv.org/abs/2511.02118)|null|
 |**2025-11-03**|**Neural dynamics of cognitive control: Current tensions and future promise**|Dale Zhou et.al.|[2511.02063](https://arxiv.org/abs/2511.02063)|null|
 |**2025-11-03**|**Path-Coordinated Continual Learning with Neural Tangent Kernel-Justified Plasticity: A Theoretical Framework with Near State-of-the-Art Performance**|Rathin Chandra Shit et.al.|[2511.02025](https://arxiv.org/abs/2511.02025)|null|
-|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718](https://arxiv.org/abs/2511.01718)|**[link](https://github.com/OpenHelix-Team/UD-VLA)**|
+|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen et.al.|[2511.01718](https://arxiv.org/abs/2511.01718)|null|
 |**2025-11-03**|**OmniVLA: Physically-Grounded Multimodal VLA with Unified Multi-Sensor Perception for Robotic Manipulation**|Heyu Guo et.al.|[2511.01210](https://arxiv.org/abs/2511.01210)|null|
 |**2025-11-02**|**Rhythm in the Air: Vision-based Real-Time Music Generation through Gestures**|Barathi Subramanian et.al.|[2511.00793](https://arxiv.org/abs/2511.00793)|null|
 |**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA et.al.|[2511.00088](https://arxiv.org/abs/2511.00088)|null|
 |**2025-10-31**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Yehna Kim et.al.|[2510.27255](https://arxiv.org/abs/2510.27255)|null|
 |**2025-10-31**|**GUI-Rise: Structured Reasoning and History Summarization for GUI Navigation**|Tao Liu et.al.|[2510.27210](https://arxiv.org/abs/2510.27210)|null|
-|**2025-10-30**|**Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras**|Christoffer Koo Øhrstrøm et.al.|[2510.26614](https://arxiv.org/abs/2510.26614)|**[link](https://github.com/DTU-PAS/spiking-patches)**|
-|**2025-10-29**|**Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders**|Ali Rasekh et.al.|[2510.26027](https://arxiv.org/abs/2510.26027)|**[link](https://github.com/AliRasekh/STAVEQ2)**|
+|**2025-10-30**|**Spiking Patches: Asynchronous, Sparse, and Efficient Tokens for Event Cameras**|Christoffer Koo Øhrstrøm et.al.|[2510.26614](https://arxiv.org/abs/2510.26614)|null|
+|**2025-10-29**|**Enhancing Temporal Understanding in Video-LLMs through Stacked Temporal Attention in Vision Encoders**|Ali Rasekh et.al.|[2510.26027](https://arxiv.org/abs/2510.26027)|null|
 |**2025-10-29**|**Informative Sample Selection Model for Skeleton-based Action Recognition with Limited Training Samples**|Zhigang Tu et.al.|[2510.25345](https://arxiv.org/abs/2510.25345)|null|
 |**2025-10-27**|**Evaluation of Vision-LLMs in Surveillance Video**|Pascal Benschop et.al.|[2510.23190](https://arxiv.org/abs/2510.23190)|null|
 |**2025-10-27**|**Enabling Vibration-Based Gesture Recognition on Everyday Furniture via Energy-Efficient FPGA Implementation of 1D Convolutional Networks**|Koki Shibata et.al.|[2510.23156](https://arxiv.org/abs/2510.23156)|null|
 |**2025-10-27**|**Neural Recording Power Optimization Through Machine Learning Guided Resolution Reconfiguration**|Aviral Pandey et.al.|[2510.22924](https://arxiv.org/abs/2510.22924)|null|
-|**2025-10-13**|**J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception**|Jesse Atuhurra et.al.|[2510.21761](https://arxiv.org/abs/2510.21761)|**[link](https://github.com/jatuhurrra/J-ORA)**|
-|**2025-10-22**|**From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction**|Zhida Zhao et.al.|[2510.19654](https://arxiv.org/abs/2510.19654)|**[link](https://github.com/6550Zhao/Policy-World-Model.)**|
+|**2025-10-13**|**J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception**|Jesse Atuhurra et.al.|[2510.21761](https://arxiv.org/abs/2510.21761)|null|
+|**2025-10-22**|**From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction**|Zhida Zhao et.al.|[2510.19654](https://arxiv.org/abs/2510.19654)|null|
 |**2025-10-22**|**Vision-Based Mistake Analysis in Procedural Activities: A Review of Advances and Challenges**|Konstantinos Bacharidis et.al.|[2510.19292](https://arxiv.org/abs/2510.19292)|null|
 |**2025-10-22**|**MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation**|Zhang Nengbo et.al.|[2510.19273](https://arxiv.org/abs/2510.19273)|null|
 |**2025-10-22**|**See, Think, Act: Online Shopper Behavior Simulation with VLM Agents**|Yimeng Zhang et.al.|[2510.19245](https://arxiv.org/abs/2510.19245)|null|
 |**2025-10-21**|**UniHPR: Unified Human Pose Representation via Singular Value Contrastive Learning**|Zhongyu Jiang et.al.|[2510.19078](https://arxiv.org/abs/2510.19078)|null|
-|**2025-10-21**|**A Renaissance of Explicit Motion Information Mining from Transformers for Action Recognition**|Peiqin Zhuang et.al.|[2510.18705](https://arxiv.org/abs/2510.18705)|**[link](https://github.com/PeiqinZhuang/EMIM)**|
+|**2025-10-21**|**A Renaissance of Explicit Motion Information Mining from Transformers for Action Recognition**|Peiqin Zhuang et.al.|[2510.18705](https://arxiv.org/abs/2510.18705)|null|
 |**2025-10-21**|**Biomechanically consistent real-time action recognition for human-robot interaction**|Wanchen Li et.al.|[2510.18373](https://arxiv.org/abs/2510.18373)|null|
 |**2025-10-21**|**FST.ai 2.0: An Explainable AI Ecosystem for Fair, Fast, and Inclusive Decision-Making in Olympic and Paralympic Taekwondo**|Keivan Shariatmadar et.al.|[2510.18193](https://arxiv.org/abs/2510.18193)|null|
 |**2025-10-20**|**Muscle Anatomy-aware Geometric Deep Learning for sEMG-based Gesture Decoding**|Adyasha Dash et.al.|[2510.17660](https://arxiv.org/abs/2510.17660)|null|
@@ -176,11 +180,11 @@
 |**2025-10-05**|**Speculative Actions: A Lossless Framework for Faster Agentic Systems**|Naimeng Ye et.al.|[2510.04371](https://arxiv.org/abs/2510.04371)|null|
 |**2025-10-04**|**Talking Tennis: Language Feedback from 3D Biomechanical Action Recognition**|Arushi Dashore et.al.|[2510.03921](https://arxiv.org/abs/2510.03921)|null|
 |**2025-10-04**|**MonitorVLM:A Vision Language Framework for Safety Violation Detection in Mining Operations**|Jiang Wu et.al.|[2510.03666](https://arxiv.org/abs/2510.03666)|null|
-|**2025-10-03**|**FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents**|Imene Kerboua et.al.|[2510.03204](https://arxiv.org/abs/2510.03204)|**[link](https://github.com/ServiceNow/AgentLab)**|
+|**2025-10-03**|**FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of Web Agents**|Imene Kerboua et.al.|[2510.03204](https://arxiv.org/abs/2510.03204)|null|
 |**2025-09-27**|**$\texttt{BluePrint}$ : A Social Media User Dataset for LLM Persona Evaluation and Training**|Aurélien Bück-Kaeffer et.al.|[2510.02343](https://arxiv.org/abs/2510.02343)|null|
 |**2025-10-02**|**Wearable and Ultra-Low-Power Fusion of EMG and A-Mode US for Hand-Wrist Kinematic Tracking**|Giusy Spacone et.al.|[2510.02000](https://arxiv.org/abs/2510.02000)|null|
 |**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Taeyoung Kim et.al.|[2510.01711](https://arxiv.org/abs/2510.01711)|null|
-|**2025-10-01**|**EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels**|Shijia Feng et.al.|[2510.01362](https://arxiv.org/abs/2510.01362)|**[link](https://github.com/FELIXFENG2019/EvoStruggle.)**|
+|**2025-10-01**|**EvoStruggle: A Dataset Capturing the Evolution of Struggle across Activities and Skill Levels**|Shijia Feng et.al.|[2510.01362](https://arxiv.org/abs/2510.01362)|null|
 |**2025-10-01**|**HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy**|Myungkyu Koo et.al.|[2510.00695](https://arxiv.org/abs/2510.00695)|null|
 |**2025-10-01**|**Expandable Decision-Making States for Multi-Agent Deep Reinforcement Learning in Soccer Tactical Analysis**|Kenjiro Ide et.al.|[2510.00480](https://arxiv.org/abs/2510.00480)|null|
 |**2025-09-30**|**Towards Intuitive Human-Robot Interaction through Embodied Gesture-Driven Control with Woven Tactile Skins**|ChunPing Lam et.al.|[2509.25951](https://arxiv.org/abs/2509.25951)|null|
@@ -191,7 +195,7 @@
 |**2025-09-27**|**Spatiotemporal Radar Gesture Recognition with Hybrid Spiking Neural Networks: Balancing Accuracy and Efficiency**|Riccardo Mazzieri et.al.|[2509.23303](https://arxiv.org/abs/2509.23303)|null|
 |**2025-09-27**|**MMeViT: Multi-Modal ensemble ViT for Post-Stroke Rehabilitation Action Recognition**|Ye-eun Kim et.al.|[2509.23044](https://arxiv.org/abs/2509.23044)|null|
 |**2025-09-27**|**Disentangling Static and Dynamic Information for Reducing Static Bias in Action Recognition**|Masato Kobayashi et.al.|[2509.23009](https://arxiv.org/abs/2509.23009)|null|
-|**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Chih Yao Hu et.al.|[2509.22653](https://arxiv.org/abs/2509.22653)|**[link](https://github.com/Hu-chih-yao/see-point-fly)**|
+|**2025-09-26**|**See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation**|Chih Yao Hu et.al.|[2509.22653](https://arxiv.org/abs/2509.22653)|null|
 |**2025-09-26**|**Prompt-guided Disentangled Representation for Action Recognition**|Tianci Wu et.al.|[2509.21783](https://arxiv.org/abs/2509.21783)|null|
 |**2025-09-25**|**SlotFM: A Motion Foundation Model with Slot Attention for Diverse Downstream Tasks**|Junyong Park et.al.|[2509.21673](https://arxiv.org/abs/2509.21673)|null|
 |**2025-09-25**|**Temporal vs. Spatial: Comparing DINOv3 and V-JEPA2 Feature Representations for Video Action Analysis**|Sai Varun Kodathala et.al.|[2509.21595](https://arxiv.org/abs/2509.21595)|null|

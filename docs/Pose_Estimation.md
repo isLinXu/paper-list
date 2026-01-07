@@ -2,6 +2,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](https://arxiv.org/abs/2601.02309)|null|
+|**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675](https://arxiv.org/abs/2601.01675)|null|
+|**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625](https://arxiv.org/abs/2601.00625)|null|
+|**2026-01-02**|**Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework**|Mehdi Heydari Shahna et.al.|[2601.00610](https://arxiv.org/abs/2601.00610)|null|
+|**2026-01-02**|**NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots**|Mehdi Heydari Shahna et.al.|[2601.00609](https://arxiv.org/abs/2601.00609)|null|
+|**2026-01-01**|**SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting**|Jun-Jee Chao et.al.|[2601.00285](https://arxiv.org/abs/2601.00285)|null|
 |**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071](https://arxiv.org/abs/2512.25071)|null|
 |**2025-12-31**|**FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion**|Dian Shao et.al.|[2512.25067](https://arxiv.org/abs/2512.25067)|null|
 |**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688](https://arxiv.org/abs/2512.24688)|null|
@@ -15,7 +21,7 @@
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472](https://arxiv.org/abs/2512.23472)|null|
 |**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369](https://arxiv.org/abs/2512.23369)|null|
 |**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054](https://arxiv.org/abs/2512.23054)|null|
-|**2025-12-28**|**PoseStreamer: A Multi-modal Framework for 6DoF Pose Estimation of Unseen Moving Objects**|Huiming Yang et.al.|[2512.22979](https://arxiv.org/abs/2512.22979)|null|
+|**2025-12-28**|**PoseStreamer: A Multi-modal Framework for 3D Tracking of Unseen Moving Objects**|Huiming Yang et.al.|[2512.22979](https://arxiv.org/abs/2512.22979)|null|
 |**2025-12-28**|**A Minimal Solver for Relative Pose Estimation with Unknown Focal Length from Two Affine Correspondences**|Zhenbao Yu et.al.|[2512.22833](https://arxiv.org/abs/2512.22833)|null|
 |**2025-12-23**|**KAN-FPN-Stem:A KAN-Enhanced Feature Pyramid Stem for Boosting ViT-based Pose Estimation**|HaoNan Tang et.al.|[2512.22228](https://arxiv.org/abs/2512.22228)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883](https://arxiv.org/abs/2512.21883)|null|
@@ -51,8 +57,8 @@
 |**2025-12-10**|**mmWEAVER: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description**|Mahathir Monjur et.al.|[2512.11894](https://arxiv.org/abs/2512.11894)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354](https://arxiv.org/abs/2512.11354)|null|
 |**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957](https://arxiv.org/abs/2512.10957)|null|
-|**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](https://arxiv.org/abs/2512.10950)|**[link](https://github.com/QitaoZhao/E-RayZer)**|
-|**2025-12-11**|**PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning**|Jianqi Chen et.al.|[2512.10840](https://arxiv.org/abs/2512.10840)|**[link](https://github.com/WindVChen/PoseGAM)**|
+|**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950](https://arxiv.org/abs/2512.10950)|null|
+|**2025-12-11**|**PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning**|Jianqi Chen et.al.|[2512.10840](https://arxiv.org/abs/2512.10840)|null|
 |**2025-12-11**|**Geo6DPose: Fast Zero-Shot 6D Object Pose Estimation via Geometry-Filtered Feature Matching**|Javier Villena Toro et.al.|[2512.10674](https://arxiv.org/abs/2512.10674)|null|
 |**2025-12-11**|**Mr. Virgil: Learning Multi-robot Visual-range Relative Localization**|Si Wang et.al.|[2512.10540](https://arxiv.org/abs/2512.10540)|null|
 |**2025-12-11**|**An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time**|Stylianos Kandylakis et.al.|[2512.10437](https://arxiv.org/abs/2512.10437)|null|
@@ -76,12 +82,12 @@
 |**2025-12-03**|**Training-Free Robot Pose Estimation using Off-the-Shelf Foundational Models**|Laurence Liang et.al.|[2512.06017](https://arxiv.org/abs/2512.06017)|null|
 |**2025-12-05**|**Deep Learning-Based Real-Time Sequential Facial Expression Analysis Using Geometric Features**|Talha Enes Koksal et.al.|[2512.05669](https://arxiv.org/abs/2512.05669)|null|
 |**2025-12-04**|**Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization**|Georgios Chatzichristodoulou et.al.|[2512.05259](https://arxiv.org/abs/2512.05259)|null|
-|**2025-12-04**|**Equivariant symmetry-aware head pose estimation for fetal MRI**|Ramya Muthukrishnan et.al.|[2512.04890](https://arxiv.org/abs/2512.04890)|**[link](https://github.com/ramyamut/E3-Pose)**|
+|**2025-12-04**|**Equivariant symmetry-aware head pose estimation for fetal MRI**|Ramya Muthukrishnan et.al.|[2512.04890](https://arxiv.org/abs/2512.04890)|null|
 |**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862](https://arxiv.org/abs/2512.04862)|null|
-|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](https://arxiv.org/abs/2512.04069)|**[link](https://github.com/spacetools/SpaceTools)**|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069](https://arxiv.org/abs/2512.04069)|null|
 |**2025-12-03**|**MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization**|Gihyeon Lee et.al.|[2512.03522](https://arxiv.org/abs/2512.03522)|null|
 |**2025-12-03**|**AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model**|Kwaku Opoku-Ware et.al.|[2512.03509](https://arxiv.org/abs/2512.03509)|null|
-|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](https://arxiv.org/abs/2512.03000)|**[link](https://github.com/Dynamics-X/DynamicVerse)**|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000](https://arxiv.org/abs/2512.03000)|null|
 |**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](https://arxiv.org/abs/2512.02727)|null|
 |**2025-12-01**|**Is Image-based Object Pose Estimation Ready to Support Grasping?**|Eric C. Joyce et.al.|[2512.01856](https://arxiv.org/abs/2512.01856)|null|
 |**2025-11-29**|**CC-FMO: Camera-Conditioned Zero-Shot Single Image to 3D Scene Generation with Foundation Model Orchestration**|Boshi Tang et.al.|[2512.00493](https://arxiv.org/abs/2512.00493)|null|
@@ -129,7 +135,7 @@
 |**2025-11-17**|**RSPose: Ranking Based Losses for Human Pose Estimation**|Muhammed Can Keles et.al.|[2511.13857](https://arxiv.org/abs/2511.13857)|null|
 |**2025-11-17**|**GeoX-Bench: Benchmarking Cross-View Geo-Localization and Pose Estimation Capabilities of Large Multimodal Models**|Yushuo Zheng et.al.|[2511.13259](https://arxiv.org/abs/2511.13259)|null|
 |**2025-11-17**|**GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry**|Chiyun Noh et.al.|[2511.13216](https://arxiv.org/abs/2511.13216)|null|
-|**2025-11-17**|**End-to-End Multi-Person Pose Estimation with Pose-Aware Video Transformer**|Yonghui Yu et.al.|[2511.13208](https://arxiv.org/abs/2511.13208)|**[link](https://github.com/zgspose/PAVENet)**|
+|**2025-11-17**|**End-to-End Multi-Person Pose Estimation with Pose-Aware Video Transformer**|Yonghui Yu et.al.|[2511.13208](https://arxiv.org/abs/2511.13208)|null|
 |**2025-11-17**|**CapeNext: Rethinking and Refining Dynamic Support Information for Category-Agnostic Pose Estimation**|Yu Zhu et.al.|[2511.13102](https://arxiv.org/abs/2511.13102)|null|
 |**2025-11-17**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935](https://arxiv.org/abs/2511.12935)|null|
 |**2025-11-17**|**CoordAR: One-Reference 6D Pose Estimation of Novel Objects via Autoregressive Coordinate Map Generation**|Dexin Zuo et.al.|[2511.12919](https://arxiv.org/abs/2511.12919)|null|
@@ -141,7 +147,7 @@
 |**2025-11-12**|**Understanding the Representation of Older Adults in Motion Capture Locomotion Datasets**|Yunkai Yu et.al.|[2511.11713](https://arxiv.org/abs/2511.11713)|null|
 |**2025-11-14**|**YCB-Ev SD: Synthetic event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2511.11344](https://arxiv.org/abs/2511.11344)|null|
 |**2025-11-14**|**6D Strawberry Pose Estimation: Real-time and Edge AI Solutions Using Purely Synthetic Training Data**|Saptarshi Neil Sinha et.al.|[2511.11307](https://arxiv.org/abs/2511.11307)|null|
-|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](https://arxiv.org/abs/2511.10647)|**[link](https://github.com/ByteDance-Seed/depth-anything-3)**|
+|**2025-11-13**|**Depth Anything 3: Recovering the Visual Space from Any Views**|Haotong Lin et.al.|[2511.10647](https://arxiv.org/abs/2511.10647)|null|
 |**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng et.al.|[2511.10560](https://arxiv.org/abs/2511.10560)|null|
 |**2025-11-12**|**STORM: Segment, Track, and Object Re-Localization from a Single Image**|Yu Deng et.al.|[2511.09771](https://arxiv.org/abs/2511.09771)|null|
 |**2025-11-12**|**DreamPose3D: Hallucinative Diffusion with Prompt Learning for 3D Human Pose Estimation**|Jerrin Bright et.al.|[2511.09502](https://arxiv.org/abs/2511.09502)|null|

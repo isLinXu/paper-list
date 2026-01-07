@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**AR-MOT: Autoregressive Multi-object Tracking**|Lianjie Jia et.al.|[2601.01925](https://arxiv.org/abs/2601.01925)|null|
+|**2026-01-03**|**Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking**|Shiao Wang et.al.|[2601.01022](https://arxiv.org/abs/2601.01022)|null|
 |**2025-12-31**|**CropTrack: A Tracking with Re-Identification Framework for Precision Agriculture**|Md Ahmed Al Muzaddid et.al.|[2512.24838](https://arxiv.org/abs/2512.24838)|null|
 |**2025-12-30**|**New Insights into Cascaded Geometric Flight Control: From Performance Guarantees to Practical Pitfalls**|Brett T. Lopez et.al.|[2512.24377](https://arxiv.org/abs/2512.24377)|null|
 |**2025-12-27**|**Rethinking Memory Design in SAM-Based Visual Object Tracking**|Mohamad Alansari et.al.|[2512.22624](https://arxiv.org/abs/2512.22624)|null|
@@ -188,7 +190,7 @@
 |**2025-08-26**|**Safe Navigation under State Uncertainty: Online Adaptation for Robust Control Barrier Functions**|Ersin Das et.al.|[2508.19159](https://arxiv.org/abs/2508.19159)|null|
 |**2025-08-20**|**6-DoF Object Tracking with Event-based Optical Flow and Frames**|Zhichao Li et.al.|[2508.14776](https://arxiv.org/abs/2508.14776)|null|
 |**2025-08-20**|**SMTrack: End-to-End Trained Spiking Neural Networks for Multi-Object Tracking in RGB Videos**|Pengzhi Zhong et.al.|[2508.14607](https://arxiv.org/abs/2508.14607)|null|
-|**2025-08-20**|**FastTracker: Real-Time and Accurate Visual Tracking**|Hamidreza Hashempoor et.al.|[2508.14370](https://arxiv.org/abs/2508.14370)|**[link](https://github.com/Hamidreza-Hashempoor/FastTracker)**|
+|**2025-08-20**|**FastTracker: Real-Time and Accurate Visual Tracking**|Hamidreza Hashempoor et.al.|[2508.14370](https://arxiv.org/abs/2508.14370)|null|
 |**2025-08-19**|**Model-based Multi-object Visual Tracking: Identification and Standard Model Limitations**|Jan Krejčí et.al.|[2508.13647](https://arxiv.org/abs/2508.13647)|null|
 |**2025-08-19**|**Bridging the Gap: Doubles Badminton Analysis with Singles-Trained Models**|Seungheon Baek et.al.|[2508.13507](https://arxiv.org/abs/2508.13507)|null|
 |**2025-08-18**|**Omni Survey for Multimodality Analysis in Visual Object Tracking**|Zhangyong Tang et.al.|[2508.13000](https://arxiv.org/abs/2508.13000)|null|
@@ -205,7 +207,7 @@
 |**2025-08-11**|**SAGOnline: Segment Any Gaussians Online**|Wentao Sun et.al.|[2508.08219](https://arxiv.org/abs/2508.08219)|null|
 |**2025-08-11**|**GRASPTrack: Geometry-Reasoned Association via Segmentation and Projection for Multi-Object Tracking**|Xudong Han et.al.|[2508.08117](https://arxiv.org/abs/2508.08117)|null|
 |**2025-08-10**|**SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**|Fengchao Xiong et.al.|[2508.07250](https://arxiv.org/abs/2508.07250)|null|
-|**2025-08-07**|**MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes**|Henghui Ding et.al.|[2508.05630](https://arxiv.org/abs/2508.05630)|**[link](https://github.com/henghuiding/MOSE-api)**|
+|**2025-08-07**|**MOSEv2: A More Challenging Dataset for Video Object Segmentation in Complex Scenes**|Henghui Ding et.al.|[2508.05630](https://arxiv.org/abs/2508.05630)|null|
 |**2025-08-07**|**Head Anchor Enhanced Detection and Association for Crowded Pedestrian Tracking**|Zewei Wu et.al.|[2508.05514](https://arxiv.org/abs/2508.05514)|null|
 |**2025-08-07**|**Multi-tracklet Tracking for Generic Targets with Adaptive Detection Clustering**|Zewei Wu et.al.|[2508.05172](https://arxiv.org/abs/2508.05172)|null|
 |**2025-08-05**|**Constraint-Preserving Data Generation for Visuomotor Policy Learning**|Kevin Lin et.al.|[2508.03944](https://arxiv.org/abs/2508.03944)|null|

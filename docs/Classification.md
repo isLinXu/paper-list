@@ -2,6 +2,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**A Comparative Study of Custom CNNs, Pre-trained Models, and Transfer Learning Across Multiple Visual Datasets**|Annoor Sharara Akhand et.al.|[2601.02246](https://arxiv.org/abs/2601.02246)|null|
+|**2026-01-05**|**Hidden costs for inference with deep network on embedded system devices**|Chankyu Lee et.al.|[2601.01698](https://arxiv.org/abs/2601.01698)|null|
+|**2026-01-04**|**Communication-Efficient Federated AUC Maximization with Cyclic Client Participation**|Umesh Vangapally et.al.|[2601.01649](https://arxiv.org/abs/2601.01649)|null|
+|**2026-01-04**|**Evaluation of Convolutional Neural Network For Image Classification with Agricultural and Urban Datasets**|Shamik Shafkat Avro et.al.|[2601.01393](https://arxiv.org/abs/2601.01393)|null|
+|**2026-01-03**|**The Alchemy of Thought: Understanding In-Context Learning Through Supervised Classification**|Harshita Narnoli et.al.|[2601.01290](https://arxiv.org/abs/2601.01290)|null|
+|**2026-01-03**|**Evolving CNN Architectures: From Custom Designs to Deep Residual Models for Diverse Image Classification and Detection Tasks**|Mahmudul Hasan et.al.|[2601.01099](https://arxiv.org/abs/2601.01099)|null|
+|**2026-01-03**|**Neural Networks on Symmetric Spaces of Noncompact Type**|Xuan Son Nguyen et.al.|[2601.01097](https://arxiv.org/abs/2601.01097)|null|
+|**2026-01-03**|**Enhancing Histopathological Image Classification via Integrated HOG and Deep Features with Robust Noise Performance**|Ifeanyi Ezuma et.al.|[2601.01056](https://arxiv.org/abs/2601.01056)|null|
+|**2026-01-02**|**Learning to be Reproducible: Custom Loss Design for Robust Neural Networks**|Waqas Ahmed et.al.|[2601.00578](https://arxiv.org/abs/2601.00578)|null|
+|**2026-01-02**|**ASCNet: Research on all-sky camera images classification at the Muztagh-ata site**|Siqi Wang et.al.|[2601.00563](https://arxiv.org/abs/2601.00563)|null|
+|**2026-01-01**|**Quadratic Unconstrained Binary Optimisation for Training and Regularisation of Binary Neural Networks**|Jonas Christoffer Villumsen et.al.|[2601.00449](https://arxiv.org/abs/2601.00449)|null|
 |**2025-12-31**|**Latent Twins: A Framework for Scene Recognition and Fast Radiative Transfer Inversion in FORUM All-Sky Observations**|Cristina Sgattoni et.al.|[2512.24865](https://arxiv.org/abs/2512.24865)|null|
 |**2025-12-31**|**SliceLens: Fine-Grained and Grounded Error Slice Discovery for Multi-Instance Vision Tasks**|Wei Zhang et.al.|[2512.24592](https://arxiv.org/abs/2512.24592)|null|
 |**2025-12-30**|**Medical Image Classification on Imbalanced Data Using ProGAN and SMA-Optimized ResNet: Application to COVID-19**|Sina Jahromi et.al.|[2512.24214](https://arxiv.org/abs/2512.24214)|null|
@@ -106,13 +117,13 @@
 |**2025-12-01**|**nnMobileNet++: Towards Efficient Hybrid Networks for Retinal Image Analysis**|Xin Li et.al.|[2512.01273](https://arxiv.org/abs/2512.01273)|null|
 |**2025-12-01**|**Teaching by Failure: Counter-Example-Driven Curricula for Transformer Self-Improvement**|Harshil Vejendla et.al.|[2512.01187](https://arxiv.org/abs/2512.01187)|null|
 |**2025-11-30**|**Projection-Free CNN Pruning via Frank-Wolfe with Momentum: Sparser Models with Less Pretraining**|Hamza ElMokhtar Shili et.al.|[2512.01147](https://arxiv.org/abs/2512.01147)|null|
-|**2025-11-30**|**OmniFD: A Unified Model for Versatile Face Forgery Detection**|Haotian Liu et.al.|[2512.01128](https://arxiv.org/abs/2512.01128)|**[link](https://github.com/haotianll/OmniFD.)**|
+|**2025-11-30**|**OmniFD: A Unified Model for Versatile Face Forgery Detection**|Haotian Liu et.al.|[2512.01128](https://arxiv.org/abs/2512.01128)|null|
 |**2025-11-29**|**Financial Text Classification Based On rLoRA Finetuning On Qwen3-8B model**|Zhiming Lian et.al.|[2512.00630](https://arxiv.org/abs/2512.00630)|null|
 |**2025-11-29**|**Learning What Helps: Task-Aligned Context Selection for Vision Tasks**|Jingyu Guo et.al.|[2512.00489](https://arxiv.org/abs/2512.00489)|null|
 |**2025-11-29**|**Vision Transformer for Classification of UAV and Helicopters Using Micro-Doppler Spectrograms in Surveillance Radar**|Arkadiusz Czuba et.al.|[2512.00374](https://arxiv.org/abs/2512.00374)|null|
 |**2025-11-26**|**SemImage: Semantic Image Representation for Text, a Novel Framework for Embedding Disentangled Linguistic Features**|Mohammad Zare et.al.|[2512.00088](https://arxiv.org/abs/2512.00088)|null|
 |**2025-11-28**|**Decoding the Past: Explainable Machine Learning Models for Dating Historical Texts**|Paulo J. N. Pinto et.al.|[2511.23056](https://arxiv.org/abs/2511.23056)|null|
-|**2025-11-27**|**The Collapse of Patches**|Wei Guo et.al.|[2511.22281](https://arxiv.org/abs/2511.22281)|**[link](https://github.com/wguo-ai/CoP)**|
+|**2025-11-27**|**The Collapse of Patches**|Wei Guo et.al.|[2511.22281](https://arxiv.org/abs/2511.22281)|null|
 |**2025-11-27**|**Support Vector Machine Classifier with Rescaled Huberized Pinball Loss**|Shibo Diao et.al.|[2511.22065](https://arxiv.org/abs/2511.22065)|null|
 |**2025-11-27**|**When Do Domain-Specific Foundation Models Justify Their Cost? A Systematic Evaluation Across Retinal Imaging Tasks**|David Isztl et.al.|[2511.22001](https://arxiv.org/abs/2511.22001)|null|
 |**2025-11-26**|**DeepGI: Explainable Deep Learning for Gastrointestinal Image Classification**|Walid Houmaidi et.al.|[2511.21959](https://arxiv.org/abs/2511.21959)|null|
@@ -138,12 +149,12 @@
 |**2025-11-22**|**Hierarchical Semi-Supervised Active Learning for Remote Sensing**|Wei Huang et.al.|[2511.18058](https://arxiv.org/abs/2511.18058)|null|
 |**2025-11-21**|**A Hybrid Classical-Quantum Fine Tuned BERT for Text Classification**|Abu Kaisar Mohammad Masum et.al.|[2511.17677](https://arxiv.org/abs/2511.17677)|null|
 |**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen et.al.|[2511.17442](https://arxiv.org/abs/2511.17442)|null|
-|**2025-11-21**|**DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture**|Xiangteng He et.al.|[2511.17354](https://arxiv.org/abs/2511.17354)|**[link](https://github.com/SkyShunsuke/DSeq-JEPA.)**|
+|**2025-11-21**|**DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture**|Xiangteng He et.al.|[2511.17354](https://arxiv.org/abs/2511.17354)|null|
 |**2025-11-21**|**Attention-Guided Feature Fusion (AGFF) Model for Integrating Statistical and Semantic Features in News Text Classification**|Mohammad Zare et.al.|[2511.17184](https://arxiv.org/abs/2511.17184)|null|
 |**2025-11-15**|**Concept-Based Interpretability for Toxicity Detection**|Samarth Garg et.al.|[2511.16689](https://arxiv.org/abs/2511.16689)|null|
 |**2025-11-13**|**Ellipsoid-Based Decision Boundaries for Open Intent Classification**|Yuetian Zou et.al.|[2511.16685](https://arxiv.org/abs/2511.16685)|null|
 |**2025-11-20**|**Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation**|Md. Samiul Alim et.al.|[2511.16653](https://arxiv.org/abs/2511.16653)|null|
-|**2025-11-20**|**Formal Abductive Latent Explanations for Prototype-Based Networks**|Jules Soria et.al.|[2511.16588](https://arxiv.org/abs/2511.16588)|**[link](https://github.com/julsoria/ale)**|
+|**2025-11-20**|**Formal Abductive Latent Explanations for Prototype-Based Networks**|Jules Soria et.al.|[2511.16588](https://arxiv.org/abs/2511.16588)|null|
 |**2025-11-20**|**Unsupervised Image Classification with Adaptive Nearest Neighbor Selection and Cluster Ensembles**|Melih Baydar et.al.|[2511.16213](https://arxiv.org/abs/2511.16213)|null|
 |**2025-11-20**|**SpectralTrain: A Universal Framework for Hyperspectral Image Classification**|Meihua Zhou et.al.|[2511.16084](https://arxiv.org/abs/2511.16084)|null|
 |**2025-11-19**|**RB-FT: Rationale-Bootstrapped Fine-Tuning for Video Classification**|Meilong Xu et.al.|[2511.15923](https://arxiv.org/abs/2511.15923)|null|
@@ -2725,7 +2736,7 @@
 |**2024-04-08**|**Neural Cellular Automata for Lightweight, Robust and Explainable Classification of White Blood Cell Images**|Michael Deutges et.al.|[2404.05584](https://arxiv.org/abs/2404.05584)|null|
 |**2024-04-08**|**On the Convergence of Continual Learning with Adaptive Methods**|Seungyub Han et.al.|[2404.05555](https://arxiv.org/abs/2404.05555)|null|
 |**2024-04-08**|**Multi-Task Learning for Features Extraction in Financial Annual Reports**|Syrielle Montariol et.al.|[2404.05281](https://arxiv.org/abs/2404.05281)|**[link](https://gitlab.com/smontariol/multi-task-esg)**|
-|**2024-04-08**|**Allowing humans to interactively guide machines where to look does not always improve a human-AI team's classification accuracy**|Giang Nguyen et.al.|[2404.05238](https://arxiv.org/abs/2404.05238)|null|
+|**2024-04-08**|**Allowing humans to interactively guide machines where to look does not always improve a human-AI team's classification accuracy**|Giang Nguyen et.al.|[2404.05238](https://arxiv.org/abs/2404.05238)|**[link](https://github.com/anguyen8/chm-corr-interactive)**|
 |**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207](https://arxiv.org/abs/2404.05207)|null|
 |**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159](https://arxiv.org/abs/2404.05159)|null|
 |**2024-04-07**|**PairAug: What Can Augmented Image-Text Pairs Do for Radiology?**|Yutong Xie et.al.|[2404.04960](https://arxiv.org/abs/2404.04960)|**[link](https://github.com/ytongxie/pairaug)**|

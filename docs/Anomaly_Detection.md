@@ -2,6 +2,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**Hunting for "Oddballs" with Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders**|Alexander Roman et.al.|[2601.02324](https://arxiv.org/abs/2601.02324)|null|
+|**2026-01-05**|**BigSUMO: A Scalable Framework for Big Data Traffic Analytics and Parallel Simulation**|Rahul Sengupta et.al.|[2601.02286](https://arxiv.org/abs/2601.02286)|null|
+|**2026-01-05**|**Quantum AI for Cybersecurity: A hybrid Quantum-Classical models for attack path analysis**|Jessica A. Sciammarelli et.al.|[2601.02237](https://arxiv.org/abs/2601.02237)|null|
+|**2026-01-05**|**Multivariate Time-series Anomaly Detection via Dynamic Model Pool & Ensembling**|Wei Hu et.al.|[2601.02037](https://arxiv.org/abs/2601.02037)|null|
+|**2026-01-05**|**GCR: Geometry-Consistent Routing for Task-Agnostic Continual Anomaly Detection**|Joongwon Chae et.al.|[2601.01856](https://arxiv.org/abs/2601.01856)|null|
+|**2026-01-05**|**Beyond Homophily: Community Search on Heterophilic Graphs**|Qing Sima et.al.|[2601.01703](https://arxiv.org/abs/2601.01703)|null|
+|**2026-01-05**|**Digital Twin-Driven Communication-Efficient Federated Anomaly Detection for Industrial IoT**|Mohammed Ayalew Belay et.al.|[2601.01701](https://arxiv.org/abs/2601.01701)|null|
+|**2026-01-04**|**Communication-Efficient Federated AUC Maximization with Cyclic Client Participation**|Umesh Vangapally et.al.|[2601.01649](https://arxiv.org/abs/2601.01649)|null|
+|**2026-01-04**|**Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making**|Danial Amin et.al.|[2601.01522](https://arxiv.org/abs/2601.01522)|null|
+|**2026-01-04**|**A Graph-based Framework for Online Time Series Anomaly Detection Using Model Ensemble**|Zewei Yu et.al.|[2601.01403](https://arxiv.org/abs/2601.01403)|null|
+|**2026-01-04**|**SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning**|Peidong Wang et.al.|[2601.01392](https://arxiv.org/abs/2601.01392)|null|
+|**2026-01-04**|**A New Framework for Explainable Rare Cell Identification in Single-Cell Transcriptomics Data**|Di Su et.al.|[2601.01358](https://arxiv.org/abs/2601.01358)|null|
+|**2026-01-04**|**Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models**|Rong Zhou et.al.|[2601.01321](https://arxiv.org/abs/2601.01321)|null|
+|**2026-01-03**|**Comparative Evaluation of VAE, GAN, and SMOTE for Tor Detection in Encrypted Network Traffic**|Saravanan A et.al.|[2601.01183](https://arxiv.org/abs/2601.01183)|null|
+|**2026-01-03**|**AI-Powered Hybrid Intrusion Detection Framework for Cloud Security Using Novel Metaheuristic Optimization**|Maryam Mahdi Alhusseini et.al.|[2601.01134](https://arxiv.org/abs/2601.01134)|null|
+|**2026-01-03**|**Tiny Machine Learning for Real-Time Aquaculture Monitoring: A Case Study in Morocco**|Achraf Hsain et.al.|[2601.01065](https://arxiv.org/abs/2601.01065)|null|
+|**2026-01-03**|**Byzantine-Robust Federated Learning Framework with Post-Quantum Secure Aggregation for Real-Time Threat Intelligence Sharing in Critical IoT Infrastructure**|Milad Rahmati et.al.|[2601.01053](https://arxiv.org/abs/2601.01053)|null|
+|**2026-01-03**|**Improving Variational Autoencoder using Random Fourier Transformation: An Aviation Safety Anomaly Detection Case-Study**|Ata Akbari Asanjan et.al.|[2601.01016](https://arxiv.org/abs/2601.01016)|null|
+|**2025-12-31**|**Towards eco friendly cybersecurity: machine learning based anomaly detection with carbon and energy metrics**|KC Aashish et.al.|[2601.00893](https://arxiv.org/abs/2601.00893)|null|
+|**2025-12-31**|**Outlier Detection Using Vector Cosine Similarity by Adding a Dimension**|Zhongyang Shen et.al.|[2601.00883](https://arxiv.org/abs/2601.00883)|null|
+|**2025-12-30**|**Quantum Machine Learning Approaches for Coordinated Stealth Attack Detection in Distributed Generation Systems**|Osasumwen Cedric Ogiesoba-Eguakun et.al.|[2601.00873](https://arxiv.org/abs/2601.00873)|null|
+|**2026-01-02**|**Improving Router Security using BERT**|John Carter et.al.|[2601.00783](https://arxiv.org/abs/2601.00783)|null|
+|**2026-01-02**|**Cyberscurity Threats and Defense Mechanisms in IoT network**|Trung Dao et.al.|[2601.00556](https://arxiv.org/abs/2601.00556)|null|
+|**2026-01-02**|**Trajectory Guard -- A Lightweight, Sequence-Aware Model for Real-Time Anomaly Detection in Agentic AI**|Laksh Advani et.al.|[2601.00516](https://arxiv.org/abs/2601.00516)|null|
+|**2026-01-01**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al.|[2601.00446](https://arxiv.org/abs/2601.00446)|null|
+|**2026-01-01**|**NOS-Gate: Queue-Aware Streaming IDS for Consumer Gateways under Timing-Controlled Evasion**|Muhammad Bilal et.al.|[2601.00389](https://arxiv.org/abs/2601.00389)|null|
+|**2026-01-01**|**Engineering Attack Vectors and Detecting Anomalies in Additive Manufacturing**|Md Mahbub Hasan et.al.|[2601.00384](https://arxiv.org/abs/2601.00384)|null|
+|**2026-01-01**|**PatchBlock: A Lightweight Defense Against Adversarial Patches for Embedded EdgeAI Devices**|Nandish Chattopadhyay et.al.|[2601.00367](https://arxiv.org/abs/2601.00367)|null|
+|**2026-01-01**|**HarmoniAD: Harmonizing Local Structures and Global Semantics for Anomaly Detection**|Naiqi Zhang et.al.|[2601.00327](https://arxiv.org/abs/2601.00327)|null|
+|**2025-12-31**|**The Trojan in the Vocabulary: Stealthy Sabotage of LLM Composition**|Xiaoze Liu et.al.|[2601.00065](https://arxiv.org/abs/2601.00065)|null|
+|**2025-12-07**|**Evaluating Anomaly Detectors for Simulated Highly Imbalanced Industrial Classification Problems**|Lesley Wheat et.al.|[2601.00005](https://arxiv.org/abs/2601.00005)|null|
 |**2025-12-31**|**Trustworthy Equipment Monitoring via Cascaded Anomaly Detection and Thermal Localization**|Sungwoo Kang et.al.|[2512.24755](https://arxiv.org/abs/2512.24755)|null|
 |**2025-12-30**|**Using Large Language Models To Translate Machine Results To Human Results**|Trishna Niraula et.al.|[2512.24518](https://arxiv.org/abs/2512.24518)|null|
 |**2025-12-30**|**FAST-IDS: A Fast Two-Stage Intrusion Detection System with Hybrid Compression for Real-Time Threat Detection in Connected and Autonomous Vehicles**|Devika S et.al.|[2512.24391](https://arxiv.org/abs/2512.24391)|null|
@@ -15,7 +46,7 @@
 |**2025-12-29**|**A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms**|Kanishka Hewageegana et.al.|[2512.23777](https://arxiv.org/abs/2512.23777)|null|
 |**2025-12-29**|**Distribution-Free Process Monitoring with Conformal Prediction**|Christopher Burger et.al.|[2512.23602](https://arxiv.org/abs/2512.23602)|null|
 |**2025-12-29**|**Unsupervised Learning for Detection of Rare Driving Scenarios**|Dat Le et.al.|[2512.23585](https://arxiv.org/abs/2512.23585)|null|
-|**2025-12-29**|**A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers**|Mohammad Nasirzadeh et.al.|[2512.23380](https://arxiv.org/abs/2512.23380)|**[link](https://github.com/NasirzadehMoh/CoLog.)**|
+|**2025-12-29**|**A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers**|Mohammad Nasirzadeh et.al.|[2512.23380](https://arxiv.org/abs/2512.23380)|null|
 |**2025-12-29**|**Anomaly Detection by Effectively Leveraging Synthetic Images**|Sungho Kang et.al.|[2512.23227](https://arxiv.org/abs/2512.23227)|null|
 |**2025-12-28**|**Determining habitat anomalies in cross-diffusion predator-prey chemotaxis models**|Yuhan Li et.al.|[2512.22946](https://arxiv.org/abs/2512.22946)|null|
 |**2025-12-25**|**Multi-Head Spectral-Adaptive Graph Anomaly Detection**|Qingyue Cao et.al.|[2512.22291](https://arxiv.org/abs/2512.22291)|null|
@@ -25,7 +56,7 @@
 |**2025-12-26**|**Unsupervised Anomaly Detection in Brain MRI via Disentangled Anatomy Learning**|Tao Yang et.al.|[2512.21924](https://arxiv.org/abs/2512.21924)|null|
 |**2025-12-26**|**Secure and Explainable Fraud Detection in Finance via Hierarchical Multi-source Dataset Distillation**|Yiming Qian et.al.|[2512.21866](https://arxiv.org/abs/2512.21866)|null|
 |**2025-12-25**|**Causal-HM: Restoring Physical Generative Logic in Multimodal Anomaly Detection via Hierarchical Modulation**|Xiao Liu et.al.|[2512.21650](https://arxiv.org/abs/2512.21650)|null|
-|**2025-12-25**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al.|[2512.21459](https://arxiv.org/abs/2512.21459)|**[link](https://github.com/chloeqxq/CCAD.)**|
+|**2025-12-25**|**CCAD: Compressed Global Feature Conditioned Anomaly Detection**|Xiao Jin et.al.|[2512.21459](https://arxiv.org/abs/2512.21459)|null|
 |**2025-12-24**|**AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI**|Changwei Wu et.al.|[2512.21264](https://arxiv.org/abs/2512.21264)|null|
 |**2025-12-24**|**Neutralization of IMU-Based GPS Spoofing Detection using external IMU sensor and feedback methodology**|Ji Hyuk Jung et.al.|[2512.20964](https://arxiv.org/abs/2512.20964)|null|
 |**2025-12-23**|**High Dimensional Data Decomposition for Anomaly Detection of Textured Images**|Ji Song et.al.|[2512.20432](https://arxiv.org/abs/2512.20432)|null|
@@ -160,7 +191,7 @@
 |**2025-12-01**|**AI-Driven Cybersecurity Testbed for Nuclear Infrastructure: Comprehensive Evaluation Using METL Operational Data**|Benjamin Blakely et.al.|[2512.01727](https://arxiv.org/abs/2512.01727)|null|
 |**2025-12-01**|**ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**|Zhongyuan Wu et.al.|[2512.01672](https://arxiv.org/abs/2512.01672)|null|
 |**2025-12-01**|**Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis**|Alexander Frotscher et.al.|[2512.01534](https://arxiv.org/abs/2512.01534)|null|
-|**2025-12-01**|**No Trust Issues Here: A Technical Report on the Winning Solutions for the Rayan AI Contest**|Ali Nafisi et.al.|[2512.01498](https://arxiv.org/abs/2512.01498)|**[link](https://github.com/safinal/rayan-ai-contest-solutions)**|
+|**2025-12-01**|**No Trust Issues Here: A Technical Report on the Winning Solutions for the Rayan AI Contest**|Ali Nafisi et.al.|[2512.01498](https://arxiv.org/abs/2512.01498)|null|
 |**2025-12-01**|**Modeling Wavelet Transformed Quantum Support Vector for Network Intrusion Detection**|Swati Kumari et.al.|[2512.01365](https://arxiv.org/abs/2512.01365)|null|
 |**2025-12-01**|**The Dynamical Model Representation of Convolution-Generated Spatio-Temporal Gaussian Processes and Its Applications**|Yutong Zhang et.al.|[2512.01279](https://arxiv.org/abs/2512.01279)|null|
 |**2025-11-30**|**Opportunities and Challenges for Data Quality in the Era of Quantum Computing**|Sven Groppe et.al.|[2512.00870](https://arxiv.org/abs/2512.00870)|null|
