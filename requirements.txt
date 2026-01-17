@@ -1,3 +1,3 @@
-requests
-arxiv
-pyyaml
+requests>=2.31.0
+arxiv>=2.1.0
+pyyaml>=6.0

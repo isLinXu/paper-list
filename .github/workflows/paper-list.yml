@@ -40,9 +40,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install arxiv
-          pip install requests
-          pip install pyyaml
+          pip install -r requirements.txt
           
       - name: Run daily arxiv 
         run: |
