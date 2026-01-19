@@ -1,5 +1,5 @@
 # TODO: add papers by configuration file
-start_date: "2025-07-23"
+start_date: "2026-01-05"
 end_date: null
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "isLinXu"
@@ -7,7 +7,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 200
+max_results: 400
 filename: "output.json"
 filename_web: "output_web.json"
 md_filename: "output.md"

@@ -2,9 +2,47 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](https://arxiv.org/abs/2601.10848)|null|
+|**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](https://arxiv.org/abs/2601.10117)|null|
+|**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](https://arxiv.org/abs/2601.10107)|null|
+|**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](https://arxiv.org/abs/2601.09812)|**[link](https://github.com/CarloSgaravatti/LCF3D.)**|
+|**2026-01-14**|**AquaFeat+: an Underwater Vision Learning-based Enhancement Method for Object Detection, Classification, and Tracking**|Emanuel da Costa Silva et.al.|[2601.09652](https://arxiv.org/abs/2601.09652)|null|
+|**2026-01-14**|**Towards Robust Cross-Dataset Object Detection Generalization under Domain Specificity**|Ritabrata Chakraborty et.al.|[2601.09497](https://arxiv.org/abs/2601.09497)|**[link](https://github.com/Ritabrata04/cdod-icpr.git)**|
+|**2026-01-14**|**DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos**|Jiajun Chen et.al.|[2601.09240](https://arxiv.org/abs/2601.09240)|null|
+|**2026-01-14**|**Disentangle Object and Non-object Infrared Features via Language Guidance**|Fan Liu et.al.|[2601.09228](https://arxiv.org/abs/2601.09228)|null|
+|**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](https://arxiv.org/abs/2601.08797)|**[link](https://github.com/zhiqin1998/DentYOLOX.)**|
+|**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](https://arxiv.org/abs/2601.08602)|null|
+|**2026-01-13**|**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**|Yizhan Feng et.al.|[2601.08408](https://arxiv.org/abs/2601.08408)|null|
+|**2026-01-13**|**Human-inspired Global-to-Parallel Multi-scale Encoding for Lightweight Vision Models**|Wei Xu et.al.|[2601.08190](https://arxiv.org/abs/2601.08190)|null|
+|**2026-01-13**|**Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling**|Xiyan Feng et.al.|[2601.08174](https://arxiv.org/abs/2601.08174)|null|
+|**2026-01-13**|**Representation Learning with Semantic-aware Instance and Sparse Token Alignments**|Phuoc-Nguyen Bui et.al.|[2601.08165](https://arxiv.org/abs/2601.08165)|null|
+|**2026-01-13**|**From Prompts to Deployment: Auto-Curated Domain-Specific Dataset Generation via Diffusion Models**|Dongsik Yoon et.al.|[2601.08095](https://arxiv.org/abs/2601.08095)|null|
+|**2026-01-12**|**Integrating Attendance Tracking and Emotion Detection for Enhanced Student Engagement in Smart Classrooms**|Keith Ainebyona et.al.|[2601.08049](https://arxiv.org/abs/2601.08049)|null|
+|**2026-01-06**|**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**|Shree Charran R et.al.|[2601.07845](https://arxiv.org/abs/2601.07845)|null|
+|**2026-01-12**|**GenDet: Painting Colored Bounding Boxes on Images via Diffusion Model for Object Detection**|Chen Min et.al.|[2601.07273](https://arxiv.org/abs/2601.07273)|null|
+|**2026-01-12**|**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**|Taisuke Noguchi et.al.|[2601.07119](https://arxiv.org/abs/2601.07119)|null|
+|**2026-01-11**|**Billboard in Focus: Estimating Driver Gaze Duration from a Single Image**|Carlos Pizarroso et.al.|[2601.07073](https://arxiv.org/abs/2601.07073)|null|
+|**2026-01-08**|**STResNet & STYOLO : A New Family of Compact Classification and Object Detection Models for MCUs**|Sudhakar Sah et.al.|[2601.05364](https://arxiv.org/abs/2601.05364)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](https://arxiv.org/abs/2601.05105)|null|
+|**2026-01-08**|**Character Detection using YOLO for Writer Identification in multiple Medieval books**|Alessandra Scotto di Freca et.al.|[2601.04834](https://arxiv.org/abs/2601.04834)|null|
+|**2026-01-08**|**When AI Settles Down: Late-Stage Stability as a Signature of AI-Generated Text Detection**|Ke Sun et.al.|[2601.04833](https://arxiv.org/abs/2601.04833)|null|
+|**2026-01-08**|**Optimization of Deep Learning Models for Radio Galaxy Classification**|Philipp Denzel et.al.|[2601.04773](https://arxiv.org/abs/2601.04773)|null|
+|**2026-01-08**|**DP-MGTD: Privacy-Preserving Machine-Generated Text Detection via Adaptive Differentially Private Entity Sanitization**|Lionel Z. Wang et.al.|[2601.04641](https://arxiv.org/abs/2601.04641)|null|
+|**2026-01-07**|**Few-Shot LoRA Adaptation of a Flow-Matching Foundation Model for Cross-Spectral Object Detection**|Maxim Clouser et.al.|[2601.04381](https://arxiv.org/abs/2601.04381)|null|
+|**2026-01-07**|**Correcting Autonomous Driving Object Detection Misclassifications with Automated Commonsense Reasoning**|Keegan Kimbrell et.al.|[2601.04271](https://arxiv.org/abs/2601.04271)|null|
+|**2026-01-07**|**AI Generated Text Detection**|Adilkhan Alikhanov et.al.|[2601.03812](https://arxiv.org/abs/2601.03812)|null|
+|**2026-01-07**|**A Comparative Study of 3D Model Acquisition Methods for Synthetic Data Generation of Agricultural Products**|Steven Moonen et.al.|[2601.03784](https://arxiv.org/abs/2601.03784)|null|
+|**2026-01-07**|**HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection**|Shuyan Bai et.al.|[2601.03736](https://arxiv.org/abs/2601.03736)|null|
+|**2026-01-07**|**Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection**|Samson Oseiwe Ajadalu et.al.|[2601.03617](https://arxiv.org/abs/2601.03617)|null|
+|**2026-01-07**|**Physics-Constrained Cross-Resolution Enhancement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2601.03526](https://arxiv.org/abs/2601.03526)|null|
+|**2026-01-06**|**CageDroneRF: A Large-Scale RF Benchmark and Toolkit for Drone Perception**|Mohammad Rostami et.al.|[2601.03302](https://arxiv.org/abs/2601.03302)|null|
+|**2026-01-06**|**Motion Blur Robust Wheat Pest Damage Detection with Dynamic Fuzzy Feature Fusion**|Han Zhang et.al.|[2601.03046](https://arxiv.org/abs/2601.03046)|null|
+|**2026-01-06**|**Towards Efficient 3D Object Detection for Vehicle-Infrastructure Collaboration via Risk-Intent Selection**|Li Wang et.al.|[2601.03001](https://arxiv.org/abs/2601.03001)|null|
+|**2026-01-06**|**DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection**|Yuetong Li et.al.|[2601.02831](https://arxiv.org/abs/2601.02831)|null|
+|**2026-01-06**|**D $^3$ R-DETR: DETR with Dual-Domain Density Refinement for Tiny Object Detection in Aerial Images**|Zixiao Wen et.al.|[2601.02747](https://arxiv.org/abs/2601.02747)|null|
 |**2026-01-05**|**SortWaste: A Densely Annotated Dataset for Object Detection in Industrial Waste Sorting**|Sara Inácio et.al.|[2601.02299](https://arxiv.org/abs/2601.02299)|null|
 |**2026-01-05**|**SLGNet: Synergizing Structural Priors and Language-Guided Modulation for Multimodal Object Detection**|Xiantai Xiang et.al.|[2601.02249](https://arxiv.org/abs/2601.02249)|null|
-|**2026-01-05**|**Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach**|Matthias Bartolo et.al.|[2601.02016](https://arxiv.org/abs/2601.02016)|null|
+|**2026-01-05**|**Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach**|Matthias Bartolo et.al.|[2601.02016](https://arxiv.org/abs/2601.02016)|**[link](https://github.com/mbar0075/lupi-for-object-detection)**|
 |**2026-01-05**|**Point-SRA: Self-Representation Alignment for 3D Representation Learning**|Lintong Wei et.al.|[2601.01746](https://arxiv.org/abs/2601.01746)|null|
 |**2026-01-05**|**An AI-guided mechanotyping instrument for fully automated oocyte quality assessment**|Yining Guo et.al.|[2601.01728](https://arxiv.org/abs/2601.01728)|null|
 |**2026-01-04**|**Learnability-Driven Submodular Optimization for Active Roadside 3D Detection**|Ruiyu Mao et.al.|[2601.01695](https://arxiv.org/abs/2601.01695)|null|

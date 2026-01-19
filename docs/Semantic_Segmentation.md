@@ -2,8 +2,42 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**|Emily Steiner et.al.|[2601.11508](https://arxiv.org/abs/2601.11508)|null|
+|**2026-01-16**|**Context-Aware Semantic Segmentation via Stage-Wise Attention**|Antoine Carreaud et.al.|[2601.11310](https://arxiv.org/abs/2601.11310)|null|
+|**2026-01-16**|**SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2**|Gergely Dinya et.al.|[2601.11301](https://arxiv.org/abs/2601.11301)|null|
+|**2026-01-16**|**Graph Smoothing for Enhanced Local Geometry Learning in Point Cloud Analysis**|Shangbo Yuan et.al.|[2601.11102](https://arxiv.org/abs/2601.11102)|null|
+|**2026-01-16**|**Sparse Data Tree Canopy Segmentation: Fine-Tuning Leading Pretrained Models on Only 150 Images**|David Szczecina et.al.|[2601.10931](https://arxiv.org/abs/2601.10931)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477](https://arxiv.org/abs/2601.10477)|**[link](https://github.com/AMAP-ML/SocioReasoner.)**|
+|**2026-01-15**|**An effective interactive brain cytoarchitectonic parcellation framework using pretrained foundation model**|Shiqi Zhang et.al.|[2601.10412](https://arxiv.org/abs/2601.10412)|null|
+|**2026-01-14**|**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**|Yang Xing et.al.|[2601.09879](https://arxiv.org/abs/2601.09879)|null|
+|**2026-01-14**|**SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series**|Kai Hu et.al.|[2601.09110](https://arxiv.org/abs/2601.09110)|null|
+|**2026-01-14**|**Vision Foundation Models for Domain Generalisable Cross-View Localisation in Planetary Ground-Aerial Robotic Teams**|Lachlan Holden et.al.|[2601.09107](https://arxiv.org/abs/2601.09107)|null|
+|**2026-01-13**|**Instance camera focus prediction for crystal agglomeration classification**|Xiaoyu Ji et.al.|[2601.09004](https://arxiv.org/abs/2601.09004)|null|
+|**2026-01-13**|**SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds**|Constantin Kolomiiets et.al.|[2601.08982](https://arxiv.org/abs/2601.08982)|null|
+|**2026-01-13**|**3AM: Segment Anything with Geometric Consistency in Videos**|Yang-Che Sun et.al.|[2601.08831](https://arxiv.org/abs/2601.08831)|null|
+|**2026-01-13**|**DentalX: Context-Aware Dental Disease Detection with Radiographs**|Zhi Qin Tan et.al.|[2601.08797](https://arxiv.org/abs/2601.08797)|**[link](https://github.com/zhiqin1998/DentYOLOX.)**|
+|**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](https://arxiv.org/abs/2601.08602)|null|
+|**2026-01-13**|**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**|Yizhan Feng et.al.|[2601.08408](https://arxiv.org/abs/2601.08408)|null|
+|**2026-01-13**|**Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation**|Yuan Gao et.al.|[2601.08375](https://arxiv.org/abs/2601.08375)|null|
+|**2026-01-13**|**Semantic Misalignment in Vision-Language Models under Perceptual Degradation**|Guo Cheng et.al.|[2601.08355](https://arxiv.org/abs/2601.08355)|null|
+|**2026-01-13**|**Human-inspired Global-to-Parallel Multi-scale Encoding for Lightweight Vision Models**|Wei Xu et.al.|[2601.08190](https://arxiv.org/abs/2601.08190)|null|
+|**2026-01-13**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Peng Gao et.al.|[2601.08133](https://arxiv.org/abs/2601.08133)|null|
+|**2026-01-12**|**Exchange Is All You Need for Remote Sensing Change Detection**|Sijun Dong et.al.|[2601.07805](https://arxiv.org/abs/2601.07805)|null|
+|**2026-01-12**|**PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion**|Mahdi Chamseddine et.al.|[2601.07447](https://arxiv.org/abs/2601.07447)|null|
+|**2026-01-10**|**Boosting Overlapping Organoid Instance Segmentation Using Pseudo-Label Unmixing and Synthesis-Assisted Learning**|Gui Huang et.al.|[2601.06642](https://arxiv.org/abs/2601.06642)|null|
+|**2026-01-08**|**When Imbalance Comes Twice: Active Learning under Simulated Class Imbalance and Label Shift in Binary Semantic Segmentation**|Julien Combes et.al.|[2601.06209](https://arxiv.org/abs/2601.06209)|null|
+|**2026-01-09**|**Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens**|Yohann Perron et.al.|[2601.05927](https://arxiv.org/abs/2601.05927)|null|
+|**2026-01-08**|**UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition**|Filippo Ghilotti et.al.|[2601.05105](https://arxiv.org/abs/2601.05105)|null|
+|**2026-01-08**|**TEA: Temporal Adaptive Satellite Image Semantic Segmentation**|Juyuan Kang et.al.|[2601.04956](https://arxiv.org/abs/2601.04956)|null|
+|**2026-01-07**|**Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection**|Samson Oseiwe Ajadalu et.al.|[2601.03617](https://arxiv.org/abs/2601.03617)|null|
+|**2026-01-07**|**Physics-Constrained Cross-Resolution Enhancement Network for Optics-Guided Thermal UAV Image Super-Resolution**|Zhicheng Zhao et.al.|[2601.03526](https://arxiv.org/abs/2601.03526)|null|
+|**2026-01-07**|**A Vision-Language-Action Model with Visual Prompt for OFF-Road Autonomous Driving**|Liangdong Zhang et.al.|[2601.03519](https://arxiv.org/abs/2601.03519)|null|
+|**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](https://arxiv.org/abs/2601.03510)|null|
+|**2026-01-06**|**LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images**|Matěj Pekár et.al.|[2601.03163](https://arxiv.org/abs/2601.03163)|**[link](https://github.com/RationAI/lsp-detr.)**|
+|**2026-01-06**|**EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework**|Junjue Wang et.al.|[2601.02783](https://arxiv.org/abs/2601.02783)|null|
+|**2026-01-06**|**M-SEVIQ: A Multi-band Stereo Event Visual-Inertial Quadruped-based Dataset for Perception under Rapid Motion and Challenging Illumination**|Jingcheng Cao et.al.|[2601.02777](https://arxiv.org/abs/2601.02777)|null|
 |**2026-01-05**|**Joint Semantic and Rendering Enhancements in 3D Gaussian Modeling with Anisotropic Local Encoding**|Jingming He et.al.|[2601.02339](https://arxiv.org/abs/2601.02339)|null|
-|**2026-01-05**|**Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping**|Saurabh Kaushik et.al.|[2601.02315](https://arxiv.org/abs/2601.02315)|null|
+|**2026-01-05**|**Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping**|Saurabh Kaushik et.al.|[2601.02315](https://arxiv.org/abs/2601.02315)|**[link](https://github.com/Sk-2103/Prithvi-CAFE)**|
 |**2026-01-05**|**TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation**|Salim Khazem et.al.|[2601.02273](https://arxiv.org/abs/2601.02273)|null|
 |**2026-01-05**|**Leveraging 2D-VLM for Label-Free 3D Segmentation in Large-Scale Outdoor Scene Understanding**|Toshihiko Nishimura et.al.|[2601.02029](https://arxiv.org/abs/2601.02029)|null|
 |**2026-01-05**|**Subimage Overlap Prediction: Task-Aligned Self-Supervised Pretraining For Semantic Segmentation In Remote Sensing Imagery**|Lakshay Sharma et.al.|[2601.01781](https://arxiv.org/abs/2601.01781)|null|

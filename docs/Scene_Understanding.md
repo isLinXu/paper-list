@@ -2,6 +2,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**|Hanlin Wu et.al.|[2601.11396](https://arxiv.org/abs/2601.11396)|null|
+|**2026-01-15**|**CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing**|David Morilla-Cabello et.al.|[2601.10340](https://arxiv.org/abs/2601.10340)|null|
+|**2026-01-14**|**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**|Sheng-Yu Huang et.al.|[2601.09575](https://arxiv.org/abs/2601.09575)|null|
+|**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li et.al.|[2601.09031](https://arxiv.org/abs/2601.09031)|null|
+|**2026-01-13**|**Salience-SGG: Enhancing Unbiased Scene Graph Generation with Iterative Salience Estimation**|Runfeng Qu et.al.|[2601.08728](https://arxiv.org/abs/2601.08728)|null|
+|**2026-01-13**|**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**|Feiran Wang et.al.|[2601.08175](https://arxiv.org/abs/2601.08175)|null|
+|**2026-01-12**|**Smooth Operator: Smooth Verifiable Reward Activates Spatial Reasoning Ability of Vision-Language Model**|Siwen Jiao et.al.|[2601.07695](https://arxiv.org/abs/2601.07695)|null|
+|**2026-01-12**|**FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments**|Chen Feng et.al.|[2601.07558](https://arxiv.org/abs/2601.07558)|null|
+|**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333](https://arxiv.org/abs/2601.07333)|null|
+|**2026-01-10**|**3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**|Hao Tang et.al.|[2601.06496](https://arxiv.org/abs/2601.06496)|**[link](https://github.com/AIGeeksGroup/3DCoCav2)**|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](https://arxiv.org/abs/2601.06474)|null|
+|**2026-01-10**|**Semantic Enrichment of CAD-Based Industrial Environments via Scene Graphs for Simulation and Reasoning**|Nathan Pascal Walus et.al.|[2601.06415](https://arxiv.org/abs/2601.06415)|null|
+|**2026-01-09**|**GeoSurDepth: Spatial Geometry-Consistent Self-Supervised Depth Estimation for Surround-View Cameras**|Weimin Liu et.al.|[2601.05839](https://arxiv.org/abs/2601.05839)|null|
+|**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou et.al.|[2601.04754](https://arxiv.org/abs/2601.04754)|**[link](https://github.com/chiou1203/ProFuse)**|
+|**2026-01-07**|**UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving**|Zhexiao Xiong et.al.|[2601.04453](https://arxiv.org/abs/2601.04453)|null|
+|**2026-01-07**|**Bayesian Monocular Depth Refinement via Neural Radiance Fields**|Arun Muthukkumar et.al.|[2601.03869](https://arxiv.org/abs/2601.03869)|null|
+|**2026-01-07**|**G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Semantic Segmentation**|Hojun Song et.al.|[2601.03510](https://arxiv.org/abs/2601.03510)|null|
+|**2026-01-06**|**EarthVL: A Progressive Earth Vision-Language Understanding and Generation Framework**|Junjue Wang et.al.|[2601.02783](https://arxiv.org/abs/2601.02783)|null|
+|**2026-01-05**|**InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation**|Junhao Cai et.al.|[2601.02456](https://arxiv.org/abs/2601.02456)|**[link](https://github.com/InternRobotics/InternVLA-A1)**|
 |**2026-01-05**|**Leveraging 2D-VLM for Label-Free 3D Segmentation in Large-Scale Outdoor Scene Understanding**|Toshihiko Nishimura et.al.|[2601.02029](https://arxiv.org/abs/2601.02029)|null|
 |**2026-01-04**|**LabelAny3D: Label Any Object 3D in the Wild**|Jin Yao et.al.|[2601.01676](https://arxiv.org/abs/2601.01676)|null|
 |**2025-12-31**|**Spatial4D-Bench: A Versatile 4D Spatial Intelligence Benchmark**|Pan Wang et.al.|[2601.00092](https://arxiv.org/abs/2601.00092)|null|

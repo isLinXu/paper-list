@@ -2,8 +2,69 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance**|Francisco Giral et.al.|[2601.11440](https://arxiv.org/abs/2601.11440)|null|
+|**2026-01-16**|**New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic**|Shaohua Yu et.al.|[2601.11414](https://arxiv.org/abs/2601.11414)|null|
+|**2026-01-16**|**Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning**|Ahmed Rashwan et.al.|[2601.11401](https://arxiv.org/abs/2601.11401)|null|
+|**2026-01-16**|**Composite and Staged Trust Evaluation for Multi-Hop Collaborator Selection**|Botao Zhu et.al.|[2601.11323](https://arxiv.org/abs/2601.11323)|null|
+|**2026-01-16**|**Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs**|Lorenzo Tomada et.al.|[2601.11259](https://arxiv.org/abs/2601.11259)|null|
+|**2026-01-16**|**Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs**|Yichun Yang et.al.|[2601.11159](https://arxiv.org/abs/2601.11159)|null|
+|**2026-01-16**|**MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting**|Suhan Guo et.al.|[2601.11089](https://arxiv.org/abs/2601.11089)|null|
+|**2026-01-16**|**Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud**|Rongkun Cui et.al.|[2601.11073](https://arxiv.org/abs/2601.11073)|null|
+|**2026-01-16**|**KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure**|Badhan Mazumder et.al.|[2601.11018](https://arxiv.org/abs/2601.11018)|null|
+|**2026-01-16**|**Data-driven Prediction of Ionic Conductivity in Solid-State Electrolytes with Machine Learning and Large Language Models**|Haewon Kim et.al.|[2601.10997](https://arxiv.org/abs/2601.10997)|null|
+|**2026-01-16**|**Graph Neural Network Reveals the Local Cortical Morphology of Brain Aging in Normal Cognition and Alzheimers Disease**|Samuel D. Anderson et.al.|[2601.10912](https://arxiv.org/abs/2601.10912)|null|
+|**2026-01-15**|**PLGC: Pseudo-Labeled Graph Condensation**|Jay Nandy et.al.|[2601.10358](https://arxiv.org/abs/2601.10358)|null|
+|**2026-01-15**|**A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology**|Ting Yang et.al.|[2601.10175](https://arxiv.org/abs/2601.10175)|null|
+|**2026-01-15**|**MMPG: MoE-based Adaptive Multi-Perspective Graph Fusion for Protein Representation Learning**|Yusong Wang et.al.|[2601.10157](https://arxiv.org/abs/2601.10157)|null|
+|**2026-01-15**|**DW-DGAT: Dynamically Weighted Dual Graph Attention Network for Neurodegenerative Disease Diagnosis**|Chengjia Liang et.al.|[2601.10001](https://arxiv.org/abs/2601.10001)|null|
+|**2026-01-14**|**SPOT-Face: Forensic Face Identification using Attention Guided Optimal Transport**|Ravi Shankar Prasad et.al.|[2601.09229](https://arxiv.org/abs/2601.09229)|null|
+|**2026-01-13**|**Safe Heterogeneous Multi-Agent RL with Communication Regularization for Coordinated Target Acquisition**|Gabriele Calzolari et.al.|[2601.08327](https://arxiv.org/abs/2601.08327)|null|
+|**2026-01-13**|**Temporal-Enhanced Interpretable Multi-Modal Prognosis and Risk Stratification Framework for Diabetic Retinopathy (TIMM-ProRS)**|Susmita Kar et.al.|[2601.08240](https://arxiv.org/abs/2601.08240)|null|
+|**2026-01-13**|**GADPN: Graph Adaptive Denoising and Perturbation Networks via Singular Value Decomposition**|Hao Deng et.al.|[2601.08230](https://arxiv.org/abs/2601.08230)|null|
+|**2026-01-12**|**InfGraND: An Influence-Guided GNN-to-MLP Knowledge Distillation**|Amir Eskandari et.al.|[2601.08033](https://arxiv.org/abs/2601.08033)|null|
+|**2026-01-12**|**Learning to Unfold Fractional Programming for Multi-Cell MU-MIMO Beamforming with Graph Neural Networks**|Zihan Jiao et.al.|[2601.07630](https://arxiv.org/abs/2601.07630)|null|
+|**2026-01-12**|**Position: Don't be Afraid of Over-Smoothing And Over-Squashing**|Niklas Kormann et.al.|[2601.07419](https://arxiv.org/abs/2601.07419)|null|
+|**2026-01-12**|**PLANET v2.0: A comprehensive Protein-Ligand Affinity Prediction Model Based on Mixture Density Network**|Haotian Gao et.al.|[2601.07415](https://arxiv.org/abs/2601.07415)|null|
+|**2026-01-12**|**Curvature-driven shifts of the Potts transition on spherical Fibonacci graphs: a graph-convolutional transfer-learning study**|Zheng Zhou et.al.|[2601.07346](https://arxiv.org/abs/2601.07346)|null|
+|**2026-01-12**|**Learning to Trust the Crowd: A Multi-Model Consensus Reasoning Engine for Large Language Models**|Pranav Kallem et.al.|[2601.07245](https://arxiv.org/abs/2601.07245)|null|
+|**2026-01-12**|**Generating readily synthesizable small molecule fluorophore scaffolds with reinforcement learning**|Ruhi Sayana et.al.|[2601.07145](https://arxiv.org/abs/2601.07145)|null|
+|**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](https://arxiv.org/abs/2601.07064)|null|
+|**2026-01-11**|**Continuous Energy Landscape Model for Analyzing Brain State Transitions**|Triet M. Tran et.al.|[2601.06991](https://arxiv.org/abs/2601.06991)|null|
+|**2026-01-11**|**Graph Neural Network with One-side Edge Sampling for Fraud Detection**|Hoang Hiep Trieu et.al.|[2601.06800](https://arxiv.org/abs/2601.06800)|null|
+|**2026-01-10**|**A Power Electronic Converter Control Framework Based on Graph Neural Networks -- An Early Proof-of-Concept**|Darius Jakobeit et.al.|[2601.06686](https://arxiv.org/abs/2601.06686)|null|
+|**2026-01-10**|**Object-Centric World Models Meet Monte Carlo Tree Search**|Rodion Vakhitov et.al.|[2601.06604](https://arxiv.org/abs/2601.06604)|null|
+|**2026-01-10**|**Hierarchical Pooling and Explainability in Graph Neural Networks for Tumor and Tissue-of-Origin Classification Using RNA-seq Data**|Thomas Vaitses Fontanari et.al.|[2601.06381](https://arxiv.org/abs/2601.06381)|null|
+|**2026-01-08**|**TimeGNN-Augmented Hybrid-Action MARL for Fine-Grained Task Partitioning and Energy-Aware Offloading in MEC**|Wei Ai et.al.|[2601.06191](https://arxiv.org/abs/2601.06191)|null|
+|**2026-01-05**|**Causal and Federated Multimodal Learning for Cardiovascular Risk Prediction under Heterogeneous Populations**|Rohit Kaushik et.al.|[2601.06140](https://arxiv.org/abs/2601.06140)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](https://arxiv.org/abs/2601.05988)|null|
+|**2026-01-09**|**A Non Linear Spectral Graph Neural Network Simulator for More Stable and Accurate Rollouts**|Salman N. Salman et.al.|[2601.05860](https://arxiv.org/abs/2601.05860)|null|
+|**2026-01-09**|**Inferring the Turbulent Breakup of Colloidal Aggregates Using Graph Neural Networks**|Michele Buzzicotti et.al.|[2601.05667](https://arxiv.org/abs/2601.05667)|null|
+|**2026-01-09**|**Scalable Heterogeneous Graph Learning via Heterogeneous-aware Orthogonal Prototype Experts**|Wei Zhou et.al.|[2601.05537](https://arxiv.org/abs/2601.05537)|null|
+|**2026-01-08**|**DynaSTy: A Framework for SpatioTemporal Node Attribute Prediction in Dynamic Graphs**|Namrata Banerji et.al.|[2601.05391](https://arxiv.org/abs/2601.05391)|null|
+|**2026-01-08**|**Knowledge Distillation of a Protein Language Model Yields a Foundational Implicit Solvent Model**|Justin Airas et.al.|[2601.05388](https://arxiv.org/abs/2601.05388)|null|
+|**2026-01-08**|**Neural Algorithmic Reasoning for Approximate $k$ -Coloring with Recursive Warm Starts**|Knut Vanderbush et.al.|[2601.05137](https://arxiv.org/abs/2601.05137)|null|
+|**2026-01-08**|**Rethinking GNNs and Missing Features: Challenges, Evaluation and a Robust Solution**|Francesco Ferrini et.al.|[2601.04855](https://arxiv.org/abs/2601.04855)|null|
+|**2026-01-08**|**Parallelizing Node-Level Explainability in Graph Neural Networks**|Oscar Llorente et.al.|[2601.04807](https://arxiv.org/abs/2601.04807)|null|
+|**2026-01-08**|**MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration**|Lei Xu et.al.|[2601.04801](https://arxiv.org/abs/2601.04801)|null|
+|**2026-01-08**|**Scalable Dielectric Tensor Predictions for Inorganic Materials using Equivariant Graph Neural Networks**|Haowei Hua et.al.|[2601.04755](https://arxiv.org/abs/2601.04755)|null|
+|**2026-01-08**|**MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training**|Irfan Ullah et.al.|[2601.04707](https://arxiv.org/abs/2601.04707)|null|
+|**2026-01-08**|**A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks**|Àngel Ruiz-Fas et.al.|[2601.04705](https://arxiv.org/abs/2601.04705)|null|
+|**2026-01-08**|**A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models**|Huayi Liu et.al.|[2601.04696](https://arxiv.org/abs/2601.04696)|null|
+|**2026-01-08**|**Forecasting Equity Correlations with Hybrid Transformer Graph Neural Network**|Jack Fanshawe et.al.|[2601.04602](https://arxiv.org/abs/2601.04602)|null|
+|**2026-01-08**|**A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention**|Peixin Huang et.al.|[2601.04509](https://arxiv.org/abs/2601.04509)|null|
+|**2026-01-07**|**Graph Integrated Transformers for Community Detection in Social Networks**|Heba Zahran et.al.|[2601.04367](https://arxiv.org/abs/2601.04367)|null|
+|**2026-01-07**|**IGA-LWP: An Iterative Gradient-based Adversarial Attack for Link Weight Prediction**|Cunlai Pu et.al.|[2601.04259](https://arxiv.org/abs/2601.04259)|null|
+|**2026-01-07**|**Hierarchical GNN-Based Multi-Agent Learning for Dynamic Queue-Jump Lane and Emergency Vehicle Corridor Formation**|Haoran Su et.al.|[2601.04177](https://arxiv.org/abs/2601.04177)|null|
+|**2026-01-07**|**Dual-Attention Heterogeneous GNN for Multi-robot Collaborative Area Search via Deep Reinforcement Learning**|Lina Zhu et.al.|[2601.03686](https://arxiv.org/abs/2601.03686)|null|
+|**2026-01-06**|**Explainable Fuzzy GNNs for Leak Detection in Water Distribution Networks**|Qusai Khaled et.al.|[2601.03062](https://arxiv.org/abs/2601.03062)|null|
+|**2026-01-06**|**Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries**|Ali Kashefi et.al.|[2601.03030](https://arxiv.org/abs/2601.03030)|null|
+|**2026-01-06**|**Efficient Screening of Organic Singlet Fission Molecules Using Graph Neural Networks**|Li Fu et.al.|[2601.02661](https://arxiv.org/abs/2601.02661)|null|
+|**2026-01-06**|**Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction**|Arman Nik Khah et.al.|[2601.02629](https://arxiv.org/abs/2601.02629)|null|
+|**2026-01-05**|**Shallow- and Deep-fake Image Manipulation Localization Using Vision Mamba and Guided Graph Neural Network**|Junbin Zhang et.al.|[2601.02566](https://arxiv.org/abs/2601.02566)|null|
+|**2026-01-05**|**mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks**|Subhankar Mishra et.al.|[2601.02451](https://arxiv.org/abs/2601.02451)|null|
+|**2026-01-05**|**Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection**|Yun Bian et.al.|[2601.02438](https://arxiv.org/abs/2601.02438)|null|
 |**2026-01-05**|**Quantized SO(3)-Equivariant Graph Neural Networks for Efficient Molecular Property Prediction**|Haoyu Zhou et.al.|[2601.02213](https://arxiv.org/abs/2601.02213)|null|
-|**2026-01-05**|**ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense**|Yu Li et.al.|[2601.02196](https://arxiv.org/abs/2601.02196)|null|
+|**2026-01-05**|**ACDZero: MCTS Agent for Mastering Automated Cyber Defense**|Yu Li et.al.|[2601.02196](https://arxiv.org/abs/2601.02196)|null|
 |**2026-01-05**|**Multi-fidelity graph-based neural networks architectures to learn Navier-Stokes solutions on non-parametrized 2D domains**|Francesco Songia et.al.|[2601.02157](https://arxiv.org/abs/2601.02157)|null|
 |**2026-01-05**|**Edge-aware GAT-based protein binding site prediction**|Weisen Yang et.al.|[2601.02138](https://arxiv.org/abs/2601.02138)|null|
 |**2026-01-05**|**Flo: A data-driven limited-area storm surge model**|Nils Melsom Kristensen et.al.|[2601.02090](https://arxiv.org/abs/2601.02090)|null|

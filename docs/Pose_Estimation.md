@@ -2,6 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments**|Xuweiyi Chen et.al.|[2601.10716](https://arxiv.org/abs/2601.10716)|null|
+|**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698](https://arxiv.org/abs/2601.09698)|null|
+|**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248](https://arxiv.org/abs/2601.08248)|null|
+|**2026-01-12**|**Fiducial Exoskeletons: Image-Centric Robot State Estimation**|Cameron Smith et.al.|[2601.08034](https://arxiv.org/abs/2601.08034)|null|
+|**2026-01-12**|**FMAC: a Fair Fiducial Marker Accuracy Comparison Software**|Guillaume J. Laurent et.al.|[2601.07723](https://arxiv.org/abs/2601.07723)|null|
+|**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333](https://arxiv.org/abs/2601.07333)|null|
+|**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Daniel Hong et.al.|[2601.07154](https://arxiv.org/abs/2601.07154)|null|
+|**2026-01-11**|**MixRI: Mixing Features of Reference Images for Novel Object Pose Estimation**|Xinhang Liu et.al.|[2601.06883](https://arxiv.org/abs/2601.06883)|null|
+|**2026-01-10**|**Towards Egocentric 3D Hand Pose Estimation in Unseen Domains**|Wiktor Mucha et.al.|[2601.06537](https://arxiv.org/abs/2601.06537)|null|
+|**2026-01-09**|**FlyPose: Towards Robust Human Pose Estimation From Aerial Views**|Hassaan Farooq et.al.|[2601.05747](https://arxiv.org/abs/2601.05747)|**[link](https://github.com/farooqhassaan/FlyPose.)**|
+|**2026-01-09**|**Orient Anything V2: Unifying Orientation and Rotation Understanding**|Zehan Wang et.al.|[2601.05573](https://arxiv.org/abs/2601.05573)|**[link](https://github.com/SpatialVision/Orient-Anything-V2)**|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237](https://arxiv.org/abs/2601.05237)|null|
+|**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713](https://arxiv.org/abs/2601.03713)|null|
+|**2026-01-07**|**TRec: Learning Hand-Object Interactions through 2D Point Track Motion**|Dennis Holzmann et.al.|[2601.03667](https://arxiv.org/abs/2601.03667)|null|
+|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730](https://arxiv.org/abs/2601.02730)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309](https://arxiv.org/abs/2601.02309)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675](https://arxiv.org/abs/2601.01675)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625](https://arxiv.org/abs/2601.00625)|null|

@@ -2,6 +2,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Bio-inspired fine-tuning for selective transfer learning in image classification**|Ana Davila et.al.|[2601.11235](https://arxiv.org/abs/2601.11235)|null|
+|**2026-01-15**|**Effects of Different Attention Mechanisms Applied on 3D Models in Video Classification**|Mohammad Rasras et.al.|[2601.10854](https://arxiv.org/abs/2601.10854)|null|
+|**2026-01-15**|**ICONIC-444: A 3.1-Million-Image Dataset for OOD Detection Research**|Gerhard Krumpl et.al.|[2601.10802](https://arxiv.org/abs/2601.10802)|null|
+|**2026-01-15**|**Cell Behavior Video Classification Challenge, a benchmark for computer vision methods in time-lapse microscopy**|Raffaella Fiamma Cabini et.al.|[2601.10250](https://arxiv.org/abs/2601.10250)|null|
+|**2026-01-15**|**Following the Teacher's Footsteps: Scheduled Checkpoint Distillation for Domain-Specific LLMs**|Cheng Feng et.al.|[2601.10114](https://arxiv.org/abs/2601.10114)|null|
+|**2026-01-15**|**Difficulty-guided Sampling: Bridging the Target Gap between Dataset Distillation and Downstream Tasks**|Mingzhuo Li et.al.|[2601.10090](https://arxiv.org/abs/2601.10090)|null|
+|**2026-01-14**|**Class Adaptive Conformal Training**|Badr-Eddine Marani et.al.|[2601.09522](https://arxiv.org/abs/2601.09522)|null|
+|**2026-01-13**|**Attention Consistency Regularization for Interpretable Early-Exit Neural Networks**|Yanhua Zhao et.al.|[2601.08891](https://arxiv.org/abs/2601.08891)|null|
+|**2026-01-13**|**WaveFormer: Frequency-Time Decoupled Vision Modeling with Wave Equation**|Zishan Shu et.al.|[2601.08602](https://arxiv.org/abs/2601.08602)|null|
+|**2026-01-13**|**Supervised Spike Agreement Dependent Plasticity for Fast Local Learning in Spiking Neural Networks**|Gouri Lakshmi S et.al.|[2601.08526](https://arxiv.org/abs/2601.08526)|null|
+|**2026-01-13**|**Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling**|Takamichi Miyata et.al.|[2601.08467](https://arxiv.org/abs/2601.08467)|null|
+|**2026-01-13**|**Noise-Adaptive Regularization for Robust Multi-Label Remote Sensing Image Classification**|Tom Burgert et.al.|[2601.08446](https://arxiv.org/abs/2601.08446)|null|
+|**2026-01-13**|**AIMC-Spec: A Benchmark Dataset for Automatic Intrapulse Modulation Classification under Variable Noise Conditions**|Sebastian L. Cocks et.al.|[2601.08265](https://arxiv.org/abs/2601.08265)|null|
+|**2026-01-13**|**Human-inspired Global-to-Parallel Multi-scale Encoding for Lightweight Vision Models**|Wei Xu et.al.|[2601.08190](https://arxiv.org/abs/2601.08190)|null|
+|**2026-01-13**|**Representation Learning with Semantic-aware Instance and Sparse Token Alignments**|Phuoc-Nguyen Bui et.al.|[2601.08165](https://arxiv.org/abs/2601.08165)|null|
+|**2026-01-12**|**The Role of Noisy Data in Improving CNN Robustness for Image Classification**|Oscar H. Ramírez-Agudelo et.al.|[2601.08043](https://arxiv.org/abs/2601.08043)|null|
+|**2026-01-12**|**Self-optimizing multichannel optical computing**|Fatma Nur Kılınç et.al.|[2601.07574](https://arxiv.org/abs/2601.07574)|null|
+|**2026-01-12**|**Interpretable Text Classification Applied to the Detection of LLM-generated Creative Writing**|Minerva Suvanto et.al.|[2601.07368](https://arxiv.org/abs/2601.07368)|null|
+|**2026-01-12**|**Reconstruction Guided Few-shot Network For Remote Sensing Image Classification**|Mohit Jaiswal et.al.|[2601.07335](https://arxiv.org/abs/2601.07335)|null|
+|**2026-01-11**|**Federated Continual Learning for Privacy-Preserving Hospital Imaging Classification**|Anay Sinhal et.al.|[2601.06742](https://arxiv.org/abs/2601.06742)|null|
+|**2026-01-08**|**Leveraging Membership Inference Attacks for Privacy Measurement in Federated Learning for Remote Sensing Images**|Anh-Kiet Duong et.al.|[2601.06200](https://arxiv.org/abs/2601.06200)|null|
+|**2026-01-09**|**Fusion Matters: Length-Aware Analysis of Positional-Encoding Fusion in Transformers**|Mohamed Amine Hallam et.al.|[2601.05807](https://arxiv.org/abs/2601.05807)|null|
+|**2026-01-08**|**EdgeLDR: Quaternion Low-Displacement Rank Neural Networks for Edge-Efficient Deep Learning**|Vladimir Frants et.al.|[2601.05379](https://arxiv.org/abs/2601.05379)|null|
+|**2026-01-08**|**STResNet & STYOLO : A New Family of Compact Classification and Object Detection Models for MCUs**|Sudhakar Sah et.al.|[2601.05364](https://arxiv.org/abs/2601.05364)|null|
+|**2026-01-08**|**CAOS: Conformal Aggregation of One-Shot Predictors**|Maja Waldron et.al.|[2601.05219](https://arxiv.org/abs/2601.05219)|null|
+|**2026-01-08**|**Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning**|Polina Dolgova et.al.|[2601.05134](https://arxiv.org/abs/2601.05134)|null|
+|**2026-01-08**|**Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification**|Karim El Khoury et.al.|[2601.05011](https://arxiv.org/abs/2601.05011)|null|
+|**2026-01-08**|**Optimization of Deep Learning Models for Radio Galaxy Classification**|Philipp Denzel et.al.|[2601.04773](https://arxiv.org/abs/2601.04773)|null|
+|**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](https://arxiv.org/abs/2601.04654)|null|
+|**2026-01-08**|**Integrating Distribution Matching into Semi-Supervised Contrastive Learning for Labeled and Unlabeled Data**|Shogo Nakayama et.al.|[2601.04518](https://arxiv.org/abs/2601.04518)|null|
+|**2026-01-07**|**Performance Analysis of Image Classification on Bangladeshi Datasets**|Mohammed Sami Khan et.al.|[2601.04397](https://arxiv.org/abs/2601.04397)|null|
+|**2026-01-07**|**Aligned explanations in neural networks**|Corentin Lobet et.al.|[2601.04378](https://arxiv.org/abs/2601.04378)|null|
+|**2026-01-07**|**Comparative Analysis of Custom CNN Architectures versus Pre-trained Models and Transfer Learning: A Study on Five Bangladesh Datasets**|Ibrahim Tanvir et.al.|[2601.04352](https://arxiv.org/abs/2601.04352)|null|
+|**2026-01-07**|**EvalBlocks: A Modular Pipeline for Rapidly Evaluating Foundation Models in Medical Imaging**|Jan Tagscherer et.al.|[2601.03811](https://arxiv.org/abs/2601.03811)|null|
+|**2026-01-06**|**Soft Contextualized Encoder For User Defined Text Classification**|Charu Maheshwari et.al.|[2601.03450](https://arxiv.org/abs/2601.03450)|null|
+|**2026-01-06**|**Enhancing Small Dataset Classification Using Projected Quantum Kernels with Convolutional Neural Networks**|A. M. A. S. D. Alagiyawanna et.al.|[2601.03375](https://arxiv.org/abs/2601.03375)|null|
+|**2026-01-06**|**Attention mechanisms in neural networks**|Hasi Hays et.al.|[2601.03329](https://arxiv.org/abs/2601.03329)|null|
 |**2026-01-05**|**A Comparative Study of Custom CNNs, Pre-trained Models, and Transfer Learning Across Multiple Visual Datasets**|Annoor Sharara Akhand et.al.|[2601.02246](https://arxiv.org/abs/2601.02246)|null|
 |**2026-01-05**|**Hidden costs for inference with deep network on embedded system devices**|Chankyu Lee et.al.|[2601.01698](https://arxiv.org/abs/2601.01698)|null|
 |**2026-01-04**|**Communication-Efficient Federated AUC Maximization with Cyclic Client Participation**|Umesh Vangapally et.al.|[2601.01649](https://arxiv.org/abs/2601.01649)|null|

@@ -2,6 +2,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](https://arxiv.org/abs/2601.11475)|null|
+|**2026-01-16**|**Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation**|Ji Dai et.al.|[2601.11151](https://arxiv.org/abs/2601.11151)|null|
+|**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](https://arxiv.org/abs/2601.10305)|**[link](https://github.com/deepglint/DanQing)**|
+|**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Han Wang et.al.|[2601.10094](https://arxiv.org/abs/2601.10094)|null|
+|**2026-01-14**|**Personalized Multimodal Feedback Using Multiple External Representations: Strategy Profiles and Learning in High School Physics**|Natalia Revenga-Lozano et.al.|[2601.09470](https://arxiv.org/abs/2601.09470)|null|
+|**2026-01-13**|**Edge-Optimized Multimodal Learning for UAV Video Understanding via BLIP-2**|Yizhan Feng et.al.|[2601.08408](https://arxiv.org/abs/2601.08408)|null|
+|**2026-01-09**|**Feature Entanglement-based Quantum Multimodal Fusion Neural Network**|Yu Wu et.al.|[2601.07856](https://arxiv.org/abs/2601.07856)|null|
+|**2026-01-12**|**A Multimodal Dataset of Student Oral Presentations with Sensors and Evaluation Data**|Alvaro Becerra et.al.|[2601.07576](https://arxiv.org/abs/2601.07576)|null|
+|**2026-01-12**|**Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance**|Jongwon Ryu et.al.|[2601.07221](https://arxiv.org/abs/2601.07221)|null|
+|**2026-01-12**|**Test-time Adaptive Hierarchical Co-enhanced Denoising Network for Reliable Multimodal Classification**|Shu Shen et.al.|[2601.07163](https://arxiv.org/abs/2601.07163)|null|
+|**2026-01-11**|**CLIMP: Contrastive Language-Image Mamba Pretraining**|Nimrod Shabtay et.al.|[2601.06891](https://arxiv.org/abs/2601.06891)|null|
+|**2026-01-11**|**Cross-Modal Computational Model of Brain-Heart Interactions via HRV and EEG Feature**|Malavika Pradeep et.al.|[2601.06792](https://arxiv.org/abs/2601.06792)|null|
+|**2026-01-05**|**Causal and Federated Multimodal Learning for Cardiovascular Risk Prediction under Heterogeneous Populations**|Rohit Kaushik et.al.|[2601.06140](https://arxiv.org/abs/2601.06140)|null|
+|**2026-01-08**|**Multi-task Cross-modal Learning for Chest X-ray Image Retrieval**|Zhaohui Liang et.al.|[2601.05399](https://arxiv.org/abs/2601.05399)|null|
+|**2026-01-08**|**Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions**|Ijaz Ahmad et.al.|[2601.05095](https://arxiv.org/abs/2601.05095)|null|
+|**2026-01-08**|**The RoboSense Challenge: Sense Anything, Navigate Anywhere, Adapt Across Platforms**|Lingdong Kong et.al.|[2601.05014](https://arxiv.org/abs/2601.05014)|null|
+|**2026-01-08**|**MPM-LLM4DSE: Reaching the Pareto Frontier in HLS with Multimodal Learning and LLM-Driven Exploration**|Lei Xu et.al.|[2601.04801](https://arxiv.org/abs/2601.04801)|null|
+|**2026-01-06**|**Attention mechanisms in neural networks**|Hasi Hays et.al.|[2601.03329](https://arxiv.org/abs/2601.03329)|null|
 |**2026-01-04**|**Achieving Fine-grained Cross-modal Understanding through Brain-inspired Hierarchical Representation Learning**|Weihang You et.al.|[2601.01339](https://arxiv.org/abs/2601.01339)|null|
 |**2026-01-02**|**Wave2Word: A Multimodal Transformer Framework for Joint EEG-Text Alignment and Multi-Task Representation Learning in Neurocritical Care**|Argha Kamal Samanta et.al.|[2601.00670](https://arxiv.org/abs/2601.00670)|null|
 |**2026-01-01**|**S1-MMAlign: A Large-Scale, Multi-Disciplinary Dataset for Scientific Figure-Text Understanding**|He Wang et.al.|[2601.00264](https://arxiv.org/abs/2601.00264)|null|

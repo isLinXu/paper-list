@@ -2,6 +2,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Effects of Different Attention Mechanisms Applied on 3D Models in Video Classification**|Mohammad Rasras et.al.|[2601.10854](https://arxiv.org/abs/2601.10854)|null|
+|**2026-01-15**|**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**|Hieu Bui et.al.|[2601.10835](https://arxiv.org/abs/2601.10835)|null|
+|**2026-01-11**|**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**|Sen Wang et.al.|[2601.10744](https://arxiv.org/abs/2601.10744)|null|
+|**2026-01-06**|**Millimeter-Wave Gesture Recognition in ISAC: Does Reducing Sensing Airtime Hamper Accuracy?**|Jakob Struye et.al.|[2601.10733](https://arxiv.org/abs/2601.10733)|null|
+|**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592](https://arxiv.org/abs/2601.10592)|**[link](https://github.com/facebookresearch/Action100M)**|
+|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[2601.10521](https://arxiv.org/abs/2601.10521)|null|
+|**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698](https://arxiv.org/abs/2601.09698)|null|
+|**2026-01-13**|**ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation**|Zhenyang Liu et.al.|[2601.08325](https://arxiv.org/abs/2601.08325)|null|
+|**2026-01-13**|**VGG Induced Deep Hand Sign Language Detection**|Subham Sharma et.al.|[2601.08262](https://arxiv.org/abs/2601.08262)|null|
+|**2026-01-12**|**Video Generation Models in Robotics -- Applications, Research Challenges, Future Directions**|Zhiting Mei et.al.|[2601.07823](https://arxiv.org/abs/2601.07823)|null|
+|**2026-01-12**|**Variational Contrastive Learning for Skeleton-based Action Recognition**|Dang Dinh Nguyen et.al.|[2601.07666](https://arxiv.org/abs/2601.07666)|null|
+|**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Daniel Hong et.al.|[2601.07154](https://arxiv.org/abs/2601.07154)|null|
+|**2026-01-10**|**Context Matters: Peer-Aware Student Behavioral Engagement Measurement via VLM Action Parsing and LLM Sequence Classification**|Ahmed Abdelkawy et.al.|[2601.06394](https://arxiv.org/abs/2601.06394)|null|
+|**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](https://arxiv.org/abs/2601.05611)|null|
+|**2026-01-08**|**When to Act: Calibrated Confidence for Reliable Human Intention Prediction in Assistive Robotics**|Johannes A. Gaus et.al.|[2601.04982](https://arxiv.org/abs/2601.04982)|null|
+|**2026-01-08**|**CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models**|Tobia Poppi et.al.|[2601.04778](https://arxiv.org/abs/2601.04778)|null|
+|**2026-01-07**|**Lightweight Test-Time Adaptation for EMG-Based Gesture Recognition**|Nia Touko et.al.|[2601.04181](https://arxiv.org/abs/2601.04181)|null|
+|**2026-01-07**|**Beyond Physical Labels: Redefining Domains for Robust WiFi-based Gesture Recognition**|Xiang Zhang et.al.|[2601.03825](https://arxiv.org/abs/2601.03825)|null|
+|**2026-01-07**|**TRec: Learning Hand-Object Interactions through 2D Point Track Motion**|Dennis Holzmann et.al.|[2601.03667](https://arxiv.org/abs/2601.03667)|null|
 |**2026-01-04**|**Action-Sketcher: From Reasoning to Action via Visual Sketches for Long-Horizon Robotic Manipulation**|Huajie Tan et.al.|[2601.01618](https://arxiv.org/abs/2601.01618)|null|
 |**2026-01-01**|**BHaRNet: Reliability-Aware Body-Hand Modality Expertized Networks for Fine-grained Skeleton Action Recognition**|Seungyeon Cho et.al.|[2601.00369](https://arxiv.org/abs/2601.00369)|null|
 |**2026-01-01**|**Effects of Limited Field of View on Musical Collaboration Experience with Avatars in Extended Reality**|Suibi Che-Chuan Weng et.al.|[2601.00333](https://arxiv.org/abs/2601.00333)|null|

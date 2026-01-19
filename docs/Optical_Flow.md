@@ -2,6 +2,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](https://arxiv.org/abs/2601.10781)|null|
+|**2026-01-15**|**UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow**|Nick Truong et.al.|[2601.10054](https://arxiv.org/abs/2601.10054)|null|
+|**2026-01-13**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Peng Gao et.al.|[2601.08133](https://arxiv.org/abs/2601.08133)|null|
+|**2026-01-10**|**SRFlow: A Dataset and Regularization Model for High-Resolution Facial Optical Flow via Splatting Rasterization**|JiaLin Zhang et.al.|[2601.06479](https://arxiv.org/abs/2601.06479)|null|
+|**2026-01-08**|**MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments**|Svitlana Morkva et.al.|[2601.05368](https://arxiv.org/abs/2601.05368)|null|
+|**2026-01-08**|**Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition**|Nils Einecke et.al.|[2601.04920](https://arxiv.org/abs/2601.04920)|null|
+|**2026-01-08**|**Intraday spatiotemporal PV power prediction at national scale using satellite-based solar forecast models**|Luca Lanzilao et.al.|[2601.04751](https://arxiv.org/abs/2601.04751)|null|
 |**2025-12-31**|**VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition**|Hongbo Jin et.al.|[2601.00887](https://arxiv.org/abs/2601.00887)|null|
 |**2026-01-01**|**Real-Time Human Detection for Aerial Captured Video Sequences via Deep Models**|Nouar AlDahoul et.al.|[2601.00391](https://arxiv.org/abs/2601.00391)|null|
 |**2025-12-31**|**HaineiFRDM: Explore Diffusion to Restore Defects in Fast-Movement Films**|Rongji Xun et.al.|[2512.24946](https://arxiv.org/abs/2512.24946)|null|

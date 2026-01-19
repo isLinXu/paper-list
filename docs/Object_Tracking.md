@@ -2,6 +2,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al.|[2601.10611](https://arxiv.org/abs/2601.10611)|null|
+|**2026-01-14**|**DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos**|Jiajun Chen et.al.|[2601.09240](https://arxiv.org/abs/2601.09240)|null|
+|**2026-01-14**|**Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking**|Junze Shi et.al.|[2601.09078](https://arxiv.org/abs/2601.09078)|null|
+|**2026-01-06**|**Edge-AI Perception Node for Cooperative Road-Safety Enforcement and Connected-Vehicle Integration**|Shree Charran R et.al.|[2601.07845](https://arxiv.org/abs/2601.07845)|null|
+|**2026-01-10**|**LLMTrack: Semantic Multi-Object Tracking with Multi-modal Large Language Models**|Pan Liao et.al.|[2601.06550](https://arxiv.org/abs/2601.06550)|null|
+|**2026-01-09**|**Perception Test 2025: Challenge Summary and a Unified VQA Extension**|Joseph Heyward et.al.|[2601.06287](https://arxiv.org/abs/2601.06287)|null|
+|**2026-01-06**|**LOST-3DSG: Lightweight Open-Vocabulary 3D Scene Graphs with Semantic Tracking in Dynamic Environments**|Sara Micol Ferraina et.al.|[2601.02905](https://arxiv.org/abs/2601.02905)|null|
+|**2026-01-05**|**CT Scans As Video: Efficient Intracranial Hemorrhage Detection Using Multi-Object Tracking**|Amirreza Parvahan et.al.|[2601.02521](https://arxiv.org/abs/2601.02521)|null|
 |**2026-01-05**|**AR-MOT: Autoregressive Multi-object Tracking**|Lianjie Jia et.al.|[2601.01925](https://arxiv.org/abs/2601.01925)|null|
 |**2026-01-03**|**Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking**|Shiao Wang et.al.|[2601.01022](https://arxiv.org/abs/2601.01022)|null|
 |**2025-12-31**|**CropTrack: A Tracking with Re-Identification Framework for Precision Agriculture**|Md Ahmed Al Muzaddid et.al.|[2512.24838](https://arxiv.org/abs/2512.24838)|null|

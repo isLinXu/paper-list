@@ -2,6 +2,70 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al.|[2601.11500](https://arxiv.org/abs/2601.11500)|null|
+|**2026-01-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al.|[2601.11254](https://arxiv.org/abs/2601.11254)|null|
+|**2026-01-16**|**Assesing the Viability of Unsupervised Learning with Autoencoders for Predictive Maintenance in Helicopter Engines**|P. Sánchez et.al.|[2601.11154](https://arxiv.org/abs/2601.11154)|null|
+|**2026-01-16**|**Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud**|Rongkun Cui et.al.|[2601.11073](https://arxiv.org/abs/2601.11073)|null|
+|**2026-01-16**|**Memorize Early, Then Query: Inlier-Memorization-Guided Active Outlier Detection**|Minseo Kang et.al.|[2601.10993](https://arxiv.org/abs/2601.10993)|null|
+|**2026-01-15**|**Efficient Quantum Circuits for the Hilbert Transform**|Henry Zhang et.al.|[2601.10876](https://arxiv.org/abs/2601.10876)|null|
+|**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](https://arxiv.org/abs/2601.10848)|null|
+|**2026-01-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al.|[2601.10193](https://arxiv.org/abs/2601.10193)|null|
+|**2026-01-15**|**Advancing Adaptive Multi-Stage Video Anomaly Reasoning: A Benchmark Dataset and Method**|Chao Huang et.al.|[2601.10165](https://arxiv.org/abs/2601.10165)|null|
+|**2026-01-14**|**A Novel Contrastive Loss for Zero-Day Network Intrusion Detection**|Jack Wilkie et.al.|[2601.09902](https://arxiv.org/abs/2601.09902)|null|
+|**2026-01-14**|**CLiMB: A Domain-Informed Novelty Detection Clustering Framework for Scientific Discovery**|Lorenzo Monti et.al.|[2601.09768](https://arxiv.org/abs/2601.09768)|null|
+|**2026-01-14**|**Evaluating GAN-LSTM for Smart Meter Anomaly Detection in Power Systems**|Fahimeh Orvati Nia et.al.|[2601.09701](https://arxiv.org/abs/2601.09701)|null|
+|**2026-01-14**|**3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking**|Guodong Xu et.al.|[2601.09294](https://arxiv.org/abs/2601.09294)|null|
+|**2026-01-14**|**Explainable Autoencoder-Based Anomaly Detection in IEC 61850 GOOSE Networks**|Dafne Lozano-Paredes et.al.|[2601.09287](https://arxiv.org/abs/2601.09287)|null|
+|**2026-01-14**|**SSVP: Synergistic Semantic-Visual Prompting for Industrial Zero-Shot Anomaly Detection**|Chenhao Fu et.al.|[2601.09147](https://arxiv.org/abs/2601.09147)|null|
+|**2026-01-13**|**DriftGuard: A Hierarchical Framework for Concept Drift Detection and Remediation in Supply Chain Forecasting**|Shahnawaz Alam et.al.|[2601.08928](https://arxiv.org/abs/2601.08928)|null|
+|**2026-01-13**|**Towards a Self-Driving Trigger at the LHC: Adaptive Response in Real Time**|Shaghayegh Emami et.al.|[2601.08910](https://arxiv.org/abs/2601.08910)|null|
+|**2026-01-13**|**Adaptive few-shot learning for robust part quality classification in two-photon lithography**|Sixian Jia et.al.|[2601.08885](https://arxiv.org/abs/2601.08885)|null|
+|**2026-01-13**|**Portable Single-Beam Atomic Total-Field Magnetometer for Stand-off Magnetic Sensing**|Heonsik Lee et.al.|[2601.08716](https://arxiv.org/abs/2601.08716)|null|
+|**2026-01-13**|**TRACE: Reconstruction-Based Anomaly Detection in Ensemble and Time-Dependent Simulations**|Hamid Gadirov et.al.|[2601.08659](https://arxiv.org/abs/2601.08659)|null|
+|**2026-01-13**|**Efficient Maintenance of Leiden Communities in Large Dynamic Graphs**|Chunxu Lin et.al.|[2601.08554](https://arxiv.org/abs/2601.08554)|null|
+|**2026-01-13**|**An IoT-Enabled Smart Aquarium System for Real-Time Water Quality Monitoring and Automated Feeding**|MD Fatin Ishraque Ayon et.al.|[2601.08484](https://arxiv.org/abs/2601.08484)|null|
+|**2026-01-13**|**Quantitative Analysis of Proxy Tasks for Anomalous Sound Detection**|Seunghyeon Shin et.al.|[2601.08480](https://arxiv.org/abs/2601.08480)|null|
+|**2026-01-13**|**APT-MCL: An Adaptive APT Detection System Based on Multi-View Collaborative Provenance Graph Learning**|Mingqi Lv et.al.|[2601.08328](https://arxiv.org/abs/2601.08328)|null|
+|**2026-01-13**|**A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)**|Iman Sharifi et.al.|[2601.08229](https://arxiv.org/abs/2601.08229)|null|
+|**2026-01-13**|**Instance-Aligned Captions for Explainable Video Anomaly Detection**|Inpyo Song et.al.|[2601.08155](https://arxiv.org/abs/2601.08155)|null|
+|**2026-01-12**|**LUT-Compiled Kolmogorov-Arnold Networks for Lightweight DoS Detection on IoT Edge Devices**|Oleksandr Kuznetsov et.al.|[2601.08044](https://arxiv.org/abs/2601.08044)|null|
+|**2026-01-12**|**Training Free Zero-Shot Visual Anomaly Localization via Diffusion Inversion**|Samet Hicsonmez et.al.|[2601.08022](https://arxiv.org/abs/2601.08022)|null|
+|**2026-01-12**|**A Protocol-Aware P4 Pipeline for MQTT Security and Anomaly Mitigation in Edge IoT Systems**|Bui Ngoc Thanh Binh et.al.|[2601.07536](https://arxiv.org/abs/2601.07536)|null|
+|**2026-01-12**|**A High-Recall Cost-Sensitive Machine Learning Framework for Real-Time Online Banking Transaction Fraud Detection**|Karthikeyan V. R. et.al.|[2601.07276](https://arxiv.org/abs/2601.07276)|null|
+|**2026-01-11**|**VISTA: Knowledge-Driven Interpretable Vessel Trajectory Imputation via Large Language Models**|Hengyu Liu et.al.|[2601.06940](https://arxiv.org/abs/2601.06940)|null|
+|**2026-01-11**|**Graph Neural Network with One-side Edge Sampling for Fraud Detection**|Hoang Hiep Trieu et.al.|[2601.06800](https://arxiv.org/abs/2601.06800)|null|
+|**2026-01-11**|**Deep Recurrent Hidden Markov Learning Framework for Multi-Stage Advanced Persistent Threat Prediction**|Saleem Ishaq Tijjani et.al.|[2601.06734](https://arxiv.org/abs/2601.06734)|null|
+|**2026-01-10**|**Nonparametric contaminated Gaussian mixture of regressions**|Sphiwe B. Skhosana et.al.|[2601.06695](https://arxiv.org/abs/2601.06695)|null|
+|**2026-01-10**|**SecureDyn-FL: A Robust Privacy-Preserving Federated Learning Framework for Intrusion Detection in IoT Networks**|Imtiaz Ali Soomro et.al.|[2601.06466](https://arxiv.org/abs/2601.06466)|null|
+|**2026-01-09**|**Agentic AI Microservice Framework for Deepfake and Document Fraud Detection in KYC Pipelines**|Chandra Sekhar Kubam et.al.|[2601.06241](https://arxiv.org/abs/2601.06241)|null|
+|**2026-01-08**|**Cascading multi-agent anomaly detection in surveillance systems via vision-language models and embedding-based classification**|Tayyab Rehman et.al.|[2601.06204](https://arxiv.org/abs/2601.06204)|null|
+|**2026-01-09**|**CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks**|Isaiah J. King et.al.|[2601.05988](https://arxiv.org/abs/2601.05988)|null|
+|**2026-01-09**|**Community-Based Model Sharing and Generalisation: Anomaly Detection in IoT Temperature Sensor Networks**|Sahibzada Saadoon Hammad et.al.|[2601.05984](https://arxiv.org/abs/2601.05984)|null|
+|**2026-01-09**|**A Framework for Optimizing Human-Machine Interaction in Classification Systems**|Goran Muric et.al.|[2601.05974](https://arxiv.org/abs/2601.05974)|null|
+|**2026-01-09**|**Kidney Cancer Detection Using 3D-Based Latent Diffusion Models**|Jen Dusseljee et.al.|[2601.05852](https://arxiv.org/abs/2601.05852)|null|
+|**2026-01-09**|**Descriptor: Multi-Regional Cloud Honeypot Dataset (MURHCAD)**|Enrique Feito-Casares et.al.|[2601.05813](https://arxiv.org/abs/2601.05813)|null|
+|**2026-01-09**|**Variational Autoencoders for P-wave Detection on Strong Motion Earthquake Spectrograms**|Turkan Simge Ispak et.al.|[2601.05759](https://arxiv.org/abs/2601.05759)|null|
+|**2026-01-09**|**Conditional Cauchy-Schwarz Divergence for Time Series Analysis: Kernelized Estimation and Applications in Clustering and Fraud Detection**|Jiayi Wang et.al.|[2601.05711](https://arxiv.org/abs/2601.05711)|null|
+|**2026-01-09**|**Reinforcement Learning of Large Language Models for Interpretable Credit Card Fraud Detection**|Cooper Lin et.al.|[2601.05578](https://arxiv.org/abs/2601.05578)|null|
+|**2026-01-09**|**One Language-Free Foundation Model Is Enough for Universal Vision Anomaly Detection**|Bin-Bin Gao et.al.|[2601.05552](https://arxiv.org/abs/2601.05552)|null|
+|**2026-01-09**|**DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis**|Rui An et.al.|[2601.05527](https://arxiv.org/abs/2601.05527)|null|
+|**2026-01-08**|**TIME: Temporally Intelligent Meta-reasoning Engine for Context Triggered Explicit Reasoning**|Susmit Das et.al.|[2601.05300](https://arxiv.org/abs/2601.05300)|null|
+|**2026-01-08**|**A Survey of Agentic AI and Cybersecurity: Challenges, Opportunities and Use-case Prototypes**|Sahaya Jestus Lazer et.al.|[2601.05293](https://arxiv.org/abs/2601.05293)|null|
+|**2026-01-08**|**Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation**|Konstantinos E. Kampourakis et.al.|[2601.05022](https://arxiv.org/abs/2601.05022)|null|
+|**2026-01-08**|**LGTD: Local-Global Trend Decomposition for Season-Length-Free Time Series Analysis**|Chotanansub Sophaken et.al.|[2601.04820](https://arxiv.org/abs/2601.04820)|null|
+|**2026-01-08**|**Decision-Aware Trust Signal Alignment for SOC Alert Triage**|Israt Jahan Chowdhury et.al.|[2601.04486](https://arxiv.org/abs/2601.04486)|null|
+|**2026-01-07**|**AHA: Scalable Alternative History Analysis for Operational Timeseries Applications**|Harshavardhan Kamarthi et.al.|[2601.04432](https://arxiv.org/abs/2601.04432)|null|
+|**2026-01-07**|**Online robust covariance matrix estimation and outlier detection**|Paul Guillot et.al.|[2601.03957](https://arxiv.org/abs/2601.03957)|null|
+|**2026-01-07**|**Stochastic Voronoi Ensembles for Anomaly Detection**|Yang Cao et.al.|[2601.03664](https://arxiv.org/abs/2601.03664)|null|
+|**2026-01-07**|**Cyberattack Detection in Virtualized Microgrids Using LightGBM and Knowledge-Distilled Classifiers**|Osasumwen Cedric Ogiesoba-Eguakun et.al.|[2601.03495](https://arxiv.org/abs/2601.03495)|null|
+|**2026-01-06**|**Autonomous Threat Detection and Response in Cloud Security: A Comprehensive Survey of AI-Driven Strategies**|Gaurav Sarraf et.al.|[2601.03303](https://arxiv.org/abs/2601.03303)|null|
+|**2026-01-06**|**PersonaLedger: Generating Realistic Financial Transactions with Persona Conditioned LLMs and Rule Grounded Feedback**|Dehao Yuan et.al.|[2601.03149](https://arxiv.org/abs/2601.03149)|null|
+|**2026-01-06**|**Real-Time Adaptive Anomaly Detection in Industrial IoT Environments**|Mahsa Raeiszadeh et.al.|[2601.03085](https://arxiv.org/abs/2601.03085)|null|
+|**2026-01-06**|**PrismVAU: Prompt-Refined Inference System for Multimodal Video Anomaly Understanding**|Iñaki Erregue et.al.|[2601.02927](https://arxiv.org/abs/2601.02927)|null|
+|**2026-01-06**|**Conformal novelty detection with false discovery rate control at the boundary**|Zijun Gao et.al.|[2601.02610](https://arxiv.org/abs/2601.02610)|null|
+|**2026-01-05**|**Threat Detection in Social Media Networks Using Machine Learning Based Network Analysis**|Aditi Sanjay Agrawal et.al.|[2601.02581](https://arxiv.org/abs/2601.02581)|null|
+|**2026-01-05**|**LLM-Enhanced Reinforcement Learning for Time Series Anomaly Detection**|Bahareh Golchin et.al.|[2601.02511](https://arxiv.org/abs/2601.02511)|null|
+|**2026-01-05**|**Mitigating Long-Tailed Anomaly Score Distributions with Importance-Weighted Loss**|Jungi Lee et.al.|[2601.02440](https://arxiv.org/abs/2601.02440)|null|
 |**2026-01-05**|**Hunting for "Oddballs" with Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders**|Alexander Roman et.al.|[2601.02324](https://arxiv.org/abs/2601.02324)|null|
 |**2026-01-05**|**BigSUMO: A Scalable Framework for Big Data Traffic Analytics and Parallel Simulation**|Rahul Sengupta et.al.|[2601.02286](https://arxiv.org/abs/2601.02286)|null|
 |**2026-01-05**|**Quantum AI for Cybersecurity: A hybrid Quantum-Classical models for attack path analysis**|Jessica A. Sciammarelli et.al.|[2601.02237](https://arxiv.org/abs/2601.02237)|null|
