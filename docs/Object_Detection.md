@@ -2,6 +2,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Boundary and Position Information Mining for Aerial Small Object Detection**|Rongxin Huang et.al.|[2601.16617](https://arxiv.org/abs/2601.16617)|null|
+|**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng et.al.|[2601.16449](https://arxiv.org/abs/2601.16449)|null|
+|**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](https://arxiv.org/abs/2601.15914)|null|
+|**2026-01-22**|**Performance-guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2601.15688](https://arxiv.org/abs/2601.15688)|null|
+|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](https://arxiv.org/abs/2601.15212)|null|
+|**2026-01-21**|**Graph Recognition via Subgraph Prediction**|André Eberhard et.al.|[2601.15133](https://arxiv.org/abs/2601.15133)|null|
+|**2026-01-21**|**M2I2HA: A Multi-modal Object Detection Method Based on Intra- and Inter-Modal Hypergraph Attention**|Xiaofan Yang et.al.|[2601.14776](https://arxiv.org/abs/2601.14776)|null|
+|**2026-01-21**|**A comprehensive overview of deep learning models for object detection from videos/images**|Sukana Zulfqar et.al.|[2601.14677](https://arxiv.org/abs/2601.14677)|null|
+|**2026-01-20**|**GutenOCR: A Grounded Vision-Language Front-End for Documents**|Hunter Heidenreich et.al.|[2601.14490](https://arxiv.org/abs/2601.14490)|**[link](https://github.com/Roots-Automation/GutenOCR)**|
+|**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2601.14448](https://arxiv.org/abs/2601.14448)|null|
+|**2026-01-20**|**DExTeR: Weakly Semi-Supervised Object Detection with Class and Instance Experts for Medical Imaging**|Adrien Meyer et.al.|[2601.13954](https://arxiv.org/abs/2601.13954)|null|
+|**2026-01-19**|**Leveraging Transformer Decoder for Automotive Radar Object Detection**|Changxu Zhang et.al.|[2601.13386](https://arxiv.org/abs/2601.13386)|null|
+|**2026-01-19**|**Practical Insights into Semi-Supervised Object Detection Approaches**|Chaoxin Wang et.al.|[2601.13380](https://arxiv.org/abs/2601.13380)|null|
+|**2026-01-19**|**Real-Time 4D Radar Perception for Robust Human Detection in Harsh Enclosed Environments**|Zhenan Liu et.al.|[2601.13364](https://arxiv.org/abs/2601.13364)|null|
+|**2026-01-19**|**AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection**|Shiming Wang et.al.|[2601.12994](https://arxiv.org/abs/2601.12994)|null|
+|**2026-01-19**|**Membership Inference Test: Auditing Training Data in Object Classification Models**|Gonzalo Mancera et.al.|[2601.12929](https://arxiv.org/abs/2601.12929)|null|
+|**2026-01-19**|**YOLO26: An Analysis of NMS-Free End to End Framework for Real-Time Object Detection**|Sudip Chakrabarty et.al.|[2601.12882](https://arxiv.org/abs/2601.12882)|null|
+|**2026-01-19**|**Towards Unbiased Source-Free Object Detection via Vision Foundation Models**|Zhi Cai et.al.|[2601.12765](https://arxiv.org/abs/2601.12765)|null|
+|**2026-01-19**|**RSOD: Reliability-Guided Sonar Image Object Detection with Extremely Limited Labels**|Chengzhou Li et.al.|[2601.12715](https://arxiv.org/abs/2601.12715)|null|
+|**2026-01-19**|**BlocksecRT-DETR: Decentralized Privacy-Preserving and Token-Efficient Federated Transformer Learning for Secure Real-Time Object Detection in ITS**|Mohoshin Ara Tahera et.al.|[2601.12693](https://arxiv.org/abs/2601.12693)|null|
+|**2026-01-19**|**Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**|Ninnart Fuengfusin et.al.|[2601.12638](https://arxiv.org/abs/2601.12638)|null|
 |**2026-01-15**|**SecMLOps: A Comprehensive Framework for Integrating Security Throughout the MLOps Lifecycle**|Xinrui Zhang et.al.|[2601.10848](https://arxiv.org/abs/2601.10848)|null|
 |**2026-01-15**|**Beyond Single Prompts: Synergistic Fusion and Arrangement for VICL**|Wenwen Liao et.al.|[2601.10117](https://arxiv.org/abs/2601.10117)|null|
 |**2026-01-15**|**Enhancing Visual In-Context Learning by Multi-Faceted Fusion**|Wenwen Liao et.al.|[2601.10107](https://arxiv.org/abs/2601.10107)|null|

@@ -2,6 +2,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885](https://arxiv.org/abs/2601.16885)|null|
+|**2026-01-21**|**ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data**|Marian Renz et.al.|[2601.15025](https://arxiv.org/abs/2601.15025)|null|
+|**2026-01-20**|**Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation**|Danial Sadrian Zadeh et.al.|[2601.14438](https://arxiv.org/abs/2601.14438)|null|
+|**2026-01-19**|**CSGaussian: Progressive Rate-Distortion Compression and Segmentation for 3D Gaussian Splatting**|Yu-Jen Tseng et.al.|[2601.12814](https://arxiv.org/abs/2601.12814)|null|
+|**2026-01-19**|**AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation**|Xuecheng Chen et.al.|[2601.12742](https://arxiv.org/abs/2601.12742)|null|
 |**2026-01-16**|**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**|Hanlin Wu et.al.|[2601.11396](https://arxiv.org/abs/2601.11396)|null|
 |**2026-01-15**|**CHORAL: Traversal-Aware Planning for Safe and Efficient Heterogeneous Multi-Robot Routing**|David Morilla-Cabello et.al.|[2601.10340](https://arxiv.org/abs/2601.10340)|null|
 |**2026-01-14**|**OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding**|Sheng-Yu Huang et.al.|[2601.09575](https://arxiv.org/abs/2601.09575)|null|

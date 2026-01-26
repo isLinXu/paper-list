@@ -2,6 +2,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng et.al.|[2601.16449](https://arxiv.org/abs/2601.16449)|null|
+|**2026-01-21**|**LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding**|Xiaodong Wang et.al.|[2601.15016](https://arxiv.org/abs/2601.15016)|null|
+|**2026-01-21**|**Citation of scientific evidence from video description and its association with attention and impact**|Pablo Dorta-González et.al.|[2601.14916](https://arxiv.org/abs/2601.14916)|null|
+|**2026-01-20**|**DermaBench: A Clinician-Annotated Benchmark Dataset for Dermatology Visual Question Answering and Reasoning**|Abdurrahim Yilmaz et.al.|[2601.14084](https://arxiv.org/abs/2601.14084)|null|
+|**2026-01-20**|**Face-Voice Association with Inductive Bias for Maximum Class Separation**|Marta Moscati et.al.|[2601.13651](https://arxiv.org/abs/2601.13651)|null|
+|**2026-01-20**|**DIS2: Disentanglement Meets Distillation with Classwise Attention for Robust Remote Sensing Segmentation under Missing Modalities**|Nhi Kieu et.al.|[2601.13502](https://arxiv.org/abs/2601.13502)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](https://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation**|Ji Dai et.al.|[2601.11151](https://arxiv.org/abs/2601.11151)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305](https://arxiv.org/abs/2601.10305)|**[link](https://github.com/deepglint/DanQing)**|

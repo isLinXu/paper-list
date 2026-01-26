@@ -2,6 +2,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[2601.16954](https://arxiv.org/abs/2601.16954)|null|
+|**2026-01-23**|**REL-SF4PASS: Panoramic Semantic Segmentation with REL Depth Representation and Spherical Fusion**|Xuewei Li et.al.|[2601.16788](https://arxiv.org/abs/2601.16788)|null|
+|**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[2601.16631](https://arxiv.org/abs/2601.16631)|null|
+|**2026-01-23**|**VISTA-PATH: An interactive foundation model for pathology image segmentation and quantitative analysis in computational pathology**|Peixian Liang et.al.|[2601.16451](https://arxiv.org/abs/2601.16451)|null|
+|**2026-01-22**|**SAMTok: Representing Any Mask with Two Words**|Yikang Zhou et.al.|[2601.16093](https://arxiv.org/abs/2601.16093)|**[link](https://github.com/bytedance/Sa2VA)**|
+|**2026-01-22**|**RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture**|Anas Anwarul Haq Khan et.al.|[2601.15891](https://arxiv.org/abs/2601.15891)|null|
+|**2026-01-22**|**Enhanced LULC Segmentation via Lightweight Model Refinements on ALOS-2 SAR Data**|Ali Caglayan et.al.|[2601.15705](https://arxiv.org/abs/2601.15705)|null|
+|**2026-01-21**|**AI-Based Culvert-Sewer Inspection**|Christina Thrainer et.al.|[2601.15366](https://arxiv.org/abs/2601.15366)|null|
+|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](https://arxiv.org/abs/2601.15212)|null|
+|**2026-01-21**|**Erosion Attack for Adversarial Training to Enhance Semantic Segmentation Robustness**|Yufei Song et.al.|[2601.14950](https://arxiv.org/abs/2601.14950)|null|
+|**2026-01-21**|**Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic Segmentation**|Yiyang Fu et.al.|[2601.14718](https://arxiv.org/abs/2601.14718)|null|
+|**2026-01-20**|**XD-MAP: Cross-Modal Domain Adaptation using Semantic Parametric Mapping**|Frank Bieder et.al.|[2601.14477](https://arxiv.org/abs/2601.14477)|null|
+|**2026-01-20**|**Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects**|Raffaele Mazza et.al.|[2601.13979](https://arxiv.org/abs/2601.13979)|null|
+|**2026-01-20**|**SUNSET -- A Sensor-fUsioN based semantic SegmEnTation exemplar for ROS-based self-adaptation**|Andreas Wiedholz et.al.|[2601.13732](https://arxiv.org/abs/2601.13732)|null|
+|**2026-01-19**|**Deep Learning for Semantic Segmentation of 3D Ultrasound Data**|Chenyu Liu et.al.|[2601.13263](https://arxiv.org/abs/2601.13263)|null|
+|**2026-01-19**|**ObjectVisA-120: Object-based Visual Attention Prediction in Interactive Street-crossing Environments**|Igor Vozniak et.al.|[2601.13218](https://arxiv.org/abs/2601.13218)|null|
+|**2026-01-19**|**GridNet-HD: A High-Resolution Multi-Modal Dataset for LiDAR-Image Fusion on Power Line Infrastructure**|Antoine Carreaud et.al.|[2601.13052](https://arxiv.org/abs/2601.13052)|null|
+|**2026-01-19**|**Cross-Scale Pretraining: Enhancing Self-Supervised Learning for Low-Resolution Satellite Imagery for Semantic Segmentation**|John Waithaka et.al.|[2601.12964](https://arxiv.org/abs/2601.12964)|null|
+|**2026-01-19**|**Open Vocabulary Panoptic Segmentation With Retrieval Augmentation**|Nafis Sadeq et.al.|[2601.12779](https://arxiv.org/abs/2601.12779)|null|
 |**2026-01-16**|**ReScene4D: Temporally Consistent Semantic Instance Segmentation of Evolving Indoor 3D Scenes**|Emily Steiner et.al.|[2601.11508](https://arxiv.org/abs/2601.11508)|null|
 |**2026-01-16**|**Context-Aware Semantic Segmentation via Stage-Wise Attention**|Antoine Carreaud et.al.|[2601.11310](https://arxiv.org/abs/2601.11310)|null|
 |**2026-01-16**|**SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2**|Gergely Dinya et.al.|[2601.11301](https://arxiv.org/abs/2601.11301)|null|

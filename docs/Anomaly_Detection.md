@@ -2,6 +2,34 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection**|Estela Sánchez-Carballo et.al.|[2601.16976](https://arxiv.org/abs/2601.16976)|null|
+|**2026-01-23**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al.|[2601.16381](https://arxiv.org/abs/2601.16381)|null|
+|**2026-01-22**|**TempoNet: Learning Realistic Communication and Timing Patterns for Network Traffic Simulation**|Kristen Moore et.al.|[2601.15663](https://arxiv.org/abs/2601.15663)|null|
+|**2026-01-22**|**Machine Failure Detection Based on Projected Quantum Models**|Larry Bowden et.al.|[2601.15641](https://arxiv.org/abs/2601.15641)|null|
+|**2026-01-21**|**DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection**|Morteza Poudineh et.al.|[2601.15453](https://arxiv.org/abs/2601.15453)|null|
+|**2026-01-21**|**Lightweight LLMs for Network Attack Detection in IoT Networks**|Piyumi Bhagya Sudasinghe et.al.|[2601.15269](https://arxiv.org/abs/2601.15269)|null|
+|**2026-01-21**|**Dynamic Management of a Deep Learning-Based Anomaly Detection System for 5G Networks**|Lorenzo Fernández Maimó et.al.|[2601.15177](https://arxiv.org/abs/2601.15177)|null|
+|**2026-01-21**|**A Real-Time Error Prevention System for Gaze-Based Interaction in Virtual Reality Based on Anomaly Detection**|Björn R. Severitt et.al.|[2601.15146](https://arxiv.org/abs/2601.15146)|null|
+|**2026-01-21**|**Central subspace data depth**|Giacomo Francisci et.al.|[2601.14947](https://arxiv.org/abs/2601.14947)|null|
+|**2026-01-20**|**AI Agents vs. Human Investigators: Balancing Automation, Security, and Expertise in Cyber Forensic Analysis**|Sneha Sudhakaran et.al.|[2601.14544](https://arxiv.org/abs/2601.14544)|null|
+|**2026-01-20**|**Log anomaly detection via Meta Learning and Prototypical Networks for Cross domain generalization**|Krishna Sharma et.al.|[2601.14336](https://arxiv.org/abs/2601.14336)|null|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](https://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**AttackMate: Realistic Emulation and Automation of Cyber Attack Scenarios Across the Kill Chain**|Max Landauer et.al.|[2601.14108](https://arxiv.org/abs/2601.14108)|null|
+|**2026-01-20**|**Vision Also You Need: Navigating Out-of-Distribution Detection with Multimodal Large Language Model**|Haoran Xu et.al.|[2601.14052](https://arxiv.org/abs/2601.14052)|null|
+|**2026-01-20**|**Prospecting MeerKAT Continuum Data for Enigmatic Radio Sources with Unsupervised Vector-Quantised Variational Autoencoders**|Fernando L. Ventura et.al.|[2601.13901](https://arxiv.org/abs/2601.13901)|null|
+|**2026-01-20**|**Intelligent Distributed Optical Fiber Sensing in Transportation Infrastructures: Research Progress, Applications, and Challenges**|Xin Gui et.al.|[2601.13891](https://arxiv.org/abs/2601.13891)|null|
+|**2026-01-20**|**Enhanced Cyber Threat Intelligence by Network Forensic Analysis for Ransomware as a Service(RaaS) Malwares**|Sharmila S P et.al.|[2601.13873](https://arxiv.org/abs/2601.13873)|null|
+|**2026-01-20**|**ChauBoxplot and AdaptiveBoxplot: two R packages for boxplot-based outlier detection**|Tiejun Tong et.al.|[2601.13759](https://arxiv.org/abs/2601.13759)|null|
+|**2026-01-20**|**Towards Token-Level Text Anomaly Detection**|Yang Cao et.al.|[2601.13644](https://arxiv.org/abs/2601.13644)|null|
+|**2026-01-20**|**ChatAD: Reasoning-Enhanced Time-Series Anomaly Detection with Multi-Turn Instruction Evolution**|Hui Sun et.al.|[2601.13546](https://arxiv.org/abs/2601.13546)|null|
+|**2026-01-19**|**Analyzing VLM-Based Approaches for Anomaly Classification and Segmentation**|Mohit Kakda et.al.|[2601.13440](https://arxiv.org/abs/2601.13440)|null|
+|**2026-01-19**|**Diffusion-Driven Synthetic Tabular Data Generation for Enhanced DoS/DDoS Attack Classification**|Aravind B et.al.|[2601.13197](https://arxiv.org/abs/2601.13197)|null|
+|**2026-01-19**|**PrivFly: A Privacy-Preserving Self-Supervised Framework for Rare Attack Detection in IoFT**|Safaa Menssouri et.al.|[2601.13003](https://arxiv.org/abs/2601.13003)|null|
+|**2026-01-19**|**PDFInspect: A Unified Feature Extraction Framework for Malicious Document Detection**|Sharmila S P et.al.|[2601.12866](https://arxiv.org/abs/2601.12866)|null|
+|**2026-01-19**|**Knowledge-Integrated Representation Learning for Crypto Anomaly Detection under Extreme Label Scarcity; Relational Domain-Logic Integration with Retrieval-Grounded Context and Path-Level Explanations**|Gyuyeon Na et.al.|[2601.12839](https://arxiv.org/abs/2601.12839)|null|
+|**2026-01-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al.|[2601.12745](https://arxiv.org/abs/2601.12745)|null|
+|**2026-01-19**|**Empowering All-in-Loop Health Management of Spacecraft Power System in the Mega-Constellation Era via Human-AI Collaboration**|Yi Di et.al.|[2601.12667](https://arxiv.org/abs/2601.12667)|null|
+|**2026-01-19**|**Toward Faithful Explanations in Acoustic Anomaly Detection**|Maab Elrashid et.al.|[2601.12660](https://arxiv.org/abs/2601.12660)|null|
 |**2026-01-16**|**QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid**|Hoang M. Ngo et.al.|[2601.11500](https://arxiv.org/abs/2601.11500)|null|
 |**2026-01-16**|**FTDMamba: Frequency-Assisted Temporal Dilation Mamba for Unmanned Aerial Vehicle Video Anomaly Detection**|Cheng-Zhuang Liu et.al.|[2601.11254](https://arxiv.org/abs/2601.11254)|null|
 |**2026-01-16**|**Assesing the Viability of Unsupervised Learning with Autoencoders for Predictive Maintenance in Helicopter Engines**|P. Sánchez et.al.|[2601.11154](https://arxiv.org/abs/2601.11154)|null|

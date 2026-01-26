@@ -2,6 +2,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**Two-Stream temporal transformer for video action classification**|Nattapong Kurpukdee et.al.|[2601.14086](https://arxiv.org/abs/2601.14086)|null|
+|**2026-01-20**|**MVGD-Net: A Novel Motion-aware Video Glass Surface Detection Network**|Yiwei Lu et.al.|[2601.13715](https://arxiv.org/abs/2601.13715)|null|
+|**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252](https://arxiv.org/abs/2601.13252)|null|
+|**2026-01-19**|**AsyncBEV: Cross-modal Flow Alignment in Asynchronous 3D Object Detection**|Shiming Wang et.al.|[2601.12994](https://arxiv.org/abs/2601.12994)|null|
+|**2026-01-19**|**Moaw: Unleashing Motion Awareness for Video Diffusion Models**|Tianqi Zhang et.al.|[2601.12761](https://arxiv.org/abs/2601.12761)|null|
 |**2026-01-15**|**Future Optical Flow Prediction Improves Robot Control & Video Generation**|Kanchana Ranasinghe et.al.|[2601.10781](https://arxiv.org/abs/2601.10781)|null|
 |**2026-01-15**|**UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow**|Nick Truong et.al.|[2601.10054](https://arxiv.org/abs/2601.10054)|null|
 |**2026-01-13**|**How Do Optical Flow and Textual Prompts Collaborate to Assist in Audio-Visual Semantic Segmentation?**|Peng Gao et.al.|[2601.08133](https://arxiv.org/abs/2601.08133)|null|

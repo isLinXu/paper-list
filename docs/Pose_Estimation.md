@@ -2,6 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885](https://arxiv.org/abs/2601.16885)|null|
+|**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](https://arxiv.org/abs/2601.16763)|null|
+|**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020](https://arxiv.org/abs/2601.16020)|null|
+|**2026-01-22**|**A Multi-View Pipeline and Benchmark Dataset for 3D Hand Pose Estimation in Surgery**|Valery Fischer et.al.|[2601.15918](https://arxiv.org/abs/2601.15918)|null|
+|**2026-01-22**|**TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing**|Toan Gian et.al.|[2601.15838](https://arxiv.org/abs/2601.15838)|null|
+|**2026-01-21**|**DeltaDorsal: Enhancing Hand Pose Estimation with Dorsal Features in Egocentric Views**|William Huang et.al.|[2601.15516](https://arxiv.org/abs/2601.15516)|null|
+|**2026-01-21**|**BBoxMaskPose v2: Expanding Mutual Conditioning to 3D**|Miroslav Purkrabek et.al.|[2601.15200](https://arxiv.org/abs/2601.15200)|null|
+|**2026-01-21**|**On-the-fly hand-eye calibration for the da Vinci surgical robot**|Zejian Cui et.al.|[2601.14871](https://arxiv.org/abs/2601.14871)|null|
+|**2026-01-20**|**On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**|Pavlo Melnyk et.al.|[2601.13913](https://arxiv.org/abs/2601.13913)|null|
+|**2026-01-20**|**DroneVLA: VLA based Aerial Manipulation**|Fawad Mehboob et.al.|[2601.13809](https://arxiv.org/abs/2601.13809)|null|
+|**2026-01-20**|**Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation**|Yu Qin et.al.|[2601.13565](https://arxiv.org/abs/2601.13565)|null|
+|**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252](https://arxiv.org/abs/2601.13252)|null|
+|**2026-01-19**|**Diffusion-based Inverse Model of a Distributed Tactile Sensor for Object Pose Estimation**|Ante Marić et.al.|[2601.13250](https://arxiv.org/abs/2601.13250)|null|
+|**2026-01-19**|**Supervision-by-Hallucination-and-Transfer: A Weakly-Supervised Approach for Robust and Precise Facial Landmark Detection**|Jun Wan et.al.|[2601.12919](https://arxiv.org/abs/2601.12919)|null|
+|**2026-01-19**|**FGTBT: Frequency-Guided Task-Balancing Transformer for Unified Facial Landmark Detection**|Jun Wan et.al.|[2601.12863](https://arxiv.org/abs/2601.12863)|null|
 |**2026-01-15**|**WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments**|Xuweiyi Chen et.al.|[2601.10716](https://arxiv.org/abs/2601.10716)|null|
 |**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698](https://arxiv.org/abs/2601.09698)|null|
 |**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248](https://arxiv.org/abs/2601.08248)|null|

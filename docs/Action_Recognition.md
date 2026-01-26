@@ -2,6 +2,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Affinity Contrastive Learning for Skeleton-based Human Activity Understanding**|Hongda Liu et.al.|[2601.16694](https://arxiv.org/abs/2601.16694)|null|
+|**2026-01-23**|**Low-Power On-Device Gesture Recognition with Einsum Networks**|Sahar Golipoor et.al.|[2601.16662](https://arxiv.org/abs/2601.16662)|null|
+|**2026-01-22**|**Angle of Arrival Estimation for Gesture Recognition from reflective body-worn tags**|Sahar Golipoor et.al.|[2601.16303](https://arxiv.org/abs/2601.16303)|null|
+|**2026-01-22**|**Gesture Recognition from body-Worn RFID under Missing Data**|Sahar Golipoor et.al.|[2601.16301](https://arxiv.org/abs/2601.16301)|null|
+|**2026-01-22**|**GameTalk: Training LLMs for Strategic Conversation**|Victor Conchello Vendrell et.al.|[2601.16276](https://arxiv.org/abs/2601.16276)|null|
+|**2026-01-22**|**Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition**|Geo Ahn et.al.|[2601.16211](https://arxiv.org/abs/2601.16211)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210](https://arxiv.org/abs/2601.16210)|null|
+|**2026-01-22**|**Decoupling Return-to-Go for Efficient Decision Transformer**|Yongyi Wang et.al.|[2601.15953](https://arxiv.org/abs/2601.15953)|null|
+|**2026-01-20**|**Curriculum-Based Strategies for Efficient Cross-Domain Action Recognition**|Emily Kim et.al.|[2601.14101](https://arxiv.org/abs/2601.14101)|null|
+|**2026-01-20**|**Two-Stream temporal transformer for video action classification**|Nattapong Kurpukdee et.al.|[2601.14086](https://arxiv.org/abs/2601.14086)|null|
+|**2026-01-20**|**Unsupervised Video Class-Incremental Learning via Deep Embedded Clustering Management**|Nattapong Kurpukdee et.al.|[2601.14069](https://arxiv.org/abs/2601.14069)|null|
+|**2026-01-20**|**Variational Dual-path Attention Network for CSI-Based Gesture Recognition**|N. Zhang et.al.|[2601.13745](https://arxiv.org/abs/2601.13745)|null|
+|**2026-01-20**|**GeoDynamics: A Geometric State-Space Neural Network for Understanding Brain Dynamics on Riemannian Manifolds**|Tingting Dan et.al.|[2601.13570](https://arxiv.org/abs/2601.13570)|null|
+|**2026-01-19**|**Dynamic Hand Gesture Recognition for Robot Manipulator Tasks**|Dharmendra Sharma et.al.|[2601.12918](https://arxiv.org/abs/2601.12918)|null|
 |**2026-01-15**|**Effects of Different Attention Mechanisms Applied on 3D Models in Video Classification**|Mohammad Rasras et.al.|[2601.10854](https://arxiv.org/abs/2601.10854)|null|
 |**2026-01-15**|**Can Vision-Language Models Understand Construction Workers? An Exploratory Study**|Hieu Bui et.al.|[2601.10835](https://arxiv.org/abs/2601.10835)|null|
 |**2026-01-11**|**Explore with Long-term Memory: A Benchmark and Multimodal LLM-based Reinforcement Learning Framework for Embodied Exploration**|Sen Wang et.al.|[2601.10744](https://arxiv.org/abs/2601.10744)|null|

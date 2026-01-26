@@ -2,6 +2,129 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Autonomous Optical Alignment of Satellite-Based Entanglement Sources using Reinforcement Learning**|Andrzej Gajewski et.al.|[2601.16968](https://arxiv.org/abs/2601.16968)|null|
+|**2026-01-23**|**The Trajectory Alignment Coefficient in Two Acts: From Reward Tuning to Reward Learning**|Calarina Muslimani et.al.|[2601.16906](https://arxiv.org/abs/2601.16906)|null|
+|**2026-01-23**|**Boosting Deep Reinforcement Learning with Semantic Knowledge for Robotic Manipulators**|Lucía Güitta-López et.al.|[2601.16866](https://arxiv.org/abs/2601.16866)|null|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](https://arxiv.org/abs/2601.16853)|null|
+|**2026-01-23**|**LongCat-Flash-Thinking-2601 Technical Report**|Meituan LongCat Team et.al.|[2601.16725](https://arxiv.org/abs/2601.16725)|null|
+|**2026-01-23**|**Adaptive Reinforcement and Model Predictive Control Switching for Safe Human-Robot Cooperative Navigation**|Ning Liu et.al.|[2601.16686](https://arxiv.org/abs/2601.16686)|null|
+|**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Lucía Güitta-López et.al.|[2601.16677](https://arxiv.org/abs/2601.16677)|null|
+|**2026-01-23**|**A Cognitive Framework for Autonomous Agents: Toward Human-Inspired Design**|Francesco Guidi et.al.|[2601.16648](https://arxiv.org/abs/2601.16648)|null|
+|**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578](https://arxiv.org/abs/2601.16578)|null|
+|**2026-01-23**|**Spiking Neural Networks for Communication Systems: Encoding Schemes, Learning Algorithms, and Equalization~Techniques**|Eike-Manuel Edelmann et.al.|[2601.16550](https://arxiv.org/abs/2601.16550)|null|
+|**2026-01-23**|**UAV-Assisted Joint Data Collection and Wireless Power Transfer for Batteryless Sensor Networks**|Wen Zhang et.al.|[2601.16533](https://arxiv.org/abs/2601.16533)|null|
+|**2026-01-23**|**Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic**|Yichuan Ma et.al.|[2601.16486](https://arxiv.org/abs/2601.16486)|null|
+|**2026-01-23**|**FlowSE-GRPO: Training Flow Matching Speech Enhancement via Online Reinforcement Learning**|Haoxu Wang et.al.|[2601.16483](https://arxiv.org/abs/2601.16483)|null|
+|**2026-01-23**|**Mixing Expert Knowledge: Bring Human Thoughts Back To the Game of Go**|Yichuan Ma et.al.|[2601.16447](https://arxiv.org/abs/2601.16447)|null|
+|**2026-01-23**|**Endless Terminals: Scaling RL Environments for Terminal Agents**|Kanishk Gandhi et.al.|[2601.16443](https://arxiv.org/abs/2601.16443)|**[link](https://github.com/kanishkg/endless-terminals)**|
+|**2026-01-23**|**Reinforcement Learning-Based Energy-Aware Coverage Path Planning for Precision Agriculture**|Beining Wu et.al.|[2601.16405](https://arxiv.org/abs/2601.16405)|null|
+|**2026-01-23**|**Towards a Theoretical Understanding to the Generalization of RLHF**|Zhaochun Li et.al.|[2601.16403](https://arxiv.org/abs/2601.16403)|null|
+|**2026-01-23**|**Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification**|Zongwan Cao et.al.|[2601.16400](https://arxiv.org/abs/2601.16400)|null|
+|**2026-01-23**|**A Regularized Actor-Critic Algorithm for Bi-Level Reinforcement Learning**|Sihan Zeng et.al.|[2601.16399](https://arxiv.org/abs/2601.16399)|null|
+|**2026-01-22**|**LLM-in-Sandbox Elicits General Agentic Intelligence**|Daixuan Cheng et.al.|[2601.16206](https://arxiv.org/abs/2601.16206)|**[link](https://github.com/llm-in-sandbox/llm-in-sandbox)**|
+|**2026-01-22**|**Learning to Discover at Test Time**|Mert Yuksekgonul et.al.|[2601.16175](https://arxiv.org/abs/2601.16175)|**[link](https://github.com/test-time-training/discover)**|
+|**2026-01-22**|**Structured Hints for Sample-Efficient Lean Theorem Proving**|Zachary Burton et.al.|[2601.16172](https://arxiv.org/abs/2601.16172)|null|
+|**2026-01-22**|**Efficiently Learning Robust Torque-based Locomotion Through Reinforcement with Model-Based Supervision**|Yashuai Yan et.al.|[2601.16109](https://arxiv.org/abs/2601.16109)|null|
+|**2026-01-22**|**SAMTok: Representing Any Mask with Two Words**|Yikang Zhou et.al.|[2601.16093](https://arxiv.org/abs/2601.16093)|**[link](https://github.com/bytedance/Sa2VA)**|
+|**2026-01-22**|**Dynamic Tactile Sensing System and Soft Actor Critic Reinforcement Learning for Inclusion Characterization**|John Bannan et.al.|[2601.16061](https://arxiv.org/abs/2601.16061)|null|
+|**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020](https://arxiv.org/abs/2601.16020)|null|
+|**2026-01-22**|**PUMA: Perception-driven Unified Foothold Prior for Mobility Augmented Quadruped Parkour**|Liang Wang et.al.|[2601.15995](https://arxiv.org/abs/2601.15995)|null|
+|**2026-01-22**|**Decoupling Return-to-Go for Efficient Decision Transformer**|Yongyi Wang et.al.|[2601.15953](https://arxiv.org/abs/2601.15953)|null|
+|**2026-01-22**|**Off-Policy Actor-Critic with Sigmoid-Bounded Entropy for Real-World Robot Learning**|Xiefeng Wu et.al.|[2601.15761](https://arxiv.org/abs/2601.15761)|null|
+|**2026-01-22**|**PhysProver: Advancing Automatic Theorem Proving for Physics**|Hanning Zhang et.al.|[2601.15737](https://arxiv.org/abs/2601.15737)|null|
+|**2026-01-22**|**Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind**|Zhitao He et.al.|[2601.15715](https://arxiv.org/abs/2601.15715)|null|
+|**2026-01-22**|**D-Optimality-Guided Reinforcement Learning for Efficient Open-Loop Calibration of a 3-DOF Ankle Rehabilitation Robot**|Qifan Hu et.al.|[2601.15707](https://arxiv.org/abs/2601.15707)|null|
+|**2026-01-22**|**From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models**|Jiaxin Zhang et.al.|[2601.15690](https://arxiv.org/abs/2601.15690)|null|
+|**2026-01-22**|**Performance-guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2601.15688](https://arxiv.org/abs/2601.15688)|null|
+|**2026-01-22**|**EmotionThinker: Prosody-Aware Reinforcement Learning for Explainable Speech Emotion Reasoning**|Dingdong Wang et.al.|[2601.15668](https://arxiv.org/abs/2601.15668)|null|
+|**2026-01-22**|**Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors**|Zhiwei Zhang et.al.|[2601.15625](https://arxiv.org/abs/2601.15625)|null|
+|**2026-01-22**|**Explainable Deepfake Detection with RL Enhanced Self-Blended Images**|Ning Jiang et.al.|[2601.15624](https://arxiv.org/abs/2601.15624)|null|
+|**2026-01-22**|**AION: Aerial Indoor Object-Goal Navigation Using Dual-Policy Reinforcement Learning**|Zichen Yan et.al.|[2601.15614](https://arxiv.org/abs/2601.15614)|null|
+|**2026-01-22**|**When Sharpening Becomes Collapse: Sampling Bias and Semantic Coupling in RL with Verifiable Rewards**|Mingyuan Fan et.al.|[2601.15609](https://arxiv.org/abs/2601.15609)|null|
+|**2026-01-22**|**A Mobile Magnetic Manipulation Platform for Gastrointestinal Navigation with Deep Reinforcement Learning Control**|Zhifan Yan et.al.|[2601.15545](https://arxiv.org/abs/2601.15545)|null|
+|**2026-01-21**|**Non-Stationary Functional Bilevel Optimization**|Jason Bohne et.al.|[2601.15363](https://arxiv.org/abs/2601.15363)|null|
+|**2026-01-21**|**Q-Probe: Scaling Image Quality Assessment to High Resolution via Context-Aware Agentic Probing**|Xiang Li et.al.|[2601.15356](https://arxiv.org/abs/2601.15356)|null|
+|**2026-01-21**|**Statistical Reinforcement Learning in the Real World: A Survey of Challenges and Future Directions**|Asim H. Gazi et.al.|[2601.15353](https://arxiv.org/abs/2601.15353)|null|
+|**2026-01-20**|**ICPO: Illocution-Calibrated Policy Optimization for Multi-Turn Conversation**|Zhebo Wang et.al.|[2601.15330](https://arxiv.org/abs/2601.15330)|null|
+|**2026-01-21**|**The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models**|Zanlin Ni et.al.|[2601.15165](https://arxiv.org/abs/2601.15165)|**[link](https://github.com/LeapLabTHU/JustGRPO)**|
+|**2026-01-21**|**Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning**|Yuval Kansal et.al.|[2601.15160](https://arxiv.org/abs/2601.15160)|null|
+|**2026-01-21**|**Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data**|Yuval Ran-Milo et.al.|[2601.15158](https://arxiv.org/abs/2601.15158)|null|
+|**2026-01-21**|**CLEANER: Self-Purified Trajectories Boost Agentic Reinforcement Learning**|Tianshi Xu et.al.|[2601.15141](https://arxiv.org/abs/2601.15141)|null|
+|**2026-01-21**|**Vehicle Routing with Finite Time Horizon using Deep Reinforcement Learning with Improved Network Embedding**|Ayan Maity et.al.|[2601.15131](https://arxiv.org/abs/2601.15131)|null|
+|**2026-01-21**|**Memory Retention Is Not Enough to Master Memory Tasks in Reinforcement Learning**|Oleg Shchendrigin et.al.|[2601.15086](https://arxiv.org/abs/2601.15086)|null|
+|**2026-01-21**|**A Curriculum-Based Deep Reinforcement Learning Framework for the Electric Vehicle Routing Problem**|Mertcan Daysalilar et.al.|[2601.15038](https://arxiv.org/abs/2601.15038)|null|
+|**2026-01-21**|**Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control**|Jannis Becktepe et.al.|[2601.15015](https://arxiv.org/abs/2601.15015)|null|
+|**2026-01-21**|**Improving Regret Approximation for Unsupervised Dynamic Environment Generation**|Harry Mead et.al.|[2601.14957](https://arxiv.org/abs/2601.14957)|null|
+|**2026-01-21**|**Language-Coupled Reinforcement Learning for Multilingual Retrieval-Augmented Generation**|Rui Qi et.al.|[2601.14896](https://arxiv.org/abs/2601.14896)|null|
+|**2026-01-21**|**What Makes Low-Bit Quantization-Aware Training Work for Reasoning LLMs? A Systematic Study**|Keyu Lv et.al.|[2601.14888](https://arxiv.org/abs/2601.14888)|null|
+|**2026-01-21**|**CI4A: Semantic Component Interfaces for Agents Empowering Web Automation**|Zhi Qiu et.al.|[2601.14790](https://arxiv.org/abs/2601.14790)|null|
+|**2026-01-21**|**ReinPath: A Multimodal Reinforcement Learning Approach for Pathology**|Kangcheng Zhou et.al.|[2601.14757](https://arxiv.org/abs/2601.14757)|null|
+|**2026-01-21**|**PCL-Reasoner-V1.5: Advancing Math Reasoning with Offline Reinforcement Learning**|Yao Lu et.al.|[2601.14716](https://arxiv.org/abs/2601.14716)|null|
+|**2026-01-21**|**DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs**|Mingxuan Song et.al.|[2601.14711](https://arxiv.org/abs/2601.14711)|null|
+|**2026-01-21**|**Case-Guided Sequential Assay Planning in Drug Discovery**|Tianchi Chen et.al.|[2601.14710](https://arxiv.org/abs/2601.14710)|null|
+|**2026-01-21**|**Proximal Policy Optimization with Evolutionary Mutations**|Casimir Czworkowski et.al.|[2601.14705](https://arxiv.org/abs/2601.14705)|null|
+|**2026-01-21**|**DARL: Encouraging Diverse Answers for General Reasoning without Verifiers**|Chongxuan Huang et.al.|[2601.14700](https://arxiv.org/abs/2601.14700)|null|
+|**2026-01-21**|**CoScale-RL: Efficient Post-Training by Co-Scaling Data and Computation**|Yutong Chen et.al.|[2601.14695](https://arxiv.org/abs/2601.14695)|null|
+|**2026-01-21**|**Beyond Error-Based Optimization: Experience-Driven Symbolic Regression with Goal-Conditioned Reinforcement Learning**|Jianwen Sun et.al.|[2601.14693](https://arxiv.org/abs/2601.14693)|null|
+|**2026-01-21**|**FARE: Fast-Slow Agentic Robotic Exploration**|Shuhao Liao et.al.|[2601.14681](https://arxiv.org/abs/2601.14681)|null|
+|**2026-01-21**|**MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks**|Zixuan Ke et.al.|[2601.14652](https://arxiv.org/abs/2601.14652)|null|
+|**2026-01-21**|**SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation**|Xichen Zhang et.al.|[2601.14615](https://arxiv.org/abs/2601.14615)|null|
+|**2026-01-21**|**Learning Consistent Taxonomic Classification through Hierarchical Reasoning**|Zhenghong Li et.al.|[2601.14610](https://arxiv.org/abs/2601.14610)|null|
+|**2026-01-21**|**Rewarding How Models Think Pedagogically: Integrating Pedagogical Reasoning and Thinking Rewards for LLMs in Education**|Unggi Lee et.al.|[2601.14560](https://arxiv.org/abs/2601.14560)|null|
+|**2026-01-20**|**Report for NSF Workshop on AI for Electronic Design Automation**|Deming Chen et.al.|[2601.14541](https://arxiv.org/abs/2601.14541)|null|
+|**2026-01-20**|**Towards Execution-Grounded Automated AI Research**|Chenglei Si et.al.|[2601.14525](https://arxiv.org/abs/2601.14525)|**[link](https://github.com/NoviScl/Automated-AI-Researcher)**|
+|**2026-01-20**|**Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree**|Leyi Zhao et.al.|[2601.14523](https://arxiv.org/abs/2601.14523)|null|
+|**2026-01-20**|**Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow**|Haocheng Xi et.al.|[2601.14243](https://arxiv.org/abs/2601.14243)|null|
+|**2026-01-20**|**Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression**|Shaurya Mathur et.al.|[2601.14238](https://arxiv.org/abs/2601.14238)|null|
+|**2026-01-20**|**Q-learning with Adjoint Matching**|Qiyang Li et.al.|[2601.14234](https://arxiv.org/abs/2601.14234)|**[link](https://github.com/ColinQiyangLi/qam)**|
+|**2026-01-20**|**KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning**|Egor Cherepanov et.al.|[2601.14232](https://arxiv.org/abs/2601.14232)|**[link](https://github.com/CognitiveAISystems/kage-bench)**|
+|**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](https://arxiv.org/abs/2601.14228)|null|
+|**2026-01-20**|**InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning**|Matthew Y. R. Yang et.al.|[2601.14209](https://arxiv.org/abs/2601.14209)|null|
+|**2026-01-20**|**Differentiated Pickup Point Offering for Emission Reduction in Last-Mile Delivery**|Albina Galiullina et.al.|[2601.14196](https://arxiv.org/abs/2601.14196)|null|
+|**2026-01-20**|**Toward Efficient Agents: Memory, Tool learning, and Planning**|Xiaofang Yang et.al.|[2601.14192](https://arxiv.org/abs/2601.14192)|**[link](https://github.com/yxf203/Awesome-Efficient-Agents)**|
+|**2026-01-20**|**CREATE: Cross-Layer Resilience Characterization and Optimization for Efficient yet Reliable Embodied AI Systems**|Tong Xie et.al.|[2601.14140](https://arxiv.org/abs/2601.14140)|null|
+|**2026-01-20**|**Diffusion-Guided Backdoor Attacks in Real-World Reinforcement Learning**|Tairan Huang et.al.|[2601.14104](https://arxiv.org/abs/2601.14104)|null|
+|**2026-01-20**|**Optimizing Energy and Data Collection in UAV-aided IoT Networks using Attention-based Multi-Objective Reinforcement Learning**|Babacar Toure et.al.|[2601.14092](https://arxiv.org/abs/2601.14092)|null|
+|**2026-01-20**|**RM-Distiller: Exploiting Generative LLM for Reward Model Distillation**|Hongli Zhou et.al.|[2601.14032](https://arxiv.org/abs/2601.14032)|null|
+|**2026-01-20**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](https://arxiv.org/abs/2601.13964)|null|
+|**2026-01-20**|**Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning**|Hongbo Bai et.al.|[2601.13942](https://arxiv.org/abs/2601.13942)|null|
+|**2026-01-20**|**Deep Reinforcement Learning-Based Dynamic Resource Allocation in Cell-Free Massive MIMO**|Phuong Nam Tran et.al.|[2601.13934](https://arxiv.org/abs/2601.13934)|null|
+|**2026-01-20**|**HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop Clinical Modeling across EHR and X-Ray in Medical VLMs**|Yuezhe Yang et.al.|[2601.13919](https://arxiv.org/abs/2601.13919)|null|
+|**2026-01-20**|**TractRLFusion: A GPT-Based Multi-Critic Policy Fusion Framework for Fiber Tractography**|Ankita Joshi et.al.|[2601.13897](https://arxiv.org/abs/2601.13897)|null|
+|**2026-01-20**|**Finding RELIEF: Shaping Reasoning Behavior without Reasoning Supervision via Belief Engineering**|Chak Tou Leong et.al.|[2601.13752](https://arxiv.org/abs/2601.13752)|null|
+|**2026-01-20**|**Dr. Assistant: Enhancing Clinical Diagnostic Inquiry via Structured Diagnostic Reasoning Data and Reinforcement Learning**|Yue Guo et.al.|[2601.13690](https://arxiv.org/abs/2601.13690)|null|
+|**2026-01-20**|**Reinforcement Learning for Opportunistic Routing in Software-Defined LEO-Terrestrial Systems**|Sivaram Krishnan et.al.|[2601.13662](https://arxiv.org/abs/2601.13662)|null|
+|**2026-01-20**|**Communication-Free Collective Navigation for a Swarm of UAVs via LiDAR-Based Deep Reinforcement Learning**|Myong-Yol Choi et.al.|[2601.13657](https://arxiv.org/abs/2601.13657)|null|
+|**2026-01-20**|**Sample Complexity of Average-Reward Q-Learning: From Single-agent to Federated Reinforcement Learning**|Yuchen Jiao et.al.|[2601.13642](https://arxiv.org/abs/2601.13642)|null|
+|**2026-01-20**|**A Kubernetes custom scheduler based on reinforcement learning for compute-intensive pods**|Hanlin Zhou et.al.|[2601.13579](https://arxiv.org/abs/2601.13579)|null|
+|**2026-01-20**|**Behavior Knowledge Merge in Reinforced Agentic Models**|Xiangchi Yuan et.al.|[2601.13572](https://arxiv.org/abs/2601.13572)|**[link](https://github.com/xiangchi-yuan/mrl)**|
+|**2026-01-20**|**Reasoning While Recommending: Entropy-Guided Latent Reasoning in Generative Re-ranking Models**|Changshuo Zhang et.al.|[2601.13533](https://arxiv.org/abs/2601.13533)|null|
+|**2026-01-20**|**Group Relative Policy Optimization for Robust Blind Interference Alignment with Fluid Antennas**|Jianqiu Peng et.al.|[2601.13506](https://arxiv.org/abs/2601.13506)|null|
+|**2026-01-19**|**RLBR: Reinforcement Learning with Biasing Rewards for Contextual Speech Large Language Models**|Bo Ren et.al.|[2601.13409](https://arxiv.org/abs/2601.13409)|null|
+|**2026-01-19**|**Balancing Classification and Calibration Performance in Decision-Making LLMs via Calibration Aware Reinforcement Learning**|Duygu Nur Yaldiz et.al.|[2601.13284](https://arxiv.org/abs/2601.13284)|null|
+|**2026-01-19**|**CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning**|Eric Onyame et.al.|[2601.13262](https://arxiv.org/abs/2601.13262)|**[link](https://github.com/AikyamLab/cure-med)**|
+|**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252](https://arxiv.org/abs/2601.13252)|null|
+|**2026-01-19**|**Training instability in deep learning follows low-dimensional dynamical principles**|Zhipeng Zhang et.al.|[2601.13160](https://arxiv.org/abs/2601.13160)|null|
+|**2026-01-19**|**Agentic Conversational Search with Contextualized Reasoning via Reinforcement Learning**|Fengran Mo et.al.|[2601.13115](https://arxiv.org/abs/2601.13115)|null|
+|**2026-01-19**|**Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks**|Yijun Zhou et.al.|[2601.13042](https://arxiv.org/abs/2601.13042)|null|
+|**2026-01-19**|**Feedforward-Feedback Integration in Flight Control: Reinforcement Learning with Sliding Mode Control**|Imran Sayyed et.al.|[2601.13037](https://arxiv.org/abs/2601.13037)|null|
+|**2026-01-19**|**Think3D: Thinking with Space for Spatial Reasoning**|Zaibin Zhang et.al.|[2601.13029](https://arxiv.org/abs/2601.13029)|**[link](https://github.com/zhangzaibin/spagent.)**|
+|**2026-01-19**|**Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models**|Runxuan Liu et.al.|[2601.12995](https://arxiv.org/abs/2601.12995)|null|
+|**2026-01-19**|**PaperGuide: Making Small Language-Model Paper-Reading Agents More Efficient**|Zijian Wang et.al.|[2601.12988](https://arxiv.org/abs/2601.12988)|null|
+|**2026-01-19**|**Imitation learning-based spacecraft rendezvous and docking method with Expert Demonstration**|Shibo Shao et.al.|[2601.12952](https://arxiv.org/abs/2601.12952)|null|
+|**2026-01-19**|**Communication Methods in Multi-Agent Reinforcement Learning**|Christoph Wittner et.al.|[2601.12886](https://arxiv.org/abs/2601.12886)|null|
+|**2026-01-19**|**FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions**|Peng Li et.al.|[2601.12799](https://arxiv.org/abs/2601.12799)|**[link](https://github.com/OpenMOSS/FRoM-W1)**|
+|**2026-01-19**|**Unleashing Efficient Asynchronous RL Post-Training via Staleness-Constrained Rollout Coordination**|Haoyang Li et.al.|[2601.12784](https://arxiv.org/abs/2601.12784)|null|
+|**2026-01-19**|**SDN-Blockchain Based Security Routing for UAV Communication via Reinforcement Learning**|Yulu Han et.al.|[2601.12774](https://arxiv.org/abs/2601.12774)|null|
+|**2026-01-19**|**Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction**|Xingjie Gao et.al.|[2601.12762](https://arxiv.org/abs/2601.12762)|**[link](https://github.com/NEUIR/ToolMaster.)**|
+|**2026-01-19**|**Distribution-Centric Policy Optimization Dominates Exploration-Exploitation Trade-off**|Zhaochun Li et.al.|[2601.12730](https://arxiv.org/abs/2601.12730)|**[link](https://github.com/597358816/DCPO.)**|
+|**2026-01-19**|**Teaching Large Reasoning Models Effective Reflection**|Hanbin Wang et.al.|[2601.12720](https://arxiv.org/abs/2601.12720)|null|
+|**2026-01-19**|**Decoding Rewards in Competitive Games: Inverse Game Theory with Entropy Regularization**|Junyi Liao et.al.|[2601.12707](https://arxiv.org/abs/2601.12707)|null|
+|**2026-01-19**|**Resource-Conscious RL Algorithms for Deep Brain Stimulation**|Arkaprava Gupta et.al.|[2601.12699](https://arxiv.org/abs/2601.12699)|null|
+|**2026-01-19**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2601.12662](https://arxiv.org/abs/2601.12662)|null|
+|**2026-01-19**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](https://arxiv.org/abs/2601.12659)|null|
+|**2026-01-19**|**Multiagent Reinforcement Learning in Enhancing Resilience of Microgrids under Extreme Weather Events**|Yin Wu et.al.|[2601.12657](https://arxiv.org/abs/2601.12657)|null|
+|**2026-01-19**|**STEP-LLM: Generating CAD STEP Models from Natural Language with Large Language Models**|Xiangyu Shi et.al.|[2601.12641](https://arxiv.org/abs/2601.12641)|null|
 |**2026-01-16**|**Do explanations generalize across large reasoning models?**|Koyena Pal et.al.|[2601.11517](https://arxiv.org/abs/2601.11517)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](https://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents**|Ziyu Wang et.al.|[2601.11421](https://arxiv.org/abs/2601.11421)|null|

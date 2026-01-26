@@ -2,6 +2,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](https://arxiv.org/abs/2601.16763)|null|
+|**2026-01-23**|**E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory**|Lin Huang et.al.|[2601.16622](https://arxiv.org/abs/2601.16622)|null|
+|**2026-01-23**|**BoostFGL: Boosting Fairness in Federated Graph Learning**|Zekai Chen et.al.|[2601.16496](https://arxiv.org/abs/2601.16496)|null|
+|**2026-01-22**|**Coarse-to-Fine Non-rigid Multi-modal Image Registration for Historical Panel Paintings based on Crack Structures**|Aline Sindel et.al.|[2601.16348](https://arxiv.org/abs/2601.16348)|null|
+|**2026-01-22**|**Predicting Healthcare System Visitation Flow by Integrating Hospital Attributes and Population Socioeconomics with Human Mobility Data**|Binbin Lin et.al.|[2601.15977](https://arxiv.org/abs/2601.15977)|null|
+|**2026-01-22**|**Communication-efficient Federated Graph Classification via Generative Diffusion Modeling**|Xiuling Wang et.al.|[2601.15722](https://arxiv.org/abs/2601.15722)|null|
+|**2026-01-21**|**SAGE-FM: A lightweight and interpretable spatial transcriptomics foundation model**|Xianghao Zhan et.al.|[2601.15504](https://arxiv.org/abs/2601.15504)|null|
+|**2026-01-21**|**Multi-Targeted Graph Backdoor Attack**|Md Nabi Newaz Khan et.al.|[2601.15474](https://arxiv.org/abs/2601.15474)|null|
+|**2026-01-21**|**Pb4U-GNet: Resolution-Adaptive Garment Simulation via Propagation-before-Update Graph Network**|Aoran Liu et.al.|[2601.15110](https://arxiv.org/abs/2601.15110)|null|
+|**2026-01-21**|**LoRAP: Low-Rank Aggregation Prompting for Quantized Graph Neural Networks Training**|Chenyu Liu et.al.|[2601.15079](https://arxiv.org/abs/2601.15079)|null|
+|**2026-01-21**|**Federated Transformer-GNN for Privacy-Preserving Brain Tumor Localization with Modality-Level Explainability**|Andrea Protani et.al.|[2601.15042](https://arxiv.org/abs/2601.15042)|null|
+|**2026-01-21**|**ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data**|Marian Renz et.al.|[2601.15025](https://arxiv.org/abs/2601.15025)|null|
+|**2026-01-21**|**Multi-Behavior Sequential Modeling with Transition-Aware Graph Attention Network for E-Commerce Recommendation**|Hanqi Jin et.al.|[2601.14955](https://arxiv.org/abs/2601.14955)|null|
+|**2026-01-21**|**Learning and extrapolating scale-invariant processes**|Anaclara Alvez-Canepa et.al.|[2601.14810](https://arxiv.org/abs/2601.14810)|null|
+|**2026-01-21**|**FSX: Message Flow Sensitivity Enhanced Structural Explainer for Graph Neural Networks**|Bizu Feng et.al.|[2601.14730](https://arxiv.org/abs/2601.14730)|null|
+|**2026-01-21**|**PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering**|Doyun Choi et.al.|[2601.14720](https://arxiv.org/abs/2601.14720)|null|
+|**2026-01-21**|**Re-understanding Graph Unlearning through Memorization**|Pengfei Ding et.al.|[2601.14694](https://arxiv.org/abs/2601.14694)|null|
+|**2026-01-21**|**Relational Graph Modeling for Credit Default Prediction: Heterogeneous GNNs and Hybrid Ensemble Learning**|Yvonne Yang et.al.|[2601.14633](https://arxiv.org/abs/2601.14633)|null|
+|**2026-01-20**|**Report for NSF Workshop on AI for Electronic Design Automation**|Deming Chen et.al.|[2601.14541](https://arxiv.org/abs/2601.14541)|null|
+|**2026-01-20**|**engGNN: A Dual-Graph Neural Network for Omics-Based Disease Classification and Feature Selection**|Tiantian Yang et.al.|[2601.14536](https://arxiv.org/abs/2601.14536)|null|
+|**2026-01-20**|**Towards Transparent Malware Detection With Granular Explainability: Backtracking Meta-Coarsened Explanations Onto Assembly Flow Graphs With Graph Neural Networks**|Griffin Higgins et.al.|[2601.14511](https://arxiv.org/abs/2601.14511)|null|
+|**2026-01-20**|**Riemannian Liquid Spatio-Temporal Graph Network**|Liangsi Lu et.al.|[2601.14115](https://arxiv.org/abs/2601.14115)|null|
+|**2026-01-20**|**Decoder-Free Supervoxel GNN for Accurate Brain-Tumor Localization in Multi-Modal MRI**|Andrea Protani et.al.|[2601.14055](https://arxiv.org/abs/2601.14055)|null|
+|**2026-01-20**|**Facial Spatiotemporal Graphs: Leveraging the 3D Facial Surface for Remote Physiological Measurement**|Sam Cantrill et.al.|[2601.13724](https://arxiv.org/abs/2601.13724)|null|
+|**2026-01-20**|**Resilient Routing: Risk-Aware Dynamic Routing in Smart Logistics via Spatiotemporal Graph Learning**|Zhiming Xue et.al.|[2601.13632](https://arxiv.org/abs/2601.13632)|null|
+|**2026-01-20**|**TRGCN: A Hybrid Framework for Social Network Rumor Detection**|Yanqin Yan et.al.|[2601.13573](https://arxiv.org/abs/2601.13573)|null|
+|**2026-01-20**|**Self-Supervised Learning of Parametric Approximation for Security-Constrained DC-OPF**|Anderson Anrrango et.al.|[2601.13486](https://arxiv.org/abs/2601.13486)|null|
+|**2026-01-19**|**Graph Neural Networks are Heuristics**|Yimeng Min et.al.|[2601.13465](https://arxiv.org/abs/2601.13465)|null|
+|**2026-01-19**|**TrustEnergy: A Unified Framework for Accurate and Reliable User-level Energy Usage Prediction**|Dahai Yu et.al.|[2601.13422](https://arxiv.org/abs/2601.13422)|null|
+|**2026-01-19**|**Rethinking Quantum Noise in Quantum Machine Learning: When Noise Improves Learning**|Linghua Zhu et.al.|[2601.13275](https://arxiv.org/abs/2601.13275)|null|
+|**2026-01-19**|**Conflict Detection in AI-RAN: Efficient Interaction Learning and Autonomous Graph Reconstruction**|Joao F. Santos et.al.|[2601.13213](https://arxiv.org/abs/2601.13213)|null|
+|**2026-01-19**|**HT-GNN: Hyper-Temporal Graph Neural Network for Customer Lifetime Value Prediction in Baidu Ads**|Xiaohui Zhao et.al.|[2601.13013](https://arxiv.org/abs/2601.13013)|null|
+|**2026-01-19**|**OFA-MAS: One-for-All Multi-Agent System Topology Design based on Mixture-of-Experts Graph Generative Models**|Shiyuan Li et.al.|[2601.12996](https://arxiv.org/abs/2601.12996)|null|
+|**2026-01-19**|**Efficient Code Analysis via Graph-Guided Large Language Models**|Hang Gao et.al.|[2601.12890](https://arxiv.org/abs/2601.12890)|null|
+|**2026-01-19**|**Hierarchical Sparse Circuit Extraction from Billion-Parameter Language Models through Scalable Attribution Graph Decomposition**|Mohammed Mudassir Uddin et.al.|[2601.12879](https://arxiv.org/abs/2601.12879)|null|
+|**2026-01-19**|**Knowledge-Integrated Representation Learning for Crypto Anomaly Detection under Extreme Label Scarcity; Relational Domain-Logic Integration with Retrieval-Grounded Context and Path-Level Explanations**|Gyuyeon Na et.al.|[2601.12839](https://arxiv.org/abs/2601.12839)|null|
+|**2026-01-19**|**Eddy-Resolving Global Ocean Forecasting with Multi-Scale Graph Neural Networks**|Yuta Hirabayashi et.al.|[2601.12775](https://arxiv.org/abs/2601.12775)|null|
+|**2026-01-19**|**A Boolean Function-Theoretic Framework for Expressivity in GNNs with Applications to Fair Graph Mining**|Manjish Pal et.al.|[2601.12751](https://arxiv.org/abs/2601.12751)|null|
+|**2026-01-19**|**A Graph Prompt Fine-Tuning Method for WSN Spatio-Temporal Correlation Anomaly Detection**|Miao Ye et.al.|[2601.12745](https://arxiv.org/abs/2601.12745)|null|
+|**2026-01-19**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2601.12662](https://arxiv.org/abs/2601.12662)|null|
+|**2026-01-19**|**Two-Layer Reinforcement Learning-Assisted Joint Beamforming and Trajectory Optimization for Multi-UAV Downlink Communications**|Ruiqi Wang et.al.|[2601.12659](https://arxiv.org/abs/2601.12659)|null|
+|**2026-01-19**|**Topology-Aware Multiscale Mixture of Experts for Efficient Molecular Property Prediction**|Long D. Nguyen et.al.|[2601.12637](https://arxiv.org/abs/2601.12637)|null|
 |**2026-01-16**|**GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance**|Francisco Giral et.al.|[2601.11440](https://arxiv.org/abs/2601.11440)|null|
 |**2026-01-16**|**New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic**|Shaohua Yu et.al.|[2601.11414](https://arxiv.org/abs/2601.11414)|null|
 |**2026-01-16**|**Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning**|Ahmed Rashwan et.al.|[2601.11401](https://arxiv.org/abs/2601.11401)|null|

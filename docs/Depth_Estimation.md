@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532](https://arxiv.org/abs/2601.16532)|null|
+|**2026-01-21**|**RayRoPE: Projective Ray Positional Encoding for Multi-view Attention**|Yu Wu et.al.|[2601.15275](https://arxiv.org/abs/2601.15275)|null|
 |**2026-01-15**|**SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM**|Onur Bagoren et.al.|[2601.10814](https://arxiv.org/abs/2601.10814)|null|
 |**2026-01-14**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](https://arxiv.org/abs/2601.09823)|null|
 |**2026-01-13**|**CogniMap3D: Cognitive 3D Mapping and Rapid Retrieval**|Feiran Wang et.al.|[2601.08175](https://arxiv.org/abs/2601.08175)|null|

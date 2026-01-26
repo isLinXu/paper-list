@@ -2,6 +2,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**TidyVoice: A Curated Multilingual Dataset for Speaker Verification Derived from Common Voice**|Aref Farhadipour et.al.|[2601.16358](https://arxiv.org/abs/2601.16358)|null|
+|**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](https://arxiv.org/abs/2601.16240)|null|
+|**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](https://arxiv.org/abs/2601.16231)|null|
+|**2026-01-22**|**Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization**|Maximos Kaliakatsos-Papakostas et.al.|[2601.16150](https://arxiv.org/abs/2601.16150)|null|
+|**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](https://arxiv.org/abs/2601.16126)|null|
+|**2026-01-22**|**Distillation-based Layer Dropping (DLD) Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](https://arxiv.org/abs/2601.16117)|null|
+|**2026-01-22**|**Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs**|Lalaram Arya et.al.|[2601.16023](https://arxiv.org/abs/2601.16023)|null|
+|**2026-01-22**|**PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation**|Jaekwon Im et.al.|[2601.15872](https://arxiv.org/abs/2601.15872)|null|
+|**2026-01-22**|**U3-xi: Pushing the Boundaries of Speaker Recognition via Incorporating Uncertainty**|Junjie Li et.al.|[2601.15719](https://arxiv.org/abs/2601.15719)|null|
+|**2026-01-22**|**DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice**|Leying Zhang et.al.|[2601.15596](https://arxiv.org/abs/2601.15596)|null|
+|**2026-01-20**|**Lost in Transcription: How Speech-to-Text Errors Derail Code Understanding**|Jayant Havare et.al.|[2601.15339](https://arxiv.org/abs/2601.15339)|null|
+|**2026-01-21**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](https://arxiv.org/abs/2601.15209)|null|
+|**2026-01-21**|**Training-Efficient Text-to-Music Generation with State-Space Modeling**|Wei-Jaw Lee et.al.|[2601.14786](https://arxiv.org/abs/2601.14786)|null|
+|**2026-01-21**|**Inverse-Hessian Regularization for Continual Learning in ASR**|Steven Vander Eeckt et.al.|[2601.14751](https://arxiv.org/abs/2601.14751)|null|
+|**2026-01-21**|**Triage knowledge distillation for speaker verification**|Ju-ho Kim et.al.|[2601.14699](https://arxiv.org/abs/2601.14699)|null|
+|**2026-01-21**|**Dissecting Performance Degradation in Audio Source Separation under Sampling Frequency Mismatch**|Kanami Imamura et.al.|[2601.14684](https://arxiv.org/abs/2601.14684)|null|
+|**2026-01-20**|**Prosody-Guided Harmonic Attention for Phase-Coherent Neural Vocoding in the Complex Spectrum**|Mohammed Salah Al-Radhi et.al.|[2601.14472](https://arxiv.org/abs/2601.14472)|null|
+|**2026-01-20**|**Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis**|Thanathai Lertpetchpun et.al.|[2601.14417](https://arxiv.org/abs/2601.14417)|null|
+|**2026-01-20**|**DAME: Duration-Aware Matryoshka Embedding for Duration-Robust Speaker Verification**|Youngmoon Jung et.al.|[2601.13999](https://arxiv.org/abs/2601.13999)|null|
+|**2026-01-20**|**Stream-Voice-Anon: Enhancing Utility of Real-Time Speaker Anonymization via Neural Audio Codec and Language Models**|Nikita Kuzmin et.al.|[2601.13948](https://arxiv.org/abs/2601.13948)|null|
+|**2026-01-20**|**Habibi: Laying the Open-Source Foundation of Unified-Dialectal Arabic Speech Synthesis**|Yushen Chen et.al.|[2601.13802](https://arxiv.org/abs/2601.13802)|null|
+|**2026-01-20**|**S $^2$ Voice: Style-Aware Autoregressive Modeling with Enhanced Conditioning for Singing Style Conversion**|Ziqian Wang et.al.|[2601.13629](https://arxiv.org/abs/2601.13629)|null|
+|**2026-01-19**|**The Achilles' Heel of Angular Margins: A Chebyshev Polynomial Fix for Speaker Verification**|Yang Wang et.al.|[2601.13198](https://arxiv.org/abs/2601.13198)|null|
+|**2026-01-19**|**Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition**|Warit Sirichotedumrong et.al.|[2601.13044](https://arxiv.org/abs/2601.13044)|**[link](https://github.com/scb-10x/typhoon-asr)**|
+|**2026-01-19**|**Lombard Speech Synthesis for Any Voice with Controllable Style Embeddings**|Seymanur Akti et.al.|[2601.12966](https://arxiv.org/abs/2601.12966)|null|
+|**2026-01-19**|**Supervised Learning for Game Music Segmentation**|Shangxuan Luo et.al.|[2601.12961](https://arxiv.org/abs/2601.12961)|null|
+|**2026-01-19**|**DUAP: Dual-task Universal Adversarial Perturbations Against Voice Control Systems**|Suyang Sun et.al.|[2601.12786](https://arxiv.org/abs/2601.12786)|null|
 |**2026-01-16**|**F-Actor: Controllable Conversational Behaviour in Full-Duplex Models**|Maike Züfle et.al.|[2601.11329](https://arxiv.org/abs/2601.11329)|null|
 |**2026-01-16**|**WenetSpeech-Wu: Datasets, Benchmarks, and Models for a Unified Chinese Wu Dialect Speech Processing Ecosystem**|Chengyou Wang et.al.|[2601.11027](https://arxiv.org/abs/2601.11027)|null|
 |**2026-01-15**|**Unifying Speech Recognition, Synthesis and Conversion with Autoregressive Transformers**|Runyuan Cai et.al.|[2601.10770](https://arxiv.org/abs/2601.10770)|null|

@@ -2,6 +2,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-23**|**A Lightweight Medical Image Classification Framework via Self-Supervised Contrastive Learning and Quantum-Enhanced Feature Modeling**|Jingsong Xia et.al.|[2601.16608](https://arxiv.org/abs/2601.16608)|null|
+|**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](https://arxiv.org/abs/2601.16240)|null|
+|**2026-01-22**|**Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|[2601.16098](https://arxiv.org/abs/2601.16098)|null|
+|**2026-01-22**|**Out-of-Distribution Detection Based on Total Variation Estimation**|Dabiao Ma et.al.|[2601.15867](https://arxiv.org/abs/2601.15867)|null|
+|**2026-01-22**|**Determinants of Training Corpus Size for Clinical Text Classification**|Jaya Chaturvedi et.al.|[2601.15846](https://arxiv.org/abs/2601.15846)|null|
+|**2026-01-22**|**Towards Realistic Remote Sensing Dataset Distillation with Discriminative Prototype-guided Diffusion**|Yonghao Xu et.al.|[2601.15829](https://arxiv.org/abs/2601.15829)|null|
+|**2026-01-22**|**Assessing Situational and Spatial Awareness of VLMs with Synthetically Generated Video**|Pascal Benschop et.al.|[2601.15780](https://arxiv.org/abs/2601.15780)|null|
+|**2026-01-22**|**White-Box mHC: Electromagnetic Spectrum-Aware and Interpretable Stream Interactions for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2601.15757](https://arxiv.org/abs/2601.15757)|null|
+|**2026-01-21**|**ZENITH: Automated Gradient Norm Informed Stochastic Optimization**|Dhrubo Saha et.al.|[2601.15212](https://arxiv.org/abs/2601.15212)|null|
+|**2026-01-21**|**Graph Recognition via Subgraph Prediction**|André Eberhard et.al.|[2601.15133](https://arxiv.org/abs/2601.15133)|null|
+|**2026-01-21**|**Bangla Music Genre Classification Using Bidirectional LSTMS**|Muntakimur Rahaman et.al.|[2601.15083](https://arxiv.org/abs/2601.15083)|null|
+|**2026-01-21**|**Mixture-of-Experts Models in Vision: Routing, Optimization, and Generalization**|Adam Rokah et.al.|[2601.15021](https://arxiv.org/abs/2601.15021)|null|
+|**2026-01-21**|**Communication-Efficient Multi-Modal Edge Inference via Uncertainty-Aware Distributed Learning**|Hang Zhao et.al.|[2601.14942](https://arxiv.org/abs/2601.14942)|null|
+|**2026-01-21**|**ReinPath: A Multimodal Reinforcement Learning Approach for Pathology**|Kangcheng Zhou et.al.|[2601.14757](https://arxiv.org/abs/2601.14757)|null|
+|**2026-01-20**|**Real-Time Wildfire Localization on the NASA Autonomous Modular Sensor using Deep Learning**|Yajvan Ravan et.al.|[2601.14475](https://arxiv.org/abs/2601.14475)|null|
+|**2026-01-20**|**Feature-Aware Test Generation for Deep Learning Models**|Xingcheng Chen et.al.|[2601.14081](https://arxiv.org/abs/2601.14081)|null|
+|**2026-01-20**|**Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders**|Kai Wittenmayer et.al.|[2601.13798](https://arxiv.org/abs/2601.13798)|null|
+|**2026-01-20**|**CARPE: Context-Aware Image Representation Prioritization via Ensemble for Large Vision-Language Models**|Donghee Lee et.al.|[2601.13622](https://arxiv.org/abs/2601.13622)|null|
+|**2026-01-20**|**Fisher-Informed Parameterwise Aggregation for Federated Learning with Heterogeneous Data**|Zhipeng Chang et.al.|[2601.13608](https://arxiv.org/abs/2601.13608)|null|
+|**2026-01-19**|**MOSLD-Bench: Multilingual Open-Set Learning and Discovery Benchmark for Text Categorization**|Adriana-Valentina Costache et.al.|[2601.13437](https://arxiv.org/abs/2601.13437)|null|
+|**2026-01-19**|**Diffusion Representations for Fine-Grained Image Classification: A Marine Plankton Case Study**|A. Nieto Juscafresa et.al.|[2601.13416](https://arxiv.org/abs/2601.13416)|null|
+|**2026-01-19**|**Not all Blends are Equal: The BLEMORE Dataset of Blended Emotion Expressions with Relative Salience Annotations**|Tim Lachmann et.al.|[2601.13225](https://arxiv.org/abs/2601.13225)|null|
+|**2026-01-19**|**Proxy Robustness in Vision Language Models is Effortlessly Transferable**|Xiaowei Fu et.al.|[2601.12865](https://arxiv.org/abs/2601.12865)|null|
+|**2026-01-19**|**Seeing Isn't Always Believing: Analysis of Grad-CAM Faithfulness and Localization Reliability in Lung Cancer CT Classification**|Teerapong Panboonyuen et.al.|[2601.12826](https://arxiv.org/abs/2601.12826)|null|
 |**2026-01-16**|**Bio-inspired fine-tuning for selective transfer learning in image classification**|Ana Davila et.al.|[2601.11235](https://arxiv.org/abs/2601.11235)|null|
 |**2026-01-15**|**Effects of Different Attention Mechanisms Applied on 3D Models in Video Classification**|Mohammad Rasras et.al.|[2601.10854](https://arxiv.org/abs/2601.10854)|null|
 |**2026-01-15**|**ICONIC-444: A 3.1-Million-Image Dataset for OOD Detection Research**|Gerhard Krumpl et.al.|[2601.10802](https://arxiv.org/abs/2601.10802)|null|
