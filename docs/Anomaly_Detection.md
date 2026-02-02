@@ -2,6 +2,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](https://arxiv.org/abs/2601.23204)|null|
+|**2026-01-30**|**Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience**|Zhongxiang Sun et.al.|[2601.23188](https://arxiv.org/abs/2601.23188)|null|
+|**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[2601.23147](https://arxiv.org/abs/2601.23147)|null|
+|**2026-01-30**|**TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI**|Roham Koohestani et.al.|[2601.22997](https://arxiv.org/abs/2601.22997)|null|
+|**2026-01-30**|**PIDSMaker: Building and Evaluating Provenance-based Intrusion Detection Systems**|Tristan Bilot et.al.|[2601.22983](https://arxiv.org/abs/2601.22983)|null|
+|**2026-01-30**|**Autonomous Chain-of-Thought Distillation for Graph-Based Fraud Detection**|Yuan Li et.al.|[2601.22949](https://arxiv.org/abs/2601.22949)|null|
+|**2026-01-30**|**Multi-Cue Anomaly Detection and Localization under Data Contamination**|Anindya Sundar Das et.al.|[2601.22913](https://arxiv.org/abs/2601.22913)|null|
+|**2026-01-30**|**AnoMod: A Dataset for Anomaly Detection and Root Cause Analysis in Microservice Systems**|Ke Ping et.al.|[2601.22881](https://arxiv.org/abs/2601.22881)|null|
+|**2026-01-30**|**When Anomalies Depend on Context: Learning Conditional Compatibility for Anomaly Detection**|Shashank Mishra et.al.|[2601.22868](https://arxiv.org/abs/2601.22868)|null|
+|**2026-01-30**|**Trackly: A Unified SaaS Platform for User Behavior Analytics and Real Time Rule Based Anomaly Detection**|Md Zahurul Haque et.al.|[2601.22800](https://arxiv.org/abs/2601.22800)|null|
+|**2026-01-30**|**Is Training Necessary for Anomaly Detection?**|Xingwu Zhang et.al.|[2601.22763](https://arxiv.org/abs/2601.22763)|null|
+|**2026-01-30**|**AR-BENCH: Benchmarking Legal Reasoning with Judgment Error Detection, Classification and Correction**|Yifei Li et.al.|[2601.22742](https://arxiv.org/abs/2601.22742)|null|
+|**2026-01-30**|**VarParser: Unleashing the Neglected Power of Variables for LLM-based Log Parsing**|Jinrui Sun et.al.|[2601.22676](https://arxiv.org/abs/2601.22676)|null|
+|**2026-01-30**|**Fire on Motion: Optimizing Video Pass-bands for Efficient Spiking Action Recognition**|Shuhan Ye et.al.|[2601.22675](https://arxiv.org/abs/2601.22675)|null|
+|**2026-01-30**|**PromptMAD: Cross-Modal Prompting for Multi-Class Visual Anomaly Localization**|Duncan McCain et.al.|[2601.22492](https://arxiv.org/abs/2601.22492)|null|
+|**2026-01-29**|**Score-based Integrated Gradient for Root Cause Explanations of Outliers**|Phuoc Nguyen et.al.|[2601.22399](https://arxiv.org/abs/2601.22399)|null|
+|**2026-01-28**|**MemeChain: A Multimodal Cross-Chain Dataset for Meme Coin Forensics and Risk Analysis**|Alberto Maria Mongardini et.al.|[2601.22185](https://arxiv.org/abs/2601.22185)|null|
+|**2026-01-29**|**A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition**|Hoang Khang Phan et.al.|[2601.21802](https://arxiv.org/abs/2601.21802)|null|
+|**2026-01-29**|**ECSEL: Explainable Classification via Signomial Equation Learning**|Adia Lumadjeng et.al.|[2601.21789](https://arxiv.org/abs/2601.21789)|null|
+|**2026-01-29**|**HERS: Hidden-Pattern Expert Learning for Risk-Specific Vehicle Damage Adaptation in Diffusion Models**|Teerapong Panboonyuen et.al.|[2601.21517](https://arxiv.org/abs/2601.21517)|null|
+|**2026-01-29**|**QCL-IDS: Quantum Continual Learning for Intrusion Detection with Fidelity-Anchored Stability and Generative Replay**|Zirui Zhu et.al.|[2601.21318](https://arxiv.org/abs/2601.21318)|null|
+|**2026-01-29**|**AC2L-GAD: Active Counterfactual Contrastive Learning for Graph Anomaly Detection**|Kamal Berahmand et.al.|[2601.21171](https://arxiv.org/abs/2601.21171)|null|
+|**2026-01-28**|**SMKC: Sketch Based Kernel Correlation Images for Variable Cardinality Time Series Anomaly Detection**|Haokun Zhou et.al.|[2601.21050](https://arxiv.org/abs/2601.21050)|null|
+|**2026-01-28**|**Anomalous narrow line Seyfert I galaxies from SDSS DR17**|Arihant Tiwari et.al.|[2601.20957](https://arxiv.org/abs/2601.20957)|null|
+|**2026-01-28**|**VSCOUT: A Hybrid Variational Autoencoder Approach to Outlier Detection in High-Dimensional Retrospective Monitoring**|Waldyn G. Martinez et.al.|[2601.20830](https://arxiv.org/abs/2601.20830)|null|
+|**2026-01-28**|**Trigger Optimization and Event Classification for Dark Matter Searches in the CYGNO Experiment Using Machine Learning**|F. D. Amaro et.al.|[2601.20626](https://arxiv.org/abs/2601.20626)|null|
+|**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Matic Fučka et.al.|[2601.20524](https://arxiv.org/abs/2601.20524)|null|
+|**2026-01-28**|**Unsupervised Anomaly Detection in Multi-Agent Trajectory Prediction via Transformer-Based Models**|Qing Lyu et.al.|[2601.20367](https://arxiv.org/abs/2601.20367)|null|
+|**2026-01-28**|**Test-Time Adaptation for Anomaly Segmentation via Topology-Aware Optimal Transport Chaining**|Ali Zia et.al.|[2601.20333](https://arxiv.org/abs/2601.20333)|null|
+|**2026-01-28**|**LogSieve: Task-Aware CI Log Reduction for Sustainable LLM-Based Analysis**|Marcus Emmanuel Barnes et.al.|[2601.20148](https://arxiv.org/abs/2601.20148)|null|
+|**2026-01-27**|**Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis**|Darshan Deshpande et.al.|[2601.20103](https://arxiv.org/abs/2601.20103)|null|
+|**2026-01-27**|**BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection**|Soham Sarkar et.al.|[2601.19992](https://arxiv.org/abs/2601.19992)|null|
+|**2026-01-27**|**A Multi-directional Meta-Learning Framework for Class-Generalizable Anomaly Detection**|Padmaksha Roy et.al.|[2601.19833](https://arxiv.org/abs/2601.19833)|null|
+|**2026-01-27**|**LLM-Assisted Authentication and Fraud Detection**|Emunah S-S. Chan et.al.|[2601.19684](https://arxiv.org/abs/2601.19684)|null|
+|**2026-01-27**|**Yunque DeepResearch Technical Report**|Yuxuan Cai et.al.|[2601.19578](https://arxiv.org/abs/2601.19578)|null|
+|**2026-01-27**|**AI-driven Intrusion Detection for UAV in Smart Urban Ecosystems: A Comprehensive Survey**|Abdullah Khanfor et.al.|[2601.19345](https://arxiv.org/abs/2601.19345)|null|
+|**2026-01-27**|**LLM-Assisted Logic Rule Learning: Scaling Human Expertise for Time Series Anomaly Detection**|Haoting Zhang et.al.|[2601.19255](https://arxiv.org/abs/2601.19255)|null|
+|**2026-01-27**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al.|[2601.19102](https://arxiv.org/abs/2601.19102)|null|
+|**2026-01-26**|**$α^3$ -SecBench: A Large-Scale Evaluation Suite of Security, Resilience, and Trust for LLM-based UAV Agents over 6G Networks**|Mohamed Amine Ferrag et.al.|[2601.18754](https://arxiv.org/abs/2601.18754)|null|
+|**2026-01-26**|**Forward Consistency Learning with Gated Context Aggregation for Video Anomaly Detection**|Jiahao Lyu et.al.|[2601.18135](https://arxiv.org/abs/2601.18135)|null|
 |**2026-01-23**|**Latent Diffusion for Internet of Things Attack Data Generation in Intrusion Detection**|Estela Sánchez-Carballo et.al.|[2601.16976](https://arxiv.org/abs/2601.16976)|null|
 |**2026-01-23**|**VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection**|Yuxin Jiang et.al.|[2601.16381](https://arxiv.org/abs/2601.16381)|null|
 |**2026-01-22**|**TempoNet: Learning Realistic Communication and Timing Patterns for Network Traffic Simulation**|Kristen Moore et.al.|[2601.15663](https://arxiv.org/abs/2601.15663)|null|

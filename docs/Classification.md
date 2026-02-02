@@ -2,6 +2,37 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization**|Wang Yuanchao et.al.|[2601.22944](https://arxiv.org/abs/2601.22944)|null|
+|**2026-01-30**|**AutoMerge: Search-Based Model Merging Framework for Effective Model Reuse**|You Lu et.al.|[2601.22748](https://arxiv.org/abs/2601.22748)|null|
+|**2026-01-30**|**A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation**|Haonan He et.al.|[2601.22708](https://arxiv.org/abs/2601.22708)|null|
+|**2026-01-30**|**ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review**|Palash Goyal et.al.|[2601.22638](https://arxiv.org/abs/2601.22638)|null|
+|**2026-01-30**|**LINA: Linear Autoregressive Image Generative Models with Continuous Tokens**|Jiahao Wang et.al.|[2601.22630](https://arxiv.org/abs/2601.22630)|null|
+|**2026-01-30**|**Cross-Domain Few-Shot Learning for Hyperspectral Image Classification Based on Mixup Foundation Model**|Naeem Paeedeh et.al.|[2601.22581](https://arxiv.org/abs/2601.22581)|null|
+|**2026-01-30**|**EUGens: Efficient, Unified, and General Dense Layers**|Sang Min Kim et.al.|[2601.22563](https://arxiv.org/abs/2601.22563)|null|
+|**2026-01-29**|**ZK-HybridFL: Zero-Knowledge Proof-Enhanced Hybrid Ledger for Federated Learning**|Amirhossein Taherpour et.al.|[2601.22302](https://arxiv.org/abs/2601.22302)|null|
+|**2026-01-29**|**Investigating Batch Inference in a Sequential Monte Carlo Framework for Neural Networks**|Andrew Millard et.al.|[2601.21983](https://arxiv.org/abs/2601.21983)|null|
+|**2026-01-29**|**From Generative Modeling to Clinical Classification: A GPT-Based Architecture for EHR Notes**|Fariba Afrin Irany et.al.|[2601.21955](https://arxiv.org/abs/2601.21955)|null|
+|**2026-01-29**|**Just Noticeable Difference Modeling for Deep Visual Features**|Rui Zhao et.al.|[2601.21933](https://arxiv.org/abs/2601.21933)|null|
+|**2026-01-29**|**FISMO: Fisher-Structured Momentum-Orthogonalized Optimizer**|Chenrui Xu et.al.|[2601.21750](https://arxiv.org/abs/2601.21750)|null|
+|**2026-01-29**|**ICL-EVADER: Zero-Query Black-Box Evasion Attacks on In-Context Learning and Their Defenses**|Ningyuan He et.al.|[2601.21586](https://arxiv.org/abs/2601.21586)|null|
+|**2026-01-29**|**MultiModal Fine-tuning with Synthetic Captions**|Shohei Enomoto et.al.|[2601.21426](https://arxiv.org/abs/2601.21426)|null|
+|**2026-01-29**|**Bulk-Calibrated Credal Ambiguity Sets: Fast, Tractable Decision Making under Out-of-Sample Contamination**|Mengqi Chen et.al.|[2601.21324](https://arxiv.org/abs/2601.21324)|null|
+|**2026-01-29**|**Adversarial Vulnerability Transcends Computational Paradigms: Feature Engineering Provides No Defense Against Neural Adversarial Transfer**|Achraf Hsain et.al.|[2601.21323](https://arxiv.org/abs/2601.21323)|null|
+|**2026-01-28**|**BadDet+: Robust Backdoor Attacks for Object Detection**|Kealan Dunnett et.al.|[2601.21066](https://arxiv.org/abs/2601.21066)|null|
+|**2026-01-28**|**Order-Aware Test-Time Adaptation: Leveraging Temporal Dynamics for Robust Streaming Inference**|Young Kyung Kim et.al.|[2601.21012](https://arxiv.org/abs/2601.21012)|null|
+|**2026-01-28**|**CLEAR-Mamba:Towards Accurate, Adaptive and Trustworthy Multi-Sequence Ophthalmic Angiography Classification**|Zhuonan Wang et.al.|[2601.20601](https://arxiv.org/abs/2601.20601)|null|
+|**2026-01-28**|**IOTA: Corrective Knowledge-Guided Prompt Learning via Black-White Box Framework**|Shaokun Wang et.al.|[2601.20526](https://arxiv.org/abs/2601.20526)|null|
+|**2026-01-28**|**Causal-Driven Feature Evaluation for Cross-Domain Image Classification**|Chen Cheng et.al.|[2601.20176](https://arxiv.org/abs/2601.20176)|null|
+|**2026-01-27**|**Primitive-Driven Acceleration of Hyperdimensional Computing for Real-Time Image Classification**|Dhruv Parikh et.al.|[2601.20061](https://arxiv.org/abs/2601.20061)|null|
+|**2026-01-27**|**SONIC: Spectral Oriented Neural Invariant Convolutions**|Gijs Joppe Moens et.al.|[2601.19884](https://arxiv.org/abs/2601.19884)|null|
+|**2026-01-27**|**HexFormer: Hyperbolic Vision Transformer with Exponential Map Aggregation**|Haya Alyoussef et.al.|[2601.19849](https://arxiv.org/abs/2601.19849)|null|
+|**2026-01-26**|**Dynamic Mask-Based Backdoor Attack Against Vision AI Models: A Case Study on Mushroom Detection**|Zeineb Dridi et.al.|[2601.18845](https://arxiv.org/abs/2601.18845)|null|
+|**2026-01-26**|**AI-enabled Satellite Edge Computing: A Single-Pixel Feature based Shallow Classification Model for Hyperspectral Imaging**|Li Fang et.al.|[2601.18560](https://arxiv.org/abs/2601.18560)|null|
+|**2026-01-26**|**Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis**|Jingsong Xia et.al.|[2601.18556](https://arxiv.org/abs/2601.18556)|null|
+|**2026-01-26**|**Hierarchical Text Classification with LLM-Refined Taxonomies**|Jonas Golde et.al.|[2601.18375](https://arxiv.org/abs/2601.18375)|null|
+|**2026-01-26**|**Revisiting Aerial Scene Classification on the AID Benchmark**|Subhajeet Das et.al.|[2601.18263](https://arxiv.org/abs/2601.18263)|null|
+|**2026-01-26**|**Cross-Domain Transfer with Self-Supervised Spectral-Spatial Modeling for Hyperspectral Image Classification**|Jianshu Chao et.al.|[2601.18088](https://arxiv.org/abs/2601.18088)|null|
+|**2026-01-26**|**Semi-Supervised Hyperspectral Image Classification with Edge-Aware Superpixel Label Propagation and Adaptive Pseudo-Labeling**|Yunfei Qiu et.al.|[2601.18049](https://arxiv.org/abs/2601.18049)|null|
 |**2026-01-23**|**A Lightweight Medical Image Classification Framework via Self-Supervised Contrastive Learning and Quantum-Enhanced Feature Modeling**|Jingsong Xia et.al.|[2601.16608](https://arxiv.org/abs/2601.16608)|null|
 |**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](https://arxiv.org/abs/2601.16240)|null|
 |**2026-01-22**|**Clustering-Guided Spatial-Spectral Mamba for Hyperspectral Image Classification**|Zack Dewis et.al.|[2601.16098](https://arxiv.org/abs/2601.16098)|null|

@@ -2,6 +2,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Hi-Light: A Path to high-fidelity, high-resolution video relighting with a Novel Evaluation Paradigm**|Xiangrui Liu et.al.|[2601.23167](https://arxiv.org/abs/2601.23167)|null|
+|**2026-01-30**|**FlowCalib: LiDAR-to-Vehicle Miscalibration Detection using Scene Flows**|Ilir Tahiraj et.al.|[2601.23107](https://arxiv.org/abs/2601.23107)|null|
+|**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461](https://arxiv.org/abs/2601.19461)|null|
 |**2026-01-20**|**Two-Stream temporal transformer for video action classification**|Nattapong Kurpukdee et.al.|[2601.14086](https://arxiv.org/abs/2601.14086)|null|
 |**2026-01-20**|**MVGD-Net: A Novel Motion-aware Video Glass Surface Detection Network**|Yiwei Lu et.al.|[2601.13715](https://arxiv.org/abs/2601.13715)|null|
 |**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252](https://arxiv.org/abs/2601.13252)|null|

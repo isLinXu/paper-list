@@ -2,6 +2,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](https://arxiv.org/abs/2601.23281)|null|
+|**2026-01-30**|**A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions**|Ji Zhou et.al.|[2601.22830](https://arxiv.org/abs/2601.22830)|null|
+|**2026-01-30**|**Active Learning-Driven Lightweight YOLOv9: Enhancing Efficiency in Smart Agriculture**|Hung-Chih Tu et.al.|[2601.22732](https://arxiv.org/abs/2601.22732)|null|
+|**2026-01-30**|**OOVDet: Low-Density Prior Learning for Zero-Shot Out-of-Vocabulary Object Detection**|Binyi Su et.al.|[2601.22685](https://arxiv.org/abs/2601.22685)|null|
+|**2026-01-30**|**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**|Xing Yi et.al.|[2601.22616](https://arxiv.org/abs/2601.22616)|null|
+|**2026-01-29**|**CORDS: Continuous Representations of Discrete Structures**|Tin Hadži Veljković et.al.|[2601.21583](https://arxiv.org/abs/2601.21583)|null|
+|**2026-01-29**|**Don't double it: Efficient Agent Prediction in Occlusions**|Anna Rothenhäusler et.al.|[2601.21504](https://arxiv.org/abs/2601.21504)|null|
+|**2026-01-28**|**BadDet+: Robust Backdoor Attacks for Object Detection**|Kealan Dunnett et.al.|[2601.21066](https://arxiv.org/abs/2601.21066)|null|
+|**2026-01-27**|**On the Effectiveness of LLM-Specific Fine-Tuning for Detecting AI-Generated Text**|Michał Gromadzki et.al.|[2601.20006](https://arxiv.org/abs/2601.20006)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](https://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](https://arxiv.org/abs/2601.19403)|null|
+|**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](https://arxiv.org/abs/2601.19385)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](https://arxiv.org/abs/2601.19314)|null|
+|**2026-01-27**|**Implicit Non-Causal Factors are Out via Dataset Splitting for Domain Generalization Object Detection**|Zhilong Zhang et.al.|[2601.19127](https://arxiv.org/abs/2601.19127)|null|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](https://arxiv.org/abs/2601.18929)|null|
+|**2026-01-26**|**Dynamic Mask-Based Backdoor Attack Against Vision AI Models: A Case Study on Mushroom Detection**|Zeineb Dridi et.al.|[2601.18845](https://arxiv.org/abs/2601.18845)|null|
+|**2026-01-26**|**EFSI-DETR: Efficient Frequency-Semantic Integration for Real-Time Small Object Detection in UAV Imagery**|Yu Xia et.al.|[2601.18597](https://arxiv.org/abs/2601.18597)|null|
+|**2026-01-26**|**YOLO-DS: Fine-Grained Feature Decoupling via Dual-Statistic Synergy Operator for Object Detection**|Lin Huang et.al.|[2601.18172](https://arxiv.org/abs/2601.18172)|null|
+|**2026-01-26**|**Text-Pass Filter: An Efficient Scene Text Detector**|Chuang Yang et.al.|[2601.18098](https://arxiv.org/abs/2601.18098)|null|
 |**2026-01-23**|**Boundary and Position Information Mining for Aerial Small Object Detection**|Rongxin Huang et.al.|[2601.16617](https://arxiv.org/abs/2601.16617)|null|
 |**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng et.al.|[2601.16449](https://arxiv.org/abs/2601.16449)|null|
 |**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914](https://arxiv.org/abs/2601.15914)|null|

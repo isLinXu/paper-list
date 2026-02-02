@@ -2,6 +2,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Graph Attention Network for Node Regression on Random Geometric Graphs with Erdős--Rényi contamination**|Somak Laha et.al.|[2601.23239](https://arxiv.org/abs/2601.23239)|null|
+|**2026-01-30**|**Sequence Diffusion Model for Temporal Link Prediction in Continuous-Time Dynamic Graph**|Nguyen Minh Duc et.al.|[2601.23233](https://arxiv.org/abs/2601.23233)|null|
+|**2026-01-30**|**Disentangling multispecific antibody function with graph neural networks**|Joshua Southern et.al.|[2601.23212](https://arxiv.org/abs/2601.23212)|null|
+|**2026-01-30**|**Learning to Execute Graph Algorithms Exactly with Graph Neural Networks**|Muhammad Fetrat Qharabagh et.al.|[2601.23207](https://arxiv.org/abs/2601.23207)|null|
+|**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[2601.23147](https://arxiv.org/abs/2601.23147)|null|
+|**2026-01-30**|**Scalable Topology-Preserving Graph Coarsening with Graph Collapse**|Xiang Wu et.al.|[2601.22943](https://arxiv.org/abs/2601.22943)|null|
+|**2026-01-30**|**Full-Graph vs. Mini-Batch Training: Comprehensive Analysis from a Batch Size and Fan-Out Size Perspective**|Mengfan Liu et.al.|[2601.22678](https://arxiv.org/abs/2601.22678)|null|
+|**2026-01-30**|**NAG: A Unified Native Architecture for Encoder-free Text-Graph Modeling in Language Models**|Haisong Gong et.al.|[2601.22657](https://arxiv.org/abs/2601.22657)|null|
+|**2026-01-30**|**Non-Intrusive Graph-Based Bot Detection for E-Commerce Using Inductive Graph Neural Networks**|Sichen Zhao et.al.|[2601.22579](https://arxiv.org/abs/2601.22579)|null|
+|**2026-01-29**|**Learning to Dial-a-Ride: A Deep Graph Reinforcement Learning Approach to the Electric Dial-a-Ride Problem**|Sten Elling Tingstad Jacobsen et.al.|[2601.22052](https://arxiv.org/abs/2601.22052)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](https://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Bridging Graph Structure and Knowledge-Guided Editing for Interpretable Temporal Knowledge Graph Reasoning**|Shiqi Fan et.al.|[2601.21978](https://arxiv.org/abs/2601.21978)|null|
+|**2026-01-29**|**Duality-Guided Graph Learning for Real-Time Joint Connectivity and Routing in LEO Mega-Constellations**|Zhouyou Gu et.al.|[2601.21921](https://arxiv.org/abs/2601.21921)|null|
+|**2026-01-29**|**How Expressive Are Graph Neural Networks in the Presence of Node Identifiers?**|Arie Soeteman et.al.|[2601.21882](https://arxiv.org/abs/2601.21882)|null|
+|**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841](https://arxiv.org/abs/2601.21841)|null|
+|**2026-01-29**|**Beyond Parameter Finetuning: Test-Time Representation Refinement for Node Classification**|Jiaxin Zhang et.al.|[2601.21615](https://arxiv.org/abs/2601.21615)|null|
+|**2026-01-29**|**Heterogeneity-Aware Knowledge Sharing for Graph Federated Learning**|Wentao Yu et.al.|[2601.21589](https://arxiv.org/abs/2601.21589)|null|
+|**2026-01-29**|**Mean-Field Control on Sparse Graphs: From Local Limits to GNNs via Neighborhood Distributions**|Tobias Schmidt et.al.|[2601.21477](https://arxiv.org/abs/2601.21477)|null|
+|**2026-01-29**|**Synthetic Pattern Generation and Detection of Financial Activities using Graph Autoencoders**|Francesco Zola et.al.|[2601.21446](https://arxiv.org/abs/2601.21446)|null|
+|**2026-01-29**|**Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach**|Yinlin Zhu et.al.|[2601.21369](https://arxiv.org/abs/2601.21369)|null|
+|**2026-01-29**|**Few-Shot Learning for Dynamic Operations of Automated Electric Taxi Fleets under Evolving Charging Infrastructure: A Meta-Deep Reinforcement Learning Approach**|Xiaozhuang Li et.al.|[2601.21312](https://arxiv.org/abs/2601.21312)|null|
+|**2026-01-29**|**EGAM: Extended Graph Attention Model for Solving Routing Problems**|Licheng Wang et.al.|[2601.21281](https://arxiv.org/abs/2601.21281)|null|
+|**2026-01-28**|**Accurate Thermophysical Properties of Water using Machine-Learned Potentials**|Tobias Hilpert et.al.|[2601.21103](https://arxiv.org/abs/2601.21103)|null|
+|**2026-01-28**|**GNN Explanations that do not Explain and How to find Them**|Steve Azzolin et.al.|[2601.20815](https://arxiv.org/abs/2601.20815)|null|
+|**2026-01-28**|**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**|Zhiheng Jiang et.al.|[2601.20753](https://arxiv.org/abs/2601.20753)|null|
+|**2026-01-28**|**Structurally Human, Semantically Biased: Detecting LLM-Generated References with Embeddings and GNNs**|Melika Mobini et.al.|[2601.20704](https://arxiv.org/abs/2601.20704)|null|
+|**2026-01-28**|**RL based Beamforming Optimization for 3D Pinching Antenna assisted ISAC Systems**|Qian Gao et.al.|[2601.20654](https://arxiv.org/abs/2601.20654)|null|
+|**2026-01-28**|**TGSBM: Transformer-Guided Stochastic Block Model for Link Prediction**|Zhejian Yang et.al.|[2601.20646](https://arxiv.org/abs/2601.20646)|null|
+|**2026-01-28**|**CCMamba: Selective State-Space Models for Higher-Order Graph Learning on Combinatorial Complexes**|Jiawen Chen et.al.|[2601.20518](https://arxiv.org/abs/2601.20518)|null|
+|**2026-01-28**|**Proactive SFC Provisioning with Forecast-Driven DRL in Data Centers**|Parisa Fard Moshiri et.al.|[2601.20229](https://arxiv.org/abs/2601.20229)|null|
+|**2026-01-28**|**NeuraLSP: An Efficient and Rigorous Neural Left Singular Subspace Preconditioner for Conjugate Gradient Methods**|Alexander Benanti et.al.|[2601.20174](https://arxiv.org/abs/2601.20174)|null|
+|**2026-01-28**|**Cascaded Vulnerability Attacks in Software Supply Chains**|Laura Baird et.al.|[2601.20158](https://arxiv.org/abs/2601.20158)|null|
+|**2026-01-27**|**The Effect of Architecture During Continual Learning**|Allyson Hahn et.al.|[2601.19766](https://arxiv.org/abs/2601.19766)|null|
+|**2026-01-27**|**Fixed Aggregation Features Can Rival GNNs**|Celia Rubio-Madrigal et.al.|[2601.19449](https://arxiv.org/abs/2601.19449)|null|
+|**2026-01-27**|**AoI-Driven Queue Management and Power Control in V2V Networks: A GNN-Enhanced MARL Approach**|Hao Fang et.al.|[2601.19372](https://arxiv.org/abs/2601.19372)|null|
+|**2026-01-27**|**GraphSB: Boosting Imbalanced Node Classification on Graphs through Structural Balance**|Zhixiao Wang et.al.|[2601.19352](https://arxiv.org/abs/2601.19352)|null|
+|**2026-01-27**|**GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery**|Jingjie Ning et.al.|[2601.19149](https://arxiv.org/abs/2601.19149)|null|
+|**2026-01-27**|**TFFM: Topology-Aware Feature Fusion Module via Latent Graph Reasoning for Retinal Vessel Segmentation**|Iftekhar Ahmed et.al.|[2601.19136](https://arxiv.org/abs/2601.19136)|null|
+|**2026-01-27**|**FloydNet: A Learning Paradigm for Global Relational Reasoning**|Jingcheng Yu et.al.|[2601.19094](https://arxiv.org/abs/2601.19094)|null|
+|**2026-01-26**|**XIMP: Cross Graph Inter-Message Passing for Molecular Property Prediction**|Anatol Ehrlich et.al.|[2601.19037](https://arxiv.org/abs/2601.19037)|null|
+|**2026-01-26**|**ASEHybrid: When Geometry Matters Beyond Homophily in Graph Neural Networks**|Shalima Binta Manir et.al.|[2601.18912](https://arxiv.org/abs/2601.18912)|null|
+|**2026-01-26**|**AGSP-DSA: An Adaptive Graph Signal Processing Framework for Robust Multimodal Fusion with Dynamic Semantic Alignment**|KV Karthikeya et.al.|[2601.18589](https://arxiv.org/abs/2601.18589)|null|
+|**2026-01-26**|**TopKGAT: A Top-K Objective-Driven Architecture for Recommendation**|Sirui Chen et.al.|[2601.18432](https://arxiv.org/abs/2601.18432)|null|
+|**2026-01-26**|**Scalable Quantum Message Passing Graph Neural Networks for Next-Generation Wireless Communications: Architectures, Use Cases, and Future Directions**|Le Tung Giang et.al.|[2601.18198](https://arxiv.org/abs/2601.18198)|null|
+|**2026-01-26**|**LungCRCT: Causal Representation based Lung CT Processing for Lung Cancer Treatment**|Daeyoung Kim et.al.|[2601.18118](https://arxiv.org/abs/2601.18118)|null|
+|**2026-01-26**|**GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health**|Jiatan Huang et.al.|[2601.18106](https://arxiv.org/abs/2601.18106)|null|
 |**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763](https://arxiv.org/abs/2601.16763)|null|
 |**2026-01-23**|**E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory**|Lin Huang et.al.|[2601.16622](https://arxiv.org/abs/2601.16622)|null|
 |**2026-01-23**|**BoostFGL: Boosting Fairness in Federated Graph Learning**|Zekai Chen et.al.|[2601.16496](https://arxiv.org/abs/2601.16496)|null|

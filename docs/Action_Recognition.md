@@ -2,6 +2,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Leveraging Convolutional Sparse Autoencoders for Robust Movement Classification from Low-Density sEMG**|Blagoj Hristov et.al.|[2601.23011](https://arxiv.org/abs/2601.23011)|null|
+|**2026-01-30**|**μTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets**|Siyuan Wang et.al.|[2601.22864](https://arxiv.org/abs/2601.22864)|null|
+|**2026-01-30**|**Fire on Motion: Optimizing Video Pass-bands for Efficient Spiking Action Recognition**|Shuhan Ye et.al.|[2601.22675](https://arxiv.org/abs/2601.22675)|null|
+|**2026-01-29**|**Causal World Modeling for Robot Control**|Lin Li et.al.|[2601.21998](https://arxiv.org/abs/2601.21998)|null|
+|**2026-01-29**|**WheelArm-Sim: A Manipulation and Navigation Combined Multimodal Synthetic Data Generation Simulator for Unified Control in Assistive Robotics**|Guangping Liu et.al.|[2601.21129](https://arxiv.org/abs/2601.21129)|null|
+|**2026-01-28**|**Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization**|Jiaqi Li et.al.|[2601.21078](https://arxiv.org/abs/2601.21078)|null|
 |**2026-01-23**|**Affinity Contrastive Learning for Skeleton-based Human Activity Understanding**|Hongda Liu et.al.|[2601.16694](https://arxiv.org/abs/2601.16694)|null|
 |**2026-01-23**|**Low-Power On-Device Gesture Recognition with Einsum Networks**|Sahar Golipoor et.al.|[2601.16662](https://arxiv.org/abs/2601.16662)|null|
 |**2026-01-22**|**Angle of Arrival Estimation for Gesture Recognition from reflective body-worn tags**|Sahar Golipoor et.al.|[2601.16303](https://arxiv.org/abs/2601.16303)|null|

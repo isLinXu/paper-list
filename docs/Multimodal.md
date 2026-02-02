@@ -2,6 +2,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**RASST: Fast Cross-modal Retrieval-Augmented Simultaneous Speech Translation**|Jiaxuan Luo et.al.|[2601.22777](https://arxiv.org/abs/2601.22777)|null|
+|**2026-01-29**|**Neural Signals Generate Clinical Notes in the Wild**|Jathurshan Pradeepkumar et.al.|[2601.22197](https://arxiv.org/abs/2601.22197)|null|
+|**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](https://arxiv.org/abs/2601.22009)|null|
+|**2026-01-29**|**Embracing Aleatoric Uncertainty in Medical Multimodal Learning with Missing Modalities**|Linxiao Gong et.al.|[2601.21950](https://arxiv.org/abs/2601.21950)|null|
+|**2026-01-29**|**Robust Multimodal Representation Learning in Healthcare**|Xiaoguang Zhu et.al.|[2601.21941](https://arxiv.org/abs/2601.21941)|null|
+|**2026-01-29**|**When Gradient Optimization Is Not Enough: $\dagger$ Dispersive and Anchoring Geometric Regularizer for Multimodal Learning**|Zixuan Xia et.al.|[2601.21670](https://arxiv.org/abs/2601.21670)|null|
+|**2026-01-29**|**MultiModal Fine-tuning with Synthetic Captions**|Shohei Enomoto et.al.|[2601.21426](https://arxiv.org/abs/2601.21426)|null|
+|**2026-01-29**|**Missing-Data-Induced Phase Transitions in Spectral PLS for Multimodal Learning**|Anders Gjølbye et.al.|[2601.21294](https://arxiv.org/abs/2601.21294)|null|
+|**2026-01-27**|**GMS-CAVP: Improving Audio-Video Correspondence with Multi-Scale Contrastive and Generative Pretraining**|Shentong Mo et.al.|[2601.19606](https://arxiv.org/abs/2601.19606)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247](https://arxiv.org/abs/2601.19247)|null|
+|**2026-01-26**|**AGSP-DSA: An Adaptive Graph Signal Processing Framework for Robust Multimodal Fusion with Dynamic Semantic Alignment**|KV Karthikeya et.al.|[2601.18589](https://arxiv.org/abs/2601.18589)|null|
+|**2026-01-26**|**Closing the Modality Gap Aligns Group-Wise Semantics**|Eleonora Grassucci et.al.|[2601.18525](https://arxiv.org/abs/2601.18525)|null|
 |**2026-01-23**|**Emotion-LLaMAv2 and MMEVerse: A New Framework and Benchmark for Multimodal Emotion Understanding**|Xiaojiang Peng et.al.|[2601.16449](https://arxiv.org/abs/2601.16449)|null|
 |**2026-01-21**|**LiViBench: An Omnimodal Benchmark for Interactive Livestream Video Understanding**|Xiaodong Wang et.al.|[2601.15016](https://arxiv.org/abs/2601.15016)|null|
 |**2026-01-21**|**Citation of scientific evidence from video description and its association with attention and impact**|Pablo Dorta-González et.al.|[2601.14916](https://arxiv.org/abs/2601.14916)|null|

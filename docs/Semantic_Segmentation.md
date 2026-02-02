@@ -2,6 +2,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|null|
+|**2026-01-30**|**ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding**|Junyi Hu et.al.|[2601.22666](https://arxiv.org/abs/2601.22666)|null|
+|**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](https://arxiv.org/abs/2601.22529)|null|
+|**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](https://arxiv.org/abs/2601.22504)|null|
+|**2026-01-29**|**BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation**|Li Zhang et.al.|[2601.22061](https://arxiv.org/abs/2601.22061)|null|
+|**2026-01-29**|**Just Noticeable Difference Modeling for Deep Visual Features**|Rui Zhao et.al.|[2601.21933](https://arxiv.org/abs/2601.21933)|null|
+|**2026-01-29**|**Depth-Aware Machine Learning Framework for Bubble Characterization in Two-Phase Flows**|Chaitanya S Nayak et.al.|[2601.21175](https://arxiv.org/abs/2601.21175)|null|
+|**2026-01-29**|**Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery**|Jianzheng Wang et.al.|[2601.21159](https://arxiv.org/abs/2601.21159)|null|
+|**2026-01-27**|**NucFuseRank: Dataset Fusion and Performance Ranking for Nuclei Instance Segmentation**|Nima Torbati et.al.|[2601.20104](https://arxiv.org/abs/2601.20104)|null|
+|**2026-01-27**|**DiSa: Saliency-Aware Foreground-Background Disentangled Framework for Open-Vocabulary Semantic Segmentation**|Zhen Yao et.al.|[2601.20064](https://arxiv.org/abs/2601.20064)|null|
+|**2026-01-27**|**Enhancing Inverse Perspective Mapping for Automatic Vectorized Road Map Generation**|Hongji Liu et.al.|[2601.19536](https://arxiv.org/abs/2601.19536)|null|
+|**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](https://arxiv.org/abs/2601.19403)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](https://arxiv.org/abs/2601.19314)|null|
 |**2026-01-23**|**Domain-invariant Mixed-domain Semi-supervised Medical Image Segmentation with Clustered Maximum Mean Discrepancy Alignment**|Ba-Thinh Lam et.al.|[2601.16954](https://arxiv.org/abs/2601.16954)|null|
 |**2026-01-23**|**REL-SF4PASS: Panoramic Semantic Segmentation with REL Depth Representation and Spherical Fusion**|Xuewei Li et.al.|[2601.16788](https://arxiv.org/abs/2601.16788)|null|
 |**2026-01-23**|**PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation**|Ming Kang et.al.|[2601.16631](https://arxiv.org/abs/2601.16631)|null|

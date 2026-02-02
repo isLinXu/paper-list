@@ -2,6 +2,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|null|
+|**2026-01-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al.|[2601.22988](https://arxiv.org/abs/2601.22988)|null|
+|**2026-01-29**|**FlexMap: Generalized HD Map Construction from Flexible Camera Configurations**|Run Wang et.al.|[2601.22376](https://arxiv.org/abs/2601.22376)|null|
+|**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](https://arxiv.org/abs/2601.22032)|null|
+|**2026-01-29**|**LLM-Driven Scenario-Aware Planning for Autonomous Driving**|He Li et.al.|[2601.21876](https://arxiv.org/abs/2601.21876)|null|
+|**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](https://arxiv.org/abs/2601.21421)|null|
+|**2026-01-29**|**DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation**|Weitao An et.al.|[2601.21409](https://arxiv.org/abs/2601.21409)|null|
+|**2026-01-29**|**InspecSafe-V1: A Multimodal Benchmark for Safety Assessment in Industrial Inspection Scenarios**|Zeyi Liu et.al.|[2601.21173](https://arxiv.org/abs/2601.21173)|null|
+|**2026-01-28**|**CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization**|Yue Liang et.al.|[2601.20355](https://arxiv.org/abs/2601.20355)|null|
+|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](https://arxiv.org/abs/2601.19582)|null|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929](https://arxiv.org/abs/2601.18929)|null|
+|**2026-01-26**|**Towards Safety-Compliant Transformer Architectures for Automotive Systems**|Sven Kirchner et.al.|[2601.18850](https://arxiv.org/abs/2601.18850)|null|
 |**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885](https://arxiv.org/abs/2601.16885)|null|
 |**2026-01-21**|**ExPrIS: Knowledge-Level Expectations as Priors for Object Interpretation from Sensor Data**|Marian Renz et.al.|[2601.15025](https://arxiv.org/abs/2601.15025)|null|
 |**2026-01-20**|**Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation**|Danial Sadrian Zadeh et.al.|[2601.14438](https://arxiv.org/abs/2601.14438)|null|

@@ -2,6 +2,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873](https://arxiv.org/abs/2601.22873)|null|
+|**2026-01-30**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](https://arxiv.org/abs/2601.22792)|null|
+|**2026-01-30**|**Streaming Speech Recognition with Decoder-Only Large Language Models and Latency Optimization**|Genshun Wan et.al.|[2601.22779](https://arxiv.org/abs/2601.22779)|null|
+|**2026-01-29**|**An Effective Energy Mask-based Adversarial Evasion Attacks against Misclassification in Speaker Recognition Systems**|Chanwoo Park et.al.|[2601.22390](https://arxiv.org/abs/2601.22390)|null|
+|**2026-01-29**|**TidyVoice 2026 Challenge Evaluation Plan**|Aref Farhadipour et.al.|[2601.21960](https://arxiv.org/abs/2601.21960)|null|
+|**2026-01-29**|**Speech Quality-Based Localization of Low-Quality Speech and Text-to-Speech Synthesis Artefacts**|Michael Kuhlmann et.al.|[2601.21886](https://arxiv.org/abs/2601.21886)|null|
+|**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347](https://arxiv.org/abs/2601.21347)|null|
+|**2026-01-29**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](https://arxiv.org/abs/2601.21337)|null|
+|**2026-01-28**|**asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**|Oleg Sedukhin et.al.|[2601.20992](https://arxiv.org/abs/2601.20992)|null|
+|**2026-01-28**|**Text-only adaptation in LLM-based ASR through text denoising**|Sergio Burdisso et.al.|[2601.20900](https://arxiv.org/abs/2601.20900)|null|
+|**2026-01-28**|**Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection**|Sergio Burdisso et.al.|[2601.20898](https://arxiv.org/abs/2601.20898)|null|
+|**2026-01-28**|**A Study of Data Selection Strategies for Pre-training Self-Supervised Speech Models**|Ryan Whetten et.al.|[2601.20896](https://arxiv.org/abs/2601.20896)|null|
+|**2026-01-28**|**SW-ASR: A Context-Aware Hybrid ASR Pipeline for Robust Single Word Speech Recognition**|Manali Sharma et.al.|[2601.20890](https://arxiv.org/abs/2601.20890)|null|
+|**2026-01-27**|**VoxMorph: Scalable Zero-shot Voice Identity Morphing via Disentangled Embeddings**|Bharath Krishnamurthy et.al.|[2601.20883](https://arxiv.org/abs/2601.20883)|**[link](https://github.com/Bharath-K3/VoxMorph)**|
+|**2026-01-27**|**MA-LipNet: Multi-Dimensional Attention Networks for Robust Lipreading**|Matteo Rossi et.al.|[2601.20881](https://arxiv.org/abs/2601.20881)|null|
+|**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481](https://arxiv.org/abs/2601.20481)|null|
+|**2026-01-28**|**Self Voice Conversion as an Attack against Neural Audio Watermarking**|Yigitcan Özer et.al.|[2601.20432](https://arxiv.org/abs/2601.20432)|null|
+|**2026-01-28**|**ASR for Affective Speech: Investigating Impact of Emotion and Speech Generative Strategy**|Ya-Tse Wu et.al.|[2601.20319](https://arxiv.org/abs/2601.20319)|null|
+|**2026-01-28**|**Mind the Shift: Using Delta SSL Embeddings to Enhance Child ASR**|Zilai Wang et.al.|[2601.20142](https://arxiv.org/abs/2601.20142)|null|
+|**2026-01-27**|**T-Mimi: A Transformer-based Mimi Decoder for Real-Time On-Phone TTS**|Haibin Wu et.al.|[2601.20094](https://arxiv.org/abs/2601.20094)|null|
+|**2026-01-27**|**Do we really need Self-Attention for Streaming Automatic Speech Recognition?**|Youness Dkhissi et.al.|[2601.19960](https://arxiv.org/abs/2601.19960)|null|
+|**2026-01-27**|**HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs**|Jeanne Malécot et.al.|[2601.19839](https://arxiv.org/abs/2601.19839)|null|
+|**2026-01-27**|**Rethinking Discrete Speech Representation Tokens for Accent Generation**|Jinzuomu Zhong et.al.|[2601.19786](https://arxiv.org/abs/2601.19786)|null|
+|**2026-01-27**|**Hyperbolic Additive Margin Softmax with Hierarchical Information for Speaker Verification**|Zhihua Fang et.al.|[2601.19709](https://arxiv.org/abs/2601.19709)|null|
+|**2026-01-27**|**SLM-SS: Speech Language Model for Generative Speech Separation**|Tianhua Li et.al.|[2601.19533](https://arxiv.org/abs/2601.19533)|null|
+|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](https://arxiv.org/abs/2601.19451)|null|
+|**2026-01-27**|**SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper**|Alexander Polok et.al.|[2601.19194](https://arxiv.org/abs/2601.19194)|null|
+|**2026-01-26**|**Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**|Yuchen Zhang et.al.|[2601.18899](https://arxiv.org/abs/2601.18899)|null|
+|**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](https://arxiv.org/abs/2601.18694)|null|
+|**2026-01-26**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](https://arxiv.org/abs/2601.18641)|null|
+|**2026-01-26**|**UrgentMOS: Unified Multi-Metric and Preference Learning for Robust Speech Quality Assessment**|Wei Wang et.al.|[2601.18438](https://arxiv.org/abs/2601.18438)|null|
+|**2026-01-26**|**Pisets: A Robust Speech Recognition System for Lectures and Interviews**|Ivan Bondarenko et.al.|[2601.18415](https://arxiv.org/abs/2601.18415)|**[link](https://github.com/bond005/pisets.)**|
+|**2026-01-26**|**Noise-Robust AV-ASR Using Visual Features Both in the Whisper Encoder and Decoder**|Zhengyang Li et.al.|[2601.18396](https://arxiv.org/abs/2601.18396)|null|
+|**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](https://arxiv.org/abs/2601.18393)|null|
+|**2026-01-26**|**Efficient Rehearsal for Continual Learning in ASR via Singular Value Tuning**|Steven Vander Eeckt et.al.|[2601.18266](https://arxiv.org/abs/2601.18266)|null|
+|**2026-01-26**|**VIBEVOICE-ASR Technical Report**|Zhiliang Peng et.al.|[2601.18184](https://arxiv.org/abs/2601.18184)|null|
+|**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094](https://arxiv.org/abs/2601.18094)|null|
 |**2026-01-22**|**TidyVoice: A Curated Multilingual Dataset for Speaker Verification Derived from Common Voice**|Aref Farhadipour et.al.|[2601.16358](https://arxiv.org/abs/2601.16358)|null|
 |**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](https://arxiv.org/abs/2601.16240)|null|
 |**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](https://arxiv.org/abs/2601.16231)|null|

@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Accurate Pedestrian Tracking in Urban Canyons: A Multi-Modal Fusion Approach**|Shahar Dubiner et.al.|[2601.22406](https://arxiv.org/abs/2601.22406)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](https://arxiv.org/abs/2601.14799)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al.|[2601.10611](https://arxiv.org/abs/2601.10611)|null|
 |**2026-01-14**|**DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos**|Jiajun Chen et.al.|[2601.09240](https://arxiv.org/abs/2601.09240)|null|
