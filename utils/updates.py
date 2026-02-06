@@ -1,3 +1,4 @@
+import os
 import json
 import logging
 import re
@@ -79,7 +80,11 @@ def update_paper_links(filename):
                 # fallback to GitHub search by arxiv id + title
                 try:
                     params = {"q": f"arxiv:{arxiv_id} {paper_title}", "sort": "stars", "order": "desc"}
-                    gr = requests.get(github_url, params=params, timeout=4, headers={'User-Agent': 'paper-list/1.0'})
+                    headers = {'User-Agent': 'paper-list/1.0'}
+                    token = os.environ.get('GITHUB_TOKEN')
+                    if token:
+                        headers['Authorization'] = f'token {token}'
+                    gr = requests.get(github_url, params=params, timeout=4, headers=headers)
                     if gr.ok and 'application/json' in (gr.headers.get('Content-Type') or ''):
                         gj = gr.json()
                         if gj.get("total_count", 0) > 0:

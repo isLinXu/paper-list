@@ -1,3 +1,4 @@
+import os
 import datetime
 import logging
 import time
@@ -23,7 +24,11 @@ def get_code_link(qword: str, github_url: str) -> str:
         "sort": "stars",
         "order": "desc"
     }
-    r = requests.get(github_url, params=params, timeout=4, headers={'User-Agent': 'paper-list/1.0'})
+    headers = {'User-Agent': 'paper-list/1.0'}
+    token = os.environ.get('GITHUB_TOKEN')
+    if token:
+        headers['Authorization'] = f'token {token}'
+    r = requests.get(github_url, params=params, timeout=4, headers=headers)
     results = r.json()
     code_link = None
     if results.get("total_count", 0) > 0:
