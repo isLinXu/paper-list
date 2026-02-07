@@ -2,10 +2,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|null|
+|**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](https://arxiv.org/abs/2602.06041)|null|
+|**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](https://arxiv.org/abs/2602.06038)|null|
+|**2026-02-05**|**IDSOR: Intensity- and Distance-Aware Statistical Outlier Removal for Weather-Robust LiDAR Point Clouds**|Chenyang Yan et.al.|[2602.05876](https://arxiv.org/abs/2602.05876)|null|
+|**2026-02-05**|**MTPano: Multi-Task Panoramic Scene Understanding via Label-Free Integration of Dense Prediction Priors**|Jingdong Zhang et.al.|[2602.05330](https://arxiv.org/abs/2602.05330)|null|
+|**2026-02-04**|**TACO: Temporal Consensus Optimization for Continual Neural Mapping**|Xunlan Zhou et.al.|[2602.04516](https://arxiv.org/abs/2602.04516)|null|
+|**2026-02-04**|**MA3DSG: Multi-Agent 3D Scene Graph Generation for Large-Scale Indoor Environments**|Yirum Kim et.al.|[2602.04152](https://arxiv.org/abs/2602.04152)|null|
+|**2026-01-31**|**VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning**|Vivek Madhavaram et.al.|[2602.00637](https://arxiv.org/abs/2602.00637)|null|
+|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|**[link](https://github.com/0nandon/SEAL)**|
 |**2026-01-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al.|[2601.22988](https://arxiv.org/abs/2601.22988)|null|
 |**2026-01-29**|**FlexMap: Generalized HD Map Construction from Flexible Camera Configurations**|Run Wang et.al.|[2601.22376](https://arxiv.org/abs/2601.22376)|null|
-|**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](https://arxiv.org/abs/2601.22032)|null|
+|**2026-01-29**|**Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving**|Linhan Wang et.al.|[2601.22032](https://arxiv.org/abs/2601.22032)|**[link](https://github.com/linhanwang/Drive-JEPA)**|
 |**2026-01-29**|**LLM-Driven Scenario-Aware Planning for Autonomous Driving**|He Li et.al.|[2601.21876](https://arxiv.org/abs/2601.21876)|null|
 |**2026-01-29**|**From Implicit Ambiguity to Explicit Solidity: Diagnosing Interior Geometric Degradation in Neural Radiance Fields for Dense 3D Scene Understanding**|Jiangsan Zhao et.al.|[2601.21421](https://arxiv.org/abs/2601.21421)|null|
 |**2026-01-29**|**DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation**|Weitao An et.al.|[2601.21409](https://arxiv.org/abs/2601.21409)|null|

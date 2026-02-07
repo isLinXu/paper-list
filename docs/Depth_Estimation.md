@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](https://arxiv.org/abs/2602.05730)|null|
+|**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](https://arxiv.org/abs/2602.05638)|null|
+|**2026-02-05**|**Depth estimation of a monoharmonic source using a vertical linear array at fixed distance**|Yangjin Xu et.al.|[2602.05560](https://arxiv.org/abs/2602.05560)|null|
+|**2026-02-05**|**NeVStereo: A NeRF-Driven NVS-Stereo Architecture for High-Fidelity 3D Tasks**|Pengcheng Chen et.al.|[2602.05423](https://arxiv.org/abs/2602.05423)|null|
+|**2026-02-05**|**PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction**|Ju Shen et.al.|[2602.05190](https://arxiv.org/abs/2602.05190)|null|
+|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](https://arxiv.org/abs/2602.04053)|null|
+|**2026-02-03**|**Depth Completion in Unseen Field Robotics Environments Using Extremely Sparse Depth Measurements**|Marco Job et.al.|[2602.03209](https://arxiv.org/abs/2602.03209)|null|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](https://arxiv.org/abs/2602.01899)|null|
+|**2026-02-01**|**OASIS-DC: Generalizable Depth Completion via Output-level Alignment of Sparse-Integrated Monocular Pseudo Depth**|Jaehyeon Cho et.al.|[2602.01268](https://arxiv.org/abs/2602.01268)|null|
 |**2026-01-30**|**Deep in the Jungle: Towards Automating Chimpanzee Population Estimation**|Tom Raynes et.al.|[2601.22917](https://arxiv.org/abs/2601.22917)|null|
 |**2026-01-29**|**MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources**|Baorui Ma et.al.|[2601.22054](https://arxiv.org/abs/2601.22054)|**[link](https://github.com/metric-anything/metric-anything)**|
 |**2026-01-29**|**Belief Propagation Converges to Gaussian Distributions in Sparsely-Connected Factor Graphs**|Tom Yates et.al.|[2601.21935](https://arxiv.org/abs/2601.21935)|null|

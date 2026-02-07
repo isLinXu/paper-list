@@ -2,6 +2,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|null|
+|**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](https://arxiv.org/abs/2602.05937)|null|
+|**2026-02-05**|**LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation**|Junyang Chen et.al.|[2602.05578](https://arxiv.org/abs/2602.05578)|null|
+|**2026-02-05**|**Disco: Densely-overlapping Cell Instance Segmentation via Adjacency-aware Collaborative Coloring**|Rui Sun et.al.|[2602.05420](https://arxiv.org/abs/2602.05420)|null|
+|**2026-02-05**|**ReGLA: Efficient Receptive-Field Modeling with Gated Linear Attention Network**|Junzhou Li et.al.|[2602.05262](https://arxiv.org/abs/2602.05262)|null|
+|**2026-02-04**|**Mitigating Long-Tail Bias via Prompt-Controlled Diffusion Augmentation**|Buddhi Wijenayake et.al.|[2602.04749](https://arxiv.org/abs/2602.04749)|null|
+|**2026-02-04**|**PEPR: Privileged Event-based Predictive Regularization for Domain Generalization**|Gabriele Magrini et.al.|[2602.04583](https://arxiv.org/abs/2602.04583)|null|
+|**2026-02-03**|**Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal**|Rio Aguina-Kang et.al.|[2602.04053](https://arxiv.org/abs/2602.04053)|null|
+|**2026-02-03**|**Artifact Removal and Image Restoration in AFM:A Structured Mask-Guided Directional Inpainting Approach**|Juntao Zhang et.al.|[2602.04051](https://arxiv.org/abs/2602.04051)|null|
+|**2026-02-01**|**Split&Splat: Zero-Shot Panoptic Segmentation via Explicit Instance Modeling and 3D Gaussian Splatting**|Leonardo Monchieri et.al.|[2602.03809](https://arxiv.org/abs/2602.03809)|null|
+|**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[2602.03625](https://arxiv.org/abs/2602.03625)|null|
+|**2026-02-03**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al.|[2602.03361](https://arxiv.org/abs/2602.03361)|null|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](https://arxiv.org/abs/2602.03320)|null|
+|**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](https://arxiv.org/abs/2602.02171)|null|
+|**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](https://arxiv.org/abs/2602.01899)|null|
+|**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](https://arxiv.org/abs/2602.01710)|null|
+|**2026-02-01**|**Sem-NaVAE: Semantically-Guided Outdoor Mapless Navigation via Generative Trajectory Priors**|Gonzalo Olguin et.al.|[2602.01429](https://arxiv.org/abs/2602.01429)|null|
+|**2026-02-01**|**Instance-Guided Unsupervised Domain Adaptation for Robotic Semantic Segmentation**|Michele Antonazzi et.al.|[2602.01389](https://arxiv.org/abs/2602.01389)|null|
+|**2026-02-01**|**Semantically Aware UAV Landing Site Assessment from Remote Sensing Imagery via Multimodal Large Language Models**|Chunliang Hua et.al.|[2602.01163](https://arxiv.org/abs/2602.01163)|null|
+|**2026-01-31**|**StomataSeg: Semi-Supervised Instance Segmentation for Sorghum Stomatal Components**|Zhongtian Huang et.al.|[2602.00703](https://arxiv.org/abs/2602.00703)|null|
+|**2026-01-31**|**SPARK: Stochastic Propagation via Affinity-guided Random walK for training-free unsupervised segmentation**|Kunal Mahatha et.al.|[2602.00516](https://arxiv.org/abs/2602.00516)|null|
+|**2026-01-31**|**ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation**|Pengyu Chen et.al.|[2602.00470](https://arxiv.org/abs/2602.00470)|null|
+|**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](https://arxiv.org/abs/2602.00202)|null|
+|**2026-01-29**|**YOLOE-26: Integrating YOLO26 with YOLOE for Real-Time Open-Vocabulary Instance Segmentation**|Ranjan Sapkota et.al.|[2602.00168](https://arxiv.org/abs/2602.00168)|null|
 |**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|null|
 |**2026-01-30**|**ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding**|Junyi Hu et.al.|[2601.22666](https://arxiv.org/abs/2601.22666)|null|
 |**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](https://arxiv.org/abs/2601.22529)|null|

@@ -2,6 +2,32 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation**|Mirlan Karimov et.al.|[2602.05966](https://arxiv.org/abs/2602.05966)|null|
+|**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](https://arxiv.org/abs/2602.05730)|null|
+|**2026-02-05**|**PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds**|Michael Schwingshackl et.al.|[2602.05557](https://arxiv.org/abs/2602.05557)|null|
+|**2026-02-05**|**IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools**|Panagiotis Sapoutzoglou et.al.|[2602.05555](https://arxiv.org/abs/2602.05555)|null|
+|**2026-02-05**|**TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions**|Ngoc Doan-Minh Huynh et.al.|[2602.05414](https://arxiv.org/abs/2602.05414)|**[link](https://github.com/SKKUAutoLab/TSBOW.)**|
+|**2026-02-05**|**ReGLA: Efficient Receptive-Field Modeling with Gated Linear Attention Network**|Junzhou Li et.al.|[2602.05262](https://arxiv.org/abs/2602.05262)|null|
+|**2026-02-04**|**A labeled dataset of simulated phlebotomy procedures for medical AI: polygon annotations for object detection and human-object interaction**|Raúl Jiménez Cruz et.al.|[2602.04624](https://arxiv.org/abs/2602.04624)|null|
+|**2026-02-04**|**PEPR: Privileged Event-based Predictive Regularization for Domain Generalization**|Gabriele Magrini et.al.|[2602.04583](https://arxiv.org/abs/2602.04583)|null|
+|**2026-02-03**|**RAWDet-7: A Multi-Scenario Benchmark for Object Detection and Description on Quantized RAW Images**|Mishal Fatima et.al.|[2602.03760](https://arxiv.org/abs/2602.03760)|null|
+|**2026-02-03**|**SPWOOD: Sparse Partial Weakly-Supervised Oriented Object Detection**|Wei Zhang et.al.|[2602.03634](https://arxiv.org/abs/2602.03634)|null|
+|**2026-02-03**|**High-Resolution Underwater Camouflaged Object Detection: GBU-UCOD Dataset and Topology-Aware and Frequency-Decoupled Networks**|Wenji Wu et.al.|[2602.03591](https://arxiv.org/abs/2602.03591)|null|
+|**2026-02-03**|**Inlier-Centric Post-Training Quantization for Object Detection Models**|Minsu Kim et.al.|[2602.03472](https://arxiv.org/abs/2602.03472)|null|
+|**2026-02-03**|**FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion**|Chen-Bin Feng et.al.|[2602.03137](https://arxiv.org/abs/2602.03137)|null|
+|**2026-02-02**|**Real-Time 2D LiDAR Object Detection Using Three-Frame RGB Scan Encoding**|Soheil Behnam Roudsari et.al.|[2602.02167](https://arxiv.org/abs/2602.02167)|null|
+|**2026-02-02**|**Deep learning enables urban change profiling through alignment of historical maps**|Sidi Wu et.al.|[2602.02154](https://arxiv.org/abs/2602.02154)|null|
+|**2026-02-02**|**Beyond Open Vocabulary: Multimodal Prompting for Object Detection in Remote Sensing Images**|Shuai Yang et.al.|[2602.01954](https://arxiv.org/abs/2602.01954)|null|
+|**2026-02-02**|**Samba+: General and Accurate Salient Object Detection via A More Unified Mamba-based Framework**|Wenzhuo Zhao et.al.|[2602.01593](https://arxiv.org/abs/2602.01593)|null|
+|**2026-02-01**|**Cross-Paradigm Evaluation of Gaze-Based Semantic Object Identification for Intelligent Vehicles**|Penghao Deng et.al.|[2602.01452](https://arxiv.org/abs/2602.01452)|null|
+|**2026-02-01**|**Unified ROI-based Image Compression Paradigm with Generalized Gaussian Model**|Kai Hu et.al.|[2602.01325](https://arxiv.org/abs/2602.01325)|null|
+|**2026-02-01**|**Minimizing Mismatch Risk: A Prototype-Based Routing Framework for Zero-shot LLM-generated Text Detection**|Ke Sun et.al.|[2602.01240](https://arxiv.org/abs/2602.01240)|null|
+|**2026-02-01**|**Refining Context-Entangled Content Segmentation via Curriculum Selection and Anti-Curriculum Promotion**|Chunming He et.al.|[2602.01183](https://arxiv.org/abs/2602.01183)|null|
+|**2026-01-31**|**Enhancing Open-Vocabulary Object Detection through Multi-Level Fine-Grained Visual-Language Alignment**|Tianyi Zhang et.al.|[2602.00531](https://arxiv.org/abs/2602.00531)|null|
+|**2026-01-30**|**Deep Learning-Based Object Detection for Autonomous Vehicles: A Comparative Study of One-Stage and Two-Stage Detectors on Basic Traffic Objects**|Bsher Karbouj et.al.|[2602.00385](https://arxiv.org/abs/2602.00385)|null|
+|**2026-01-30**|**Leveraging Textual-Cues for Enhancing Multimodal Sentiment Analysis by Object Recognition**|Sumana Biswas et.al.|[2602.00360](https://arxiv.org/abs/2602.00360)|null|
+|**2026-01-29**|**SDCM: Simulated Densifying and Compensatory Modeling Fusion for Radar-Vision 3-D Object Detection in Internet of Vehicles**|Shucong Li et.al.|[2602.00149](https://arxiv.org/abs/2602.00149)|null|
+|**2026-01-26**|**Observing Health Outcomes Using Remote Sensing Imagery and Geo-Context Guided Visual Transformer**|Yu Li et.al.|[2602.00110](https://arxiv.org/abs/2602.00110)|null|
 |**2026-01-30**|**User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments**|Junfeng Lin et.al.|[2601.23281](https://arxiv.org/abs/2601.23281)|null|
 |**2026-01-30**|**A Comparative Evaluation of Large Vision-Language Models for 2D Object Detection under SOTIF Conditions**|Ji Zhou et.al.|[2601.22830](https://arxiv.org/abs/2601.22830)|null|
 |**2026-01-30**|**Active Learning-Driven Lightweight YOLOv9: Enhancing Efficiency in Smart Agriculture**|Hung-Chih Tu et.al.|[2601.22732](https://arxiv.org/abs/2601.22732)|null|
@@ -11,7 +37,7 @@
 |**2026-01-29**|**Don't double it: Efficient Agent Prediction in Occlusions**|Anna Rothenhäusler et.al.|[2601.21504](https://arxiv.org/abs/2601.21504)|null|
 |**2026-01-28**|**BadDet+: Robust Backdoor Attacks for Object Detection**|Kealan Dunnett et.al.|[2601.21066](https://arxiv.org/abs/2601.21066)|null|
 |**2026-01-27**|**On the Effectiveness of LLM-Specific Fine-Tuning for Detecting AI-Generated Text**|Michał Gromadzki et.al.|[2601.20006](https://arxiv.org/abs/2601.20006)|null|
-|**2026-01-27**|**VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](https://arxiv.org/abs/2601.19887)|null|
+|**2026-01-27**|**VGGT-SLAM 2.0: Real-time Dense Feed-forward Scene Reconstruction**|Dominic Maggio et.al.|[2601.19887](https://arxiv.org/abs/2601.19887)|null|
 |**2026-01-27**|**Learned split-spectrum metalens for obstruction-free broadband imaging in the visible**|Seungwoo Yoon et.al.|[2601.19403](https://arxiv.org/abs/2601.19403)|null|
 |**2026-01-27**|**MIRAGE: Enabling Real-Time Automotive Mediated Reality**|Pascal Jansen et.al.|[2601.19385](https://arxiv.org/abs/2601.19385)|null|
 |**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](https://arxiv.org/abs/2601.19314)|null|

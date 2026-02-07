@@ -2,6 +2,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](https://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](https://arxiv.org/abs/2602.05822)|null|
+|**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755](https://arxiv.org/abs/2602.05755)|null|
+|**2026-02-05**|**EgoPoseVR: Spatiotemporal Multi-Modal Reasoning for Egocentric Full-Body Pose in Virtual Reality**|Haojie Cheng et.al.|[2602.05590](https://arxiv.org/abs/2602.05590)|null|
+|**2026-02-05**|**Geometric Observability Index: An Operator-Theoretic Framework for Per-Feature Sensitivity, Weak Observability, and Dynamic Effects in SE(3) Pose Estimation**|Joe-Mei Feng et.al.|[2602.05582](https://arxiv.org/abs/2602.05582)|null|
+|**2026-02-05**|**ShapeGaussian: High-Fidelity 4D Human Reconstruction in Monocular Videos via Vision Priors**|Zhenxiao Liang et.al.|[2602.05572](https://arxiv.org/abs/2602.05572)|null|
+|**2026-02-05**|**IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools**|Panagiotis Sapoutzoglou et.al.|[2602.05555](https://arxiv.org/abs/2602.05555)|null|
+|**2026-02-05**|**RFM-Pose:Reinforcement-Guided Flow Matching for Fast Category-Level 6D Pose Estimation**|Diya He et.al.|[2602.05257](https://arxiv.org/abs/2602.05257)|null|
+|**2026-02-04**|**Differentiable Inverse Graphics for Zero-shot Scene Reconstruction and Robot Grasping**|Octavio Arriaga et.al.|[2602.05029](https://arxiv.org/abs/2602.05029)|null|
+|**2026-02-04**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439](https://arxiv.org/abs/2602.04439)|null|
+|**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126](https://arxiv.org/abs/2602.03126)|null|
+|**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064](https://arxiv.org/abs/2602.03064)|null|
+|**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850](https://arxiv.org/abs/2602.02850)|null|
+|**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](https://arxiv.org/abs/2602.02401)|null|
+|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393](https://arxiv.org/abs/2602.02393)|null|
+|**2026-02-02**|**HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2602.01586](https://arxiv.org/abs/2602.01586)|null|
+|**2026-02-02**|**Visible Light Positioning With Lamé Curve LEDs: A Generic Approach for Camera Pose Estimation**|Wenxuan Pan et.al.|[2602.01577](https://arxiv.org/abs/2602.01577)|null|
+|**2026-02-02**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501](https://arxiv.org/abs/2602.01501)|null|
+|**2026-02-01**|**PandaPose: 3D Human Pose Lifting from a Single Image via Propagating 2D Pose Prior to 3D Anchor Space**|Jinghong Zheng et.al.|[2602.01095](https://arxiv.org/abs/2602.01095)|null|
+|**2026-01-29**|**Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders**|Laura Cif et.al.|[2602.00163](https://arxiv.org/abs/2602.00163)|null|
+|**2026-01-26**|**Efficient UAV trajectory prediction: A multi-modal deep diffusion framework**|Yuan Gao et.al.|[2602.00107](https://arxiv.org/abs/2602.00107)|null|
 |**2026-01-30**|**PEAR: Pixel-aligned Expressive humAn mesh Recovery**|Jiahao Wu et.al.|[2601.22693](https://arxiv.org/abs/2601.22693)|null|
 |**2026-01-29**|**Lost in Space? Vision-Language Models Struggle with Relative Camera Pose Estimation**|Ken Deng et.al.|[2601.22228](https://arxiv.org/abs/2601.22228)|null|
 |**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580](https://arxiv.org/abs/2601.19580)|null|

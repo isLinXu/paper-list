@@ -2,6 +2,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](https://arxiv.org/abs/2602.05496)|null|
+|**2026-02-04**|**CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning**|Ronghao Lin et.al.|[2602.04920](https://arxiv.org/abs/2602.04920)|null|
+|**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](https://arxiv.org/abs/2602.04763)|null|
+|**2026-02-04**|**Decoupled Hierarchical Distillation for Multimodal Emotion Recognition**|Yong Li et.al.|[2602.04260](https://arxiv.org/abs/2602.04260)|null|
+|**2026-02-04**|**GeoLanG: Geometry-Aware Language-Guided Grasping with Unified RGB-D Multimodal Learning**|Rui Tang et.al.|[2602.04231](https://arxiv.org/abs/2602.04231)|null|
+|**2026-02-03**|**LaVPR: Benchmarking Language and Vision for Place Recognition**|Ofer Idan et.al.|[2602.03253](https://arxiv.org/abs/2602.03253)|null|
+|**2026-02-03**|**TextME: Bridging Unseen Modalities Through Text Descriptions**|Soyeon Hong et.al.|[2602.03098](https://arxiv.org/abs/2602.03098)|null|
+|**2026-01-30**|**Uncertainty-Aware Multimodal Learning via Conformal Shapley Intervals**|Mathew Chandy et.al.|[2602.00171](https://arxiv.org/abs/2602.00171)|null|
 |**2026-01-30**|**RASST: Fast Cross-modal Retrieval-Augmented Simultaneous Speech Translation**|Jiaxuan Luo et.al.|[2601.22777](https://arxiv.org/abs/2601.22777)|null|
 |**2026-01-29**|**Neural Signals Generate Clinical Notes in the Wild**|Jathurshan Pradeepkumar et.al.|[2601.22197](https://arxiv.org/abs/2601.22197)|null|
 |**2026-01-29**|**MEIDNet: Multimodal generative AI framework for inverse materials design**|Anand Babu et.al.|[2601.22009](https://arxiv.org/abs/2601.22009)|null|

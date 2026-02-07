@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718](https://arxiv.org/abs/2602.05718)|null|
+|**2026-02-04**|**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**|Yiye Chen et.al.|[2602.05049](https://arxiv.org/abs/2602.05049)|null|
+|**2026-02-04**|**Hand Gesture Recognition from Doppler Radar Signals Using Echo State Networks**|Towa Sano et.al.|[2602.04436](https://arxiv.org/abs/2602.04436)|null|
+|**2026-02-04**|**HoloEv-Net: Efficient Event-based Action Recognition via Holographic Spatial Embedding and Global Spectral Gating**|Weidong Hao et.al.|[2602.04182](https://arxiv.org/abs/2602.04182)|null|
+|**2026-02-03**|**MVP-LAM: Learning Action-Centric Latent Action via Cross-Viewpoint Reconstruction**|Jung Min Lee et.al.|[2602.03668](https://arxiv.org/abs/2602.03668)|null|
+|**2026-02-02**|**On the Sample Efficiency of Inverse Dynamics Models for Semi-Supervised Imitation Learning**|Sacha Morin et.al.|[2602.02762](https://arxiv.org/abs/2602.02762)|null|
+|**2026-02-02**|**Time2Vec Transformer for Robust Gesture Recognition from Low-Density sEMG**|Blagoj Hristov et.al.|[2602.01855](https://arxiv.org/abs/2602.01855)|null|
+|**2026-02-02**|**WS-IMUBench: Can Weakly Supervised Methods from Audio, Image, and Video Be Adapted for IMU-based Temporal Action Localization?**|Pei Li et.al.|[2602.01850](https://arxiv.org/abs/2602.01850)|null|
+|**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257](https://arxiv.org/abs/2602.01257)|null|
+|**2026-01-30**|**MapDream: Task-Driven Map Learning for Vision-Language Navigation**|Guoxin Lian et.al.|[2602.00222](https://arxiv.org/abs/2602.00222)|null|
 |**2026-01-30**|**Leveraging Convolutional Sparse Autoencoders for Robust Movement Classification from Low-Density sEMG**|Blagoj Hristov et.al.|[2601.23011](https://arxiv.org/abs/2601.23011)|null|
 |**2026-01-30**|**μTouch: Enabling Accurate, Lightweight Self-Touch Sensing with Passive Magnets**|Siyuan Wang et.al.|[2601.22864](https://arxiv.org/abs/2601.22864)|null|
 |**2026-01-30**|**Fire on Motion: Optimizing Video Pass-bands for Efficient Spiking Action Recognition**|Shuhan Ye et.al.|[2601.22675](https://arxiv.org/abs/2601.22675)|null|

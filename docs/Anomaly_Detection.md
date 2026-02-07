@@ -2,6 +2,48 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Interpreting Manifolds and Graph Neural Embeddings from Internet of Things Traffic Flows**|Enrique Feito-Casares et.al.|[2602.05817](https://arxiv.org/abs/2602.05817)|null|
+|**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646](https://arxiv.org/abs/2602.05646)|null|
+|**2026-02-05**|**Joint Embedding Variational Bayes**|Amin Oji et.al.|[2602.05639](https://arxiv.org/abs/2602.05639)|null|
+|**2026-02-05**|**Deep Learning for Contextualized NetFlow-Based Network Intrusion Detection: Methods, Data, Evaluation and Deployment**|Abdelkader El Mahdaouy et.al.|[2602.05594](https://arxiv.org/abs/2602.05594)|null|
+|**2026-02-05**|**Toward Operationalizing Rasmussen: Drift Observability on the Simplex for Evolving Systems**|Anatoly A. Krasnovsky et.al.|[2602.05483](https://arxiv.org/abs/2602.05483)|null|
+|**2026-02-05**|**Multi-AD: Cross-Domain Unsupervised Anomaly Detection for Medical and Industrial Applications**|Wahyu Rahmaniar et.al.|[2602.05426](https://arxiv.org/abs/2602.05426)|null|
+|**2026-02-05**|**PatchFlow: Leveraging a Flow-Based Model with Patch Features**|Boxiang Zhang et.al.|[2602.05238](https://arxiv.org/abs/2602.05238)|null|
+|**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](https://arxiv.org/abs/2602.05232)|null|
+|**2026-02-04**|**Multi-Aspect Mining and Anomaly Detection for Heterogeneous Tensor Streams**|Soshi Kakio et.al.|[2602.04917](https://arxiv.org/abs/2602.04917)|null|
+|**2026-02-04**|**Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning**|Joydeep Chandra et.al.|[2602.04821](https://arxiv.org/abs/2602.04821)|null|
+|**2026-02-04**|**DMS2F-HAD: A Dual-branch Mamba-based Spatial-Spectral Fusion Network for Hyperspectral Anomaly Detection**|Aayushma Pant et.al.|[2602.04102](https://arxiv.org/abs/2602.04102)|null|
+|**2026-01-31**|**DINO-AD: Unsupervised Anomaly Detection with Frozen DINO-V3 Features**|Jiayu Huo et.al.|[2602.03870](https://arxiv.org/abs/2602.03870)|null|
+|**2026-02-03**|**ContraLog: Log File Anomaly Detection with Contrastive Learning and Masked Language Modeling**|Simon Dietz et.al.|[2602.03678](https://arxiv.org/abs/2602.03678)|null|
+|**2026-02-03**|**Referring Industrial Anomaly Segmentation**|Pengfei Yue et.al.|[2602.03673](https://arxiv.org/abs/2602.03673)|null|
+|**2026-02-03**|**CTTVAE: Latent Space Structuring for Conditional Tabular Data Generation on Imbalanced Datasets**|Milosh Devic et.al.|[2602.03641](https://arxiv.org/abs/2602.03641)|null|
+|**2026-02-03**|**SAGE-5GC: Security-Aware Guidelines for Evaluating Anomaly Detection in the 5G Core Network**|Cristian Manca et.al.|[2602.03596](https://arxiv.org/abs/2602.03596)|null|
+|**2026-02-03**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al.|[2602.03594](https://arxiv.org/abs/2602.03594)|null|
+|**2026-02-03**|**Interpretable Logical Anomaly Classification via Constraint Decomposition and Instruction Fine-Tuning**|Xufei Zhang et.al.|[2602.03530](https://arxiv.org/abs/2602.03530)|null|
+|**2026-02-03**|**Toward a Sustainable Federated Learning Ecosystem: A Practical Least Core Mechanism for Payoff Allocation**|Zhengwei Ni et.al.|[2602.03387](https://arxiv.org/abs/2602.03387)|null|
+|**2026-02-03**|**Anomaly Detection via Mean Shift Density Enhancement**|Pritam Kar et.al.|[2602.03293](https://arxiv.org/abs/2602.03293)|null|
+|**2026-02-03**|**From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection**|Xueying Ding et.al.|[2602.03018](https://arxiv.org/abs/2602.03018)|null|
+|**2026-02-03**|**RPG-AE: Neuro-Symbolic Graph Autoencoders with Rare Pattern Mining for Provenance-Based Anomaly Detection**|Asif Tauhid et.al.|[2602.02929](https://arxiv.org/abs/2602.02929)|null|
+|**2026-02-02**|**Refining Decision Boundaries In Anomaly Detection Using Similarity Search Within the Feature Space**|Sidahmed Benabderrahmane et.al.|[2602.02925](https://arxiv.org/abs/2602.02925)|null|
+|**2026-02-02**|**Evaluating False Alarm and Missing Attacks in CAN IDS**|Nirab Hossain et.al.|[2602.02781](https://arxiv.org/abs/2602.02781)|null|
+|**2026-02-02**|**Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies**|Olga Graf et.al.|[2602.02124](https://arxiv.org/abs/2602.02124)|null|
+|**2026-02-02**|**Active learning from positive and unlabeled examples**|Farnam Mansouri et.al.|[2602.02081](https://arxiv.org/abs/2602.02081)|null|
+|**2026-02-02**|**COMET: Codebook-based Online-adaptive Multi-scale Embedding for Time-series Anomaly Detection**|Jinwoo Park et.al.|[2602.01635](https://arxiv.org/abs/2602.01635)|null|
+|**2026-02-02**|**RAPT: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots**|Humphrey Munn et.al.|[2602.01515](https://arxiv.org/abs/2602.01515)|null|
+|**2026-02-02**|**Enhancing Generalization in Evolutionary Feature Construction for Symbolic Regression through Vicinal Jensen Gap Minimization**|Hengzhe Zhang et.al.|[2602.01510](https://arxiv.org/abs/2602.01510)|null|
+|**2026-02-01**|**Modeling Topological Impact on Node Attribute Distributions in Attributed Graphs**|Amirreza Shiralinasab Langari et.al.|[2602.01454](https://arxiv.org/abs/2602.01454)|null|
+|**2026-02-01**|**PaAno: Patch-Based Representation Learning for Time-Series Anomaly Detection**|Jinju Park et.al.|[2602.01359](https://arxiv.org/abs/2602.01359)|null|
+|**2026-02-01**|**Single-Edge Node Injection Threats to GNN-Based Security Monitoring in Industrial Graph Systems**|Wenjie Liang et.al.|[2602.01113](https://arxiv.org/abs/2602.01113)|null|
+|**2026-02-01**|**MedAD-R1: Eliciting Consistent Reasoning in Interpretible Medical Anomaly Detection via Consistency-Reinforced Policy Optimization**|Haitao Zhang et.al.|[2602.01081](https://arxiv.org/abs/2602.01081)|null|
+|**2026-01-31**|**A Graph-based Framework for Coverage Analysis in Autonomous Driving**|Thomas Muehlenstädt et.al.|[2602.00903](https://arxiv.org/abs/2602.00903)|null|
+|**2026-01-31**|**Strong Linear Baselines Strike Back: Closed-Form Linear Models as Gaussian Process Conditional Density Estimators for TSAD**|Aleksandr Yugay et.al.|[2602.00672](https://arxiv.org/abs/2602.00672)|null|
+|**2026-01-31**|**MRAD: Zero-Shot Anomaly Detection with Memory-Driven Retrieval**|Chaoran Xu et.al.|[2602.00522](https://arxiv.org/abs/2602.00522)|null|
+|**2026-01-30**|**Inter-detector differential fuzz testing for tamper detection in gamma spectrometers**|Pei Yao Li et.al.|[2602.00336](https://arxiv.org/abs/2602.00336)|null|
+|**2026-01-30**|**Tri-LLM Cooperative Federated Zero-Shot Intrusion Detection with Semantic Disagreement and Trust-Aware Aggregation**|Saeid Jamshidi et.al.|[2602.00219](https://arxiv.org/abs/2602.00219)|null|
+|**2026-01-30**|**Analyzing Shapley Additive Explanations to Understand Anomaly Detection Algorithm Behaviors and Their Complementarity**|Jordan Levy et.al.|[2602.00208](https://arxiv.org/abs/2602.00208)|null|
+|**2026-01-30**|**Semantic-Aware Advanced Persistent Threat Detection Using Autoencoders on LLM-Encoded System Logs**|Waleed Khan Mohammed et.al.|[2602.00204](https://arxiv.org/abs/2602.00204)|null|
+|**2026-01-27**|**D3R-Net: Dual-Domain Denoising Reconstruction Network for Robust Industrial Anomaly Detection**|Dmytro Filatov et.al.|[2602.00126](https://arxiv.org/abs/2602.00126)|null|
+|**2026-01-27**|**Context-Aware Autoencoders for Anomaly Detection in Maritime Surveillance**|Divya Acharya et.al.|[2602.00124](https://arxiv.org/abs/2602.00124)|null|
 |**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204](https://arxiv.org/abs/2601.23204)|null|
 |**2026-01-30**|**Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience**|Zhongxiang Sun et.al.|[2601.23188](https://arxiv.org/abs/2601.23188)|null|
 |**2026-01-30**|**Securing Time in Energy IoT: A Clock-Dynamics-Aware Spatio-Temporal Graph Attention Network for Clock Drift Attacks and Y2K38 Failures**|Saeid Jamshidi et.al.|[2601.23147](https://arxiv.org/abs/2601.23147)|null|

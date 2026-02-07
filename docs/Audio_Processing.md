@@ -2,6 +2,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Enabling Automatic Disordered Speech Recognition: An Impaired Speech Dataset in the Akan Language**|Isaac Wiafe et.al.|[2602.05406](https://arxiv.org/abs/2602.05406)|null|
+|**2026-02-03**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](https://arxiv.org/abs/2602.04900)|null|
+|**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](https://arxiv.org/abs/2602.04776)|null|
+|**2026-02-04**|**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**|Xuenan Xu et.al.|[2602.04535](https://arxiv.org/abs/2602.04535)|null|
+|**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[2602.04307](https://arxiv.org/abs/2602.04307)|null|
+|**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](https://arxiv.org/abs/2602.04217)|null|
+|**2026-01-31**|**Benchmarking Automatic Speech Recognition for Indian Languages in Agricultural Contexts**|Chandrashekar M S et.al.|[2602.03868](https://arxiv.org/abs/2602.03868)|null|
+|**2026-02-03**|**Mići Princ -- A Little Boy Teaching Speech Technologies the Chakavian Dialect**|Nikola Ljubešić et.al.|[2602.03245](https://arxiv.org/abs/2602.03245)|null|
+|**2026-02-03**|**Rethinking Music Captioning with Music Metadata LLMs**|Irmak Bukey et.al.|[2602.03023](https://arxiv.org/abs/2602.03023)|null|
+|**2026-02-02**|**WAXAL: A Large-Scale Multilingual African Language Speech Corpus**|Abdoulaye Diack et.al.|[2602.02734](https://arxiv.org/abs/2602.02734)|null|
+|**2026-02-01**|**VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis**|Chengyuan Ma et.al.|[2602.02591](https://arxiv.org/abs/2602.02591)|null|
+|**2026-02-02**|**DFKI-Speech System for WildSpoof Challenge: A robust framework for SASV In-the-Wild**|Arnab Das et.al.|[2602.02286](https://arxiv.org/abs/2602.02286)|null|
+|**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](https://arxiv.org/abs/2602.01967)|null|
+|**2026-02-02**|**LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency**|Jaejun Lee et.al.|[2602.01908](https://arxiv.org/abs/2602.01908)|null|
+|**2026-02-02**|**Joint Optimization of ASV and CM tasks: BTUEF Team's Submission for WildSpoof Challenge**|Oguzhan Kurnaz et.al.|[2602.01722](https://arxiv.org/abs/2602.01722)|null|
+|**2026-02-02**|**BBPE16: UTF-16-based byte-level byte-pair encoding for improved multilingual speech recognition**|Hyunsik Kim et.al.|[2602.01717](https://arxiv.org/abs/2602.01717)|null|
+|**2026-02-01**|**Causally Disentangled Contrastive Learning for Multilingual Speaker Embeddings**|Mariëtte Olijslager et.al.|[2602.01363](https://arxiv.org/abs/2602.01363)|null|
+|**2026-02-01**|**EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech**|Besher Hassan et.al.|[2602.01170](https://arxiv.org/abs/2602.01170)|null|
+|**2026-02-01**|**HierCon: Hierarchical Contrastive Attention for Audio Deepfake Detection**|Zhili Nicholas Liang et.al.|[2602.01032](https://arxiv.org/abs/2602.01032)|null|
+|**2026-02-01**|**Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages**|Yang Xiao et.al.|[2602.01008](https://arxiv.org/abs/2602.01008)|null|
+|**2026-02-01**|**MedSpeak: A Knowledge Graph-Aided ASR Error Correction Framework for Spoken Medical QA**|Yutong Song et.al.|[2602.00981](https://arxiv.org/abs/2602.00981)|null|
+|**2026-01-31**|**ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation**|Junmin Gong et.al.|[2602.00744](https://arxiv.org/abs/2602.00744)|null|
 |**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873](https://arxiv.org/abs/2601.22873)|null|
 |**2026-01-30**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](https://arxiv.org/abs/2601.22792)|null|
 |**2026-01-30**|**Streaming Speech Recognition with Decoder-Only Large Language Models and Latency Optimization**|Genshun Wan et.al.|[2601.22779](https://arxiv.org/abs/2601.22779)|null|

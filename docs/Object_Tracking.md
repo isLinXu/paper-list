@@ -2,6 +2,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**UniTrack: Differentiable Graph Representation Learning for Multi-Object Tracking**|Bishoy Galoaa et.al.|[2602.05037](https://arxiv.org/abs/2602.05037)|null|
+|**2026-02-04**|**DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking**|Sijia Chen et.al.|[2602.04692](https://arxiv.org/abs/2602.04692)|null|
+|**2026-01-31**|**GTATrack: Winner Solution to SoccerTrack 2025 with Deep-EIoU and Global Tracklet Association**|Rong-Lin Jian et.al.|[2602.00484](https://arxiv.org/abs/2602.00484)|null|
+|**2026-01-27**|**AI-Driven Three-Dimensional Reconstruction and Quantitative Analysis for Burn Injury Assessment**|S. Kalaycioglu et.al.|[2602.00113](https://arxiv.org/abs/2602.00113)|null|
 |**2026-01-29**|**Accurate Pedestrian Tracking in Urban Canyons: A Multi-Modal Fusion Approach**|Shahar Dubiner et.al.|[2601.22406](https://arxiv.org/abs/2601.22406)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](https://arxiv.org/abs/2601.14799)|null|
 |**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark et.al.|[2601.10611](https://arxiv.org/abs/2601.10611)|null|

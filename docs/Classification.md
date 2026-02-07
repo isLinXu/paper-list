@@ -2,7 +2,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-30**|**Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization**|Wang Yuanchao et.al.|[2601.22944](https://arxiv.org/abs/2601.22944)|null|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](https://arxiv.org/abs/2602.06043)|null|
+|**2026-02-05**|**Visualizing the loss landscapes of physics-informed neural networks**|Conor Rowan et.al.|[2602.05849](https://arxiv.org/abs/2602.05849)|null|
+|**2026-02-05**|**LeakBoost: Perceptual-Loss-Based Membership Inference Attack**|Amit Kravchik Taub et.al.|[2602.05748](https://arxiv.org/abs/2602.05748)|null|
+|**2026-02-04**|**Private PoEtry: Private In-Context Learning via Product of Experts**|Rob Romijnders et.al.|[2602.05012](https://arxiv.org/abs/2602.05012)|null|
+|**2026-02-04**|**Probabilistic Label Spreading: Efficient and Consistent Estimation of Soft Labels with Epistemic Uncertainty on Graphs**|Jonathan Klees et.al.|[2602.04574](https://arxiv.org/abs/2602.04574)|null|
+|**2026-02-04**|**Explicit Uncertainty Modeling for Active CLIP Adaptation with Dual Prompt Tuning**|Qian-Wei Wang et.al.|[2602.04340](https://arxiv.org/abs/2602.04340)|null|
+|**2026-02-04**|**Revisiting Prompt Sensitivity in Large Language Models for Text Classification: The Role of Prompt Underspecification**|Branislav Pecher et.al.|[2602.04297](https://arxiv.org/abs/2602.04297)|null|
+|**2026-02-04**|**ACIL: Active Class Incremental Learning for Image Classification**|Aditya R. Bhattacharya et.al.|[2602.04252](https://arxiv.org/abs/2602.04252)|null|
+|**2026-02-03**|**Robust Representation Learning in Masked Autoencoders**|Anika Shrivastava et.al.|[2602.03531](https://arxiv.org/abs/2602.03531)|null|
+|**2026-02-03**|**GFlowPO: Generative Flow Network as a Language Model Prompt Optimizer**|Junmo Cho et.al.|[2602.03358](https://arxiv.org/abs/2602.03358)|null|
+|**2026-02-03**|**Lipschitz Multiscale Deep Equilibrium Models: A Theoretically Guaranteed and Accelerated Approach**|Naoki Sato et.al.|[2602.03297](https://arxiv.org/abs/2602.03297)|null|
+|**2026-02-03**|**Synthetic Data Augmentation for Medical Audio Classification: A Preliminary Evaluation**|David McShannon et.al.|[2602.02955](https://arxiv.org/abs/2602.02955)|null|
+|**2026-02-02**|**Controlled disagreement improves generalization in decentralized training**|Zesen Wang et.al.|[2602.02899](https://arxiv.org/abs/2602.02899)|null|
+|**2026-02-02**|**Semantics-Aware Generative Latent Data Augmentation for Learning in Low-Resource Domains**|Jae-Sung Bae et.al.|[2602.02841](https://arxiv.org/abs/2602.02841)|null|
+|**2026-02-02**|**Uncertainty-Aware Image Classification In Biomedical Imaging Using Spectral-normalized Neural Gaussian Processes**|Uma Meleti et.al.|[2602.02370](https://arxiv.org/abs/2602.02370)|null|
+|**2026-02-02**|**Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts**|Guangyi Zhang et.al.|[2602.02229](https://arxiv.org/abs/2602.02229)|null|
+|**2026-02-02**|**DSXFormer: Dual-Pooling Spectral Squeeze-Expansion and Dynamic Context Attention Transformer for Hyperspectral Image Classification**|Farhan Ullah et.al.|[2602.01906](https://arxiv.org/abs/2602.01906)|null|
+|**2026-02-02**|**Federated Vision Transformer with Adaptive Focal Loss for Medical Image Classification**|Xinyuan Zhao et.al.|[2602.01633](https://arxiv.org/abs/2602.01633)|null|
+|**2026-02-01**|**Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations**|Yilun Kuang et.al.|[2602.01456](https://arxiv.org/abs/2602.01456)|null|
+|**2026-02-01**|**Richer Bayesian Last Layers with Subsampled NTK Features**|Sergio Calvo-Ordoñez et.al.|[2602.01279](https://arxiv.org/abs/2602.01279)|null|
+|**2026-02-01**|**Parallel Training in Spiking Neural Networks**|Yanbin Huang et.al.|[2602.01133](https://arxiv.org/abs/2602.01133)|null|
+|**2026-01-31**|**Sporadic Gradient Tracking over Directed Graphs: A Theoretical Perspective on Decentralized Federated Learning**|Shahryar Zehtabi et.al.|[2602.00791](https://arxiv.org/abs/2602.00791)|null|
+|**2026-01-30**|**Standardized Methods and Recommendations for Green Federated Learning**|Austin Tapp et.al.|[2602.00343](https://arxiv.org/abs/2602.00343)|null|
+|**2026-01-30**|**Environment-Conditioned Tail Reweighting for Total Variation Invariant Risk Minimization**|Yuanchao Wang et.al.|[2601.22944](https://arxiv.org/abs/2601.22944)|null|
 |**2026-01-30**|**AutoMerge: Search-Based Model Merging Framework for Effective Model Reuse**|You Lu et.al.|[2601.22748](https://arxiv.org/abs/2601.22748)|null|
 |**2026-01-30**|**A Unified Study of LoRA Variants: Taxonomy, Review, Codebase, and Empirical Evaluation**|Haonan He et.al.|[2601.22708](https://arxiv.org/abs/2601.22708)|null|
 |**2026-01-30**|**ScholarPeer: A Context-Aware Multi-Agent Framework for Automated Peer Review**|Palash Goyal et.al.|[2601.22638](https://arxiv.org/abs/2601.22638)|null|
