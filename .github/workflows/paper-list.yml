@@ -13,6 +13,9 @@ on:
     branches:
     - main
 
+permissions:
+  contents: write
+
 env:
 
   GITHUB_USER_NAME: isLinXu
@@ -51,11 +54,9 @@ jobs:
           python get_paper.py --update_paper_links
           
       - name: Push new paper_list.md
-        uses: github-actions-x/commit@v2.9
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/paper_list.json docs/paper_list_web.json docs/index.md docs/paper_list_wechat.json docs/wechat.md docs/*.md
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          commit_message: "Github Action Automatic Update CV Arxiv Papers"
+          file_pattern: 'README.md docs/*.json docs/*.md docs/wechat.md'
+          commit_user_name: ${{ env.GITHUB_USER_NAME }}
+          commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
