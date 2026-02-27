@@ -90,7 +90,7 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
     logging.info(f"arXiv preview URL: {preview_url}")
 
     # use client with retries to avoid EmptyPage error
-    client = arxiv.Client(page_size=int(max_results), delay_seconds=3, num_retries=3)
+    client = arxiv.Client(page_size=int(max_results), delay_seconds=10, num_retries=10)
 
     search_engine = arxiv.Search(
         query=query,
