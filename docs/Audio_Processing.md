@@ -2,6 +2,51 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](https://arxiv.org/abs/2602.23266)|null|
+|**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](https://arxiv.org/abs/2602.23070)|null|
+|**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](https://arxiv.org/abs/2602.22935)|null|
+|**2026-02-26**|**Efficient Dialect-Aware Modeling and Conditioning for Low-Resource Taiwanese Hakka Speech Processing**|An-Ci Peng et.al.|[2602.22522](https://arxiv.org/abs/2602.22522)|null|
+|**2026-02-25**|**TG-ASR: Translation-Guided Learning with Parallel Gated Cross Attention for Low-Resource Automatic Speech Recognition**|Cheng-Yeh Yang et.al.|[2602.22039](https://arxiv.org/abs/2602.22039)|null|
+|**2026-02-25**|**Robust Long-Form Bangla Speech Processing: Automatic Speech Recognition and Speaker Diarization**|MD. Sagor Chowdhury et.al.|[2602.21741](https://arxiv.org/abs/2602.21741)|null|
+|**2026-02-25**|**Mitigating Structural Noise in Low-Resource S2TT: An Optimized Cascaded Nepali-English Pipeline with Punctuation Restoration**|Tangsang Chongbang et.al.|[2602.21647](https://arxiv.org/abs/2602.21647)|null|
+|**2026-02-25**|**A Knowledge-Driven Approach to Music Segmentation, Music Source Separation and Cinematic Audio Source Separation**|Chun-wei Ho et.al.|[2602.21476](https://arxiv.org/abs/2602.21476)|null|
+|**2026-02-24**|**823-OLT @ BUET DL Sprint 4.0: Context-Aware Windowing for ASR and Fine-Tuned Speaker Diarization in Bengali Long Form Audio**|Ratnajit Dhar et.al.|[2602.21183](https://arxiv.org/abs/2602.21183)|null|
+|**2026-02-24**|**Training-Free Intelligibility-Guided Observation Addition for Noisy ASR**|Haoyang Li et.al.|[2602.20967](https://arxiv.org/abs/2602.20967)|null|
+|**2026-02-23**|**An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction**|Guanting Shen et.al.|[2602.20219](https://arxiv.org/abs/2602.20219)|null|
+|**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](https://arxiv.org/abs/2602.20061)|null|
+|**2026-02-23**|**Depth-Structured Music Recurrence: Budgeted Recurrent Attention for Full-Piece Symbolic Music Modeling**|Yungang Yi et.al.|[2602.19816](https://arxiv.org/abs/2602.19816)|null|
+|**2026-02-22**|**Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition**|Alexandros Haliassos et.al.|[2602.19316](https://arxiv.org/abs/2602.19316)|null|
+|**2026-02-21**|**Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation**|Yonathan Ron et.al.|[2602.18966](https://arxiv.org/abs/2602.18966)|null|
+|**2026-02-21**|**ReHear: Iterative Pseudo-Label Refinement for Semi-Supervised Speech Recognition via Audio Large Language Models**|Zefang Liu et.al.|[2602.18721](https://arxiv.org/abs/2602.18721)|null|
+|**2026-02-18**|**Fine-Pruning: A Biologically Inspired Algorithm for Personalization of Machine Learning Models**|Joseph Bingham et.al.|[2602.18507](https://arxiv.org/abs/2602.18507)|null|
+|**2026-02-20**|**MeanVoiceFlow: One-step Nonparallel Voice Conversion with Mean Flows**|Takuhiro Kaneko et.al.|[2602.18104](https://arxiv.org/abs/2602.18104)|null|
+|**2026-02-19**|**MusicSem: A Semantically Rich Language--Audio Dataset of Natural Music Descriptions**|Rebecca Salganik et.al.|[2602.17769](https://arxiv.org/abs/2602.17769)|null|
+|**2026-02-19**|**Art2Mus: Artwork-to-Music Generation via Visual Conditioning and Large-Scale Cross-Modal Alignment**|Ivan Rinaldi et.al.|[2602.17599](https://arxiv.org/abs/2602.17599)|null|
+|**2026-02-19**|**Voice-Driven Semantic Perception for UAV-Assisted Emergency Networks**|Nuno Saavedra et.al.|[2602.17394](https://arxiv.org/abs/2602.17394)|null|
+|**2026-02-13**|**Speech to Speech Synthesis for Voice Impersonation**|Bjorn Johnson et.al.|[2602.16721](https://arxiv.org/abs/2602.16721)|null|
+|**2026-02-18**|**Multi-Channel Replay Speech Detection using Acoustic Maps**|Michael Neri et.al.|[2602.16399](https://arxiv.org/abs/2602.16399)|null|
+|**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](https://arxiv.org/abs/2602.16343)|null|
+|**2026-02-17**|**LLM-to-Speech: A Synthetic Data Pipeline for Training Dialectal Text-to-Speech Models**|Ahmed Khaled Khamis et.al.|[2602.15675](https://arxiv.org/abs/2602.15675)|null|
+|**2026-02-17**|**Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios**|Yiming Yang et.al.|[2602.15519](https://arxiv.org/abs/2602.15519)|null|
+|**2026-02-17**|**Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits**|Gilad Nurko et.al.|[2602.15405](https://arxiv.org/abs/2602.15405)|null|
+|**2026-02-16**|**Disentangling Pitch and Creak for Speaker Identity Preservation in Speech Synthesis**|Frederik Rautenberg et.al.|[2602.14686](https://arxiv.org/abs/2602.14686)|null|
+|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](https://arxiv.org/abs/2602.14655)|null|
+|**2026-02-16**|**CLAP-Based Automatic Word Naming Recognition in Post-Stroke Aphasia**|Yacouba Kaloga et.al.|[2602.14584](https://arxiv.org/abs/2602.14584)|null|
+|**2026-02-15**|**From Scarcity to Scale: A Release-Level Analysis of the Pashto Common Voice Dataset**|Jandad Jahani et.al.|[2602.14062](https://arxiv.org/abs/2602.14062)|null|
+|**2026-02-15**|**Eureka-Audio: Triggering Audio Intelligence in Compact Language Models**|Dan Zhang et.al.|[2602.13954](https://arxiv.org/abs/2602.13954)|null|
+|**2026-02-14**|**voice2mode: Phonation Mode Classification in Singing using Self-Supervised Speech Models**|Aju Ani Justus et.al.|[2602.13928](https://arxiv.org/abs/2602.13928)|null|
+|**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](https://arxiv.org/abs/2602.13761)|null|
+|**2026-02-13**|**ViMedCSS: A Vietnamese Medical Code-Switching Speech Dataset & Benchmark**|Tung X. Nguyen et.al.|[2602.12911](https://arxiv.org/abs/2602.12911)|null|
+|**2026-02-13**|**Lamer-SSL: Layer-aware Mixture of LoRA Experts for Continual Multilingual Expansion of Self-supervised Models without Forgetting**|Jing Xu et.al.|[2602.12746](https://arxiv.org/abs/2602.12746)|null|
+|**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](https://arxiv.org/abs/2602.12597)|null|
+|**2026-02-13**|**Decoder-only Conformer with Modality-aware Sparse Mixtures of Experts for ASR**|Jaeyoung Lee et.al.|[2602.12546](https://arxiv.org/abs/2602.12546)|null|
+|**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](https://arxiv.org/abs/2602.12249)|null|
+|**2026-02-12**|**Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications**|Manjunath Kudlur et.al.|[2602.12241](https://arxiv.org/abs/2602.12241)|null|
+|**2026-02-12**|**On the Sensitivity of Firing Rate-Based Federated Spiking Neural Networks to Differential Privacy**|Luiz Pereira et.al.|[2602.12009](https://arxiv.org/abs/2602.12009)|null|
+|**2026-02-12**|**TC-BiMamba: Trans-Chunk bidirectionally within BiMamba for unified streaming and non-streaming ASR**|Qingshun She et.al.|[2602.11546](https://arxiv.org/abs/2602.11546)|null|
+|**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](https://arxiv.org/abs/2602.11477)|null|
+|**2026-02-11**|**Voxtral Realtime**|Alexander H. Liu et.al.|[2602.11298](https://arxiv.org/abs/2602.11298)|null|
+|**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](https://arxiv.org/abs/2602.10829)|null|
 |**2026-02-05**|**Enabling Automatic Disordered Speech Recognition: An Impaired Speech Dataset in the Akan Language**|Isaac Wiafe et.al.|[2602.05406](https://arxiv.org/abs/2602.05406)|null|
 |**2026-02-03**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](https://arxiv.org/abs/2602.04900)|null|
 |**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](https://arxiv.org/abs/2602.04776)|null|

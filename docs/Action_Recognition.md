@@ -2,6 +2,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Instruct2Act: From Human Instruction to Actions Sequencing and Execution via Robot Action Network for Robotic Manipulation**|Archit Sharma et.al.|[2602.09940](https://arxiv.org/abs/2602.09940)|null|
+|**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479](https://arxiv.org/abs/2602.08479)|null|
+|**2026-02-09**|**Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning**|Milan Ganai et.al.|[2602.08167](https://arxiv.org/abs/2602.08167)|null|
+|**2026-02-08**|**Privacy-Preserving Covert Communication Using Encrypted Wearable Gesture Recognition**|Tasnia Ashrafi Heya et.al.|[2602.07936](https://arxiv.org/abs/2602.07936)|null|
+|**2026-02-07**|**Action-to-Action Flow Matching**|Jindou Jia et.al.|[2602.07322](https://arxiv.org/abs/2602.07322)|null|
+|**2026-02-06**|**ImmCOGNITO: Identity Obfuscation in Millimeter-Wave Radar-Based Gesture Recognition for IoT Environments**|Ying Liu et.al.|[2602.07139](https://arxiv.org/abs/2602.07139)|null|
+|**2026-02-05**|**ASMa: Asymmetric Spatio-temporal Masking for Skeleton Action Representation Learning**|Aman Anand et.al.|[2602.06251](https://arxiv.org/abs/2602.06251)|null|
 |**2026-02-05**|**Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization**|Yunchuan Ma et.al.|[2602.05718](https://arxiv.org/abs/2602.05718)|null|
 |**2026-02-04**|**VISTA: Enhancing Visual Conditioning via Track-Following Preference Optimization in Vision-Language-Action Models**|Yiye Chen et.al.|[2602.05049](https://arxiv.org/abs/2602.05049)|null|
 |**2026-02-04**|**Hand Gesture Recognition from Doppler Radar Signals Using Echo State Networks**|Towa Sano et.al.|[2602.04436](https://arxiv.org/abs/2602.04436)|null|

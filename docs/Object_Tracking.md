@@ -2,9 +2,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators**|Yuhao Liu et.al.|[2602.23334](https://arxiv.org/abs/2602.23334)|null|
+|**2026-02-25**|**RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking**|Yanqiu Yu et.al.|[2602.22033](https://arxiv.org/abs/2602.22033)|null|
+|**2026-02-22**|**A Two-Stage Detection-Tracking Framework for Stable Apple Quality Inspection in Dense Conveyor-Belt Environments**|Keonvin Park et.al.|[2602.19278](https://arxiv.org/abs/2602.19278)|null|
+|**2026-02-20**|**MUOT_3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method**|Ahsan Baidar Bakht et.al.|[2602.18006](https://arxiv.org/abs/2602.18006)|null|
+|**2026-02-19**|**A Multi-modal Detection System for Infrastructure-based Freight Signal Priority**|Ziyan Zhang et.al.|[2602.17252](https://arxiv.org/abs/2602.17252)|null|
+|**2026-02-19**|**HiMAP: History-aware Map-occupancy Prediction with Fallback**|Yiming Xu et.al.|[2602.17231](https://arxiv.org/abs/2602.17231)|null|
+|**2026-02-16**|**GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture**|Shih-Fang Chen et.al.|[2602.14771](https://arxiv.org/abs/2602.14771)|null|
+|**2026-02-14**|**Offline-Poly: A Polyhedral Framework For Offline 3D Multi-Object Tracking**|Xiaoyu Li et.al.|[2602.13772](https://arxiv.org/abs/2602.13772)|null|
+|**2026-02-14**|**Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness**|Yang Zhou et.al.|[2602.13636](https://arxiv.org/abs/2602.13636)|null|
+|**2026-02-13**|**Detecting Object Tracking Failure via Sequential Hypothesis Testing**|Alejandro Monroy Muñoz et.al.|[2602.12983](https://arxiv.org/abs/2602.12983)|null|
+|**2026-02-10**|**A 4D-STEM Tomographic Framework Assisted by Object Tracking for Nanoparticle Structure Solution**|Saleh Gholam et.al.|[2602.09768](https://arxiv.org/abs/2602.09768)|null|
+|**2026-02-10**|**Beyond Vizing Chains: Improved Recourse in Dynamic Edge Coloring**|Yaniv Sadeh et.al.|[2602.09497](https://arxiv.org/abs/2602.09497)|null|
+|**2026-02-09**|**GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing**|Shih-Fang Chen et.al.|[2602.08550](https://arxiv.org/abs/2602.08550)|null|
 |**2026-02-04**|**UniTrack: Differentiable Graph Representation Learning for Multi-Object Tracking**|Bishoy Galoaa et.al.|[2602.05037](https://arxiv.org/abs/2602.05037)|null|
 |**2026-02-04**|**DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking**|Sijia Chen et.al.|[2602.04692](https://arxiv.org/abs/2602.04692)|null|
-|**2026-01-31**|**GTATrack: Winner Solution to SoccerTrack 2025 with Deep-EIoU and Global Tracklet Association**|Rong-Lin Jian et.al.|[2602.00484](https://arxiv.org/abs/2602.00484)|null|
+|**2026-01-31**|**GTATrack: Winner Solution to SoccerTrack 2025 with Deep-EIoU and Global Tracklet Association**|Rong-Lin Jian et.al.|[2602.00484](https://arxiv.org/abs/2602.00484)|**[link](https://github.com/ron941/GTATrack-STC2025.)**|
 |**2026-01-27**|**AI-Driven Three-Dimensional Reconstruction and Quantitative Analysis for Burn Injury Assessment**|S. Kalaycioglu et.al.|[2602.00113](https://arxiv.org/abs/2602.00113)|null|
 |**2026-01-29**|**Accurate Pedestrian Tracking in Urban Canyons: A Multi-Modal Fusion Approach**|Shahar Dubiner et.al.|[2601.22406](https://arxiv.org/abs/2601.22406)|null|
 |**2026-01-21**|**UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking**|Qihua Liang et.al.|[2601.14799](https://arxiv.org/abs/2601.14799)|null|

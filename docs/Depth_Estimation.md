@@ -2,6 +2,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](https://arxiv.org/abs/2602.21893)|null|
+|**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](https://arxiv.org/abs/2602.21740)|null|
+|**2026-02-23**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](https://arxiv.org/abs/2602.19766)|null|
+|**2026-02-23**|**Training Deep Stereo Matching Networks on Tree Branch Imagery: A Benchmark Study for Real-Time UAV Forestry Applications**|Yida Lin et.al.|[2602.19763](https://arxiv.org/abs/2602.19763)|null|
+|**2026-02-21**|**Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates**|Shengjie Zhu et.al.|[2602.18906](https://arxiv.org/abs/2602.18906)|null|
+|**2026-02-20**|**A Single Image and Multimodality Is All You Need for Novel View Synthesis**|Amirhosein Javadi et.al.|[2602.17909](https://arxiv.org/abs/2602.17909)|null|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](https://arxiv.org/abs/2602.17785)|null|
+|**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915](https://arxiv.org/abs/2602.16915)|null|
+|**2026-02-18**|**Breaking the Sub-Millimeter Barrier: Eyeframe Acquisition from Color Images**|Manel Guzmán et.al.|[2602.16281](https://arxiv.org/abs/2602.16281)|null|
+|**2026-02-16**|**AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories**|Zun Wang et.al.|[2602.14941](https://arxiv.org/abs/2602.14941)|null|
+|**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](https://arxiv.org/abs/2602.14134)|null|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon et.al.|[2602.11714](https://arxiv.org/abs/2602.11714)|null|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](https://arxiv.org/abs/2602.11323)|null|
+|**2026-02-11**|**PuriLight: A Lightweight Shuffle and Purification Framework for Monocular Depth Estimation**|Yujie Chen et.al.|[2602.11066](https://arxiv.org/abs/2602.11066)|null|
+|**2026-02-11**|**Interpretable Vision Transformers in Monocular Depth Estimation via SVDA**|Vasileios Arampatzakis et.al.|[2602.11005](https://arxiv.org/abs/2602.11005)|null|
+|**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](https://arxiv.org/abs/2602.10698)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Depth as Prior Knowledge for Object Detection**|Moussa Kassem Sbeyti et.al.|[2602.05730](https://arxiv.org/abs/2602.05730)|null|
 |**2026-02-05**|**UniSurg: A Video-Native Foundation Model for Universal Understanding of Surgical Videos**|Jinlin Wu et.al.|[2602.05638](https://arxiv.org/abs/2602.05638)|null|

@@ -2,6 +2,46 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941](https://arxiv.org/abs/2602.22941)|null|
+|**2026-02-26**|**CRAG: Can 3D Generative Models Help 3D Assembly?**|Zeyu Jiang et.al.|[2602.22629](https://arxiv.org/abs/2602.22629)|null|
+|**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209](https://arxiv.org/abs/2602.22209)|null|
+|**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967](https://arxiv.org/abs/2602.21967)|null|
+|**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915](https://arxiv.org/abs/2602.21915)|null|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](https://arxiv.org/abs/2602.21101)|null|
+|**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630](https://arxiv.org/abs/2602.20630)|null|
+|**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342](https://arxiv.org/abs/2602.20342)|null|
+|**2026-02-23**|**Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**|Hao Wang et.al.|[2602.20216](https://arxiv.org/abs/2602.20216)|null|
+|**2026-02-23**|**SEAL-pose: Enhancing 3D Human Pose Estimation via a Learned Loss for Structural Consistency**|Yeonsung Kim et.al.|[2602.20051](https://arxiv.org/abs/2602.20051)|null|
+|**2026-02-23**|**Learning Positive-Incentive Point Sampling in Neural Implicit Fields for Object Pose Estimation**|Yifei Shi et.al.|[2602.19937](https://arxiv.org/abs/2602.19937)|null|
+|**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719](https://arxiv.org/abs/2602.19719)|null|
+|**2026-02-23**|**Accurate Planar Tracking With Robust Re-Detection**|Jonas Serych et.al.|[2602.19624](https://arxiv.org/abs/2602.19624)|null|
+|**2026-02-23**|**DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces**|Li Zhang et.al.|[2602.19565](https://arxiv.org/abs/2602.19565)|null|
+|**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348](https://arxiv.org/abs/2602.19348)|null|
+|**2026-02-21**|**GRAB: A Systematic Real-World Grasping Benchmark for Robotic Food Waste Sorting**|Moniesha Thilakarathna et.al.|[2602.18835](https://arxiv.org/abs/2602.18835)|null|
+|**2026-02-21**|**WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation**|Bo Liang et.al.|[2602.18726](https://arxiv.org/abs/2602.18726)|null|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785](https://arxiv.org/abs/2602.17785)|null|
+|**2026-02-19**|**FoundationPose-Initialized 3D-2D Liver Registration for Surgical Augmented Reality**|Hanyuan Zhang et.al.|[2602.17517](https://arxiv.org/abs/2602.17517)|null|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182](https://arxiv.org/abs/2602.17182)|null|
+|**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Varun Burde et.al.|[2602.17101](https://arxiv.org/abs/2602.17101)|null|
+|**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365](https://arxiv.org/abs/2602.16365)|null|
+|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308](https://arxiv.org/abs/2602.16308)|null|
+|**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582](https://arxiv.org/abs/2602.14582)|null|
+|**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409](https://arxiv.org/abs/2602.14409)|null|
+|**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021](https://arxiv.org/abs/2602.14021)|null|
+|**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901](https://arxiv.org/abs/2602.13901)|null|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323](https://arxiv.org/abs/2602.11323)|null|
+|**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818](https://arxiv.org/abs/2602.10818)|null|
+|**2026-02-11**|**OccFace: Unified Occlusion-Aware Facial Landmark Detection with Per-Point Visibility**|Xinhao Xiang et.al.|[2602.10728](https://arxiv.org/abs/2602.10728)|null|
+|**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032](https://arxiv.org/abs/2602.10032)|null|
+|**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414](https://arxiv.org/abs/2602.09414)|null|
+|**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661](https://arxiv.org/abs/2602.08661)|null|
+|**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479](https://arxiv.org/abs/2602.08479)|null|
+|**2026-02-09**|**Reliability-aware Execution Gating for Near-field and Off-axis Vision-guided Robotic Alignment**|Ning Hu et.al.|[2602.08466](https://arxiv.org/abs/2602.08466)|null|
+|**2026-02-09**|**RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications**|Chiara Lena et.al.|[2602.08397](https://arxiv.org/abs/2602.08397)|null|
+|**2026-02-08**|**Research on a Camera Position Measurement Method based on a Parallel Perspective Error Transfer Model**|Ning Hu et.al.|[2602.07888](https://arxiv.org/abs/2602.07888)|null|
+|**2026-01-31**|**Gaussian-Constrained LeJEPA Representations for Unsupervised Scene Discovery and Pose Consistency**|Mohsen Mostafa et.al.|[2602.07016](https://arxiv.org/abs/2602.07016)|null|
+|**2026-01-29**|**Admittance-Based Motion Planning with Vision-Guided Initialization for Robotic Manipulators in Self-Driving Laboratories**|Shifa Sulaiman et.al.|[2602.07005](https://arxiv.org/abs/2602.07005)|null|
+|**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211](https://arxiv.org/abs/2602.06211)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043](https://arxiv.org/abs/2602.06043)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822](https://arxiv.org/abs/2602.05822)|null|
 |**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755](https://arxiv.org/abs/2602.05755)|null|
@@ -16,7 +56,7 @@
 |**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064](https://arxiv.org/abs/2602.03064)|null|
 |**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850](https://arxiv.org/abs/2602.02850)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401](https://arxiv.org/abs/2602.02401)|null|
-|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393](https://arxiv.org/abs/2602.02393)|null|
+|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393](https://arxiv.org/abs/2602.02393)|**[link](https://github.com/MeiGen-AI/Infinite-World)**|
 |**2026-02-02**|**HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2602.01586](https://arxiv.org/abs/2602.01586)|null|
 |**2026-02-02**|**Visible Light Positioning With Lamé Curve LEDs: A Generic Approach for Camera Pose Estimation**|Wenxuan Pan et.al.|[2602.01577](https://arxiv.org/abs/2602.01577)|null|
 |**2026-02-02**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501](https://arxiv.org/abs/2602.01501)|null|

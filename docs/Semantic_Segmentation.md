@@ -2,6 +2,64 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception**|Yiding Sun et.al.|[2602.23069](https://arxiv.org/abs/2602.23069)|null|
+|**2026-02-26**|**D-FINE-seg: Object Detection and Instance Segmentation Framework with multi-backend deployment**|Argo Saakyan et.al.|[2602.23043](https://arxiv.org/abs/2602.23043)|null|
+|**2026-02-26**|**SO3UFormer: Learning Intrinsic Spherical Features for Rotation-Robust Panoramic Segmentation**|Qinfeng Zhu et.al.|[2602.22867](https://arxiv.org/abs/2602.22867)|null|
+|**2026-02-26**|**A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling**|Chong Wang et.al.|[2602.22843](https://arxiv.org/abs/2602.22843)|null|
+|**2026-02-25**|**Learning to Drive is a Free Gift: Large-Scale Label-Free Autonomy Pretraining from Unposed In-The-Wild Videos**|Matthew Strong et.al.|[2602.22091](https://arxiv.org/abs/2602.22091)|null|
+|**2026-02-25**|**SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness**|Zhaoyang Wei et.al.|[2602.21762](https://arxiv.org/abs/2602.21762)|null|
+|**2026-02-25**|**Assessing airborne laser scanning and aerial photogrammetry for deep learning-based stand delineation**|Håkon Næss Sandum et.al.|[2602.21709](https://arxiv.org/abs/2602.21709)|null|
+|**2026-02-25**|**Tokenizing Semantic Segmentation with RLE**|Abhineet Singh et.al.|[2602.21627](https://arxiv.org/abs/2602.21627)|null|
+|**2026-02-24**|**DA-Cal: Towards Cross-Domain Calibration in Semantic Segmentation**|Wangkai Li et.al.|[2602.20860](https://arxiv.org/abs/2602.20860)|null|
+|**2026-02-24**|**Onboard-Targeted Segmentation of Straylight in Space Camera Sensors**|Riccardo Gallon et.al.|[2602.20709](https://arxiv.org/abs/2602.20709)|null|
+|**2026-02-24**|**An interactive enhanced driving dataset for autonomous driving**|Haojie Feng et.al.|[2602.20575](https://arxiv.org/abs/2602.20575)|null|
+|**2026-02-24**|**CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects**|Zhenran Tang et.al.|[2602.20551](https://arxiv.org/abs/2602.20551)|null|
+|**2026-02-24**|**Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications**|Yida Lin et.al.|[2602.20539](https://arxiv.org/abs/2602.20539)|null|
+|**2026-02-23**|**Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images**|Wen-Liang Lin et.al.|[2602.19891](https://arxiv.org/abs/2602.19891)|null|
+|**2026-02-23**|**Brewing Stronger Features: Dual-Teacher Distillation for Multispectral Earth Observation**|Filip Wolf et.al.|[2602.19863](https://arxiv.org/abs/2602.19863)|null|
+|**2026-02-23**|**InfScene-SR: Spatially Continuous Inference for Arbitrary-Size Image Super-Resolution**|Shoukun Sun et.al.|[2602.19736](https://arxiv.org/abs/2602.19736)|null|
+|**2026-02-23**|**Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy**|Jiabao Chen et.al.|[2602.19423](https://arxiv.org/abs/2602.19423)|null|
+|**2026-02-22**|**UP-Fuse: Uncertainty-guided LiDAR-Camera Fusion for 3D Panoptic Segmentation**|Rohit Mohan et.al.|[2602.19349](https://arxiv.org/abs/2602.19349)|null|
+|**2026-02-22**|**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**|Jingyu Xiao et.al.|[2602.19276](https://arxiv.org/abs/2602.19276)|null|
+|**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213](https://arxiv.org/abs/2602.19213)|null|
+|**2026-02-21**|**Enhancing 3D LiDAR Segmentation by Shaping Dense and Accurate 2D Semantic Predictions**|Xiaoyu Dong et.al.|[2602.18869](https://arxiv.org/abs/2602.18869)|null|
+|**2026-02-21**|**Open-Vocabulary Domain Generalization in Urban-Scene Segmentation**|Dong Zhao et.al.|[2602.18853](https://arxiv.org/abs/2602.18853)|null|
+|**2026-02-21**|**Benchmarking Computational Pathology Foundation Models For Semantic Segmentation**|Lavish Ramchandani et.al.|[2602.18747](https://arxiv.org/abs/2602.18747)|null|
+|**2026-02-20**|**Faster Training, Fewer Labels: Self-Supervised Pretraining for Fine-Grained BEV Segmentation**|Daniel Busch et.al.|[2602.18066](https://arxiv.org/abs/2602.18066)|null|
+|**2026-02-19**|**Neural Prior Estimation: Learning Class Priors from Latent Representations**|Masoud Yavari et.al.|[2602.17853](https://arxiv.org/abs/2602.17853)|null|
+|**2026-02-19**|**Enabling Training-Free Text-Based Remote Sensing Segmentation**|Jose Sosa et.al.|[2602.17799](https://arxiv.org/abs/2602.17799)|null|
+|**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[2602.17515](https://arxiv.org/abs/2602.17515)|null|
+|**2026-02-17**|**Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation**|Shuwei Li et.al.|[2602.15383](https://arxiv.org/abs/2602.15383)|null|
+|**2026-02-14**|**Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis**|Rut Pate et.al.|[2602.15067](https://arxiv.org/abs/2602.15067)|null|
+|**2026-02-16**|**SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning**|Shishir Muralidhara et.al.|[2602.14767](https://arxiv.org/abs/2602.14767)|null|
+|**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582](https://arxiv.org/abs/2602.14582)|null|
+|**2026-02-16**|**Cross-view Domain Generalization via Geometric Consistency for LiDAR Semantic Segmentation**|Jindong Zhao et.al.|[2602.14525](https://arxiv.org/abs/2602.14525)|null|
+|**2026-02-15**|**DenseMLLM: Standard Multimodal LLMs are Intrinsic Dense Predictors**|Yi Li et.al.|[2602.14134](https://arxiv.org/abs/2602.14134)|null|
+|**2026-02-15**|**Restoration Adaptation for Semantic Segmentation on Low Quality Images**|Kai Guan et.al.|[2602.14042](https://arxiv.org/abs/2602.14042)|null|
+|**2026-02-14**|**Privacy-Concealing Cooperative Perception for BEV Scene Segmentation**|Song Wang et.al.|[2602.13555](https://arxiv.org/abs/2602.13555)|null|
+|**2026-02-12**|**An Integrated Causal Inference Framework for Traffic Safety Modeling with Semantic Street-View Visual Features**|Lishan Sun et.al.|[2602.13339](https://arxiv.org/abs/2602.13339)|null|
+|**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022](https://arxiv.org/abs/2602.13022)|null|
+|**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020](https://arxiv.org/abs/2602.13020)|null|
+|**2026-02-12**|**Clutt3R-Seg: Sparse-view 3D Instance Segmentation for Language-grounded Grasping in Cluttered Scenes**|Jeongho Noh et.al.|[2602.11660](https://arxiv.org/abs/2602.11660)|null|
+|**2026-02-11**|**LaSSM: Efficient Semantic-Spatial Query Decoding via Local Aggregation and State Space Models for 3D Instance Segmentation**|Lei Yao et.al.|[2602.11007](https://arxiv.org/abs/2602.11007)|null|
+|**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871](https://arxiv.org/abs/2602.10871)|null|
+|**2026-02-11**|**AMAP-APP: Efficient Segmentation and Morphometry Quantification of Fluorescent Microscopy Images of Podocytes**|Arash Fatehi et.al.|[2602.10663](https://arxiv.org/abs/2602.10663)|null|
+|**2026-02-11**|**AurigaNet: A Real-Time Multi-Task Network for Enhanced Urban Driving Perception**|Kiarash Ghasemzadeh et.al.|[2602.10660](https://arxiv.org/abs/2602.10660)|null|
+|**2026-02-10**|**Spatio-Temporal Attention for Consistent Video Semantic Segmentation in Automated Driving**|Serin Varghese et.al.|[2602.10052](https://arxiv.org/abs/2602.10052)|null|
+|**2026-02-10**|**Conformal Prediction Sets for Instance Segmentation**|Kerri Lu et.al.|[2602.10045](https://arxiv.org/abs/2602.10045)|null|
+|**2026-02-10**|**VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization**|Yikun Liu et.al.|[2602.09934](https://arxiv.org/abs/2602.09934)|null|
+|**2026-02-10**|**Time2General: Learning Spatiotemporal Invariant Representations for Domain-Generalization Video Semantic Segmentation**|Siyu Chen et.al.|[2602.09648](https://arxiv.org/abs/2602.09648)|null|
+|**2026-02-10**|**FD-DB: Frequency-Decoupled Dual-Branch Network for Unpaired Synthetic-to-Real Domain Translation**|Chuanhai Zang et.al.|[2602.09476](https://arxiv.org/abs/2602.09476)|null|
+|**2026-02-09**|**Understanding Image2Video Domain Shift in Food Segmentation: An Instance-level Analysis on Apples**|Keonvin Park et.al.|[2602.08491](https://arxiv.org/abs/2602.08491)|null|
+|**2026-02-09**|**Geospatial-Reasoning-Driven Vocabulary-Agnostic Remote Sensing Semantic Segmentation**|Chufeng Zhou et.al.|[2602.08206](https://arxiv.org/abs/2602.08206)|null|
+|**2026-02-09**|**DAS-SK: An Adaptive Model Integrating Dual Atrous Separable and Selective Kernel CNN for Agriculture Semantic Segmentation**|Mei Ling Chee et.al.|[2602.08168](https://arxiv.org/abs/2602.08168)|null|
+|**2026-02-07**|**All-Optical Segmentation via Diffractive Neural Networks for Autonomous Driving**|Yingjie Li et.al.|[2602.07717](https://arxiv.org/abs/2602.07717)|null|
+|**2026-02-07**|**Revealing the Semantic Selection Gap in DINOv3 through Training-Free Few-Shot Segmentation**|Hussni Mohd Zakir et.al.|[2602.07550](https://arxiv.org/abs/2602.07550)|null|
+|**2026-02-07**|**Seeing Roads Through Words: A Language-Guided Framework for RGB-T Driving Scene Segmentation**|Ruturaj Reddy et.al.|[2602.07343](https://arxiv.org/abs/2602.07343)|null|
+|**2026-02-04**|**RECITYGEN -- Interactive and Generative Participatory Urban Design Tool with Latent Diffusion and Segment Anything**|Di Mo et.al.|[2602.07057](https://arxiv.org/abs/2602.07057)|null|
+|**2026-02-06**|**PANC: Prior-Aware Normalized Cut for Object Segmentation**|Juan Gutiérrez et.al.|[2602.06912](https://arxiv.org/abs/2602.06912)|null|
+|**2026-02-06**|**Parameters as Experts: Adapting Vision Models with Dynamic Parameter Routing**|Meng Lou et.al.|[2602.06862](https://arxiv.org/abs/2602.06862)|null|
+|**2026-02-06**|**SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation**|Yihan Shang et.al.|[2602.06335](https://arxiv.org/abs/2602.06335)|null|
 |**2026-02-05**|**Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation**|David Shavin et.al.|[2602.06032](https://arxiv.org/abs/2602.06032)|null|
 |**2026-02-05**|**Multi-Scale Global-Instance Prompt Tuning for Continual Test-time Adaptation in Medical Image Segmentation**|Lingrui Li et.al.|[2602.05937](https://arxiv.org/abs/2602.05937)|null|
 |**2026-02-05**|**LoGoSeg: Integrating Local and Global Features for Open-Vocabulary Semantic Segmentation**|Junyang Chen et.al.|[2602.05578](https://arxiv.org/abs/2602.05578)|null|
@@ -13,8 +71,8 @@
 |**2026-02-03**|**Artifact Removal and Image Restoration in AFM:A Structured Mask-Guided Directional Inpainting Approach**|Juntao Zhang et.al.|[2602.04051](https://arxiv.org/abs/2602.04051)|null|
 |**2026-02-01**|**Split&Splat: Zero-Shot Panoptic Segmentation via Explicit Instance Modeling and 3D Gaussian Splatting**|Leonardo Monchieri et.al.|[2602.03809](https://arxiv.org/abs/2602.03809)|null|
 |**2026-02-03**|**Multi-Objective Optimization for Synthetic-to-Real Style Transfer**|Estelle Chigot et.al.|[2602.03625](https://arxiv.org/abs/2602.03625)|null|
-|**2026-02-03**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al.|[2602.03361](https://arxiv.org/abs/2602.03361)|null|
-|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](https://arxiv.org/abs/2602.03320)|null|
+|**2026-02-03**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al.|[2602.03361](https://arxiv.org/abs/2602.03361)|**[link](https://github.com/col14m/z3d)**|
+|**2026-02-03**|**MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning**|Shengyuan Liu et.al.|[2602.03320](https://arxiv.org/abs/2602.03320)|**[link](https://github.com/CUHK-AIM-Group/MedSAM-Agent)**|
 |**2026-02-02**|**Lung Nodule Image Synthesis Driven by Two-Stage Generative Adversarial Networks**|Lu Cao et.al.|[2602.02171](https://arxiv.org/abs/2602.02171)|null|
 |**2026-02-02**|**Multi-Task Learning for Robot Perception with Imbalanced Data**|Ozgur Erkent et.al.|[2602.01899](https://arxiv.org/abs/2602.01899)|null|
 |**2026-02-02**|**Physics Informed Generative AI Enabling Labour Free Segmentation For Microscopy Analysis**|Salma Zahran et.al.|[2602.01710](https://arxiv.org/abs/2602.01710)|null|
@@ -26,7 +84,7 @@
 |**2026-01-31**|**ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation**|Pengyu Chen et.al.|[2602.00470](https://arxiv.org/abs/2602.00470)|null|
 |**2026-01-30**|**Vision-Language Model Purified Semi-Supervised Semantic Segmentation for Remote Sensing Images**|Shanwen Wang et.al.|[2602.00202](https://arxiv.org/abs/2602.00202)|null|
 |**2026-01-29**|**YOLOE-26: Integrating YOLO26 with YOLOE for Real-Time Open-Vocabulary Instance Segmentation**|Ranjan Sapkota et.al.|[2602.00168](https://arxiv.org/abs/2602.00168)|null|
-|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|null|
+|**2026-01-30**|**Segment Any Events with Language**|Seungjun Lee et.al.|[2601.23159](https://arxiv.org/abs/2601.23159)|**[link](https://github.com/0nandon/SEAL)**|
 |**2026-01-30**|**ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding**|Junyi Hu et.al.|[2601.22666](https://arxiv.org/abs/2601.22666)|null|
 |**2026-01-30**|**SHED Light on Segmentation for Dense Prediction**|Seung Hyun Lee et.al.|[2601.22529](https://arxiv.org/abs/2601.22529)|null|
 |**2026-01-30**|**Class-Aware Permutation-Invariant Signal-to-Distortion Ratio for Semantic Segmentation of Sound Scene with Same-Class Sources**|Binh Thien Nguyen et.al.|[2601.22504](https://arxiv.org/abs/2601.22504)|null|

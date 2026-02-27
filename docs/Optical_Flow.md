@@ -2,6 +2,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis**|Xinglong Luo et.al.|[2602.23022](https://arxiv.org/abs/2602.23022)|null|
+|**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941](https://arxiv.org/abs/2602.22941)|null|
+|**2026-02-26**|**GSTurb: Gaussian Splatting for Atmospheric Turbulence Mitigation**|Hanliang Du et.al.|[2602.22800](https://arxiv.org/abs/2602.22800)|null|
+|**2026-02-25**|**SF3D-RGB: Scene Flow Estimation from Monocular Camera and Sparse LiDAR**|Rajai Alhimdiat et.al.|[2602.21699](https://arxiv.org/abs/2602.21699)|null|
+|**2026-02-25**|**DAGS-SLAM: Dynamic-Aware 3DGS SLAM via Spatiotemporal Motion Probability and Uncertainty-Aware Scheduling**|Li Zhang et.al.|[2602.21644](https://arxiv.org/abs/2602.21644)|null|
+|**2026-02-22**|**TeFlow: Enabling Multi-frame Supervision for Self-Supervised Feed-forward Scene Flow Estimation**|Qingwen Zhang et.al.|[2602.19053](https://arxiv.org/abs/2602.19053)|null|
+|**2026-02-18**|**ReMoRa: Multimodal Large Language Model based on Refined Motion Representation for Long-Video Understanding**|Daichi Yashima et.al.|[2602.16412](https://arxiv.org/abs/2602.16412)|null|
+|**2026-02-15**|**Dual-Signal Adaptive KV-Cache Optimization for Long-Form Video Understanding in Vision-Language Models**|Vishnu Sai et.al.|[2602.14236](https://arxiv.org/abs/2602.14236)|null|
+|**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021](https://arxiv.org/abs/2602.14021)|null|
+|**2026-02-14**|**UAV-SEAD: State Estimation Anomaly Dataset for UAVs**|Aykut Kabaoglu et.al.|[2602.13900](https://arxiv.org/abs/2602.13900)|null|
+|**2026-02-13**|**Unbiased Gradient Estimation for Event Binning via Functional Backpropagation**|Jinze Chen et.al.|[2602.12590](https://arxiv.org/abs/2602.12590)|null|
+|**2026-02-11**|**Flow-Enabled Generalization to Human Demonstrations in Few-Shot Imitation Learning**|Runze Tang et.al.|[2602.10594](https://arxiv.org/abs/2602.10594)|null|
 |**2026-01-30**|**Hi-Light: A Path to high-fidelity, high-resolution video relighting with a Novel Evaluation Paradigm**|Xiangrui Liu et.al.|[2601.23167](https://arxiv.org/abs/2601.23167)|null|
 |**2026-01-30**|**FlowCalib: LiDAR-to-Vehicle Miscalibration Detection using Scene Flows**|Ilir Tahiraj et.al.|[2601.23107](https://arxiv.org/abs/2601.23107)|null|
 |**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461](https://arxiv.org/abs/2601.19461)|null|
