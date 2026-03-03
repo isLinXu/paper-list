@@ -19,7 +19,7 @@ permissions:
 env:
 
   GITHUB_USER_NAME: isLinXu
-  GITHUB_USER_EMAIL: linxu.official@gmail.com
+  GITHUB_USER_EMAIL: 2267379130@qq.com
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   
