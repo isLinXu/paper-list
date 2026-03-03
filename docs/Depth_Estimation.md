@@ -2,6 +2,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](https://arxiv.org/abs/2603.01999)|null|
+|**2026-03-02**|**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**|Joshua Knights et.al.|[2603.01475](https://arxiv.org/abs/2603.01475)|null|
+|**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](https://arxiv.org/abs/2603.01007)|null|
 |**2026-02-25**|**EndoDDC: Learning Sparse to Dense Reconstruction for Endoscopic Robotic Navigation via Diffusion Depth Completion**|Yinheng Lin et.al.|[2602.21893](https://arxiv.org/abs/2602.21893)|null|
 |**2026-02-25**|**Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation**|Juan Yang et.al.|[2602.21740](https://arxiv.org/abs/2602.21740)|null|
 |**2026-02-23**|**One2Scene: Geometric Consistent Explorable 3D Scene Generation from a Single Image**|Pengfei Wang et.al.|[2602.19766](https://arxiv.org/abs/2602.19766)|null|

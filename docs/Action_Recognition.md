@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models**|Haoyun Liu et.al.|[2603.01766](https://arxiv.org/abs/2603.01766)|null|
+|**2026-03-02**|**ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**|Cheng Yang et.al.|[2603.01490](https://arxiv.org/abs/2603.01490)|null|
 |**2026-02-10**|**Instruct2Act: From Human Instruction to Actions Sequencing and Execution via Robot Action Network for Robotic Manipulation**|Archit Sharma et.al.|[2602.09940](https://arxiv.org/abs/2602.09940)|null|
 |**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479](https://arxiv.org/abs/2602.08479)|null|
 |**2026-02-09**|**Self-Supervised Bootstrapping of Action-Predictive Embodied Reasoning**|Milan Ganai et.al.|[2602.08167](https://arxiv.org/abs/2602.08167)|null|

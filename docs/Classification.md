@@ -2,6 +2,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Diagnosing Generalization Failures from Representational Geometry Markers**|Chi-Ning Chou et.al.|[2603.01879](https://arxiv.org/abs/2603.01879)|null|
+|**2026-03-02**|**Guaranteed Image Classification via Goal-oriented Joint Semantic Source and Channel Coding**|Wenchao Wu et.al.|[2603.01872](https://arxiv.org/abs/2603.01872)|null|
+|**2026-03-02**|**OpenAutoNLU: Open Source AutoML Library for NLU**|Grigory Arshinov et.al.|[2603.01824](https://arxiv.org/abs/2603.01824)|null|
+|**2026-03-02**|**DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks**|Gökdeniz Gülmez et.al.|[2603.01697](https://arxiv.org/abs/2603.01697)|null|
+|**2026-03-02**|**Assessing Crime Disclosure Patterns in a Large-Scale Cybercrime Forum**|Raphael Hoheisel et.al.|[2603.01624](https://arxiv.org/abs/2603.01624)|null|
+|**2026-03-01**|**VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|[2603.01174](https://arxiv.org/abs/2603.01174)|null|
+|**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](https://arxiv.org/abs/2603.00527)|null|
 |**2026-02-26**|**FairQuant: Fairness-Aware Mixed-Precision Quantization for Medical Image Classification**|Thomas Woergaard et.al.|[2602.23192](https://arxiv.org/abs/2602.23192)|null|
 |**2026-02-26**|**Devling into Adversarial Transferability on Image Classification: Review, Benchmark, and Evaluation**|Xiaosen Wang et.al.|[2602.23117](https://arxiv.org/abs/2602.23117)|null|
 |**2026-02-25**|**Cross-Task Benchmarking of CNN Architectures**|Kamal Sherawat et.al.|[2602.22945](https://arxiv.org/abs/2602.22945)|null|

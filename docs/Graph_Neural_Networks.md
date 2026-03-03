@@ -2,6 +2,27 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Graph neural network force fields for adiabatic dynamics of lattice Hamiltonians**|Yunhao Fan et.al.|[2603.02039](https://arxiv.org/abs/2603.02039)|null|
+|**2026-03-02**|**BAED: a New Paradigm for Few-shot Graph Learning with Explanation in the Loop**|Chao Chen et.al.|[2603.01941](https://arxiv.org/abs/2603.01941)|null|
+|**2026-03-02**|**Phishing the Phishers with SpecularNet: Hierarchical Graph Autoencoding for Reference-Free Web Phishing Detection**|Tailai Song et.al.|[2603.01874](https://arxiv.org/abs/2603.01874)|null|
+|**2026-03-02**|**FreeGNN: Continual Source-Free Graph Neural Network Adaptation for Renewable Energy Forecasting**|Abderaouf Bahi et.al.|[2603.01657](https://arxiv.org/abs/2603.01657)|null|
+|**2026-03-02**|**Towards OOD Generalization in Dynamic Graphs via Causal Invariant Learning**|Xinxun Zhang et.al.|[2603.01626](https://arxiv.org/abs/2603.01626)|null|
+|**2026-03-02**|**Pharmacology Knowledge Graphs: Do We Need Chemical Structure for Drug Repurposing?**|Youssef Abo-Dahab et.al.|[2603.01537](https://arxiv.org/abs/2603.01537)|null|
+|**2026-03-02**|**A Cascaded Graph Neural Network for Joint Root Cause Localization and Analysis in Edge Computing Environments**|Duneesha Fernando et.al.|[2603.01447](https://arxiv.org/abs/2603.01447)|null|
+|**2026-03-02**|**Invariant-Stratified Propagation for Expressive Graph Neural Networks**|Asela Hevapathige et.al.|[2603.01388](https://arxiv.org/abs/2603.01388)|null|
+|**2026-03-02**|**GNN Based Joint Beamforming Design for Extremely Large-Scale RIS Assisted Near-Field ISAC Systems**|Jiahao Chen et.al.|[2603.01379](https://arxiv.org/abs/2603.01379)|null|
+|**2026-03-02**|**SubstratumGraphEnv: Reinforcement Learning Environment (RLE) for Modeling System Attack Paths**|Bahirah Adewunmi et.al.|[2603.01340](https://arxiv.org/abs/2603.01340)|null|
+|**2026-03-01**|**Catalyst-Agent: Autonomous heterogeneous catalyst screening and optimization with an LLM Agent**|Achuth Chandrasekhar et.al.|[2603.01311](https://arxiv.org/abs/2603.01311)|null|
+|**2026-03-01**|**GlassMol: Interpretable Molecular Property Prediction with Concept Bottleneck Models**|Oscar Rivera et.al.|[2603.01274](https://arxiv.org/abs/2603.01274)|null|
+|**2026-03-01**|**Super-resolution of turbulent reacting flows on complex meshes using graph neural networks**|Priyabrat Dash et.al.|[2603.01080](https://arxiv.org/abs/2603.01080)|null|
+|**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Haimonti Dutta et.al.|[2603.00854](https://arxiv.org/abs/2603.00854)|null|
+|**2026-02-28**|**IU: Imperceptible Universal Backdoor Attack**|Hsin Lin et.al.|[2603.00711](https://arxiv.org/abs/2603.00711)|null|
+|**2026-02-28**|**Learning to Explore: Policy-Guided Outlier Synthesis for Graph Out-of-Distribution Detection**|Li Sun et.al.|[2603.00602](https://arxiv.org/abs/2603.00602)|null|
+|**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](https://arxiv.org/abs/2603.00599)|null|
+|**2026-02-28**|**TopoEdge: Topology-Grounded Agentic Framework for Edge Networking Code Generation and Repair**|Haomin Qi et.al.|[2603.00569](https://arxiv.org/abs/2603.00569)|null|
+|**2026-02-28**|**GCL-Sampler: Discovering Kernel Similarity for Sampled GPU Simulation via Graph Contrastive Learning**|Jiaqi Wang et.al.|[2603.00551](https://arxiv.org/abs/2603.00551)|null|
+|**2026-02-28**|**Dynamic Spatio-Temporal Graph Neural Network for Early Detection of Pornography Addiction in Adolescents Based on Electroencephalogram Signals**|Achmad Ardani Prasha et.al.|[2603.00488](https://arxiv.org/abs/2603.00488)|null|
+|**2026-02-28**|**Wireless Power Control Based on Large Language Models**|Jiacheng Wang et.al.|[2603.00474](https://arxiv.org/abs/2603.00474)|null|
 |**2026-02-26**|**Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays**|Arsène Ferrière et.al.|[2602.23321](https://arxiv.org/abs/2602.23321)|null|
 |**2026-02-26**|**Real-Time Stream Compaction for Sparse Machine Learning on FPGAs**|Marc Neu et.al.|[2602.23281](https://arxiv.org/abs/2602.23281)|null|
 |**2026-02-26**|**A Perspective on Open Challenges in Deformable Object Manipulation**|Ryan Paul McKennaa et.al.|[2602.22998](https://arxiv.org/abs/2602.22998)|null|

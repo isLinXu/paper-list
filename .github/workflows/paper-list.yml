@@ -48,7 +48,10 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          python get_paper.py
+          # Calculate date 2 days ago to ensure overlap and coverage
+          START_DATE=$(date -d "2 days ago" +%Y-%m-%d)
+          echo "Fetching papers starting from: $START_DATE"
+          python get_paper.py --start_date $START_DATE
       - name: Enrich paper links
         run: |
           python get_paper.py --update_paper_links

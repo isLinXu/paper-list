@@ -92,7 +92,11 @@ if __name__ == "__main__":
                         help='configuration file path')
     parser.add_argument('--update_paper_links', default=False,
                         action="store_true", help='whether to update paper links etc.')
+    parser.add_argument('--start_date', type=str, default=None,
+                        help='start date for fetching papers (YYYY-MM-DD)')
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links': args.update_paper_links}
+    if args.start_date:
+        config['start_date'] = args.start_date
     run(**config)

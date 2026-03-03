@@ -2,6 +2,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Preoperative-to-intraoperative Liver Registration for Laparoscopic Surgery via Latent-Grounded Correspondence Constraints**|Ruize Cui et.al.|[2603.01720](https://arxiv.org/abs/2603.01720)|null|
+|**2026-03-01**|**MLRecon: Robust Markerless Freehand 3D Ultrasound Reconstruction via Coarse-to-Fine Pose Estimation**|Yi Zhang et.al.|[2603.00990](https://arxiv.org/abs/2603.00990)|null|
+|**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697](https://arxiv.org/abs/2603.00697)|null|
+|**2026-02-28**|**COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation**|Yuchen Che et.al.|[2603.00493](https://arxiv.org/abs/2603.00493)|null|
 |**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941](https://arxiv.org/abs/2602.22941)|null|
 |**2026-02-26**|**CRAG: Can 3D Generative Models Help 3D Assembly?**|Zeyu Jiang et.al.|[2602.22629](https://arxiv.org/abs/2602.22629)|null|
 |**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209](https://arxiv.org/abs/2602.22209)|null|

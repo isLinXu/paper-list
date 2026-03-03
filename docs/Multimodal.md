@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval**|Xuan Lu et.al.|[2603.01082](https://arxiv.org/abs/2603.01082)|null|
+|**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](https://arxiv.org/abs/2603.00599)|null|
 |**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](https://arxiv.org/abs/2602.05496)|null|
 |**2026-02-04**|**CyIN: Cyclic Informative Latent Space for Bridging Complete and Incomplete Multimodal Learning**|Ronghao Lin et.al.|[2602.04920](https://arxiv.org/abs/2602.04920)|null|
 |**2026-02-04**|**Active Asymmetric Multi-Agent Multimodal Learning under Uncertainty**|Rui Liu et.al.|[2602.04763](https://arxiv.org/abs/2602.04763)|null|

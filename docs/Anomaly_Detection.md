@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Solving Convex Quadratic Optimization with Indicators Over Structured Graphs**|Aaresh Bhathena et.al.|[2603.02103](https://arxiv.org/abs/2603.02103)|null|
+|**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](https://arxiv.org/abs/2603.01806)|null|
+|**2026-03-02**|**Dual Distillation for Few-Shot Anomaly Detection**|Le Dong et.al.|[2603.01713](https://arxiv.org/abs/2603.01713)|null|
+|**2026-03-02**|**Information-Theoretic Digital Twins for Stealthy Attack Detection in Industrial Control Systems: A Closed-Form KL Divergence Approach**|Inda Kreso et.al.|[2603.01621](https://arxiv.org/abs/2603.01621)|null|
+|**2026-03-02**|**D-GVIO: A Buffer-Driven and Efficient Decentralized GNSS-Visual-Inertial State Estimator for Multi-Agent Systems**|Yarong Luo et.al.|[2603.01404](https://arxiv.org/abs/2603.01404)|null|
+|**2026-03-01**|**Robust measures of dispersion for circular data with an anomaly detection rule**|Houyem Demni et.al.|[2603.01237](https://arxiv.org/abs/2603.01237)|null|
+|**2026-03-01**|**Extending Adaptive Cruise Control with Machine Learning Intrusion Detection Systems**|Lotfi Ben Othmane et.al.|[2603.01173](https://arxiv.org/abs/2603.01173)|null|
+|**2026-03-01**|**AMDS: Attack-Aware Multi-Stage Defense System for Network Intrusion Detection with Two-Stage Adaptive Weight Learning**|Oluseyi Olukola et.al.|[2603.00859](https://arxiv.org/abs/2603.00859)|null|
+|**2026-02-28**|**Learning to Explore: Policy-Guided Outlier Synthesis for Graph Out-of-Distribution Detection**|Li Sun et.al.|[2603.00602](https://arxiv.org/abs/2603.00602)|null|
+|**2026-02-28**|**Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning**|Yu Wang et.al.|[2603.00550](https://arxiv.org/abs/2603.00550)|null|
 |**2026-02-26**|**SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling**|Camile Lendering et.al.|[2602.23013](https://arxiv.org/abs/2602.23013)|null|
 |**2026-02-26**|**Projection depth for functional data: Practical issues, computation and applications**|Filip Bočinec et.al.|[2602.22877](https://arxiv.org/abs/2602.22877)|null|
 |**2026-02-25**|**RAMSeS: Robust and Adaptive Model Selection for Time-Series Anomaly Detection Algorithms**|Mohamed Abdelmaksoud et.al.|[2602.21766](https://arxiv.org/abs/2602.21766)|null|

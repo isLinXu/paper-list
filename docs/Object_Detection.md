@@ -2,6 +2,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**|Mateus Karvat et.al.|[2603.02194](https://arxiv.org/abs/2603.02194)|null|
+|**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](https://arxiv.org/abs/2603.02142)|null|
+|**2026-03-02**|**physfusion: A Transformer-based Dual-Stream Radar and Vision Fusion Framework for Open Water Surface Object Detection**|Yuting Wan et.al.|[2603.01947](https://arxiv.org/abs/2603.01947)|null|
+|**2026-03-02**|**GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection**|Yutong Yang et.al.|[2603.01847](https://arxiv.org/abs/2603.01847)|null|
+|**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](https://arxiv.org/abs/2603.01767)|null|
+|**2026-03-02**|**Unifying Heterogeneous Multi-Modal Remote Sensing Detection Via Language-Pivoted Pretraining**|Yuxuan Li et.al.|[2603.01758](https://arxiv.org/abs/2603.01758)|null|
+|**2026-03-02**|**YCDa: YCbCr Decoupled Attention for Real-time Realistic Camouflaged Object Detection**|PeiHuang Zheng et.al.|[2603.01602](https://arxiv.org/abs/2603.01602)|null|
+|**2026-03-02**|**PPEDCRF: Privacy-Preserving Enhanced Dynamic CRF for Location-Privacy Protection for Sequence Videos with Minimal Detection Degradation**|Bo Ma et.al.|[2603.01593](https://arxiv.org/abs/2603.01593)|null|
+|**2026-03-02**|**Boosting AI Reliability with an FSM-Driven Streaming Inference Pipeline: An Industrial Case**|Yutian Zhang et.al.|[2603.01528](https://arxiv.org/abs/2603.01528)|null|
+|**2026-03-02**|**Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection**|Qirui Wu et.al.|[2603.01524](https://arxiv.org/abs/2603.01524)|null|
+|**2026-03-01**|**Open-Vocabulary vs Supervised Learning Methods for Post-Disaster Visual Scene Understanding**|Anna Michailidou et.al.|[2603.01324](https://arxiv.org/abs/2603.01324)|null|
+|**2026-03-01**|**Monocular 3D Object Position Estimation with VLMs for Human-Robot Interaction**|Ari Wahl et.al.|[2603.01224](https://arxiv.org/abs/2603.01224)|null|
+|**2026-03-01**|**SMR-Net:Robot Snap Detection Based on Multi-Scale Features and Self-Attention Network**|Kuanxu Hou et.al.|[2603.01036](https://arxiv.org/abs/2603.01036)|null|
+|**2026-03-01**|**Accelerating Multi-Scale Deformable Attention Using Near-Memory-Processing Architecture**|Huize Li et.al.|[2603.00959](https://arxiv.org/abs/2603.00959)|null|
+|**2026-03-01**|**VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection**|Yang Cao et.al.|[2603.00912](https://arxiv.org/abs/2603.00912)|**[link](https://github.com/yangcaoai/VGGT-Det-CVPR2026)**|
+|**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](https://arxiv.org/abs/2603.00527)|null|
+|**2026-02-28**|**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**|Qihang Fan et.al.|[2603.00486](https://arxiv.org/abs/2603.00486)|null|
 |**2026-02-26**|**Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training**|Aheli Saha et.al.|[2602.23357](https://arxiv.org/abs/2602.23357)|null|
 |**2026-02-26**|**Through BrokenEyes: How Eye Disorders Impact Face Detection?**|Prottay Kumar Adhikary et.al.|[2602.23212](https://arxiv.org/abs/2602.23212)|null|
 |**2026-02-26**|**Locally Adaptive Decay Surfaces for High-Speed Face and Landmark Detection with Event Cameras**|Paul Kielty et.al.|[2602.23101](https://arxiv.org/abs/2602.23101)|null|

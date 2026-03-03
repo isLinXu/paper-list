@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](https://arxiv.org/abs/2603.01767)|null|
+|**2026-03-02**|**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**|Zijin Yin et.al.|[2603.01535](https://arxiv.org/abs/2603.01535)|null|
+|**2026-03-02**|**SeaVIS: Sound-Enhanced Association for Online Audio-Visual Instance Segmentation**|Yingjian Zhu et.al.|[2603.01431](https://arxiv.org/abs/2603.01431)|null|
+|**2026-03-01**|**Open-Vocabulary vs Supervised Learning Methods for Post-Disaster Visual Scene Understanding**|Anna Michailidou et.al.|[2603.01324](https://arxiv.org/abs/2603.01324)|null|
+|**2026-03-01**|**CoSMo3D: Open-World Promptable 3D Semantic Part Segmentation through LLM-Guided Canonical Spatial Modeling**|Li Jin et.al.|[2603.01205](https://arxiv.org/abs/2603.01205)|null|
+|**2026-03-01**|**Adaptive Augmentation-Aware Latent Learning for Robust LiDAR Semantic Segmentation**|Wangkai Li et.al.|[2603.01074](https://arxiv.org/abs/2603.01074)|null|
+|**2026-02-28**|**MME: Mixture of Mesh Experts with Random Walk Transformer Gating**|Amir Belder et.al.|[2603.00828](https://arxiv.org/abs/2603.00828)|null|
+|**2026-02-28**|**Data-Centric Benchmark for Label Noise Estimation and Ranking in Remote Sensing Image Segmentation**|Keiller Nogueira et.al.|[2603.00604](https://arxiv.org/abs/2603.00604)|null|
+|**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](https://arxiv.org/abs/2603.00527)|null|
+|**2026-02-28**|**Explainable Continuous-Time Mask Refinement with Local Self-Similarity Priors for Medical Image Segmentation**|Rajdeep Chatterjee et.al.|[2603.00459](https://arxiv.org/abs/2603.00459)|null|
 |**2026-02-26**|**Align then Adapt: Rethinking Parameter-Efficient Transfer Learning in 4D Perception**|Yiding Sun et.al.|[2602.23069](https://arxiv.org/abs/2602.23069)|null|
 |**2026-02-26**|**D-FINE-seg: Object Detection and Instance Segmentation Framework with multi-backend deployment**|Argo Saakyan et.al.|[2602.23043](https://arxiv.org/abs/2602.23043)|null|
 |**2026-02-26**|**SO3UFormer: Learning Intrinsic Spherical Features for Rotation-Robust Panoramic Segmentation**|Qinfeng Zhu et.al.|[2602.22867](https://arxiv.org/abs/2602.22867)|null|

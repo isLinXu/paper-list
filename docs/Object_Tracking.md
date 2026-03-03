@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](https://arxiv.org/abs/2603.01412)|null|
+|**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](https://arxiv.org/abs/2603.00527)|null|
 |**2026-02-26**|**Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators**|Yuhao Liu et.al.|[2602.23334](https://arxiv.org/abs/2602.23334)|null|
 |**2026-02-25**|**RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking**|Yanqiu Yu et.al.|[2602.22033](https://arxiv.org/abs/2602.22033)|null|
 |**2026-02-22**|**A Two-Stage Detection-Tracking Framework for Stable Apple Quality Inspection in Dense Conveyor-Belt Environments**|Keonvin Park et.al.|[2602.19278](https://arxiv.org/abs/2602.19278)|null|

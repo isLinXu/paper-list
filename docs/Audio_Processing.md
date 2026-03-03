@@ -2,6 +2,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**ViTex: Visual Texture Control for Multi-Track Symbolic Music Generation via Discrete Diffusion Models**|Xiaoyu Yi et.al.|[2603.01984](https://arxiv.org/abs/2603.01984)|null|
+|**2026-03-02**|**VietSuperSpeech: A Large-Scale Vietnamese Conversational Speech Dataset for ASR Fine-Tuning in Chatbot, Customer Support, and Call Center Applications**|Loan Do et.al.|[2603.01894](https://arxiv.org/abs/2603.01894)|null|
+|**2026-03-02**|**More Data, Fewer Diacritics: Scaling Arabic TTS**|Ahmed Musleh et.al.|[2603.01622](https://arxiv.org/abs/2603.01622)|null|
+|**2026-03-02**|**The USTC-NERCSLIP Systems for the CHiME-9 MCoRec Challenge**|Ya Jiang et.al.|[2603.01415](https://arxiv.org/abs/2603.01415)|null|
+|**2026-03-02**|**End-to-End Simultaneous Dysarthric Speech Reconstruction with Frame-Level Adaptor and Multiple Wait-k Knowledge Distillation**|Minghui Wu et.al.|[2603.01382](https://arxiv.org/abs/2603.01382)|null|
+|**2026-03-02**|**DARS: Dysarthria-Aware Rhythm-Style Synthesis for ASR Enhancement**|Minghui Wu et.al.|[2603.01369](https://arxiv.org/abs/2603.01369)|null|
+|**2026-03-01**|**VoxKnesset: A Large-Scale Longitudinal Hebrew Speech Dataset for Aging Speaker Modeling**|Yanir Marmor et.al.|[2603.01270](https://arxiv.org/abs/2603.01270)|null|
+|**2026-03-01**|**SyncTrack: Rhythmic Stability and Synchronization in Multi-Track Music Generation**|Hongrui Wang et.al.|[2603.01101](https://arxiv.org/abs/2603.01101)|null|
+|**2026-03-01**|**Using Songs to Improve Kazakh Automatic Speech Recognition**|Rustem Yeshpanov et.al.|[2603.00961](https://arxiv.org/abs/2603.00961)|null|
+|**2026-03-01**|**Towards Orthographically-Informed Evaluation of Speech Recognition Systems for Indian Languages**|Kaushal Santosh Bhogale et.al.|[2603.00941](https://arxiv.org/abs/2603.00941)|null|
+|**2026-02-28**|**Polynomial Mixing for Efficient Self-supervised Speech Encoders**|Eva Feillet et.al.|[2603.00683](https://arxiv.org/abs/2603.00683)|null|
+|**2026-02-28**|**CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction**|Yinghao Ma et.al.|[2603.00610](https://arxiv.org/abs/2603.00610)|null|
+|**2026-02-28**|**Efficient Long-Sequence Diffusion Modeling for Symbolic Music Generation**|Jinhan Xu et.al.|[2603.00576](https://arxiv.org/abs/2603.00576)|null|
+|**2026-02-28**|**Whisper-MLA: Reducing GPU Memory Consumption of ASR Models based on MHA2MLA Conversion**|Sen Zhang et.al.|[2603.00563](https://arxiv.org/abs/2603.00563)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](https://arxiv.org/abs/2602.23266)|null|
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](https://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](https://arxiv.org/abs/2602.22935)|null|

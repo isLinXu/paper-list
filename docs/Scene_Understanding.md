@@ -2,6 +2,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](https://arxiv.org/abs/2603.01999)|null|
+|**2026-03-02**|**WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration**|Gong Chen et.al.|[2603.01708](https://arxiv.org/abs/2603.01708)|null|
+|**2026-03-02**|**CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions**|Gong Chen et.al.|[2603.01688](https://arxiv.org/abs/2603.01688)|null|
+|**2026-03-02**|**WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments**|Joshua Knights et.al.|[2603.01475](https://arxiv.org/abs/2603.01475)|null|
+|**2026-03-01**|**Open-Vocabulary vs Supervised Learning Methods for Post-Disaster Visual Scene Understanding**|Anna Michailidou et.al.|[2603.01324](https://arxiv.org/abs/2603.01324)|null|
+|**2026-03-01**|**Dr.Occ: Depth- and Region-Guided 3D Occupancy from Surround-View Cameras for Autonomous Driving**|Xubo Zhu et.al.|[2603.01007](https://arxiv.org/abs/2603.01007)|null|
+|**2026-02-28**|**RC-GeoCP: Geometric Consensus for Radar-Camera Collaborative Perception**|Xiaokai Bai et.al.|[2603.00654](https://arxiv.org/abs/2603.00654)|null|
+|**2026-02-28**|**SSR: Pushing the Limit of Spatial Intelligence with Structured Scene Reasoning**|Yi Zhang et.al.|[2603.00409](https://arxiv.org/abs/2603.00409)|null|
 |**2026-02-05**|**Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning**|Xuejun Zhang et.al.|[2602.06041](https://arxiv.org/abs/2602.06041)|null|
 |**2026-02-05**|**CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction**|Xiaopan Zhang et.al.|[2602.06038](https://arxiv.org/abs/2602.06038)|null|
 |**2026-02-05**|**IDSOR: Intensity- and Distance-Aware Statistical Outlier Removal for Weather-Robust LiDAR Point Clouds**|Chenyang Yan et.al.|[2602.05876](https://arxiv.org/abs/2602.05876)|null|

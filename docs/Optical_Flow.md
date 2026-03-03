@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**FREE-Edit: Using Editing-aware Injection in Rectified Flow Models for Zero-shot Image-Driven Video Editing**|Maomao Li et.al.|[2603.01164](https://arxiv.org/abs/2603.01164)|null|
 |**2026-02-26**|**DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis**|Xinglong Luo et.al.|[2602.23022](https://arxiv.org/abs/2602.23022)|null|
 |**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941](https://arxiv.org/abs/2602.22941)|null|
 |**2026-02-26**|**GSTurb: Gaussian Splatting for Atmospheric Turbulence Mitigation**|Hanliang Du et.al.|[2602.22800](https://arxiv.org/abs/2602.22800)|null|
