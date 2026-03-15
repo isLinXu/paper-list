@@ -29,6 +29,9 @@ def update_paper_links(filename):
         return date, title, authors, arxiv_id, code
 
     def try_hf_repo(arxiv_id: str) -> str | None:
+        # Hugging Face connection is unstable and causes timeouts.
+        # Disabling it to rely on GitHub API which is more stable.
+        return None
         url = HF_PAPER_PAGE + arxiv_id
         try:
             r = requests.get(url, timeout=4, headers={'User-Agent': 'paper-list/1.0'})

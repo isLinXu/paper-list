@@ -2,6 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**UniMotion: Self-Supervised Learning for Cross-Domain IMU Motion Recognition**|Prerna Khanna et.al.|[2603.12218](https://arxiv.org/abs/2603.12218)|null|
+|**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448](https://arxiv.org/abs/2603.10448)|null|
+|**2026-03-09**|**Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction**|Zhaoda Du et.al.|[2603.10061](https://arxiv.org/abs/2603.10061)|null|
+|**2026-03-10**|**M3GCLR: Multi-View Mini-Max Infinite Skeleton-Data Game Contrastive Learning For Skeleton-Based Action Recognition**|Yanshan Li et.al.|[2603.09367](https://arxiv.org/abs/2603.09367)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551](https://arxiv.org/abs/2603.08551)|null|
+|**2026-03-09**|**Human-AI Divergence in Ego-centric Action Recognition under Spatial and Spatiotemporal Manipulations**|Sadegh Rahmaniboldaji et.al.|[2603.08317](https://arxiv.org/abs/2603.08317)|null|
+|**2026-03-09**|**Novel Semantic Prompting for Zero-Shot Action Recognition**|Salman Iqbal et.al.|[2603.08289](https://arxiv.org/abs/2603.08289)|null|
+|**2026-03-09**|**DualTurn: Learning Turn-Taking from Dual-Channel Generative Speech Pretraining**|Shangeth Rajaa et.al.|[2603.08216](https://arxiv.org/abs/2603.08216)|null|
+|**2026-03-08**|**Active Inference for Micro-Gesture Recognition: EFE-Guided Temporal Sampling and Adaptive Learning**|Weijia Feng et.al.|[2603.07559](https://arxiv.org/abs/2603.07559)|null|
+|**2026-03-08**|**ICLR: In-Context Imitation Learning with Visual Reasoning**|Toan Nguyen et.al.|[2603.07530](https://arxiv.org/abs/2603.07530)|null|
+|**2026-03-07**|**Dreamer-CDP: Improving Reconstruction-free World Models Via Continuous Deterministic Representation Prediction**|Michael Hauri et.al.|[2603.07083](https://arxiv.org/abs/2603.07083)|null|
+|**2026-03-06**|**Skeleton-to-Image Encoding: Enabling Skeleton Representation Learning via Vision-Pretrained Models**|Siyuan Yang et.al.|[2603.05963](https://arxiv.org/abs/2603.05963)|null|
+|**2026-03-06**|**Learning Next Action Predictors from Human-Computer Interaction**|Omar Shaikh et.al.|[2603.05923](https://arxiv.org/abs/2603.05923)|null|
+|**2026-03-04**|**A Baseline Study and Benchmark for Few-Shot Open-Set Action Recognition with Feature Residual Discrimination**|Stefano Berti et.al.|[2603.04125](https://arxiv.org/abs/2603.04125)|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](https://arxiv.org/abs/2603.03195)|null|
 |**2026-03-02**|**Neural Implicit Action Fields: From Discrete Waypoints to Continuous Functions for Vision-Language-Action Models**|Haoyun Liu et.al.|[2603.01766](https://arxiv.org/abs/2603.01766)|null|
 |**2026-03-02**|**ATA: Bridging Implicit Reasoning with Attention-Guided and Action-Guided Inference for Vision-Language Action Models**|Cheng Yang et.al.|[2603.01490](https://arxiv.org/abs/2603.01490)|null|
 |**2026-02-10**|**Instruct2Act: From Human Instruction to Actions Sequencing and Execution via Robot Action Network for Robotic Manipulation**|Archit Sharma et.al.|[2602.09940](https://arxiv.org/abs/2602.09940)|null|

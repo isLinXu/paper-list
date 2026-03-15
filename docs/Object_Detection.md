@@ -2,6 +2,66 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12215](https://arxiv.org/abs/2603.12215)|null|
+|**2026-03-12**|**R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**|Zhongyu Xia et.al.|[2603.11566](https://arxiv.org/abs/2603.11566)|null|
+|**2026-03-12**|**TornadoNet: Real-Time Building Damage Detection with Ordinal Supervision**|Robinson Umeike et.al.|[2603.11557](https://arxiv.org/abs/2603.11557)|null|
+|**2026-03-12**|**One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries**|Mayank Saini Arit Kumar Bishwas et.al.|[2603.11545](https://arxiv.org/abs/2603.11545)|null|
+|**2026-03-12**|**EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection**|Shuo Jiang et.al.|[2603.11521](https://arxiv.org/abs/2603.11521)|null|
+|**2026-03-11**|**Does AI See like Art Historians? Interpreting How Vision Language Models Recognize Artistic Style**|Marvin Limpijankit et.al.|[2603.11024](https://arxiv.org/abs/2603.11024)|null|
+|**2026-03-11**|**GroundCount: Grounding Vision-Language Models with Object Detection for Mitigating Counting Hallucinations**|Boyuan Chen et.al.|[2603.10978](https://arxiv.org/abs/2603.10978)|null|
+|**2026-03-11**|**Evaluating Few-Shot Pill Recognition Under Visual Domain Shift**|W. I. Chu et.al.|[2603.10833](https://arxiv.org/abs/2603.10833)|null|
+|**2026-03-10**|**A Robust Deep Learning Framework for Bangla License Plate Recognition Using YOLO and Vision-Language OCR**|Nayeb Hasin et.al.|[2603.10267](https://arxiv.org/abs/2603.10267)|null|
+|**2026-03-10**|**From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding**|Wenzhao Xiang et.al.|[2603.09955](https://arxiv.org/abs/2603.09955)|null|
+|**2026-03-10**|**DRIFT: Dual-Representation Inter-Fusion Transformer for Automated Driving Perception with 4D Radar Point Clouds**|Siqi Pei et.al.|[2603.09695](https://arxiv.org/abs/2603.09695)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework for Perceiving and Thinking via 3D Gaussian Splatting**|Yueen Ma et.al.|[2603.09632](https://arxiv.org/abs/2603.09632)|null|
+|**2026-03-10**|**Decoder-Free Distillation for Quantized Image Restoration**|S. M. A. Sharif et.al.|[2603.09624](https://arxiv.org/abs/2603.09624)|null|
+|**2026-03-10**|**RiO-DETR: DETR for Real-time Oriented Object Detection**|Zhangchi Hu et.al.|[2603.09411](https://arxiv.org/abs/2603.09411)|null|
+|**2026-03-10**|**YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search**|Zhe Li et.al.|[2603.09405](https://arxiv.org/abs/2603.09405)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](https://arxiv.org/abs/2603.09320)|null|
+|**2026-03-10**|**Multi-model approach for autonomous driving: A comprehensive study on traffic sign-, vehicle- and lane detection and behavioral cloning**|Kanishkha Jaisankar et.al.|[2603.09255](https://arxiv.org/abs/2603.09255)|null|
+|**2026-03-10**|**Distributed Convolutional Neural Networks for Object Recognition**|Liang Sun et.al.|[2603.09220](https://arxiv.org/abs/2603.09220)|null|
+|**2026-03-10**|**Intelligent Spatial Estimation for Fire Hazards in Engineering Sites: An Enhanced YOLOv8-Powered Proximity Analysis Framework**|Ammar K. AlMhdawi et.al.|[2603.09069](https://arxiv.org/abs/2603.09069)|null|
+|**2026-03-09**|**Comparative Analysis of Patch Attack on VLM-Based Autonomous Driving Architectures**|David Fernandez et.al.|[2603.08897](https://arxiv.org/abs/2603.08897)|null|
+|**2026-03-09**|**Computer Vision-Based Vehicle Allotment System using Perspective Mapping**|Prachi Nandi et.al.|[2603.08827](https://arxiv.org/abs/2603.08827)|null|
+|**2026-03-09**|**ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation**|Nanjun Li et.al.|[2603.08681](https://arxiv.org/abs/2603.08681)|null|
+|**2026-03-09**|**FOMO-3D: Using Vision Foundation Models for Long-Tailed 3D Object Detection**|Anqi Joyce Yang et.al.|[2603.08611](https://arxiv.org/abs/2603.08611)|null|
+|**2026-03-09**|**Beyond Hungarian: Match-Free Supervision for End-to-End Object Detection**|Shoumeng Qiu et.al.|[2603.08514](https://arxiv.org/abs/2603.08514)|null|
+|**2026-03-09**|**Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors**|Ishrat Jahan et.al.|[2603.08208](https://arxiv.org/abs/2603.08208)|null|
+|**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Michael Kösel et.al.|[2603.08180](https://arxiv.org/abs/2603.08180)|null|
+|**2026-03-09**|**On the Feasibility and Opportunity of Autoregressive 3D Object Detection**|Zanming Huang et.al.|[2603.07985](https://arxiv.org/abs/2603.07985)|null|
+|**2026-03-08**|**Overthinking Causes Hallucination: Tracing Confounder Propagation in Vision Language Models**|Abin Shoby et.al.|[2603.07619](https://arxiv.org/abs/2603.07619)|null|
+|**2026-03-08**|**Fast Attention-Based Simplification of LiDAR Point Clouds for Object Detection and Classification**|Z. Rozsa et.al.|[2603.07593](https://arxiv.org/abs/2603.07593)|null|
+|**2026-03-08**|**RayD3D: Distilling Depth Knowledge Along the Ray for Robust Multi-View 3D Object Detection**|Rui Ding et.al.|[2603.07493](https://arxiv.org/abs/2603.07493)|null|
+|**2026-03-08**|**Multi-Modal Decouple and Recouple Network for Robust 3D Object Detection**|Rui Ding et.al.|[2603.07486](https://arxiv.org/abs/2603.07486)|null|
+|**2026-03-08**|**Selective Transfer Learning of Cross-Modality Distillation for Monocular 3D Object Detection**|Rui Ding et.al.|[2603.07464](https://arxiv.org/abs/2603.07464)|null|
+|**2026-03-08**|**Machine Learning for the Internet of Underwater Things: From Fundamentals to Implementation**|Kenechi Omeke et.al.|[2603.07413](https://arxiv.org/abs/2603.07413)|null|
+|**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](https://arxiv.org/abs/2603.07338)|null|
+|**2026-03-07**|**OV-DEIM: Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation**|Leilei Wang et.al.|[2603.07022](https://arxiv.org/abs/2603.07022)|null|
+|**2026-03-06**|**DLRMamba: Distilling Low-Rank Mamba for Edge Multispectral Fusion Object Detection**|Qianqian Zhang et.al.|[2603.06920](https://arxiv.org/abs/2603.06920)|null|
+|**2026-03-06**|**PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection**|Zhengjian Kang et.al.|[2603.06917](https://arxiv.org/abs/2603.06917)|null|
+|**2026-03-06**|**BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**|Thomas Monninger et.al.|[2603.06576](https://arxiv.org/abs/2603.06576)|null|
+|**2026-03-06**|**Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**|Yuhan Zhou et.al.|[2603.06544](https://arxiv.org/abs/2603.06544)|null|
+|**2026-03-06**|**REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2603.06386](https://arxiv.org/abs/2603.06386)|null|
+|**2026-03-06**|**Low-latency Event-based Object Detection with Spatially-Sparse Linear Attention**|Haiqing Hao et.al.|[2603.06228](https://arxiv.org/abs/2603.06228)|null|
+|**2026-03-06**|**CR-QAT: Curriculum Relational Quantization-Aware Training for Open-Vocabulary Object Detection**|Jinyeong Park et.al.|[2603.05964](https://arxiv.org/abs/2603.05964)|null|
+|**2026-03-06**|**CollabOD: Collaborative Multi-Backbone with Cross-scale Vision for UAV Small Object Detection**|Xuecheng Bai et.al.|[2603.05905](https://arxiv.org/abs/2603.05905)|null|
+|**2026-03-05**|**Post Fusion Bird's Eye View Feature Stabilization for Robust Multimodal 3D Detection**|Trung Tien Dong et.al.|[2603.05623](https://arxiv.org/abs/2603.05623)|null|
+|**2026-03-05**|**NOTAI.AI: Explainable Detection of Machine-Generated Text via Curvature and Feature Attribution**|Oleksandr Marchenko Breneur et.al.|[2603.05617](https://arxiv.org/abs/2603.05617)|null|
+|**2026-03-05**|**Fusion4CA: Boosting 3D Object Detection via Comprehensive Image Exploitation**|Kang Luo et.al.|[2603.05305](https://arxiv.org/abs/2603.05305)|null|
+|**2026-03-05**|**Digital Twin Driven Textile Classification and Foreign Object Recognition in Automated Sorting Systems**|Serkan Ergun et.al.|[2603.05230](https://arxiv.org/abs/2603.05230)|null|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](https://arxiv.org/abs/2603.05042)|null|
+|**2026-03-05**|**RMK RetinaNet: Rotated Multi-Kernel RetinaNet for Robust Oriented Object Detection in Remote Sensing Imagery**|Huiran Sun et.al.|[2603.04793](https://arxiv.org/abs/2603.04793)|null|
+|**2026-03-04**|**Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living**|Kooshan Hashemifard et.al.|[2603.04509](https://arxiv.org/abs/2603.04509)|null|
+|**2026-03-04**|**VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments**|Yifei Chen et.al.|[2603.04277](https://arxiv.org/abs/2603.04277)|null|
+|**2026-03-04**|**When Visual Evidence is Ambiguous: Pareidolia as a Diagnostic Probe for Vision Models**|Qianpu Chen et.al.|[2603.03989](https://arxiv.org/abs/2603.03989)|null|
+|**2026-03-04**|**Point Cloud Feature Coding for Object Detection over an Error-Prone Cloud-Edge Collaborative System**|Chongzhen Tian et.al.|[2603.03890](https://arxiv.org/abs/2603.03890)|null|
+|**2026-03-04**|**Adaptive Enhancement and Dual-Pooling Sequential Attention for Lightweight Underwater Object Detection with YOLOv10**|Md. Mushibur Rahman et.al.|[2603.03807](https://arxiv.org/abs/2603.03807)|null|
+|**2026-03-04**|**Small Object Detection in Complex Backgrounds with Multi-Scale Attention and Global Relation Modeling**|Wenguang Tao et.al.|[2603.03788](https://arxiv.org/abs/2603.03788)|null|
+|**2026-03-03**|**IoUCert: Robustness Verification for Anchor-based Object Detectors**|Benedikt Brückner et.al.|[2603.03043](https://arxiv.org/abs/2603.03043)|null|
+|**2026-03-03**|**HDINO: A Concise and Efficient Open-Vocabulary Detector**|Hao Zhang et.al.|[2603.02924](https://arxiv.org/abs/2603.02924)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](https://arxiv.org/abs/2603.02560)|null|
+|**2026-03-03**|**ForestPersons: A Large-Scale Dataset for Under-Canopy Missing Person Detection**|Deokyun Kim et.al.|[2603.02541](https://arxiv.org/abs/2603.02541)|null|
+|**2026-03-03**|**ModalPatch: A Plug-and-Play Module for Robust Multi-Modal 3D Object Detection under Modality Drop**|Shuangzhi Li et.al.|[2603.02481](https://arxiv.org/abs/2603.02481)|null|
 |**2026-03-02**|**From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories**|Mateus Karvat et.al.|[2603.02194](https://arxiv.org/abs/2603.02194)|null|
 |**2026-03-02**|**Is Bigger Always Better? Efficiency Analysis in Resource-Constrained Small Object Detection**|Kwame Mbobda-Kuate et.al.|[2603.02142](https://arxiv.org/abs/2603.02142)|null|
 |**2026-03-02**|**physfusion: A Transformer-based Dual-Stream Radar and Vision Fusion Framework for Open Water Surface Object Detection**|Yuting Wan et.al.|[2603.01947](https://arxiv.org/abs/2603.01947)|null|

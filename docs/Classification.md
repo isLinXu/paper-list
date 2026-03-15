@@ -2,6 +2,60 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Resource-Efficient Iterative LLM-Based NAS with Feedback Memory**|Xiaojie Gu et.al.|[2603.12091](https://arxiv.org/abs/2603.12091)|null|
+|**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](https://arxiv.org/abs/2603.12036)|null|
+|**2026-03-12**|**BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs**|Ilias Aarab et.al.|[2603.11991](https://arxiv.org/abs/2603.11991)|null|
+|**2026-03-12**|**HELM: Hierarchical and Explicit Label Modeling with Graph Learning for Multi-Label Image Classification**|Marjan Stoimchev et.al.|[2603.11783](https://arxiv.org/abs/2603.11783)|null|
+|**2026-03-12**|**An Automatic Text Classification Method Based on Hierarchical Taxonomies, Neural Networks and Document Embedding: The NETHIC Tool**|Luigi Lomasto et.al.|[2603.11770](https://arxiv.org/abs/2603.11770)|null|
+|**2026-03-12**|**Quantum mechanical framework for quantization-based optimization: from Gradient flow to Schroedinger equation**|Jinwuk Seok et.al.|[2603.11536](https://arxiv.org/abs/2603.11536)|null|
+|**2026-03-11**|**Temporal Text Classification with Large Language Models**|Nishat Raihan et.al.|[2603.11295](https://arxiv.org/abs/2603.11295)|null|
+|**2026-03-11**|**Beyond Barren Plateaus: A Scalable Quantum Convolutional Architecture for High-Fidelity Image Classification**|Radhakrishnan Delhibabu et.al.|[2603.11131](https://arxiv.org/abs/2603.11131)|null|
+|**2026-03-11**|**Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition**|Jian Sun et.al.|[2603.10965](https://arxiv.org/abs/2603.10965)|null|
+|**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|Jennifer D'Souza et.al.|[2603.10876](https://arxiv.org/abs/2603.10876)|null|
+|**2026-03-11**|**Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution**|Hongsong Wang et.al.|[2603.10583](https://arxiv.org/abs/2603.10583)|null|
+|**2026-03-11**|**What do near-optimal learning rate schedules look like?**|Hiroki Naganuma et.al.|[2603.10301](https://arxiv.org/abs/2603.10301)|null|
+|**2026-03-11**|**From Imitation to Intuition: Intrinsic Reasoning for Open-Instance Video Classification**|Ke Zhang et.al.|[2603.10300](https://arxiv.org/abs/2603.10300)|null|
+|**2026-03-10**|**Joint Imaging-ROI Representation Learning via Cross-View Contrastive Alignment for Brain Disorder Classification**|Wei Liang et.al.|[2603.10253](https://arxiv.org/abs/2603.10253)|null|
+|**2026-03-10**|**Why Does It Look There? Structured Explanations for Image Classification**|Jiarui Li et.al.|[2603.10234](https://arxiv.org/abs/2603.10234)|null|
+|**2026-03-10**|**HTMuon: Improving Muon via Heavy-Tailed Spectral Correction**|Tianyu Pang et.al.|[2603.10067](https://arxiv.org/abs/2603.10067)|null|
+|**2026-03-10**|**From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding**|Wenzhao Xiang et.al.|[2603.09955](https://arxiv.org/abs/2603.09955)|null|
+|**2026-03-10**|**Correction of Transformer-Based Models with Smoothing Pseudo-Projector**|Vitaly Bulgakov et.al.|[2603.09815](https://arxiv.org/abs/2603.09815)|null|
+|**2026-03-10**|**A Saccade-inspired Approach to Image Classification using Vision Transformer Attention Maps**|Matthis Dallain et.al.|[2603.09613](https://arxiv.org/abs/2603.09613)|null|
+|**2026-03-10**|**YOLO-NAS-Bench: A Surrogate Benchmark with Self-Evolving Predictors for YOLO Architecture Search**|Zhe Li et.al.|[2603.09405](https://arxiv.org/abs/2603.09405)|null|
+|**2026-03-10**|**DendroNN: Dendrocentric Neural Networks for Energy-Efficient Classification of Event-Based Data**|Jann Krausse et.al.|[2603.09274](https://arxiv.org/abs/2603.09274)|null|
+|**2026-03-10**|**Rotation Equivariant Mamba for Vision Tasks**|Zhongchen Zhao et.al.|[2603.09138](https://arxiv.org/abs/2603.09138)|null|
+|**2026-03-09**|**An accurate flatness measure to estimate the generalization performance of CNN models**|Rahman Taleghani et.al.|[2603.09016](https://arxiv.org/abs/2603.09016)|null|
+|**2026-03-09**|**Geometrically Constrained Outlier Synthesis**|Daniil Karzanov et.al.|[2603.08413](https://arxiv.org/abs/2603.08413)|null|
+|**2026-03-09**|**Soundscapes in Spectrograms: Pioneering Multilabel Classification for South Asian Sounds**|Sudip Chakrabarty et.al.|[2603.08154](https://arxiv.org/abs/2603.08154)|null|
+|**2026-03-09**|**Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for Zero-Shot Image Recognition**|Hui Liu et.al.|[2603.07911](https://arxiv.org/abs/2603.07911)|null|
+|**2026-03-08**|**A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification**|Furkan Genç et.al.|[2603.07571](https://arxiv.org/abs/2603.07571)|null|
+|**2026-03-08**|**Efficient RGB-D Scene Understanding via Multi-task Adaptive Learning and Cross-dimensional Feature Guidance**|Guodong Sun et.al.|[2603.07570](https://arxiv.org/abs/2603.07570)|null|
+|**2026-03-08**|**SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Xiaokang Zhang et.al.|[2603.07463](https://arxiv.org/abs/2603.07463)|null|
+|**2026-03-07**|**To Predict or Not to Predict? Towards reliable uncertainty estimation in the presence of noise**|Nouran Khallaf et.al.|[2603.07330](https://arxiv.org/abs/2603.07330)|null|
+|**2026-03-07**|**Combining Adam and its Inverse Counterpart to Enhance Generalization of Deep Learning Optimizers**|Tao Shi et.al.|[2603.07122](https://arxiv.org/abs/2603.07122)|null|
+|**2026-03-07**|**Leveraging Large Language Models for Automated Scalable Development of Open Scientific Databases**|Nikita Gautam et.al.|[2603.07050](https://arxiv.org/abs/2603.07050)|null|
+|**2026-03-07**|**Adaptive Discovery of Interpretable Audio Attributes with Multimodal LLMs for Low-Resource Classification**|Kosuke Yoshimura et.al.|[2603.06991](https://arxiv.org/abs/2603.06991)|null|
+|**2026-03-06**|**ButterflyViT: 354 $\times$ Expert Compression for Edge Vision Transformers**|Aryan Karmore et.al.|[2603.06746](https://arxiv.org/abs/2603.06746)|null|
+|**2026-03-06**|**Causal Interpretation of Neural Network Computations with Contribution Decomposition**|Joshua Brendan Melander et.al.|[2603.06557](https://arxiv.org/abs/2603.06557)|null|
+|**2026-03-06**|**Demystifying KAN for Vision Tasks: The RepKAN Approach**|Minjong Cheon et.al.|[2603.06002](https://arxiv.org/abs/2603.06002)|null|
+|**2026-03-06**|**Mitigating Bias in Concept Bottleneck Models for Fair and Interpretable Image Classification**|Schrasing Tong et.al.|[2603.05899](https://arxiv.org/abs/2603.05899)|null|
+|**2026-03-06**|**Remote Sensing Image Classification Using Deep Ensemble Learning**|Niful Islam et.al.|[2603.05844](https://arxiv.org/abs/2603.05844)|null|
+|**2026-03-06**|**Margin and Consistency Supervision for Calibrated and Robust Vision Models**|Salim Khazem et.al.|[2603.05812](https://arxiv.org/abs/2603.05812)|null|
+|**2026-03-05**|**Layer by layer, module by module: Choose both for optimal OOD probing of ViT**|Ambroise Odonnat et.al.|[2603.05280](https://arxiv.org/abs/2603.05280)|null|
+|**2026-03-05**|**Synchronization-based clustering on the unit hypersphere**|Zinaid Kapić et.al.|[2603.05067](https://arxiv.org/abs/2603.05067)|null|
+|**2026-03-05**|**A Benchmark Study of Neural Network Compression Methods for Hyperspectral Image Classification**|Sai Shi et.al.|[2603.04720](https://arxiv.org/abs/2603.04720)|null|
+|**2026-03-04**|**Beyond Mixtures and Products for Ensemble Aggregation: A Likelihood Perspective on Generalized Means**|Raphaël Razafindralambo et.al.|[2603.04204](https://arxiv.org/abs/2603.04204)|null|
+|**2026-03-04**|**LISTA-Transformer Model Based on Sparse Coding and Attention Mechanism and Its Application in Fault Diagnosis**|Shuang Liu et.al.|[2603.04146](https://arxiv.org/abs/2603.04146)|null|
+|**2026-03-04**|**Semantic Bridging Domains: Pseudo-Source as Test-Time Connector**|Xizhong Yang et.al.|[2603.03844](https://arxiv.org/abs/2603.03844)|null|
+|**2026-03-04**|**LDP-Slicing: Local Differential Privacy for Images via Randomized Bit-Plane Slicing**|Yuanming Cao et.al.|[2603.03711](https://arxiv.org/abs/2603.03711)|null|
+|**2026-03-04**|**Linguistically Informed Graph Model and Semantic Contrastive Learning for Korean Short Text Classification**|JaeGeon Yoo et.al.|[2603.03652](https://arxiv.org/abs/2603.03652)|null|
+|**2026-03-03**|**mHC-HSI: Clustering-Guided Hyper-Connection Mamba for Hyperspectral Image Classification**|Yimin Zhu et.al.|[2603.03418](https://arxiv.org/abs/2603.03418)|null|
+|**2026-03-03**|**Specificity-aware reinforcement learning for fine-grained open-world classification**|Samuele Angheben et.al.|[2603.03197](https://arxiv.org/abs/2603.03197)|null|
+|**2026-03-03**|**FEAST: Retrieval-Augmented Multi-Hierarchical Food Classification for the FoodEx2 System**|Lorenzo Molfetta et.al.|[2603.03176](https://arxiv.org/abs/2603.03176)|null|
+|**2026-03-03**|**IoUCert: Robustness Verification for Anchor-based Object Detectors**|Benedikt Brückner et.al.|[2603.03043](https://arxiv.org/abs/2603.03043)|null|
+|**2026-03-03**|**Semi-Supervised Few-Shot Adaptation of Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2603.02959](https://arxiv.org/abs/2603.02959)|null|
+|**2026-03-03**|**Layer-wise QUBO-Based Training of CNN Classifiers for Quantum Annealing**|Mostafa Atallah et.al.|[2603.02958](https://arxiv.org/abs/2603.02958)|null|
+|**2026-03-03**|**Non-Volatile Vortex MTJs with Opto-Electrical and Spin-Diode Nonlinearities as Multifunctional Neuromorphic Platforms**|Felix Oberbauer et.al.|[2603.02734](https://arxiv.org/abs/2603.02734)|null|
 |**2026-03-02**|**Diagnosing Generalization Failures from Representational Geometry Markers**|Chi-Ning Chou et.al.|[2603.01879](https://arxiv.org/abs/2603.01879)|null|
 |**2026-03-02**|**Guaranteed Image Classification via Goal-oriented Joint Semantic Source and Channel Coding**|Wenchao Wu et.al.|[2603.01872](https://arxiv.org/abs/2603.01872)|null|
 |**2026-03-02**|**OpenAutoNLU: Open Source AutoML Library for NLU**|Grigory Arshinov et.al.|[2603.01824](https://arxiv.org/abs/2603.01824)|null|

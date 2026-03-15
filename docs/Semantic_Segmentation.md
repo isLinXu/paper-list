@@ -2,6 +2,44 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[2603.12008](https://arxiv.org/abs/2603.12008)|null|
+|**2026-03-12**|**ActiveFreq: Integrating Active Learning and Frequency Domain Analysis for Interactive Segmentation**|Lijun Guo et.al.|[2603.11498](https://arxiv.org/abs/2603.11498)|null|
+|**2026-03-11**|**World Mouse: Exploring Interactions with a Cross-Reality Cursor**|Esen K. Tütüncü et.al.|[2603.10984](https://arxiv.org/abs/2603.10984)|null|
+|**2026-03-11**|**BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation**|Prithwijit Chowdhury et.al.|[2603.10828](https://arxiv.org/abs/2603.10828)|null|
+|**2026-03-11**|**A dataset of medication images with instance segmentation masks for preventing adverse drug events**|W. I. Chu et.al.|[2603.10825](https://arxiv.org/abs/2603.10825)|null|
+|**2026-03-11**|**Phase-Interface Instance Segmentation as a Visual Sensor for Laboratory Process Monitoring**|Mingyue Li et.al.|[2603.10782](https://arxiv.org/abs/2603.10782)|null|
+|**2026-03-10**|**From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding**|Wenzhao Xiang et.al.|[2603.09955](https://arxiv.org/abs/2603.09955)|null|
+|**2026-03-10**|**World2Mind: Cognition Toolkit for Allocentric Spatial Reasoning in Foundation Models**|Shouwei Ruan et.al.|[2603.09774](https://arxiv.org/abs/2603.09774)|null|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](https://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320](https://arxiv.org/abs/2603.09320)|null|
+|**2026-03-10**|**Towards Instance Segmentation with Polygon Detection Transformers**|Jiacheng Sun et.al.|[2603.09245](https://arxiv.org/abs/2603.09245)|null|
+|**2026-03-10**|**RTFDNet: Fusion-Decoupling for Robust RGB-T Segmentation**|Kunyu Tan et.al.|[2603.09149](https://arxiv.org/abs/2603.09149)|null|
+|**2026-03-10**|**Rotation Equivariant Mamba for Vision Tasks**|Zhongchen Zhao et.al.|[2603.09138](https://arxiv.org/abs/2603.09138)|null|
+|**2026-03-10**|**Intelligent Spatial Estimation for Fire Hazards in Engineering Sites: An Enhanced YOLOv8-Powered Proximity Analysis Framework**|Ammar K. AlMhdawi et.al.|[2603.09069](https://arxiv.org/abs/2603.09069)|null|
+|**2026-03-09**|**Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation**|Hikmat Khan et.al.|[2603.08605](https://arxiv.org/abs/2603.08605)|null|
+|**2026-03-09**|**Viewpoint-Agnostic Grasp Pipeline using VLM and Partial Observations**|Dilermando Almeida et.al.|[2603.07866](https://arxiv.org/abs/2603.07866)|null|
+|**2026-03-08**|**Efficient RGB-D Scene Understanding via Multi-task Adaptive Learning and Cross-dimensional Feature Guidance**|Guodong Sun et.al.|[2603.07570](https://arxiv.org/abs/2603.07570)|null|
+|**2026-03-08**|**Defect Detection in Magnetic Systems Using U-Net and Statistical Measures**|Ross Knapman et.al.|[2603.07542](https://arxiv.org/abs/2603.07542)|null|
+|**2026-03-08**|**SIGMAE: A Spectral-Index-Guided Foundation Model for Multispectral Remote Sensing**|Xiaokang Zhang et.al.|[2603.07463](https://arxiv.org/abs/2603.07463)|null|
+|**2026-03-06**|**SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**|Rohit Menon et.al.|[2603.06512](https://arxiv.org/abs/2603.06512)|null|
+|**2026-03-06**|**CLoPA: Continual Low Parameter Adaptation of Interactive Segmentation for Medical Image Annotation**|Parhom Esmaeili et.al.|[2603.06426](https://arxiv.org/abs/2603.06426)|null|
+|**2026-03-06**|**Rewis3d: Reconstruction Improves Weakly-Supervised Semantic Segmentation**|Jonas Ernst et.al.|[2603.06374](https://arxiv.org/abs/2603.06374)|null|
+|**2026-03-06**|**P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning**|Lixin Zhan et.al.|[2603.06321](https://arxiv.org/abs/2603.06321)|null|
+|**2026-03-06**|**Making Training-Free Diffusion Segmentors Scale with the Generative Power**|Benyuan Meng et.al.|[2603.06178](https://arxiv.org/abs/2603.06178)|null|
+|**2026-03-06**|**JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas**|Sandeep Inuganti et.al.|[2603.06168](https://arxiv.org/abs/2603.06168)|null|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](https://arxiv.org/abs/2603.05497)|null|
+|**2026-03-05**|**VinePT-Map: Pole-Trunk Semantic Mapping for Resilient Autonomous Robotics in Vineyards**|Giorgio Audrito et.al.|[2603.05070](https://arxiv.org/abs/2603.05070)|null|
+|**2026-03-05**|**Generalizable Multiscale Segmentation of Heterogeneous Map Collections**|Remi Petitpierre et.al.|[2603.05037](https://arxiv.org/abs/2603.05037)|null|
+|**2026-03-04**|**Semantic Bridging Domains: Pseudo-Source as Test-Time Connector**|Xizhong Yang et.al.|[2603.03844](https://arxiv.org/abs/2603.03844)|null|
+|**2026-03-04**|**Field imaging framework for morphological characterization of aggregates with computer vision: Algorithms and applications**|Haohang Huang et.al.|[2603.03654](https://arxiv.org/abs/2603.03654)|null|
+|**2026-03-04**|**LeafInst - Unified Instance Segmentation Network for Fine-Grained Forestry Leaf Phenotype Analysis: A New UAV based Benchmark**|Taige Luo et.al.|[2603.03616](https://arxiv.org/abs/2603.03616)|null|
+|**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[2603.03075](https://arxiv.org/abs/2603.03075)|null|
+|**2026-03-03**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919](https://arxiv.org/abs/2603.02919)|null|
+|**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](https://arxiv.org/abs/2603.02667)|null|
+|**2026-03-03**|**SEP-YOLO: Fourier-Domain Feature Representation for Transparent Object Instance Segmentation**|Fengming Zhang et.al.|[2603.02648](https://arxiv.org/abs/2603.02648)|null|
+|**2026-03-03**|**CAWM-Mamba: A unified model for infrared-visible image fusion and compound adverse weather restoration**|Huichun Liu et.al.|[2603.02560](https://arxiv.org/abs/2603.02560)|null|
+|**2026-03-03**|**Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation**|Chonghua Lv et.al.|[2603.02554](https://arxiv.org/abs/2603.02554)|null|
+|**2026-03-03**|**SGMA: Semantic-Guided Modality-Aware Segmentation for Remote Sensing with Incomplete Multimodal Data**|Lekang Wen et.al.|[2603.02505](https://arxiv.org/abs/2603.02505)|null|
 |**2026-03-02**|**Downstream Task Inspired Underwater Image Enhancement: A Perception-Aware Study from Dataset Construction to Network Design**|Bosen Lin et.al.|[2603.01767](https://arxiv.org/abs/2603.01767)|null|
 |**2026-03-02**|**Benchmarking Semantic Segmentation Models via Appearance and Geometry Attribute Editing**|Zijin Yin et.al.|[2603.01535](https://arxiv.org/abs/2603.01535)|null|
 |**2026-03-02**|**SeaVIS: Sound-Enhanced Association for Online Audio-Visual Instance Segmentation**|Yingjian Zhu et.al.|[2603.01431](https://arxiv.org/abs/2603.01431)|null|

@@ -2,6 +2,41 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Seeing Isn't Orienting: A Cognitively Grounded Benchmark Reveals Systematic Orientation Failures in MLLMs Supplementary**|Nazia Tasnim et.al.|[2603.11410](https://arxiv.org/abs/2603.11410)|null|
+|**2026-03-11**|**DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding**|Mingzhe Tao et.al.|[2603.11380](https://arxiv.org/abs/2603.11380)|null|
+|**2026-03-11**|**UAV traffic scene understanding: A cross-spectral guided approach and a unified benchmark**|Yu Zhang et.al.|[2603.10722](https://arxiv.org/abs/2603.10722)|null|
+|**2026-03-11**|**DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime**|Julian Lorenz et.al.|[2603.10538](https://arxiv.org/abs/2603.10538)|null|
+|**2026-03-10**|**RA-SSU: Towards Fine-Grained Audio-Visual Learning with Region-Aware Sound Source Understanding**|Muyi Sun et.al.|[2603.09809](https://arxiv.org/abs/2603.09809)|null|
+|**2026-03-10**|**More than the Sum: Panorama-Language Models for Adverse Omni-Scenes**|Weijia Fan et.al.|[2603.09573](https://arxiv.org/abs/2603.09573)|null|
+|**2026-03-10**|**Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning**|Chun-Peng Chang et.al.|[2603.09512](https://arxiv.org/abs/2603.09512)|null|
+|**2026-03-09**|**APPLV: Adaptive Planner Parameter Learning from Vision-Language-Action Model**|Yuanjie Lu et.al.|[2603.08862](https://arxiv.org/abs/2603.08862)|null|
+|**2026-03-09**|**Rethinking the semantic classification of indoor places by mobile robots**|Oscar Martinez Mozos et.al.|[2603.08512](https://arxiv.org/abs/2603.08512)|null|
+|**2026-03-09**|**UniGround: Universal 3D Visual Grounding via Training-Free Scene Parsing**|Jiaxi Zhang et.al.|[2603.08131](https://arxiv.org/abs/2603.08131)|null|
+|**2026-03-09**|**SGG-R $^{\rm 3}$ : From Next-Token Prediction to End-to-End Unbiased Scene Graph Generation**|Jiaye Feng et.al.|[2603.07961](https://arxiv.org/abs/2603.07961)|null|
+|**2026-03-09**|**Toward Unified Multimodal Representation Learning for Autonomous Driving**|Ximeng Tao et.al.|[2603.07874](https://arxiv.org/abs/2603.07874)|null|
+|**2026-03-08**|**Efficient RGB-D Scene Understanding via Multi-task Adaptive Learning and Cross-dimensional Feature Guidance**|Guodong Sun et.al.|[2603.07570](https://arxiv.org/abs/2603.07570)|null|
+|**2026-03-06**|**AV-Unified: A Unified Framework for Audio-visual Scene Understanding**|Guangyao Li et.al.|[2603.06530](https://arxiv.org/abs/2603.06530)|null|
+|**2026-03-06**|**REACT++: Efficient Cross-Attention for Real-Time Scene Graph Generation**|Maëlic Neau et.al.|[2603.06386](https://arxiv.org/abs/2603.06386)|null|
+|**2026-03-06**|**VG3S: Visual Geometry Grounded Gaussian Splatting for Semantic Occupancy Prediction**|Xiaoyang Yan et.al.|[2603.06210](https://arxiv.org/abs/2603.06210)|null|
+|**2026-03-06**|**JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas**|Sandeep Inuganti et.al.|[2603.06168](https://arxiv.org/abs/2603.06168)|null|
+|**2026-03-06**|**FreeOcc: Training-free Panoptic Occupancy Prediction via Foundation Models**|Andrew Caunes et.al.|[2603.06166](https://arxiv.org/abs/2603.06166)|null|
+|**2026-03-06**|**Place-it-R1: Unlocking Environment-aware Reasoning Potential of MLLM for Video Object Insertion**|Bohai Gu et.al.|[2603.06140](https://arxiv.org/abs/2603.06140)|null|
+|**2026-03-06**|**DeepSight: Bridging Depth Maps and Language with a Depth-Driven Multimodal Model**|Hao Yang et.al.|[2603.06090](https://arxiv.org/abs/2603.06090)|null|
+|**2026-03-06**|**Multimodal Behavior Tree Generation: A Small Vision-Language Model for Robot Task Planning**|Cristiano Battistini et.al.|[2603.06084](https://arxiv.org/abs/2603.06084)|null|
+|**2026-03-06**|**Pano3DComposer: Feed-Forward Compositional 3D Scene Generation from Single Panoramic Image**|Zidian Qiu et.al.|[2603.05908](https://arxiv.org/abs/2603.05908)|null|
+|**2026-03-05**|**Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields**|Scout Jarman et.al.|[2603.05473](https://arxiv.org/abs/2603.05473)|null|
+|**2026-03-05**|**CATNet: Collaborative Alignment and Transformation Network for Cooperative Perception**|Gong Chen et.al.|[2603.05255](https://arxiv.org/abs/2603.05255)|null|
+|**2026-03-05**|**3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding**|Xiongkun Linghu et.al.|[2603.04976](https://arxiv.org/abs/2603.04976)|null|
+|**2026-03-05**|**Roomify: Spatially-Grounded Style Transformation for Immersive Virtual Environments**|Xueyang Wang et.al.|[2603.04917](https://arxiv.org/abs/2603.04917)|null|
+|**2026-03-04**|**SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D**|Zirui Wang et.al.|[2603.04614](https://arxiv.org/abs/2603.04614)|null|
+|**2026-03-04**|**EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding**|Seungjun Lee et.al.|[2603.04254](https://arxiv.org/abs/2603.04254)|null|
+|**2026-03-04**|**Crab $^{+}$ : A Scalable and Unified Audio-Visual Scene Understanding Model with Explicit Cooperation**|Dongnuan Cai et.al.|[2603.04128](https://arxiv.org/abs/2603.04128)|null|
+|**2026-03-04**|**Glass Segmentation with Fusion of Learned and General Visual Features**|Risto Ojala et.al.|[2603.03718](https://arxiv.org/abs/2603.03718)|null|
+|**2026-03-03**|**Hazard-Aware Traffic Scene Graph Generation**|Yaoqi Huang et.al.|[2603.03584](https://arxiv.org/abs/2603.03584)|null|
+|**2026-03-03**|**An Effective Data Augmentation Method by Asking Questions about Scene Text Images**|Xu Yao et.al.|[2603.03580](https://arxiv.org/abs/2603.03580)|null|
+|**2026-03-03**|**Confidence-aware Monocular Depth Estimation for Minimally Invasive Surgery**|Muhammad Asad et.al.|[2603.03571](https://arxiv.org/abs/2603.03571)|null|
+|**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[2603.03026](https://arxiv.org/abs/2603.03026)|null|
+|**2026-03-03**|**SemGS: Feed-Forward Semantic 3D Gaussian Splatting from Sparse Views for Generalizable Scene Understanding**|Sheng Ye et.al.|[2603.02548](https://arxiv.org/abs/2603.02548)|null|
 |**2026-03-02**|**Learning Vision-Based Omnidirectional Navigation: A Teacher-Student Approach Using Monocular Depth Estimation**|Jan Finke et.al.|[2603.01999](https://arxiv.org/abs/2603.01999)|null|
 |**2026-03-02**|**WhisperNet: A Scalable Solution for Bandwidth-Efficient Collaboration**|Gong Chen et.al.|[2603.01708](https://arxiv.org/abs/2603.01708)|null|
 |**2026-03-02**|**CoopDiff: A Diffusion-Guided Approach for Cooperation under Corruptions**|Gong Chen et.al.|[2603.01688](https://arxiv.org/abs/2603.01688)|null|

@@ -2,6 +2,70 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling**|Hamed Hamzeh et.al.|[2603.12031](https://arxiv.org/abs/2603.12031)|null|
+|**2026-03-12**|**Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing**|Bertran Miquel-Oliver et.al.|[2603.11944](https://arxiv.org/abs/2603.11944)|null|
+|**2026-03-12**|**RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset**|Yongzhong Wang et.al.|[2603.11811](https://arxiv.org/abs/2603.11811)|null|
+|**2026-03-12**|**HELM: Hierarchical and Explicit Label Modeling with Graph Learning for Multi-Label Image Classification**|Marjan Stoimchev et.al.|[2603.11783](https://arxiv.org/abs/2603.11783)|null|
+|**2026-03-12**|**Deep Learning Network-Temporal Models For Traffic Prediction**|Yufeng Xin et.al.|[2603.11475](https://arxiv.org/abs/2603.11475)|null|
+|**2026-03-11**|**Graph Tokenization for Bridging Graphs and Transformers**|Zeyuan Guo et.al.|[2603.11099](https://arxiv.org/abs/2603.11099)|null|
+|**2026-03-04**|**Identifying the Group to Intervene on to Maximise Effect Under Cross-Group Interference**|Xiaojing Du et.al.|[2603.11059](https://arxiv.org/abs/2603.11059)|null|
+|**2026-03-11**|**Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks**|Maria Lamprini Bartsioka et.al.|[2603.10983](https://arxiv.org/abs/2603.10983)|null|
+|**2026-03-11**|**Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks**|Mohamad Alkadamani et.al.|[2603.10802](https://arxiv.org/abs/2603.10802)|null|
+|**2026-03-11**|**Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention**|Kosti Koistinen et.al.|[2603.10676](https://arxiv.org/abs/2603.10676)|null|
+|**2026-03-11**|**FP-Predictor - False Positive Prediction for Static Analysis Reports**|Tom Ohlmer et.al.|[2603.10558](https://arxiv.org/abs/2603.10558)|null|
+|**2026-03-11**|**SCORE: Replacing Layer Stacking with Contractive Recurrent Depth**|Guillaume Godin et.al.|[2603.10544](https://arxiv.org/abs/2603.10544)|null|
+|**2026-03-11**|**GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification**|Mayur Choudhary et.al.|[2603.10298](https://arxiv.org/abs/2603.10298)|null|
+|**2026-03-10**|**Estimating condition number with Graph Neural Networks**|Erin Carson et.al.|[2603.10277](https://arxiv.org/abs/2603.10277)|null|
+|**2026-03-10**|**Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction**|Linxin Hou et.al.|[2603.10198](https://arxiv.org/abs/2603.10198)|null|
+|**2026-03-10**|**A Graph-Based Approach to Spectrum Demand Prediction Using Hierarchical Attention Networks**|Mohamad Alkadamani et.al.|[2603.09859](https://arxiv.org/abs/2603.09859)|null|
+|**2026-03-10**|**AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**|Bonwook Gu et.al.|[2603.09744](https://arxiv.org/abs/2603.09744)|null|
+|**2026-03-10**|**GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation**|Federico Bello et.al.|[2603.09675](https://arxiv.org/abs/2603.09675)|null|
+|**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418](https://arxiv.org/abs/2603.09418)|null|
+|**2026-03-10**|**Multimodal Graph Representation Learning with Dynamic Information Pathways**|Xiaobin Hong et.al.|[2603.09258](https://arxiv.org/abs/2603.09258)|null|
+|**2026-03-10**|**$P^2$ GNN: Two Prototype Sets to boost GNN Performance**|Arihant Jain et.al.|[2603.09195](https://arxiv.org/abs/2603.09195)|null|
+|**2026-03-09**|**Characterization and upgrade of a quantum graph neural network for charged particle tracking**|Matteo Argenton et.al.|[2603.08667](https://arxiv.org/abs/2603.08667)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551](https://arxiv.org/abs/2603.08551)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540](https://arxiv.org/abs/2603.08540)|null|
+|**2026-03-09**|**Decoupling Distance and Networks: Hybrid Graph Attention-Geostatistical Methods for Spatio-temporal Risk Mapping**|Toba Temitope Bamidele et.al.|[2603.08393](https://arxiv.org/abs/2603.08393)|null|
+|**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](https://arxiv.org/abs/2603.08387)|null|
+|**2026-03-09**|**SCL-GNN: Towards Generalizable Graph Neural Networks via Spurious Correlation Learning**|Yuxiang Zhang et.al.|[2603.08270](https://arxiv.org/abs/2603.08270)|null|
+|**2026-03-09**|**Rel-MOSS: Towards Imbalanced Relational Deep Learning on Relational Databases**|Jun Yin et.al.|[2603.07916](https://arxiv.org/abs/2603.07916)|null|
+|**2026-03-08**|**Learning the APT Kill Chain: Temporal Reasoning over Provenance Data for Attack Stage Estimation**|Trung V. Phan et.al.|[2603.07560](https://arxiv.org/abs/2603.07560)|null|
+|**2026-03-07**|**Learning to Rank the Initial Branching Order of SAT Solvers**|Arvid Eriksson et.al.|[2603.07176](https://arxiv.org/abs/2603.07176)|null|
+|**2026-03-07**|**Not All Neighbors Matter: Understanding the Impact of Graph Sparsification on GNN Pipelines**|Yuhang Song et.al.|[2603.06952](https://arxiv.org/abs/2603.06952)|null|
+|**2026-03-06**|**Metalearning traffic assignment for network disruptions with graph convolutional neural networks**|Serio Agriesti et.al.|[2603.06763](https://arxiv.org/abs/2603.06763)|null|
+|**2026-03-03**|**GNN For Muon Particle Momentum estimation**|Vishak K Bhat et.al.|[2603.06675](https://arxiv.org/abs/2603.06675)|null|
+|**2026-03-03**|**Hybrid Orchestration of Edge AI and Microservices via Graph-based Self-Imitation Learning**|Chen Yang et.al.|[2603.06669](https://arxiv.org/abs/2603.06669)|null|
+|**2026-03-06**|**Rotation-invariant graph message passing enables acquisition protocol generalisation in learning-based brain microstructure estimation**|Leevi Kerkelä et.al.|[2603.06496](https://arxiv.org/abs/2603.06496)|null|
+|**2026-03-06**|**Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis**|Zongyu Shi et.al.|[2603.06303](https://arxiv.org/abs/2603.06303)|null|
+|**2026-03-06**|**Few-Shot Neural Differentiable Simulator: Real-to-Sim Rigid-Contact Modeling**|Zhenhao Huang et.al.|[2603.06218](https://arxiv.org/abs/2603.06218)|null|
+|**2026-03-06**|**A Retrieval-Assisted Framework for Wireless Localization**|Haoyu Huang et.al.|[2603.06158](https://arxiv.org/abs/2603.06158)|null|
+|**2026-03-06**|**Ensemble Graph Neural Networks for Probabilistic Sea Surface Temperature Forecasting via Input Perturbations**|Alejandro J. González-Santana et.al.|[2603.06153](https://arxiv.org/abs/2603.06153)|null|
+|**2026-03-06**|**Stochastic Event Prediction via Temporal Motif Transitions**|İbrahim Bahadır Altun et.al.|[2603.05874](https://arxiv.org/abs/2603.05874)|null|
+|**2026-03-05**|**Latent space design of interatomic potentials**|Susan R. Atlas et.al.|[2603.05655](https://arxiv.org/abs/2603.05655)|null|
+|**2026-03-05**|**Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility**|Olaf Yunus Laitinen Imanov et.al.|[2603.05581](https://arxiv.org/abs/2603.05581)|null|
+|**2026-03-05**|**On the Necessity of Learnable Sheaf Laplacians**|Ferran Hernandez Caralt et.al.|[2603.05395](https://arxiv.org/abs/2603.05395)|null|
+|**2026-03-05**|**Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs**|Haoyu Zhou et.al.|[2603.05343](https://arxiv.org/abs/2603.05343)|null|
+|**2026-03-05**|**Machine Learning the Strong Disorder Renormalization Group Method for Disordered Quantum Spin Chains**|A. Ustyuzhanin et.al.|[2603.05164](https://arxiv.org/abs/2603.05164)|null|
+|**2026-03-05**|**Recurrent Graph Neural Networks and Arithmetic Circuits**|Timon Barlag et.al.|[2603.05140](https://arxiv.org/abs/2603.05140)|null|
+|**2026-03-05**|**Poisoning the Inner Prediction Logic of Graph Neural Networks for Clean-Label Backdoor Attacks**|Yuxiang Zhang et.al.|[2603.05004](https://arxiv.org/abs/2603.05004)|null|
+|**2026-03-05**|**LLM-Grounded Explainable AI for Supply Chain Risk Early Warning via Temporal Graph Attention Networks**|Zhiming Xue et.al.|[2603.04818](https://arxiv.org/abs/2603.04818)|null|
+|**2026-03-04**|**GIANT - Global Path Integration and Attentive Graph Networks for Multi-Agent Trajectory Planning**|Jonas le Fevre Sejersen et.al.|[2603.04659](https://arxiv.org/abs/2603.04659)|null|
+|**2026-03-04**|**SGR3 Model: Scene Graph Retrieval-Reasoning Model in 3D**|Zirui Wang et.al.|[2603.04614](https://arxiv.org/abs/2603.04614)|null|
+|**2026-03-04**|**An LLM-Guided Query-Aware Inference System for GNN Models on Large Knowledge Graphs**|Waleed Afandi et.al.|[2603.04545](https://arxiv.org/abs/2603.04545)|null|
+|**2026-03-04**|**Recognition of Daily Activities through Multi-Modal Deep Learning: A Video, Pose, and Object-Aware Approach for Ambient Assisted Living**|Kooshan Hashemifard et.al.|[2603.04509](https://arxiv.org/abs/2603.04509)|null|
+|**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](https://arxiv.org/abs/2603.04209)|null|
+|**2026-03-04**|**Graph Negative Feedback Bias Correction Framework for Adaptive Heterophily Modeling**|Jiaqi Lv et.al.|[2603.03662](https://arxiv.org/abs/2603.03662)|null|
+|**2026-03-03**|**Towards Improved Sentence Representations using Token Graphs**|Krishna Sri Ipsit Mantri et.al.|[2603.03389](https://arxiv.org/abs/2603.03389)|null|
+|**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](https://arxiv.org/abs/2603.03106)|null|
+|**2026-03-03**|**QAOA-Predictor: Forecasting Success Probabilities and Minimal Depths for Efficient Fixed-Parameter Optimization**|Rodrigo Coelho et.al.|[2603.02990](https://arxiv.org/abs/2603.02990)|null|
+|**2026-03-03**|**Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models**|Fengzhi Li et.al.|[2603.02938](https://arxiv.org/abs/2603.02938)|null|
+|**2026-03-03**|**Learning Memory-Enhanced Improvement Heuristics for Flexible Job Shop Scheduling**|Jiaqi Wang et.al.|[2603.02846](https://arxiv.org/abs/2603.02846)|null|
+|**2026-03-03**|**ChemFlow:A Hierarchical Neural Network for Multiscale Representation Learning in Chemical Mixtures**|Jinming Fan et.al.|[2603.02810](https://arxiv.org/abs/2603.02810)|null|
+|**2026-03-03**|**AlphaFree: Recommendation Free from Users, IDs, and GNNs**|Minseo Jeon et.al.|[2603.02653](https://arxiv.org/abs/2603.02653)|null|
+|**2026-03-03**|**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**|Zhi Hong et.al.|[2603.02630](https://arxiv.org/abs/2603.02630)|null|
+|**2026-03-03**|**Tensegrity Robot Endcap-Ground Contact Estimation with Symmetry-aware Heterogeneous Graph Neural Network**|Wenzhe Tong et.al.|[2603.02596](https://arxiv.org/abs/2603.02596)|null|
+|**2026-03-03**|**Beyond Anatomy: Explainable ASD Classification from rs-fMRI via Functional Parcellation and Graph Attention Networks**|Syeda Hareem Madani et.al.|[2603.02518](https://arxiv.org/abs/2603.02518)|null|
 |**2026-03-02**|**Graph neural network force fields for adiabatic dynamics of lattice Hamiltonians**|Yunhao Fan et.al.|[2603.02039](https://arxiv.org/abs/2603.02039)|null|
 |**2026-03-02**|**BAED: a New Paradigm for Few-shot Graph Learning with Explanation in the Loop**|Chao Chen et.al.|[2603.01941](https://arxiv.org/abs/2603.01941)|null|
 |**2026-03-02**|**Phishing the Phishers with SpecularNet: Hierarchical Graph Autoencoding for Reference-Free Web Phishing Detection**|Tailai Song et.al.|[2603.01874](https://arxiv.org/abs/2603.01874)|null|

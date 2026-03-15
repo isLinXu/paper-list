@@ -2,6 +2,78 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](https://arxiv.org/abs/2603.12036)|null|
+|**2026-03-12**|**Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case**|Diego Cajaraville-Aboy et.al.|[2603.12001](https://arxiv.org/abs/2603.12001)|null|
+|**2026-03-12**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al.|[2603.11756](https://arxiv.org/abs/2603.11756)|null|
+|**2026-03-12**|**CINDI: Conditional Imputation and Noisy Data Integrity with Flows in Power Grid Data**|David Baumgartner et.al.|[2603.11745](https://arxiv.org/abs/2603.11745)|null|
+|**2026-03-11**|**Multilingual Financial Fraud Detection Using Machine Learning and Transformer Models: A Bangla-English Study**|Mohammad Shihab Uddin et.al.|[2603.11358](https://arxiv.org/abs/2603.11358)|null|
+|**2026-03-11**|**FinRule-Bench: A Benchmark for Joint Reasoning over Financial Tables and Principles**|Arun Vignesh Malarkkan et.al.|[2603.11339](https://arxiv.org/abs/2603.11339)|null|
+|**2026-03-11**|**DNS-GT: A Graph-based Transformer Approach to Learn Embeddings of Domain Names from DNS Queries**|Massimiliano Altieri et.al.|[2603.11200](https://arxiv.org/abs/2603.11200)|null|
+|**2026-03-11**|**RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation**|Shijie Zhou et.al.|[2603.11106](https://arxiv.org/abs/2603.11106)|null|
+|**2026-03-11**|**ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection**|Kadir-Kaan Özer et.al.|[2603.10926](https://arxiv.org/abs/2603.10926)|null|
+|**2026-03-11**|**Incremental Federated Learning for Intrusion Detection in IoT Networks under Evolving Threat Landscape**|Muaan Ur Rehman et.al.|[2603.10776](https://arxiv.org/abs/2603.10776)|null|
+|**2026-03-11**|**Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention**|Kosti Koistinen et.al.|[2603.10676](https://arxiv.org/abs/2603.10676)|null|
+|**2026-03-11**|**Detecting and Eliminating Neural Network Backdoors Through Active Paths with Application to Intrusion Detection**|Eirik Høyheim et.al.|[2603.10641](https://arxiv.org/abs/2603.10641)|null|
+|**2026-03-11**|**Enhancing Network Intrusion Detection Systems: A Multi-Layer Ensemble Approach to Mitigate Adversarial Attacks**|Nasim Soltani et.al.|[2603.10413](https://arxiv.org/abs/2603.10413)|null|
+|**2026-03-10**|**TASER: Task-Aware Spectral Energy Refine for Backdoor Suppression in UAV Swarms Decentralized Federated Learning**|Sizhe Huang et.al.|[2603.10075](https://arxiv.org/abs/2603.10075)|null|
+|**2026-03-10**|**Role Classification of Hosts within Enterprise Networks Based on Connection Patterns**|Godfrey Tan et.al.|[2603.09910](https://arxiv.org/abs/2603.09910)|null|
+|**2026-03-10**|**TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions**|Nerea Gallego et.al.|[2603.09782](https://arxiv.org/abs/2603.09782)|null|
+|**2026-03-10**|**Supernova scores for active anomaly detection**|Semenikhin T. A. et.al.|[2603.09762](https://arxiv.org/abs/2603.09762)|null|
+|**2026-03-10**|**GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation**|Federico Bello et.al.|[2603.09675](https://arxiv.org/abs/2603.09675)|null|
+|**2026-03-10**|**Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**|Willie Kouam et.al.|[2603.09587](https://arxiv.org/abs/2603.09587)|null|
+|**2026-03-10**|**Temporal-Conditioned Normalizing Flows for Multivariate Time Series Anomaly Detection**|David Baumgartner et.al.|[2603.09490](https://arxiv.org/abs/2603.09490)|null|
+|**2026-03-10**|**ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation**|Wenhao Yan et.al.|[2603.09358](https://arxiv.org/abs/2603.09358)|null|
+|**2026-03-10**|**TA-GGAD: Testing-time Adaptive Graph Model for Generalist Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.09349](https://arxiv.org/abs/2603.09349)|null|
+|**2026-03-10**|**Anomaly detection using surprisals**|Rob J Hyndman et.al.|[2603.09318](https://arxiv.org/abs/2603.09318)|null|
+|**2026-03-10**|**$P^2$ GNN: Two Prototype Sets to boost GNN Performance**|Arihant Jain et.al.|[2603.09195](https://arxiv.org/abs/2603.09195)|null|
+|**2026-03-09**|**NetDiffuser: Deceiving DNN-Based Network Attack Detection Systems with Diffusion-Generated Adversarial Traffic**|Pratyay Kumar et.al.|[2603.08901](https://arxiv.org/abs/2603.08901)|null|
+|**2026-03-09**|**Explicit or Implicit? Encoding Physics at the Precision Frontier**|Victor Breso-Pla et.al.|[2603.08802](https://arxiv.org/abs/2603.08802)|null|
+|**2026-03-07**|**Permutation-Equivariant 2D State Space Models: Theory and Canonical Architecture for Multivariate Time Series**|Seungwoo Jeong et.al.|[2603.08753](https://arxiv.org/abs/2603.08753)|null|
+|**2026-03-09**|**The Boiling Frog Threshold: Criticality and Blindness in World Model-Based Anomaly Detection Under Gradual Drift**|Zhe Hong et.al.|[2603.08455](https://arxiv.org/abs/2603.08455)|null|
+|**2026-03-09**|**Structure from Rank: Rank-Order Coding as a Bridge from Sequence to Structure**|Xiaodan Chen et.al.|[2603.08380](https://arxiv.org/abs/2603.08380)|null|
+|**2026-03-09**|**Beyond the Markovian Assumption: Robust Optimization via Fractional Weyl Integrals in Imbalanced Data**|Gustavo A. Dorrego et.al.|[2603.08377](https://arxiv.org/abs/2603.08377)|null|
+|**2026-03-09**|**SoK: Harmonizing Attack Graphs and Intrusion Detection Systems**|Andrea Agiollo et.al.|[2603.08295](https://arxiv.org/abs/2603.08295)|null|
+|**2026-03-09**|**A Comparative Study of Recent Advances in Internet of Intrusion Detection Things**|Marianna Rezk et.al.|[2603.08218](https://arxiv.org/abs/2603.08218)|null|
+|**2026-03-09**|**Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach**|Yunhui Liu et.al.|[2603.08137](https://arxiv.org/abs/2603.08137)|null|
+|**2026-03-09**|**Explainable Condition Monitoring via Probabilistic Anomaly Detection Applied to Helicopter Transmissions**|Aurelio Raffa Ugolini et.al.|[2603.08130](https://arxiv.org/abs/2603.08130)|null|
+|**2026-03-09**|**See and Switch: Vision-Based Branching for Interactive Robot-Skill Programming**|Petr Vanc et.al.|[2603.08057](https://arxiv.org/abs/2603.08057)|null|
+|**2026-03-09**|**VisualAD: Language-Free Zero-Shot Anomaly Detection via Vision Transformer**|Yanning Hou et.al.|[2603.07952](https://arxiv.org/abs/2603.07952)|null|
+|**2026-03-09**|**VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?**|Minkyu Kim et.al.|[2603.07888](https://arxiv.org/abs/2603.07888)|null|
+|**2026-03-09**|**An Interpretable Generative Framework for Anomaly Detection in High-Dimensional Financial Time Series**|Waldyn G Martinez et.al.|[2603.07864](https://arxiv.org/abs/2603.07864)|null|
+|**2026-03-08**|**Integration of deep generative Anomaly Detection algorithm in high-speed industrial line**|Niccolò Ferrari et.al.|[2603.07577](https://arxiv.org/abs/2603.07577)|null|
+|**2026-03-08**|**GRD-Net: Generative-Reconstructive-Discriminative Anomaly Detection with Region of Interest Attention Module**|Niccolò Ferrari et.al.|[2603.07566](https://arxiv.org/abs/2603.07566)|null|
+|**2026-03-08**|**Online Continual Learning for Anomaly Detection in IoT under Data Distribution Shifts**|Matea Marinova et.al.|[2603.07507](https://arxiv.org/abs/2603.07507)|null|
+|**2026-03-08**|**GSAT: Geometric Traversability Estimation using Self-supervised Learning with Anomaly Detection for Diverse Terrains**|Dongjin Cho et.al.|[2603.07480](https://arxiv.org/abs/2603.07480)|null|
+|**2026-03-07**|**Self-Supervised Evolutionary Learning of Neurodynamic Progression and Identity Manifolds from EEG During Safety-Critical Decision Making**|Xiaoshan Zhou et.al.|[2603.07334](https://arxiv.org/abs/2603.07334)|null|
+|**2026-03-07**|**PDD: Manifold-Prior Diverse Distillation for Medical Anomaly Detection**|Xijun Lu et.al.|[2603.07142](https://arxiv.org/abs/2603.07142)|null|
+|**2026-03-07**|**Interpretable Maximum Margin Deep Anomaly Detection**|Zhiji Yang et.al.|[2603.07073](https://arxiv.org/abs/2603.07073)|null|
+|**2026-03-07**|**Foundational World Models Accurately Detect Bimanual Manipulator Failures**|Isaac R. Ward et.al.|[2603.06987](https://arxiv.org/abs/2603.06987)|null|
+|**2026-03-06**|**Learning the Standard Model Manifold: Bayesian Latent Diffusion for Collider Anomaly Detection**|Jigar Patel et.al.|[2603.06754](https://arxiv.org/abs/2603.06754)|null|
+|**2026-03-06**|**Proteus: A Practical Framework for Privacy-Preserving Device Logs**|Sanket Goutam et.al.|[2603.06540](https://arxiv.org/abs/2603.06540)|null|
+|**2026-03-06**|**A Mixture-of-Experts Framework for Practical Hybrid-Quantum Models in Credit Card Fraud Detection**|Rodrigo Chaves et.al.|[2603.06473](https://arxiv.org/abs/2603.06473)|null|
+|**2026-03-06**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2603.06313](https://arxiv.org/abs/2603.06313)|null|
+|**2026-03-06**|**Word-Anchored Temporal Forgery Localization**|Tianyi Wang et.al.|[2603.06220](https://arxiv.org/abs/2603.06220)|null|
+|**2026-03-06**|**DQE: A Semantic-Aware Evaluation Metric for Time Series Anomaly Detection**|Yuewei Li et.al.|[2603.06131](https://arxiv.org/abs/2603.06131)|null|
+|**2026-03-05**|**Identifying Adversary Characteristics from an Observed Attack**|Soyon Choi et.al.|[2603.05625](https://arxiv.org/abs/2603.05625)|null|
+|**2026-03-03**|**In-batch Relational Features Enhance Precision in An Unsupervised Medical Anomaly Detection Task**|P. Bilha Githinji et.al.|[2603.05534](https://arxiv.org/abs/2603.05534)|null|
+|**2026-03-05**|**Extreme Quantum Cognition Machines for Deliberative Decision Making**|Francesco Romeo et.al.|[2603.05430](https://arxiv.org/abs/2603.05430)|null|
+|**2026-03-05**|**AegisUI: Behavioral Anomaly Detection for Structured User Interface Protocols in AI Agent Systems**|Mohd Safwan Uddin et.al.|[2603.05031](https://arxiv.org/abs/2603.05031)|null|
+|**2026-03-05**|**Are Multimodal LLMs Ready for Surveillance? A Reality Check on Zero-Shot Anomaly Detection in the Wild**|Shanle Yao et.al.|[2603.04727](https://arxiv.org/abs/2603.04727)|null|
+|**2026-03-05**|**From Offline to Periodic Adaptation for Pose-Based Shoplifting Detection in Real-world Retail Security**|Shanle Yao et.al.|[2603.04723](https://arxiv.org/abs/2603.04723)|null|
+|**2026-03-04**|**Beyond the Interface: Redefining UX for Society-in-the-Loop AI Systems**|Nahal Mafi et.al.|[2603.04552](https://arxiv.org/abs/2603.04552)|null|
+|**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](https://arxiv.org/abs/2603.04209)|null|
+|**2026-03-04**|**CAM-LDS: Cyber Attack Manifestations for Automatic Interpretation of System Logs and Security Alerts**|Max Landauer et.al.|[2603.04186](https://arxiv.org/abs/2603.04186)|null|
+|**2026-03-04**|**Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection**|Radia Daci et.al.|[2603.03939](https://arxiv.org/abs/2603.03939)|null|
+|**2026-03-04**|**Autoencoder-based framework for anomaly detection in stellar spectra: application to the MaNGA Stellar Library**|Akihiro Suzuki et.al.|[2603.03734](https://arxiv.org/abs/2603.03734)|null|
+|**2026-03-04**|**STARDIS: Strategic Scheduling and Deceptive Signaling for Satellite Intrusion Detection System Deployment**|Yuzhou Xiao et.al.|[2603.03678](https://arxiv.org/abs/2603.03678)|null|
+|**2026-03-03**|**Adversarial Learning Game for Intrusion Detection in Quantum Key Distribution**|Noureldin Mohamed et.al.|[2603.03502](https://arxiv.org/abs/2603.03502)|null|
+|**2026-03-03**|**DKD-KAN: A Lightweight knowledge-distilled KAN intrusion detection framework, based on MLP and KAN**|Mohammad Alikhani et.al.|[2603.03486](https://arxiv.org/abs/2603.03486)|null|
+|**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](https://arxiv.org/abs/2603.03106)|null|
+|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101](https://arxiv.org/abs/2603.03101)|null|
+|**2026-03-03**|**Spatial Autoregressive Modeling of DINOv3 Embeddings for Unsupervised Anomaly Detection**|Ertunc Erdil et.al.|[2603.02974](https://arxiv.org/abs/2603.02974)|null|
+|**2026-03-03**|**Improving Anomaly Detection with Foundation-Model Synthesis and Wavelet-Domain Attention**|Wensheng Wu et.al.|[2603.02964](https://arxiv.org/abs/2603.02964)|null|
+|**2026-03-03**|**Neural quantum support vector data description for one-class classification**|Changjae Im et.al.|[2603.02700](https://arxiv.org/abs/2603.02700)|null|
+|**2026-03-03**|**Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective**|Kaifang Long et.al.|[2603.02629](https://arxiv.org/abs/2603.02629)|null|
 |**2026-03-02**|**Solving Convex Quadratic Optimization with Indicators Over Structured Graphs**|Aaresh Bhathena et.al.|[2603.02103](https://arxiv.org/abs/2603.02103)|null|
 |**2026-03-02**|**GCTAM: Global and Contextual Truncated Affinity Combined Maximization Model For Unsupervised Graph Anomaly Detection**|Xiong Zhang et.al.|[2603.01806](https://arxiv.org/abs/2603.01806)|null|
 |**2026-03-02**|**Dual Distillation for Few-Shot Anomaly Detection**|Le Dong et.al.|[2603.01713](https://arxiv.org/abs/2603.01713)|null|

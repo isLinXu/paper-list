@@ -46,6 +46,9 @@ def get_authors(authors, first_author=False):
 
 def try_hf_repo(arxiv_id: str) -> str | None:
     """Attempt to extract a GitHub repo URL from Hugging Face papers page."""
+    # Hugging Face connection is unstable and causes timeouts in GitHub Actions.
+    # Disabling it to ensure daily updates succeed.
+    return None
     url = HF_PAPER_PAGE + arxiv_id
     try:
         r = requests.get(url, timeout=4, headers={'User-Agent': 'paper-list/1.0'})

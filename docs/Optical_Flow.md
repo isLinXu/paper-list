@@ -2,6 +2,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](https://arxiv.org/abs/2603.12064)|null|
+|**2026-03-12**|**HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI**|Chengwen Zhang et.al.|[2603.11809](https://arxiv.org/abs/2603.11809)|null|
+|**2026-03-11**|**Edge-Assisted Multi-Robot Visual-Inertial SLAM with Efficient Communication**|Xin Liu et.al.|[2603.11085](https://arxiv.org/abs/2603.11085)|null|
+|**2026-03-10**|**Robotic Ultrasound Makes CBCT Alive**|Feng Li et.al.|[2603.10220](https://arxiv.org/abs/2603.10220)|null|
+|**2026-03-10**|**Streaming Autoregressive Video Generation via Diagonal Distillation**|Jinxiu Liu et.al.|[2603.09488](https://arxiv.org/abs/2603.09488)|null|
+|**2026-03-09**|**Fly, Track, Land: Infrastructure-less Magnetic Localization for Heterogeneous UAV-UGV Teaming**|Valerio Brunacci et.al.|[2603.08926](https://arxiv.org/abs/2603.08926)|null|
+|**2026-03-09**|**HDR-NSFF: High Dynamic Range Neural Scene Flow Fields**|Shin Dong-Yeon et.al.|[2603.08313](https://arxiv.org/abs/2603.08313)|null|
+|**2026-03-09**|**Event-based Motion & Appearance Fusion for 6D Object Pose Tracking**|Zhichao Li et.al.|[2603.08264](https://arxiv.org/abs/2603.08264)|null|
+|**2026-03-09**|**DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving**|Zhuolin He et.al.|[2603.08254](https://arxiv.org/abs/2603.08254)|null|
+|**2026-03-09**|**Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors**|Ishrat Jahan et.al.|[2603.08208](https://arxiv.org/abs/2603.08208)|null|
+|**2026-03-07**|**Fine-Grained 3D Facial Reconstruction for Micro-Expressions**|Che Sun et.al.|[2603.07043](https://arxiv.org/abs/2603.07043)|null|
+|**2026-03-06**|**SurgSync: Time-Synchronized Multi-Modal Data Collection Framework and Dataset for Surgical Robotics**|Haoying Zhou et.al.|[2603.06919](https://arxiv.org/abs/2603.06919)|null|
+|**2026-03-06**|**An Extended Topological Model For High-Contrast Optical Flow**|Brad Turow et.al.|[2603.06853](https://arxiv.org/abs/2603.06853)|null|
+|**2026-03-05**|**RealWonder: Real-Time Physical Action-Conditioned Video Generation**|Wei Liu et.al.|[2603.05449](https://arxiv.org/abs/2603.05449)|null|
+|**2026-03-05**|**FC-VFI: Faithful and Consistent Video Frame Interpolation for High-FPS Slow Motion Video Generation**|Ganggui Ding et.al.|[2603.04899](https://arxiv.org/abs/2603.04899)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338](https://arxiv.org/abs/2603.04338)|null|
+|**2026-03-04**|**Architecture and evaluation protocol for transformer-based visual object tracking in UAV applications**|Augustin Borne et.al.|[2603.03904](https://arxiv.org/abs/2603.03904)|null|
+|**2026-03-03**|**Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels**|Jiahao Lu et.al.|[2603.02573](https://arxiv.org/abs/2603.02573)|null|
 |**2026-03-01**|**FREE-Edit: Using Editing-aware Injection in Rectified Flow Models for Zero-shot Image-Driven Video Editing**|Maomao Li et.al.|[2603.01164](https://arxiv.org/abs/2603.01164)|null|
 |**2026-02-26**|**DMAligner: Enhancing Image Alignment via Diffusion Model Based View Synthesis**|Xinglong Luo et.al.|[2602.23022](https://arxiv.org/abs/2602.23022)|null|
 |**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941](https://arxiv.org/abs/2602.22941)|null|

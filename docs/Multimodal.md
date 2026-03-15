@@ -2,6 +2,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling**|Junhyeong Byeon et.al.|[2603.11971](https://arxiv.org/abs/2603.11971)|null|
+|**2026-03-12**|**Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework**|Chingkwun Lam et.al.|[2603.11768](https://arxiv.org/abs/2603.11768)|null|
+|**2026-03-12**|**IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis**|Chongxiao Wang et.al.|[2603.11644](https://arxiv.org/abs/2603.11644)|null|
+|**2026-03-11**|**Learning Tree-Based Models with Gradient Descent**|Sascha Marton et.al.|[2603.11117](https://arxiv.org/abs/2603.11117)|null|
+|**2026-03-07**|**AMB-DSGDN: Adaptive Modality-Balanced Dynamic Semantic Graph Differential Network for Multimodal Emotion Recognition**|Yunsheng Wang et.al.|[2603.10043](https://arxiv.org/abs/2603.10043)|null|
+|**2026-03-10**|**Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT**|Peng Sun et.al.|[2603.09715](https://arxiv.org/abs/2603.09715)|null|
+|**2026-03-10**|**AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering**|Nguyen Anh Tuong et.al.|[2603.09689](https://arxiv.org/abs/2603.09689)|null|
+|**2026-03-10**|**Grounding Synthetic Data Generation With Vision and Language Models**|Ümit Mert Çağlar et.al.|[2603.09625](https://arxiv.org/abs/2603.09625)|null|
+|**2026-03-10**|**OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing**|Lixiang Lin et.al.|[2603.09084](https://arxiv.org/abs/2603.09084)|null|
+|**2026-03-09**|**AI Agents, Language, Deep Learning and the Next Revolution in Science**|Ke Li et.al.|[2603.07940](https://arxiv.org/abs/2603.07940)|null|
+|**2026-03-08**|**AeroPlace-Flow: Language-Grounded Object Placement for Aerial Manipulators via Visual Foresight and Object Flow**|Sarthak Mishra et.al.|[2603.07744](https://arxiv.org/abs/2603.07744)|null|
+|**2026-03-07**|**Chart-RL: Generalized Chart Comprehension via Reinforcement Learning with Verifiable Rewards**|Xin Zhang et.al.|[2603.06958](https://arxiv.org/abs/2603.06958)|null|
+|**2026-03-06**|**ProtAlign: Contrastive learning paradigm for Sequence and structure alignment**|Aditya Ranganath et.al.|[2603.06722](https://arxiv.org/abs/2603.06722)|null|
+|**2026-03-05**|**Aligning the True Semantics: Constrained Decoupling and Distribution Sampling for Cross-Modal Alignment**|Xiang Ma et.al.|[2603.05566](https://arxiv.org/abs/2603.05566)|null|
+|**2026-03-05**|**OpenFrontier: General Navigation with Visual-Language Grounded Frontiers**|Esteban Padilla et.al.|[2603.05377](https://arxiv.org/abs/2603.05377)|null|
+|**2026-03-05**|**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**|Yanlin Li et.al.|[2603.05075](https://arxiv.org/abs/2603.05075)|null|
+|**2026-03-05**|**Haptics in Cognition: Disruptor or Enabler of Memory?**|Bibeg Limbu et.al.|[2603.05019](https://arxiv.org/abs/2603.05019)|null|
+|**2026-03-05**|**Beyond Text: Aligning Vision and Language for Multimodal E-Commerce Retrieval**|Qujiaheng Zhang et.al.|[2603.04836](https://arxiv.org/abs/2603.04836)|null|
+|**2026-03-04**|**CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing**|Juampablo E. Heras Rivera et.al.|[2603.03618](https://arxiv.org/abs/2603.03618)|null|
+|**2026-03-03**|**DREAM: Where Visual Understanding Meets Text-to-Image Generation**|Chao Li et.al.|[2603.02667](https://arxiv.org/abs/2603.02667)|null|
+|**2026-03-03**|**An LLM-Assisted Toolkit for Inspectable Multimodal Emotion Data Annotation**|Zheyuan Kuang et.al.|[2603.02569](https://arxiv.org/abs/2603.02569)|null|
+|**2026-03-03**|**SGMA: Semantic-Guided Modality-Aware Segmentation for Remote Sensing with Incomplete Multimodal Data**|Lekang Wen et.al.|[2603.02505](https://arxiv.org/abs/2603.02505)|null|
 |**2026-03-01**|**Beyond Global Similarity: Towards Fine-Grained, Multi-Condition Multimodal Retrieval**|Xuan Lu et.al.|[2603.01082](https://arxiv.org/abs/2603.01082)|null|
 |**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](https://arxiv.org/abs/2603.00599)|null|
 |**2026-02-05**|**XEmoGPT: An Explainable Multimodal Emotion Recognition Framework with Cue-Level Perception and Reasoning**|Hanwen Zhang et.al.|[2602.05496](https://arxiv.org/abs/2602.05496)|null|

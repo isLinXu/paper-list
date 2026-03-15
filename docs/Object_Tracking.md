@@ -2,6 +2,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Distributed Kalman--Consensus Filtering with Adaptive Uncertainty Weighting for Multi-Object Tracking in Mobile Robot Networks**|Niusha Khosravi et.al.|[2603.11328](https://arxiv.org/abs/2603.11328)|null|
+|**2026-03-10**|**Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking**|Shilei Wang et.al.|[2603.09287](https://arxiv.org/abs/2603.09287)|null|
+|**2026-03-09**|**Can Vision-Language Models Solve the Shell Game?**|Tiedong Liu et.al.|[2603.08436](https://arxiv.org/abs/2603.08436)|null|
+|**2026-03-09**|**Fusion-Poly: A Polyhedral Framework Based on Spatial-Temporal Fusion for 3D Multi-Object Tracking**|Xian Wu et.al.|[2603.08199](https://arxiv.org/abs/2603.08199)|null|
+|**2026-03-08**|**Training-free Temporal Object Tracking in Surgical Videos**|Subhadeep Koley et.al.|[2603.07839](https://arxiv.org/abs/2603.07839)|null|
+|**2026-03-08**|**SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking**|Zixiao Wen et.al.|[2603.07564](https://arxiv.org/abs/2603.07564)|null|
+|**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](https://arxiv.org/abs/2603.07338)|null|
+|**2026-03-06**|**NOVA: Next-step Open-Vocabulary Autoregression for 3D Multi-Object Tracking in Autonomous Driving**|Kai Luo et.al.|[2603.06254](https://arxiv.org/abs/2603.06254)|null|
+|**2026-03-06**|**Occlusion-Aware SORT: Observing Occlusion for Robust Multi-Object Tracking**|Chunjiang Li et.al.|[2603.06034](https://arxiv.org/abs/2603.06034)|null|
+|**2026-03-06**|**Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions**|Jingtao Ye et.al.|[2603.05970](https://arxiv.org/abs/2603.05970)|null|
+|**2026-03-05**|**Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**|Lizhi Yang et.al.|[2603.05497](https://arxiv.org/abs/2603.05497)|null|
+|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[2603.05463](https://arxiv.org/abs/2603.05463)|null|
+|**2026-03-05**|**Video-based Locomotion Analysis for Fish Health Monitoring**|Timon Palm et.al.|[2603.05407](https://arxiv.org/abs/2603.05407)|null|
+|**2026-03-05**|**ORMOT: A Dataset and Framework for Omnidirectional Referring Multi-Object Tracking**|Sijia Chen et.al.|[2603.05384](https://arxiv.org/abs/2603.05384)|null|
+|**2026-03-04**|**Architecture and evaluation protocol for transformer-based visual object tracking in UAV applications**|Augustin Borne et.al.|[2603.03904](https://arxiv.org/abs/2603.03904)|null|
 |**2026-03-02**|**UETrack: A Unified and Efficient Framework for Single Object Tracking**|Ben Kang et.al.|[2603.01412](https://arxiv.org/abs/2603.01412)|null|
 |**2026-02-28**|**TP-Spikformer: Token Pruned Spiking Transformer**|Wenjie Wei et.al.|[2603.00527](https://arxiv.org/abs/2603.00527)|null|
 |**2026-02-26**|**Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators**|Yuhao Liu et.al.|[2602.23334](https://arxiv.org/abs/2602.23334)|null|

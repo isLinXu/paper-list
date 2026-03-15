@@ -2,6 +2,59 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](https://arxiv.org/abs/2603.12046)|null|
+|**2026-03-12**|**ReDimNet2: Scaling Speaker Verification via Time-Pooled Dimension Reshaping**|Ivan Yakovlev et.al.|[2603.11841](https://arxiv.org/abs/2603.11841)|null|
+|**2026-03-12**|**Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2**|Suvendu Sekhar Mohanty et.al.|[2603.11683](https://arxiv.org/abs/2603.11683)|null|
+|**2026-03-12**|**RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis**|Yongjoon Lee et.al.|[2603.11678](https://arxiv.org/abs/2603.11678)|null|
+|**2026-03-11**|**Continued Pretraining for Low-Resource Swahili ASR: Achieving State-of-the-Art Performance with Minimal Labeled Data**|Hillary Mutisya et.al.|[2603.11378](https://arxiv.org/abs/2603.11378)|null|
+|**2026-03-11**|**Duration Aware Scheduling for ASR Serving Under Workload Drift**|Darshan Makwana et.al.|[2603.11273](https://arxiv.org/abs/2603.11273)|null|
+|**2026-03-11**|**Huntington Disease Automatic Speech Recognition with Biomarker Supervision**|Charles L. Wang et.al.|[2603.11168](https://arxiv.org/abs/2603.11168)|null|
+|**2026-03-11**|**Uni-ASR: Unified LLM-Based Architecture for Non-Streaming and Streaming Automatic Speech Recognition**|Yinfeng Xia et.al.|[2603.11123](https://arxiv.org/abs/2603.11123)|null|
+|**2026-03-11**|**V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation**|Yan-Bo Lin et.al.|[2603.11042](https://arxiv.org/abs/2603.11042)|null|
+|**2026-03-11**|**Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation**|Thomas Thebaud et.al.|[2603.10827](https://arxiv.org/abs/2603.10827)|null|
+|**2026-03-11**|**Probabilistic Verification of Voice Anti-Spoofing Models**|Evgeny Kushnir et.al.|[2603.10713](https://arxiv.org/abs/2603.10713)|null|
+|**2026-03-11**|**AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow**|Duojia Li et.al.|[2603.10701](https://arxiv.org/abs/2603.10701)|null|
+|**2026-03-11**|**Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**|Hao Shi et.al.|[2603.10587](https://arxiv.org/abs/2603.10587)|null|
+|**2026-03-11**|**FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System**|Kaituo Xu et.al.|[2603.10420](https://arxiv.org/abs/2603.10420)|null|
+|**2026-03-11**|**NasoVoce: A Nose-Mounted Low-Audibility Speech Interface for Always-Available Speech Interaction**|Jun Rekimoto et.al.|[2603.10324](https://arxiv.org/abs/2603.10324)|null|
+|**2026-03-10**|**SCENEBench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases**|Laya Iyer et.al.|[2603.09853](https://arxiv.org/abs/2603.09853)|null|
+|**2026-03-10**|**A Semi-spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition**|Dimme de Groot et.al.|[2603.09725](https://arxiv.org/abs/2603.09725)|null|
+|**2026-03-10**|**Emotion-Aware Prefix: Towards Explicit Emotion Control in Voice Conversion Models**|Haoyuan Yang et.al.|[2603.09120](https://arxiv.org/abs/2603.09120)|null|
+|**2026-03-10**|**Trade-offs Between Capacity and Robustness in Neural Audio Codecs for Adversarially Robust Speech Recognition**|Jordan Prescott et.al.|[2603.09034](https://arxiv.org/abs/2603.09034)|null|
+|**2026-03-09**|**Universal Speech Content Factorization**|Henry Li Xinyuan et.al.|[2603.08977](https://arxiv.org/abs/2603.08977)|null|
+|**2026-03-09**|**NLE: Non-autoregressive LLM-based ASR by Transcript Editing**|Avihu Dekel et.al.|[2603.08397](https://arxiv.org/abs/2603.08397)|null|
+|**2026-03-09**|**Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**|Pol Buitrago et.al.|[2603.08249](https://arxiv.org/abs/2603.08249)|null|
+|**2026-03-09**|**Quantifying Cross-Lingual Transfer in Paralinguistic Speech Tasks**|Pol Buitrago et.al.|[2603.08231](https://arxiv.org/abs/2603.08231)|null|
+|**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](https://arxiv.org/abs/2603.08125)|null|
+|**2026-03-09**|**Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge**|Ze Li et.al.|[2603.08092](https://arxiv.org/abs/2603.08092)|null|
+|**2026-03-09**|**Designing a Generative AI-Assisted Music Psychotherapy Tool for Deaf and Hard-of-Hearing Individuals**|Youjin Choi et.al.|[2603.07963](https://arxiv.org/abs/2603.07963)|null|
+|**2026-03-08**|**Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR**|Rishikesh Kumar Sharma et.al.|[2603.07554](https://arxiv.org/abs/2603.07554)|null|
+|**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](https://arxiv.org/abs/2603.07513)|null|
+|**2026-03-07**|**Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning**|Wenjie Tian et.al.|[2603.07263](https://arxiv.org/abs/2603.07263)|null|
+|**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](https://arxiv.org/abs/2603.07072)|null|
+|**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](https://arxiv.org/abs/2603.06505)|null|
+|**2026-03-06**|**Continual Adaptation for Pacific Indigenous Speech Recognition**|Yang Xiao et.al.|[2603.06310](https://arxiv.org/abs/2603.06310)|null|
+|**2026-03-06**|**Whisper-CD: Accurate Long-Form Speech Recognition using Multi-Negative Contrastive Decoding**|Hoseong Ahn et.al.|[2603.06193](https://arxiv.org/abs/2603.06193)|null|
+|**2026-03-06**|**Is it Me? Toward Self-Extension to AI Avatars in Virtual Reality**|Jieying Zhang et.al.|[2603.06030](https://arxiv.org/abs/2603.06030)|null|
+|**2026-03-06**|**How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?**|Daixian Li et.al.|[2603.05852](https://arxiv.org/abs/2603.05852)|null|
+|**2026-03-06**|**Which Data Matter? Embedding-Based Data Selection for Speech Recognition**|Zakaria Aldeneh et.al.|[2603.05819](https://arxiv.org/abs/2603.05819)|null|
+|**2026-03-06**|**Activation Steering for Accent Adaptation in Speech Foundation Models**|Jinuo Sun et.al.|[2603.05813](https://arxiv.org/abs/2603.05813)|null|
+|**2026-03-05**|**Koopman Regularized Deep Speech Disentanglement for Speaker Verification**|Nikos Chazaridis et.al.|[2603.05577](https://arxiv.org/abs/2603.05577)|null|
+|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](https://arxiv.org/abs/2603.05373)|null|
+|**2026-03-05**|**PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2603.05314](https://arxiv.org/abs/2603.05314)|null|
+|**2026-03-05**|**Visual-Informed Speech Enhancement Using Attention-Based Beamforming**|Chihyun Liu et.al.|[2603.05270](https://arxiv.org/abs/2603.05270)|null|
+|**2026-03-05**|**Beyond Word Error Rate: Auditing the Diversity Tax in Speech Recognition through Dataset Cartography**|Ting-Hui Cheng et.al.|[2603.05267](https://arxiv.org/abs/2603.05267)|null|
+|**2026-03-05**|**Boosting ASR Robustness via Test-Time Reinforcement Learning with Audio-Text Semantic Rewards**|Linghan Fang et.al.|[2603.05231](https://arxiv.org/abs/2603.05231)|null|
+|**2026-03-05**|**Federated Heterogeneous Language Model Optimization for Hybrid Automatic Speech Recognition**|Mengze Hong et.al.|[2603.04945](https://arxiv.org/abs/2603.04945)|null|
+|**2026-03-05**|**Spectral dynamics reservoir computing for high-speed hardware-efficient neuromorphic processing**|Jiaxuan Chen et.al.|[2603.04901](https://arxiv.org/abs/2603.04901)|null|
+|**2026-03-05**|**WhisperAlign: Word-Boundary-Aware ASR and WhisperX-Anchored Pyannote Diarization for Long-Form Bengali Speech**|Aurchi Chowdhury et.al.|[2603.04809](https://arxiv.org/abs/2603.04809)|null|
+|**2026-03-05**|**When Denoising Hinders: Revisiting Zero-Shot ASR with SAM-Audio and Whisper**|Akif Islam et.al.|[2603.04710](https://arxiv.org/abs/2603.04710)|null|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](https://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**Robust LLM-based Audio-Visual Speech Recognition with Sparse Modality Alignment and Visual Unit-Guided Refinement**|Fei Su et.al.|[2603.03811](https://arxiv.org/abs/2603.03811)|null|
+|**2026-03-03**|**An Investigation Into Various Approaches For Bengali Long-Form Speech Transcription and Bengali Speaker Diarization**|Epshita Jahan et.al.|[2603.03158](https://arxiv.org/abs/2603.03158)|null|
+|**2026-03-03**|**Speech recognition assisted by large language models to command software orally -- Application to an augmented and virtual reality web app for immersive molecular graphics**|Fabio Cortes Rodriguez et.al.|[2603.02901](https://arxiv.org/abs/2603.02901)|null|
+|**2026-03-03**|**SilentWear: an Ultra-Low Power Wearable System for EMG-based Silent Speech Recognition**|Giusy Spacone et.al.|[2603.02847](https://arxiv.org/abs/2603.02847)|null|
+|**2026-03-03**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](https://arxiv.org/abs/2603.02813)|null|
 |**2026-03-02**|**ViTex: Visual Texture Control for Multi-Track Symbolic Music Generation via Discrete Diffusion Models**|Xiaoyu Yi et.al.|[2603.01984](https://arxiv.org/abs/2603.01984)|null|
 |**2026-03-02**|**VietSuperSpeech: A Large-Scale Vietnamese Conversational Speech Dataset for ASR Fine-Tuning in Chatbot, Customer Support, and Call Center Applications**|Loan Do et.al.|[2603.01894](https://arxiv.org/abs/2603.01894)|null|
 |**2026-03-02**|**More Data, Fewer Diacritics: Scaling Arabic TTS**|Ahmed Musleh et.al.|[2603.01622](https://arxiv.org/abs/2603.01622)|null|
