@@ -2,6 +2,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|COVTrack++: Learning Open-Vocabulary Multi-Object Tracking from Continuous Videos via a Synergistic Paradigm|Zekun Qian et.al.|[2603.24016](https://arxiv.org/abs/2603.24016)|null|
+|2026-03-24|AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation|Woojeong Jin et.al.|[2603.23489](https://arxiv.org/abs/2603.23489)|null|
+|2026-03-23|Probabilistic modeling over permutations using quantum computers|Vasilis Belis et.al.|[2603.22401](https://arxiv.org/abs/2603.22401)|null|
+|2026-03-23|Disengagement Analysis and Field Tests of a Prototypical Open-Source Level 4 Autonomous Driving System|Marvin Seegert et.al.|[2603.21926](https://arxiv.org/abs/2603.21926)|null|
+|2026-03-23|Dual-level Adaptation for Multi-Object Tracking: Building Test-Time Calibration from Experience and Intuition|Wen Guo et.al.|[2603.21629](https://arxiv.org/abs/2603.21629)|null|
+|2026-03-22|Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving|Haixi Zhang et.al.|[2603.21061](https://arxiv.org/abs/2603.21061)|null|
+|2026-03-21|VSD-MOT: End-to-End Multi-Object Tracking in Low-Quality Video Scenes Guided by Visual Semantic Distillation|Jun Du et.al.|[2603.20731](https://arxiv.org/abs/2603.20731)|null|
+|2026-03-18|Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision|Nikhil Gosala et.al.|[2603.18298](https://arxiv.org/abs/2603.18298)|null|
+|2026-03-16|ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation|Aditya Iyer et.al.|[2603.15812](https://arxiv.org/abs/2603.15812)|null|
+|2026-03-16|Video Detector: A Dual-Phase Vision-Based System for Real-Time Traffic Intersection Control and Intelligent Transportation Analysis|Mustafa Fatih Şen et.al.|[2603.14861](https://arxiv.org/abs/2603.14861)|null|
 |**2026-03-11**|**Distributed Kalman--Consensus Filtering with Adaptive Uncertainty Weighting for Multi-Object Tracking in Mobile Robot Networks**|Niusha Khosravi et.al.|[2603.11328](https://arxiv.org/abs/2603.11328)|null|
 |**2026-03-10**|**Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking**|Shilei Wang et.al.|[2603.09287](https://arxiv.org/abs/2603.09287)|null|
 |**2026-03-09**|**Can Vision-Language Models Solve the Shell Game?**|Tiedong Liu et.al.|[2603.08436](https://arxiv.org/abs/2603.08436)|null|

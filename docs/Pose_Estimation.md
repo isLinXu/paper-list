@@ -2,6 +2,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics|Junheng Li et.al.|[2603.23995](https://arxiv.org/abs/2603.23995)|null|
+|2026-03-24|Object Pose Transformer: Unifying Unseen Object Pose Estimation|Weihang Li et.al.|[2603.23370](https://arxiv.org/abs/2603.23370)|null|
+|2026-03-24|PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals|Jesse F. d'Almeida et.al.|[2603.23365](https://arxiv.org/abs/2603.23365)|null|
+|2026-03-24|Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors|Chuanqing Zhuang et.al.|[2603.23324](https://arxiv.org/abs/2603.23324)|null|
+|2026-03-24|MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects|Shiyu Li et.al.|[2603.22839](https://arxiv.org/abs/2603.22839)|null|
+|2026-03-24|Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting|Shuojue Yang et.al.|[2603.22792](https://arxiv.org/abs/2603.22792)|null|
+|2026-03-24|WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment|Tzu-Ti Wei et.al.|[2603.22690](https://arxiv.org/abs/2603.22690)|null|
+|2026-03-23|CAM3R: Camera-Agnostic Model for 3D Reconstruction|Namitha Guruprasad et.al.|[2603.22631](https://arxiv.org/abs/2603.22631)|null|
+|2026-03-23|PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation|Mingju Gao et.al.|[2603.22193](https://arxiv.org/abs/2603.22193)|null|
+|2026-03-22|Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing|Haodong Zheng et.al.|[2603.21410](https://arxiv.org/abs/2603.21410)|null|
+|2026-03-22|Geometrically Plausible Object Pose Refinement using Differentiable Simulation|Anil Zeybek et.al.|[2603.20992](https://arxiv.org/abs/2603.20992)|null|
+|2026-03-21|PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization|Xiaoya Cheng et.al.|[2603.20778](https://arxiv.org/abs/2603.20778)|null|
+|2026-03-21|Current state of the multi-agent multi-view experimental and digital twin rendezvous (MMEDR-Autonomous) framework|Logan Banker et.al.|[2603.20575](https://arxiv.org/abs/2603.20575)|null|
+|2026-03-20|Benchmarking Efficient & Effective Camera Pose Estimation Strategies for Novel View Synthesis|Jhacson Meza et.al.|[2603.20428](https://arxiv.org/abs/2603.20428)|null|
+|2026-03-20|NCSTR: Node-Centric Decoupled Spatio-Temporal Reasoning for Video-based Human Pose Estimation|Quang Dang Huynh et.al.|[2603.20323](https://arxiv.org/abs/2603.20323)|null|
+|2026-03-20|Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation|Nassim Ali Ousalah et.al.|[2603.19961](https://arxiv.org/abs/2603.19961)|null|
+|2026-03-20|FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision|Zekai Wu et.al.|[2603.19770](https://arxiv.org/abs/2603.19770)|null|
+|2026-03-20|Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis|Weisheng Xu et.al.|[2603.19709](https://arxiv.org/abs/2603.19709)|null|
+|2026-03-20|IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1|Jun Wang et.al.|[2603.19625](https://arxiv.org/abs/2603.19625)|null|
+|2026-03-20|UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair|Chuanrui Zhang et.al.|[2603.19616](https://arxiv.org/abs/2603.19616)|null|
+|2026-03-20|LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment|Shuaibang Peng et.al.|[2603.19609](https://arxiv.org/abs/2603.19609)|null|
+|2026-03-19|Measuring 3D Spatial Geometric Consistency in Dynamic Generated Videos|Weijia Dou et.al.|[2603.19048](https://arxiv.org/abs/2603.19048)|null|
+|2026-03-19|Generalized Hand-Object Pose Estimation with Occlusion Awareness|Hui Yang et.al.|[2603.19013](https://arxiv.org/abs/2603.19013)|null|
+|2026-03-19|SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction|Vsevolod Skorokhodov et.al.|[2603.18774](https://arxiv.org/abs/2603.18774)|null|
+|2026-03-19|EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation|Longfei Liu et.al.|[2603.18739](https://arxiv.org/abs/2603.18739)|null|
+|2026-03-18|PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery|Yijing Guo et.al.|[2603.17571](https://arxiv.org/abs/2603.17571)|null|
+|2026-03-18|Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation|Rui Hong et.al.|[2603.17396](https://arxiv.org/abs/2603.17396)|null|
+|2026-03-17|MessyKitchens: Contact-rich object-level 3D scene reconstruction|Junaid Ahmed Ansari et.al.|[2603.16868](https://arxiv.org/abs/2603.16868)|null|
+|2026-03-17|M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM|Kerui Ren et.al.|[2603.16844](https://arxiv.org/abs/2603.16844)|null|
+|2026-03-17|FSMC-Pose: Frequency and Spatial Fusion with Multiscale Self-calibration for Cattle Mounting Pose Estimation|Fangjing Li et.al.|[2603.16596](https://arxiv.org/abs/2603.16596)|null|
+|2026-03-17|Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds|Daniel Sungho Jung et.al.|[2603.16343](https://arxiv.org/abs/2603.16343)|null|
+|2026-03-16|Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments|Aaditya Khanal et.al.|[2603.15574](https://arxiv.org/abs/2603.15574)|null|
+|2026-03-16|Pointing-Based Object Recognition|Lukáš Hajdúch et.al.|[2603.15403](https://arxiv.org/abs/2603.15403)|null|
+|2026-03-16|Fast Volume Alignment by Frequency-Marched Newton|Fabian Kruse et.al.|[2603.15285](https://arxiv.org/abs/2603.15285)|null|
+|2026-03-16|Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator|Gyeongsik Moon et.al.|[2603.14726](https://arxiv.org/abs/2603.14726)|null|
+|2026-03-15|Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets|Zhuoxuan Peng et.al.|[2603.14507](https://arxiv.org/abs/2603.14507)|null|
+|2026-03-15|eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation|Prithvi Jai Ramesh et.al.|[2603.14397](https://arxiv.org/abs/2603.14397)|null|
 |**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[2603.12176](https://arxiv.org/abs/2603.12176)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](https://arxiv.org/abs/2603.12064)|null|
 |**2026-03-12**|**Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization**|Hanyang Hu et.al.|[2603.11404](https://arxiv.org/abs/2603.11404)|null|

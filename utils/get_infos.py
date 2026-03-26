@@ -13,6 +13,11 @@ HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 
+
+def sanitize_table_cell(value: str) -> str:
+    """Keep markdown table rows parseable even when metadata contains pipes."""
+    return str(value).replace("|", " | ").replace("\n", " ").strip()
+
 def get_code_link(qword: str, github_url: str) -> str:
     """
     @param qword: query string, eg. arxiv ids and paper titles
@@ -125,11 +130,11 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
             result_count += 1
 
             paper_id = result.get_short_id()
-            paper_title = result.title
+            paper_title = sanitize_table_cell(result.title)
             paper_url = result.entry_id
             paper_abstract = result.summary.replace("\n", " ")
             paper_authors = get_authors(result.authors)
-            paper_first_author = get_authors(result.authors, first_author=True)
+            paper_first_author = sanitize_table_cell(get_authors(result.authors, first_author=True))
             primary_category = result.primary_category
             update_time = result.updated.date()
             comments = result.comment

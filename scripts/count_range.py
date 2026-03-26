@@ -22,7 +22,7 @@ def main():
     with open(json_path, 'r') as f:
         data = json.load(f)
 
-    rx = re.compile(r"\|\*\*(\d{4}-\d{2}-\d{2})\*\*\|")
+    rx = re.compile(r"\|\*{0,2}(\d{4}-\d{2}-\d{2})\*{0,2}\|")
 
     counts = OrderedDict()
     total = 0

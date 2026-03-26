@@ -2,6 +2,33 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control|Li Gao et.al.|[2603.24021](https://arxiv.org/abs/2603.24021)|null|
+|2026-03-25|Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing|Xusen Guo et.al.|[2603.24014](https://arxiv.org/abs/2603.24014)|null|
+|2026-03-25|Thinking with Tables: Enhancing Multi-Modal Tabular Understanding via Neuro-Symbolic Reasoning|Kun-Yang Yu et.al.|[2603.24004](https://arxiv.org/abs/2603.24004)|null|
+|2026-03-25|DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning|Jiajian Huang et.al.|[2603.23916](https://arxiv.org/abs/2603.23916)|null|
+|2026-03-25|BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment|Risa Shinoda et.al.|[2603.23883](https://arxiv.org/abs/2603.23883)|null|
+|2026-03-23|Multimodal Training to Unimodal Deployment: Leveraging Unstructured Data During Training to Optimize Structured Data Only Deployment|Zigui Wang et.al.|[2603.22530](https://arxiv.org/abs/2603.22530)|null|
+|2026-03-23|Rethinking Multimodal Fusion for Time Series: Auxiliary Modalities Need Constrained Fusion|Seunghan Lee et.al.|[2603.22372](https://arxiv.org/abs/2603.22372)|null|
+|2026-03-22|Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations|Tao Meng et.al.|[2603.22345](https://arxiv.org/abs/2603.22345)|null|
+|2026-03-18|Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report|Deliang Wen et.al.|[2603.22306](https://arxiv.org/abs/2603.22306)|null|
+|2026-03-23|Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning|Minseok Kang et.al.|[2603.21559](https://arxiv.org/abs/2603.21559)|null|
+|2026-03-21|AcoustEmo: Open-Vocabulary Emotion Reasoning via Utterance-Aware Acoustic Q-Former|Liyun Zhang et.al.|[2603.20894](https://arxiv.org/abs/2603.20894)|null|
+|2026-03-20|BALM: A Model-Agnostic Framework for Balanced Multimodal Learning under Imbalanced Missing Rates|Phuong-Anh Nguyen et.al.|[2603.19718](https://arxiv.org/abs/2603.19718)|null|
+|2026-03-20|Unbiased Dynamic Multimodal Fusion|Shicai Wei et.al.|[2603.19681](https://arxiv.org/abs/2603.19681)|null|
+|2026-03-19|Gastric-X: A Multimodal Multi-Phase Benchmark Dataset for Advancing Vision-Language Models in Gastric Cancer Analysis|Sheng Lu et.al.|[2603.19516](https://arxiv.org/abs/2603.19516)|null|
+|2026-03-19|Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation|Swagat Padhan et.al.|[2603.19166](https://arxiv.org/abs/2603.19166)|null|
+|2026-03-19|NymeriaPlus: Enriching Nymeria Dataset with Additional Annotations and Data|Daniel DeTone et.al.|[2603.18496](https://arxiv.org/abs/2603.18496)|null|
+|2026-03-18|Interpretable Traffic Responsibility from Dashcam Video via Legal Multi Agent Reasoning|Jingchun Yang et.al.|[2603.17930](https://arxiv.org/abs/2603.17930)|null|
+|2026-03-18|Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning|Zechang Xiong et.al.|[2603.17347](https://arxiv.org/abs/2603.17347)|null|
+|2026-03-18|On the Cone Effect and Modality Gap in Medical Vision-Language Embeddings|David Restrepo et.al.|[2603.17246](https://arxiv.org/abs/2603.17246)|null|
+|2026-03-17|Follow the Clues, Frame the Truth: Hybrid-evidential Deductive Reasoning in Open-Vocabulary Multimodal Emotion Recognition|Yu Liu et.al.|[2603.16463](https://arxiv.org/abs/2603.16463)|null|
+|2026-03-17|Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval|Weiqing Li et.al.|[2603.16455](https://arxiv.org/abs/2603.16455)|null|
+|2026-03-17|HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction|Jing Dai et.al.|[2603.16421](https://arxiv.org/abs/2603.16421)|null|
+|2026-03-16|Data-Local Autonomous LLM-Guided Neural Architecture Search for Multiclass Multimodal Time-Series Classification|Emil Hardarson et.al.|[2603.15939](https://arxiv.org/abs/2603.15939)|null|
+|2026-03-16|RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation|Linfei Li et.al.|[2603.14880](https://arxiv.org/abs/2603.14880)|null|
+|2026-03-15|4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding|Mohamed Rayan Barhdadi et.al.|[2603.14301](https://arxiv.org/abs/2603.14301)|null|
+|2026-03-15|A Real-Time Neuro-Symbolic Ethical Governor for Safe Decision Control in Autonomous Robotic Manipulation|Aueaphum Aueawatthanaphisut et.al.|[2603.14221](https://arxiv.org/abs/2603.14221)|null|
+|2026-03-15|Balancing Multimodal Domain Generalization via Gradient Modulation and Projection|Hongzhao Li et.al.|[2603.14175](https://arxiv.org/abs/2603.14175)|null|
 |**2026-03-12**|**Multimodal Emotion Recognition via Bi-directional Cross-Attention and Temporal Modeling**|Junhyeong Byeon et.al.|[2603.11971](https://arxiv.org/abs/2603.11971)|null|
 |**2026-03-12**|**Governing Evolving Memory in LLM Agents: Risks, Mechanisms, and the Stability and Safety Governed Memory (SSGM) Framework**|Chingkwun Lam et.al.|[2603.11768](https://arxiv.org/abs/2603.11768)|null|
 |**2026-03-12**|**IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis**|Chongxiao Wang et.al.|[2603.11644](https://arxiv.org/abs/2603.11644)|null|

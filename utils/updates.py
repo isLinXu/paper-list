@@ -2,6 +2,7 @@ import os
 import json
 import logging
 import re
+import datetime
 
 import requests
 
@@ -9,24 +10,38 @@ HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 
-def update_paper_links(filename):
+def parse_arxiv_record(s: str):
+    row = str(s).strip()
+    if row.endswith("\n"):
+        row = row[:-1]
+    row = row.strip("|")
+    parts = row.split("|")
+    if len(parts) < 5:
+        raise ValueError(f"Unexpected row format: {s[:200]}")
+
+    date = parts[0].replace("**", "").strip()
+    title = "|".join(parts[1:-3]).replace("**", "").strip()
+    authors = parts[-3].replace("**", "").strip()
+    arxiv_id_link = parts[-2].strip()
+    code = parts[-1].strip()
+    return date, title, authors, arxiv_id_link, code
+
+
+def normalize_arxiv_link(arxiv_id_link: str) -> str:
+    # Support ids with four or five digits after the dot, with optional version suffix.
+    m = re.search(r"\[(\d{4}\.\d{4,5}(?:v\d+)?)\]", arxiv_id_link)
+    if m:
+        arxiv_id = m.group(1)
+    else:
+        arxiv_id = arxiv_id_link
+    return re.sub(r"v\d+$", "", arxiv_id)
+
+
+def update_paper_links(filename, start_date=None, end_date=None):
     '''
     Weekly update paper links in json file using Hugging Face papers page
     with GitHub fallback when needed.
     '''
-
-    def parse_arxiv_string(s):
-        parts = s.split("|")
-        date = parts[1].strip()
-        title = parts[2].strip()
-        authors = parts[3].strip()
-        arxiv_id_link = parts[4].strip()
-        code = parts[5].strip()
-        # Extract pure arxiv id if wrapped like [2108.09112](http://arxiv.org/abs/2108.09112)
-        m = re.search(r"\[(\d{4}\.\d{5})\]", arxiv_id_link)
-        arxiv_id = m.group(1) if m else arxiv_id_link
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date, title, authors, arxiv_id, code
 
     def try_hf_repo(arxiv_id: str) -> str | None:
         # Hugging Face connection is unstable and causes timeouts.
@@ -60,13 +75,27 @@ def update_paper_links(filename):
             m = json.loads(content)
 
     json_data = m.copy()
+    start_bound = datetime.date.fromisoformat(start_date) if start_date else None
+    end_bound = datetime.date.fromisoformat(end_date) if end_date else None
 
     for keywords, v in json_data.items():
         logging.info(f'keywords = {keywords}')
         for paper_id, contents in v.items():
             contents = str(contents)
 
-            update_time, paper_title, paper_first_author, arxiv_id, code_url = parse_arxiv_string(contents)
+            try:
+                update_time, paper_title, paper_first_author, arxiv_id_link, code_url = parse_arxiv_record(contents)
+            except ValueError as exc:
+                logging.warning(f"Skip unparsable record {paper_id}: {exc}")
+                continue
+
+            publish_date = datetime.date.fromisoformat(update_time)
+            if start_bound and publish_date < start_bound:
+                continue
+            if end_bound and publish_date > end_bound:
+                continue
+
+            arxiv_id = normalize_arxiv_link(arxiv_id_link)
 
             contents = "|{}|{}|{}|{}|{}|\n".format(update_time, paper_title, paper_first_author,
                                                    f"[{arxiv_id}]({arxiv_url}abs/{arxiv_id})",

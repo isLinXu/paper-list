@@ -2,6 +2,43 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds|Jaehun Bang et.al.|[2603.24146](https://arxiv.org/abs/2603.24146)|null|
+|2026-03-25|MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation|Gengluo Li et.al.|[2603.23896](https://arxiv.org/abs/2603.23896)|null|
+|2026-03-24|SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes|Zhicheng Qiu et.al.|[2603.22893](https://arxiv.org/abs/2603.22893)|null|
+|2026-03-23|Generalized multi-object classification and tracking with sparse feature resonator networks|Lazar Supic et.al.|[2603.22539](https://arxiv.org/abs/2603.22539)|null|
+|2026-03-23|Revisiting Weakly-Supervised Video Scene Graph Generation via Pair Affinity Learning|Minseok Kang et.al.|[2603.21559](https://arxiv.org/abs/2603.21559)|null|
+|2026-03-22|OrbitStream: Training-Free Adaptive 360-degree Video Streaming via Semantic Potential Fields|Aizierjiang Aiersilan et.al.|[2603.20999](https://arxiv.org/abs/2603.20999)|null|
+|2026-03-20|End-to-End Optimization of Polarimetric Measurement and Material Classifier|Ryota Maeda et.al.|[2603.20519](https://arxiv.org/abs/2603.20519)|null|
+|2026-03-20|IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning|Fan Yang et.al.|[2603.20182](https://arxiv.org/abs/2603.20182)|null|
+|2026-03-20|Structured Latent Dynamics in Wireless CSI via Homomorphic World Models|Salmane Naoumi et.al.|[2603.20048](https://arxiv.org/abs/2603.20048)|null|
+|2026-03-19|Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding|Xianjin Wu et.al.|[2603.19235](https://arxiv.org/abs/2603.19235)|null|
+|2026-03-19|REST: Receding Horizon Explorative Steiner Tree for Zero-Shot Object-Goal Navigation|Shuqi Xiao et.al.|[2603.18624](https://arxiv.org/abs/2603.18624)|null|
+|2026-03-19|OnlinePG: Online Open-Vocabulary Panoptic Mapping with 3D Gaussian Splatting|Hongjia Zhai et.al.|[2603.18510](https://arxiv.org/abs/2603.18510)|null|
+|2026-03-18|Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting|Guillem Casadesus Vila et.al.|[2603.18218](https://arxiv.org/abs/2603.18218)|null|
+|2026-03-18|GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes|Huajian Zeng et.al.|[2603.17993](https://arxiv.org/abs/2603.17993)|null|
+|2026-03-18|Feeling the Space: Egomotion-Aware Video Representation for Efficient and Accurate 3D Scene Understanding|Shuyao Shi et.al.|[2603.17980](https://arxiv.org/abs/2603.17980)|null|
+|2026-03-18|SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale|Markus Gross et.al.|[2603.17920](https://arxiv.org/abs/2603.17920)|null|
+|2026-03-18|From Virtual Environments to Real-World Trials: Emerging Trends in Autonomous Driving|A. Humnabadkar et.al.|[2603.17714](https://arxiv.org/abs/2603.17714)|null|
+|2026-03-18|ReLaGS: Relational Language Gaussian Splatting|Yaxu Xie et.al.|[2603.17605](https://arxiv.org/abs/2603.17605)|null|
+|2026-03-18|P $^{3}$ Nav: End-to-End Perception, Prediction and Planning for Vision-and-Language Navigation|Tianfu Li et.al.|[2603.17459](https://arxiv.org/abs/2603.17459)|null|
+|2026-03-17| $x^2$ -Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space|Ruishan Guo et.al.|[2603.16671](https://arxiv.org/abs/2603.16671)|null|
+|2026-03-17|BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection|Melissa Schween et.al.|[2603.16645](https://arxiv.org/abs/2603.16645)|null|
+|2026-03-17|OGScene3D: Incremental Open-Vocabulary 3D Gaussian Scene Graph Mapping for Scene Understanding|Siting Zhu et.al.|[2603.16301](https://arxiv.org/abs/2603.16301)|null|
+|2026-03-17|Structured prototype regularization for synthetic-to-real driving scene parsing|Jiahe Fan et.al.|[2603.16083](https://arxiv.org/abs/2603.16083)|null|
+|2026-03-16|Safety Case Patterns for VLA-based driving systems: Insights from SimLingo|Gerhard Yu et.al.|[2603.16013](https://arxiv.org/abs/2603.16013)|null|
+|2026-03-16|Panoramic Affordance Prediction|Zixin Zhang et.al.|[2603.15558](https://arxiv.org/abs/2603.15558)|null|
+|2026-03-16|Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation|Yuanfan Zheng et.al.|[2603.15475](https://arxiv.org/abs/2603.15475)|null|
+|2026-03-16|Detection of Autonomous Shuttles in Urban Traffic Images Using Adaptive Residual Context|Mohamed Aziz Younes et.al.|[2603.15404](https://arxiv.org/abs/2603.15404)|null|
+|2026-03-16|RieMind: Geometry-Grounded Spatial Agent for Scene Understanding|Fernando Ropero et.al.|[2603.15386](https://arxiv.org/abs/2603.15386)|null|
+|2026-03-16|NavGSim: High-Fidelity Gaussian Splatting Simulator for Large-Scale Navigation|Jiahang Liu et.al.|[2603.15186](https://arxiv.org/abs/2603.15186)|null|
+|2026-03-16|AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving|Wenhui Huang et.al.|[2603.14851](https://arxiv.org/abs/2603.14851)|null|
+|2026-03-16|Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning|Heng Zhou et.al.|[2603.14811](https://arxiv.org/abs/2603.14811)|null|
+|2026-03-16|AURORA-KITTI: Any-Weather Depth Completion and Denoising in the Wild|Yiting Wang et.al.|[2603.14701](https://arxiv.org/abs/2603.14701)|null|
+|2026-03-15|WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning|Stefan Englmeier et.al.|[2603.14497](https://arxiv.org/abs/2603.14497)|null|
+|2026-03-15|V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning|Lorenzo Mur-Labadia et.al.|[2603.14482](https://arxiv.org/abs/2603.14482)|null|
+|2026-03-15|VIP-Loco: A Visually Guided Infinite Horizon Planning Framework for Legged Locomotion|Aditya Shirwatkar et.al.|[2603.14345](https://arxiv.org/abs/2603.14345)|null|
+|2026-03-15|4D Synchronized Fields: Motion-Language Gaussian Splatting for Temporal Scene Understanding|Mohamed Rayan Barhdadi et.al.|[2603.14301](https://arxiv.org/abs/2603.14301)|null|
+|2026-03-15|S2GS: Streaming Semantic Gaussian Splatting for Online Scene Understanding and Reconstruction|Renhe Zhang et.al.|[2603.14232](https://arxiv.org/abs/2603.14232)|null|
 |**2026-03-12**|**Seeing Isn't Orienting: A Cognitively Grounded Benchmark Reveals Systematic Orientation Failures in MLLMs Supplementary**|Nazia Tasnim et.al.|[2603.11410](https://arxiv.org/abs/2603.11410)|null|
 |**2026-03-11**|**DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding**|Mingzhe Tao et.al.|[2603.11380](https://arxiv.org/abs/2603.11380)|null|
 |**2026-03-11**|**UAV traffic scene understanding: A cross-spectral guided approach and a unified benchmark**|Yu Zhang et.al.|[2603.10722](https://arxiv.org/abs/2603.10722)|null|

@@ -2,6 +2,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition|Nishit Poddar et.al.|[2603.24245](https://arxiv.org/abs/2603.24245)|null|
+|2026-03-24|VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs|Haoran Yuan et.al.|[2603.23481](https://arxiv.org/abs/2603.23481)|null|
+|2026-03-23|mmFHE: mmWave Sensing with End-to-End Fully Homomorphic Encryption|Tanvir Ahmed et.al.|[2603.22437](https://arxiv.org/abs/2603.22437)|null|
+|2026-03-23|WiRD-Gest: Gesture Recognition In The Real World Using Range-Doppler Wi-Fi Sensing on COTS Hardware|Jessica Sanson et.al.|[2603.22131](https://arxiv.org/abs/2603.22131)|null|
+|2026-03-22|Privacy-Preserving Federated Action Recognition via Differentially Private Selective Tuning and Efficient Communication|Idris Zakariyya et.al.|[2603.21305](https://arxiv.org/abs/2603.21305)|null|
+|2026-03-22|A Two-stage Transformer Framework for Temporal Localization of Distracted Driver Behaviors|Gia-Bao Doan et.al.|[2603.21048](https://arxiv.org/abs/2603.21048)|null|
+|2026-03-20|Learning Dynamic Belief Graphs for Theory-of-mind Reasoning|Ruxiao Chen et.al.|[2603.20170](https://arxiv.org/abs/2603.20170)|null|
+|2026-03-20|Subspace Kernel Learning on Tensor Sequences|Lei Wang et.al.|[2603.19546](https://arxiv.org/abs/2603.19546)|null|
+|2026-03-19|SurfaceXR: Fusing Smartwatch IMUs and Egocentric Hand Pose for Seamless Surface Interactions|Vasco Xu et.al.|[2603.19529](https://arxiv.org/abs/2603.19529)|null|
+|2026-03-18|S3T-Former: A Purely Spike-Driven State-Space Topology Transformer for Skeleton Action Recognition|Naichuan Zheng et.al.|[2603.18062](https://arxiv.org/abs/2603.18062)|null|
+|2026-03-18|Unified Spatio-Temporal Token Scoring for Efficient Video VLMs|Jianrui Zhang et.al.|[2603.18004](https://arxiv.org/abs/2603.18004)|null|
+|2026-03-18|GigaWorld-Policy: An Efficient Action-Centered World--Action Model|Angen Ye et.al.|[2603.17240](https://arxiv.org/abs/2603.17240)|null|
+|2026-03-16|KGS-GCN: Enhancing Sparse Skeleton Sensing via Kinematics-Driven Gaussian Splatting and Probabilistic Topology for Action Recognition|Yuhan Chen et.al.|[2603.16943](https://arxiv.org/abs/2603.16943)|null|
+|2026-03-17|FG-SGL: Fine-Grained Semantic Guidance Learning via Motion Process Decomposition for Micro-Gesture Recognition|Jinsheng Wei et.al.|[2603.16269](https://arxiv.org/abs/2603.16269)|null|
+|2026-03-17|S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight|Haodong Yan et.al.|[2603.16195](https://arxiv.org/abs/2603.16195)|null|
+|2026-03-16|Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models|Yulin Luo et.al.|[2603.15618](https://arxiv.org/abs/2603.15618)|null|
+|2026-03-15|Wi-Spike: A Low-power WiFi Human Multi-action Recognition Model with Spiking Neural Networks|Nengbo Zhang et.al.|[2603.14475](https://arxiv.org/abs/2603.14475)|null|
+|2026-03-15|eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation|Prithvi Jai Ramesh et.al.|[2603.14397](https://arxiv.org/abs/2603.14397)|null|
 |**2026-03-12**|**UniMotion: Self-Supervised Learning for Cross-Domain IMU Motion Recognition**|Prerna Khanna et.al.|[2603.12218](https://arxiv.org/abs/2603.12218)|null|
 |**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448](https://arxiv.org/abs/2603.10448)|null|
 |**2026-03-09**|**Decision-Aware Uncertainty Evaluation of Vision-Language Model-Based Early Action Anticipation for Human-Robot Interaction**|Zhaoda Du et.al.|[2603.10061](https://arxiv.org/abs/2603.10061)|null|

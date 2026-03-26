@@ -2,6 +2,35 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction|Falong Fan et.al.|[2603.24577](https://arxiv.org/abs/2603.24577)|null|
+|2026-03-24|One View Is Enough! Monocular Training for In-the-Wild Novel View Generation|Adrien Ramanana Rahary et.al.|[2603.23488](https://arxiv.org/abs/2603.23488)|null|
+|2026-03-24|Active Robotic Perception for Disease Detection and Mapping in Apple Trees|Hayden Feddock et.al.|[2603.23112](https://arxiv.org/abs/2603.23112)|null|
+|2026-03-24|Generative Event Pretraining with Foundation Model Alignment|Jianwen Cao et.al.|[2603.23032](https://arxiv.org/abs/2603.23032)|null|
+|2026-03-23|GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning|Yixuan Luo et.al.|[2603.22270](https://arxiv.org/abs/2603.22270)|null|
+|2026-03-22|PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences|Lanbo Xu et.al.|[2603.21436](https://arxiv.org/abs/2603.21436)|null|
+|2026-03-22|Single-Eye View: Monocular Real-time Perception Package for Autonomous Driving|Haixi Zhang et.al.|[2603.21061](https://arxiv.org/abs/2603.21061)|null|
+|2026-03-21|The Role and Relationship of Initialization and Densification in 3D Gaussian Splatting|Ivan Desiatov et.al.|[2603.20714](https://arxiv.org/abs/2603.20714)|null|
+|2026-03-20|CeRLP: A Cross-embodiment Robot Local Planning Framework for Visual Navigation|Haoyu Xi et.al.|[2603.19602](https://arxiv.org/abs/2603.19602)|null|
+|2026-03-20|StreetForward: Perceiving Dynamic Street with Feedforward Causal Attention|Zhongrui Yu et.al.|[2603.19552](https://arxiv.org/abs/2603.19552)|null|
+|2026-03-20|SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification|Xiaoying Wang et.al.|[2603.19547](https://arxiv.org/abs/2603.19547)|null|
+|2026-03-19|VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation|Jiayi Yuan et.al.|[2603.18943](https://arxiv.org/abs/2603.18943)|null|
+|2026-03-18|Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting|Guillem Casadesus Vila et.al.|[2603.18218](https://arxiv.org/abs/2603.18218)|null|
+|2026-03-18|UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images|Guibiao Liao et.al.|[2603.17519](https://arxiv.org/abs/2603.17519)|null|
+|2026-03-18|Stereo World Model: Camera-Guided Stereo Video Generation|Yang-Tian Sun et.al.|[2603.17375](https://arxiv.org/abs/2603.17375)|null|
+|2026-03-17|LLM-Powered Flood Depth Estimation from Social Media Imagery: A Vision-Language Model Framework with Mechanistic Interpretability for Transportation Resilience|Nafis Fuad et.al.|[2603.17108](https://arxiv.org/abs/2603.17108)|null|
+|2026-03-17|MessyKitchens: Contact-rich object-level 3D scene reconstruction|Junaid Ahmed Ansari et.al.|[2603.16868](https://arxiv.org/abs/2603.16868)|null|
+|2026-03-17|WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation|Muhammad Aamir et.al.|[2603.16816](https://arxiv.org/abs/2603.16816)|null|
+|2026-03-17| $D^3$-RSMDE: 40$\times$ Faster and High-Fidelity Remote Sensing Monocular Depth Estimation|Ruizhi Wang et.al.|[2603.16362](https://arxiv.org/abs/2603.16362)|null|
+|2026-03-17|Iris: Bringing Real-World Priors into Diffusion Model for Monocular Depth Estimation|Xinhao Cai et.al.|[2603.16340](https://arxiv.org/abs/2603.16340)|null|
+|2026-03-17|PureCLIP-Depth: Prompt-Free and Decoder-Free Monocular Depth Estimation within CLIP Embedding Space|Ryutaro Miya et.al.|[2603.16238](https://arxiv.org/abs/2603.16238)|null|
+|2026-03-17|Leveling3D: Leveling Up 3D Reconstruction with Feed-Forward 3D Gaussian Splatting and Geometry-Aware Generation|Yiming Huang et.al.|[2603.16211](https://arxiv.org/abs/2603.16211)|null|
+|2026-03-16|Pointing-Based Object Recognition|Lukáš Hajdúch et.al.|[2603.15403](https://arxiv.org/abs/2603.15403)|null|
+|2026-03-16|Spectral Rectification for Parameter-Efficient Adaptation of Foundation Models in Colonoscopy Depth Estimation|Xiaoxian Zhang et.al.|[2603.15374](https://arxiv.org/abs/2603.15374)|null|
+|2026-03-16|Reference-Free Omnidirectional Stereo Matching via Multi-View Consistency Maximization|Lehuai Xu et.al.|[2603.15019](https://arxiv.org/abs/2603.15019)|null|
+|2026-03-16|Thermal Image Refinement with Depth Estimation using Recurrent Networks for Monocular ORB-SLAM3|Hürkan Şahin et.al.|[2603.14998](https://arxiv.org/abs/2603.14998)|null|
+|2026-03-16|Fractal Autoregressive Depth Estimation with Continuous Token Diffusion|Jinchang Zhang et.al.|[2603.14702](https://arxiv.org/abs/2603.14702)|null|
+|2026-03-16|E2EGS: Event-to-Edge Gaussian Splatting for Pose-Free 3D Reconstruction|Yunsoo Kim et.al.|[2603.14684](https://arxiv.org/abs/2603.14684)|null|
+|2026-03-15|V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning|Lorenzo Mur-Labadia et.al.|[2603.14482](https://arxiv.org/abs/2603.14482)|null|
 |**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](https://arxiv.org/abs/2603.12250)|null|
 |**2026-03-12**|**R4Det: 4D Radar-Camera Fusion for High-Performance 3D Object Detection**|Zhongyu Xia et.al.|[2603.11566](https://arxiv.org/abs/2603.11566)|null|
 |**2026-03-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al.|[2603.10703](https://arxiv.org/abs/2603.10703)|null|

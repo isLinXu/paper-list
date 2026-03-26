@@ -34,10 +34,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Set up Python Env
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
@@ -48,14 +50,21 @@ jobs:
           pip install requests
           pip install pyyaml
           
-      - name: Run daily arxiv 
+      - name: Refresh recent paper links
         run: |
-          python get_paper.py --update_paper_links
-          
-      - name: Push new paper-list.md
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Github Action Automatic Update CV Arxiv Papers"
-          file_pattern: 'README.md docs/*.json docs/*.md docs/wechat.md'
-          commit_user_name: ${{ env.GITHUB_USER_NAME }}
-          commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
+          START_DATE=$(date -u -d "30 days ago" +%Y-%m-%d)
+          END_DATE=$(date -u +%Y-%m-%d)
+          python get_paper.py --update_paper_links --start_date "$START_DATE" --end_date "$END_DATE"
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "${GITHUB_USER_NAME}"
+          git config user.email "${GITHUB_USER_EMAIL}"
+          git add README.md docs/*.json docs/*.md docs/wechat.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Github Action Automatic Update CV Arxiv Papers"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -2,6 +2,87 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|Causal Transfer in Medical Image Analysis|Mohammed M. Abdelsamea et.al.|[2603.24388](https://arxiv.org/abs/2603.24388)|null|
+|2026-03-25|Praxium: Diagnosing Cloud Anomalies with AI-based Telemetry and Dependency Analysis|Rohan Kumar et.al.|[2603.23890](https://arxiv.org/abs/2603.23890)|null|
+|2026-03-25|MLE-UVAD: Minimal Latent Entropy Autoencoder for Fully Unsupervised Video Anomaly Detection|Yuang Geng et.al.|[2603.23868](https://arxiv.org/abs/2603.23868)|null|
+|2026-03-24|Semantic Iterative Reconstruction: One-Shot Universal Anomaly Detection|Ning Zhu et.al.|[2603.23766](https://arxiv.org/abs/2603.23766)|null|
+|2026-03-24|Searching for Anomalies with Foundation Models|Vinicius Mikuni et.al.|[2603.23593](https://arxiv.org/abs/2603.23593)|null|
+|2026-03-24|PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning|Tao Liu et.al.|[2603.23574](https://arxiv.org/abs/2603.23574)|null|
+|2026-03-24|Targeted Adversarial Traffic Generation : Black-box Approach to Evade Intrusion Detection Systems in IoT Networks|Islam Debicha et.al.|[2603.23438](https://arxiv.org/abs/2603.23438)|null|
+|2026-03-24|An Experimental Study of Machine Learning-Based Intrusion Detection for OPC UA over Industrial Private 5G Networks|Song Son Ha et.al.|[2603.23416](https://arxiv.org/abs/2603.23416)|null|
+|2026-03-24|SynForceNet: A Force-Driven Global-Local Latent Representation Framework for Lithium-Ion Battery Fault Diagnosis|Rongxiu Chen et.al.|[2603.23265](https://arxiv.org/abs/2603.23265)|null|
+|2026-03-24|Between Resolution Collapse and Variance Inflation: Weighted Conformal Anomaly Detection in Low-Data Regimes|Oliver Hennhöfer et.al.|[2603.23205](https://arxiv.org/abs/2603.23205)|null|
+|2026-03-24|PiCo: Active Manifold Canonicalization for Robust Robotic Visual Anomaly Detection|Teng Yan et.al.|[2603.23122](https://arxiv.org/abs/2603.23122)|null|
+|2026-03-24|How Far Should We Need to Go : Evaluate Provenance-based Intrusion Detection Systems in Industrial Scenarios|Yue Xiao et.al.|[2603.22982](https://arxiv.org/abs/2603.22982)|null|
+|2026-03-24|Balancing Safety and Efficiency in Aircraft Health Diagnosis: A Task Decomposition Framework with Heterogeneous Long-Micro Scale Cascading and Knowledge Distillation-based Interpretability|Xinhang Chen et.al.|[2603.22885](https://arxiv.org/abs/2603.22885)|null|
+|2026-03-24|Template-Based Feature Aggregation Network for Industrial Anomaly Detection|Wei Luo et.al.|[2603.22874](https://arxiv.org/abs/2603.22874)|null|
+|2026-03-24|A Feature Shuffling and Restoration Strategy for Universal Unsupervised Anomaly Detection|Wei Luo et.al.|[2603.22861](https://arxiv.org/abs/2603.22861)|null|
+|2026-03-24|URA-Net: Uncertainty-Integrated Anomaly Perception and Restoration Attention Network for Unsupervised Anomaly Detection|Wei Luo et.al.|[2603.22840](https://arxiv.org/abs/2603.22840)|null|
+|2026-03-24|Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis|Chamuditha Jayanga Galappaththige et.al.|[2603.22786](https://arxiv.org/abs/2603.22786)|null|
+|2026-03-24|Explainable Threat Attribution for IoT Networks Using Conditional SHAP and Flow Behavior Modelling|Samuel Ozechi et.al.|[2603.22771](https://arxiv.org/abs/2603.22771)|null|
+|2026-03-24|Multimodal Industrial Anomaly Detection via Geometric Prior|Min Li et.al.|[2603.22757](https://arxiv.org/abs/2603.22757)|null|
+|2026-03-24|How Far Can VLMs Go for Visual Bug Detection? Studying 19,738 Keyframes from 41 Hours of Gameplay Videos|Wentao Lu et.al.|[2603.22706](https://arxiv.org/abs/2603.22706)|null|
+|2026-03-23|When lookout sees crackle: Anomaly detection via kernel density estimation|Rob J Hyndman et.al.|[2603.22636](https://arxiv.org/abs/2603.22636)|null|
+|2026-03-23|A Foundation Model for Instruction-Conditioned In-Context Time Series Tasks|Anish Saha et.al.|[2603.22586](https://arxiv.org/abs/2603.22586)|null|
+|2026-03-23|Adversarial Vulnerabilities in Neural Operator Digital Twins: Gradient-Free Attacks on Nuclear Thermal-Hydraulic Surrogates|Samrendra Roy et.al.|[2603.22525](https://arxiv.org/abs/2603.22525)|null|
+|2026-03-23|Model Context Protocol Threat Modeling and Analyzing Vulnerabilities to Prompt Injection with Tool Poisoning|Charoes Huang et.al.|[2603.22489](https://arxiv.org/abs/2603.22489)|null|
+|2026-03-23|Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks|Devashish Chaudhary et.al.|[2603.22366](https://arxiv.org/abs/2603.22366)|null|
+|2026-03-23|Q-AGNN: Quantum-Enhanced Attentive Graph Neural Network for Intrusion Detection|Devashish Chaudhary et.al.|[2603.22365](https://arxiv.org/abs/2603.22365)|null|
+|2026-03-23|ANCHOR: Adaptive Network based on Cascaded Harmonic Offset Routing|Wangye Jiang et.al.|[2603.21718](https://arxiv.org/abs/2603.21718)|null|
+|2026-03-23|Towards Multimodal Time Series Anomaly Detection with Semantic Alignment and Condensed Interaction|Shiyan Hu et.al.|[2603.21612](https://arxiv.org/abs/2603.21612)|null|
+|2026-03-23|In-network Attack Detection with Federated Deep Learning in IoT Networks: Real Implementation and Analysis|Devashish Chaudhary et.al.|[2603.21596](https://arxiv.org/abs/2603.21596)|null|
+|2026-03-23|Exploring Multimodal Prompts For Unsupervised Continuous Anomaly Detection|Mingle Zhou et.al.|[2603.21562](https://arxiv.org/abs/2603.21562)|null|
+|2026-03-23|Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection|Kaiqiang Li et.al.|[2603.21511](https://arxiv.org/abs/2603.21511)|null|
+|2026-03-22|Mechanisms of Introspective Awareness|Uzay Macar et.al.|[2603.21396](https://arxiv.org/abs/2603.21396)|null|
+|2026-03-22|Does Mechanistic Interpretability Transfer Across Data Modalities? A Cross-Domain Causal Circuit Analysis of Variational Autoencoders|Dip Roy et.al.|[2603.21236](https://arxiv.org/abs/2603.21236)|null|
+|2026-03-22|A lightweight Outlier Detection for Characterizing Radio- and Environment-Specific Link Quality Fluctuation in Low-Power Wireless Networks|Zegeye Mekasha Kidane et.al.|[2603.21107](https://arxiv.org/abs/2603.21107)|null|
+|2026-03-22|Long-Term Outlier Prediction Through Outlier Score Modeling|Yuma Aoki et.al.|[2603.20993](https://arxiv.org/abs/2603.20993)|null|
+|2026-03-21|A Modular LLM Framework for Explainable Price Outlier Detection|Shadi Sartipi et.al.|[2603.20636](https://arxiv.org/abs/2603.20636)|null|
+|2026-03-21|immUNITY: Detecting and Mitigating Low Volume & Slow Attacks with Programmable Switches and SmartNICs|Cuidi Wei et.al.|[2603.20573](https://arxiv.org/abs/2603.20573)|null|
+|2026-03-20|Spatio-Temporal Grid Intelligence: A Hybrid Graph Neural Network and LSTM Framework for Robust Electricity Theft Detection|Adewale U. Oguntola et.al.|[2603.20488](https://arxiv.org/abs/2603.20488)|null|
+|2026-03-20|Hybrid Autoencoder-Isolation Forest approach for time series anomaly detection in C70XP cyclotron operation data at ARRONAX|F Basbous et.al.|[2603.20335](https://arxiv.org/abs/2603.20335)|null|
+|2026-03-18|Efficient Visual Anomaly Detection at the Edge: Enabling Real-Time Industrial Inspection on Resource-Constrained Devices|Arianna Stropeni et.al.|[2603.20288](https://arxiv.org/abs/2603.20288)|null|
+|2026-03-20|Decoupled Sensitivity-Consistency Learning for Weakly Supervised Video Anomaly Detection|Hantao Zheng et.al.|[2603.19780](https://arxiv.org/abs/2603.19780)|null|
+|2026-03-20|A Deep Learning Approach to Multipath Component Detection in Power Delay Profiles|Ondrej Zeleny et.al.|[2603.19706](https://arxiv.org/abs/2603.19706)|null|
+|2026-03-20|Demographic-Aware Self-Supervised Anomaly Detection Pretraining for Equitable Rare Cardiac Diagnosis|Chaoqin Huang et.al.|[2603.19695](https://arxiv.org/abs/2603.19695)|null|
+|2026-03-20|FB-CLIP: Fine-Grained Zero-Shot Anomaly Detection with Foreground-Background Disentanglement|Ming Hu et.al.|[2603.19608](https://arxiv.org/abs/2603.19608)|null|
+|2026-03-19|ICLAD: In-Context Learning for Unified Tabular Anomaly Detection Across Supervision Regimes|Jack Yi Wei et.al.|[2603.19497](https://arxiv.org/abs/2603.19497)|null|
+|2026-03-19|A Novel Solution for Zero-Day Attack Detection in IDS using Self-Attention and Jensen-Shannon Divergence in WGAN-GP|Ziyu Mu et.al.|[2603.19350](https://arxiv.org/abs/2603.19350)|null|
+|2026-03-19|Revisiting OmniAnomaly for Anomaly Detection: performance metrics and comparison with PCA-based models|Bruna Alves et.al.|[2603.18985](https://arxiv.org/abs/2603.18985)|null|
+|2026-03-19|Balancing Performance and Fairness in Explainable AI for Anomaly Detection in Distributed Power Plants Monitoring|Corneille Niyonkuru et.al.|[2603.18954](https://arxiv.org/abs/2603.18954)|null|
+|2026-03-19|Unified Taxonomy for Multivariate Time Series Anomaly Detection using Deep Learning|Bruna Alves et.al.|[2603.18941](https://arxiv.org/abs/2603.18941)|null|
+|2026-03-19|Deceiving Flexibility: A Stealthy False Data Injection Model in Vehicle-to-Grid Coordination|Kaan T. Gun et.al.|[2603.18424](https://arxiv.org/abs/2603.18424)|null|
+|2026-03-19|Statistical Testing Framework for Clustering Pipelines by Selective Inference|Yugo Miyata et.al.|[2603.18413](https://arxiv.org/abs/2603.18413)|null|
+|2026-03-19|To See or To Please: Uncovering Visual Sycophancy and Split Beliefs in VLMs|Rui Hong et.al.|[2603.18373](https://arxiv.org/abs/2603.18373)|null|
+|2026-03-18|Retrieval-Augmented LLMs for Security Incident Analysis|Xavier Cadet et.al.|[2603.18196](https://arxiv.org/abs/2603.18196)|null|
+|2026-03-18|VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events|Mohammad Qazim Bhat et.al.|[2603.18178](https://arxiv.org/abs/2603.18178)|null|
+|2026-03-18|BoundAD: Boundary-Aware Negative Generation for Time Series Anomaly Detection|Xiancheng Wang et.al.|[2603.18111](https://arxiv.org/abs/2603.18111)|null|
+|2026-03-18|One-to-More: High-Fidelity Training-Free Anomaly Generation with Attention Control|Haoxiang Rao et.al.|[2603.18093](https://arxiv.org/abs/2603.18093)|null|
+|2026-03-18|On min-Storey estimators for multiple testing and conformal novelty detection|Gao Zijun et.al.|[2603.17984](https://arxiv.org/abs/2603.17984)|null|
+|2026-03-18|Noise-Aware Misclassification Attack Detection in Collaborative DNN Inference|Shima Yousefi et.al.|[2603.17914](https://arxiv.org/abs/2603.17914)|null|
+|2026-03-18|RangeAD: Fast On-Model Anomaly Detection|Luca Hinkamp et.al.|[2603.17795](https://arxiv.org/abs/2603.17795)|null|
+|2026-03-18|Machine Learning for Network Attacks Classification and Statistical Evaluation of Machine Learning for Network Attacks Classification and Adversarial Learning Methodologies for Synthetic Data Generation|Iakovos-Christos Zarkadis et.al.|[2603.17717](https://arxiv.org/abs/2603.17717)|null|
+|2026-03-18|Unsupervised Symbolic Anomaly Detection|Md Maruf Hossain et.al.|[2603.17575](https://arxiv.org/abs/2603.17575)|null|
+|2026-03-18|FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models|Simon Klüttermann et.al.|[2603.17570](https://arxiv.org/abs/2603.17570)|null|
+|2026-03-18|AdapTS: Lightweight Teacher-Student Approach for Multi-Class and Continual Visual Anomaly Detection|Manuel Barusco et.al.|[2603.17530](https://arxiv.org/abs/2603.17530)|null|
+|2026-03-18|MedSAD-CLIP: Supervised CLIP with Token-Patch Cross-Attention for Medical Anomaly Detection and Segmentation|Thuy Truong Tran et.al.|[2603.17325](https://arxiv.org/abs/2603.17325)|null|
+|2026-03-17|Towards Unsupervised Adversarial Document Detection in Retrieval Augmented Generation Systems|Patrick Levi et.al.|[2603.17176](https://arxiv.org/abs/2603.17176)|null|
+|2026-03-17|Continual Multimodal Egocentric Activity Recognition via Modality-Aware Novel Detection|Wonseon Lim et.al.|[2603.16970](https://arxiv.org/abs/2603.16970)|null|
+|2026-03-17|Cost Trade-offs in Matrix Inversion Updates for Streaming Outlier Detection|Florian Grivet et.al.|[2603.16697](https://arxiv.org/abs/2603.16697)|null|
+|2026-03-17|BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection|Melissa Schween et.al.|[2603.16645](https://arxiv.org/abs/2603.16645)|null|
+|2026-03-17|TinyGLASS: Real-Time Self-Supervised In-Sensor Anomaly Detection|Pietro Bonazzi et.al.|[2603.16451](https://arxiv.org/abs/2603.16451)|null|
+|2026-03-17|Deep learning based intelligent IDS for Large-scale IoT networks|Isha Andrade et.al.|[2603.16342](https://arxiv.org/abs/2603.16342)|null|
+|2026-03-17|A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems|Ankit Ghimire et.al.|[2603.16080](https://arxiv.org/abs/2603.16080)|null|
+|2026-03-16|Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models|Lexiang Xiong et.al.|[2603.15557](https://arxiv.org/abs/2603.15557)|null|
+|2026-03-16|Nova: Scalable Streaming Join Placement and Parallelization in Resource-Constrained Geo-Distributed Environments|Xenofon Chatziliadis et.al.|[2603.15453](https://arxiv.org/abs/2603.15453)|null|
+|2026-03-16|Unsupervised Cross-Protocol Anomaly Analysis in Mobile Core Networks via Multi-Embedding Models Consensus|Aayush Garg et.al.|[2603.15344](https://arxiv.org/abs/2603.15344)|null|
+|2026-03-16|GATE-AD: Graph Attention Network Encoding For Few-Shot Industrial Visual Anomaly Detection|Aggelos Psiris et.al.|[2603.15300](https://arxiv.org/abs/2603.15300)|null|
+|2026-03-16|Multi-turn Physics-informed Vision-language Model for Physics-grounded Anomaly Detection|Yao Gu et.al.|[2603.15237](https://arxiv.org/abs/2603.15237)|null|
+|2026-03-16|DeFRiS: Silo-Cooperative IoT Applications Scheduling via Decentralized Federated Reinforcement Learning|Zhiyu Wang et.al.|[2603.14729](https://arxiv.org/abs/2603.14729)|null|
+|2026-03-15|A Multi-Scale Graph Learning Framework with Temporal Consistency Constraints for Financial Fraud Detection in Transaction Networks under Non-Stationary Conditions|Yiming Lei et.al.|[2603.14592](https://arxiv.org/abs/2603.14592)|null|
+|2026-03-15|Towards One-for-All Anomaly Detection for Tabular Data|Shiyuan Li et.al.|[2603.14407](https://arxiv.org/abs/2603.14407)|null|
+|2026-03-15|Graph-Based Deep Learning for Intelligent Detection of Energy Losses, Theft, and Operational Inefficiencies in Oil & Gas Production Networks|AbdulQoyum A. Olowookere et.al.|[2603.14406](https://arxiv.org/abs/2603.14406)|null|
+|2026-03-15|TACTIC for Navigating the Unknown: Tabular Anomaly deteCTion via In-Context inference|Patryk Marszałek et.al.|[2603.14171](https://arxiv.org/abs/2603.14171)|null|
 |**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](https://arxiv.org/abs/2603.12036)|null|
 |**2026-03-12**|**Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case**|Diego Cajaraville-Aboy et.al.|[2603.12001](https://arxiv.org/abs/2603.12001)|null|
 |**2026-03-12**|**Anomaly detection in time-series via inductive biases in the latent space of conditional normalizing flows**|David Baumgartner et.al.|[2603.11756](https://arxiv.org/abs/2603.11756)|null|

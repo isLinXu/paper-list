@@ -2,6 +2,62 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification|Dipam Goswami et.al.|[2603.24528](https://arxiv.org/abs/2603.24528)|null|
+|2026-03-25|Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection|Adhemar de Senneville et.al.|[2603.24181](https://arxiv.org/abs/2603.24181)|null|
+|2026-03-25|LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification|Jiawen Wen et.al.|[2603.24045](https://arxiv.org/abs/2603.24045)|null|
+|2026-03-25|Kirchhoff-Inspired Neural Networks for Evolving High-Order Perception|Tongfei Chen et.al.|[2603.23977](https://arxiv.org/abs/2603.23977)|null|
+|2026-03-25|Machine vision with small numbers of detected photons per inference|Shi-Yuan Ma et.al.|[2603.23974](https://arxiv.org/abs/2603.23974)|null|
+|2026-03-24|Prototype Fusion: A Training-Free Multi-Layer Approach to OOD Detection|Shreen Gul et.al.|[2603.23677](https://arxiv.org/abs/2603.23677)|null|
+|2026-03-24|PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning|Tao Liu et.al.|[2603.23574](https://arxiv.org/abs/2603.23574)|null|
+|2026-03-24|ARGENT: Adaptive Hierarchical Image-Text Representations|Chuong Huynh et.al.|[2603.23311](https://arxiv.org/abs/2603.23311)|null|
+|2026-03-24|Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification|Zhong Ji et.al.|[2603.23161](https://arxiv.org/abs/2603.23161)|null|
+|2026-03-24|Designing to Forget: Deep Semi-parametric Models for Unlearning|Amber Yijia Zheng et.al.|[2603.22870](https://arxiv.org/abs/2603.22870)|null|
+|2026-03-24|Bounding Box Anomaly Scoring for simple and efficient Out-of-Distribution detection|Mohamed Bahi Yahiaoui et.al.|[2603.22660](https://arxiv.org/abs/2603.22660)|null|
+|2026-03-23|LGSE: Lexically Grounded Subword Embedding Initialization for Low-Resource Language Adaptation|Hailay Teklehaymanot et.al.|[2603.22629](https://arxiv.org/abs/2603.22629)|null|
+|2026-03-23|SteelDefectX: A Coarse-to-Fine Vision-Language Dataset and Benchmark for Generalizable Steel Surface Defect Detection|Shuxian Zhao et.al.|[2603.21824](https://arxiv.org/abs/2603.21824)|null|
+|2026-03-23|Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification|Jayanie Bogahawatte et.al.|[2603.21504](https://arxiv.org/abs/2603.21504)|null|
+|2026-03-22|Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation|Nikolay Kormushev et.al.|[2603.21386](https://arxiv.org/abs/2603.21386)|null|
+|2026-03-22|Evidential Quantum Vertical Federated Learning|Hao Luo et.al.|[2603.21102](https://arxiv.org/abs/2603.21102)|null|
+|2026-03-22|Semi-Supervised Learning with Balanced Deep Representation Distributions|Changchun Li et.al.|[2603.21056](https://arxiv.org/abs/2603.21056)|null|
+|2026-03-21|Natural Gradient Descent for Online Continual Learning|Joe Khawand et.al.|[2603.20898](https://arxiv.org/abs/2603.20898)|null|
+|2026-03-21|Restoring Neural Network Plasticity for Faster Transfer Learning|Xander Coetzer et.al.|[2603.20860](https://arxiv.org/abs/2603.20860)|null|
+|2026-03-21|Less is More in Semantic Space: Intrinsic Decoupling via Clifford-M for Fundus Image Classification|Yifeng Zheng et.al.|[2603.20806](https://arxiv.org/abs/2603.20806)|null|
+|2026-03-20|Jigsaw Regularization in Whole-Slide Image Classification|So Won Jeong et.al.|[2603.20386](https://arxiv.org/abs/2603.20386)|null|
+|2026-03-19|HSI Image Enhancement Classification Based on Knowledge Distillation: A Study on Forgetting|Songfeng Zhu et.al.|[2603.20292](https://arxiv.org/abs/2603.20292)|null|
+|2026-03-20|TinyML Enhances CubeSat Mission Capabilities|Luigi Capogrosso et.al.|[2603.20174](https://arxiv.org/abs/2603.20174)|null|
+|2026-03-20|Enhancing Hyperspace Analogue to Language (HAL) Representations via Attention-Based Pooling for Text Classification|Ali Sakour et.al.|[2603.20149](https://arxiv.org/abs/2603.20149)|null|
+|2026-03-20|MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models|Puskal Khadka et.al.|[2603.20074](https://arxiv.org/abs/2603.20074)|null|
+|2026-03-20|Goal-Oriented Framework for Optical Flow-based Multi-User Multi-Task Video Transmission|Yujie Xu et.al.|[2603.19995](https://arxiv.org/abs/2603.19995)|null|
+|2026-03-20|Growing Networks with Autonomous Pruning|Charles De Lambilly et.al.|[2603.19759](https://arxiv.org/abs/2603.19759)|null|
+|2026-03-20|TextReasoningBench: Does Reasoning Really Improve Text Classification in Large Language Models?|Xinyu Guo et.al.|[2603.19558](https://arxiv.org/abs/2603.19558)|null|
+|2026-03-19|Vision Tiny Recursion Model (ViTRM): Parameter-Efficient Image Classification via Recursive State Refinement|Ange-Clément Akazan et.al.|[2603.19503](https://arxiv.org/abs/2603.19503)|null|
+|2026-03-19|VeloxNet: Efficient Spatial Gating for Lightweight Embedded Image Classification|Md Meftahul Ferdaus et.al.|[2603.19496](https://arxiv.org/abs/2603.19496)|null|
+|2026-03-19|Measurement-Induced Quantum Neural Network|Paul Argyle et.al.|[2603.19200](https://arxiv.org/abs/2603.19200)|null|
+|2026-03-19|Revisiting Autoregressive Models for Generative Image Classification|Ilia Sudakov et.al.|[2603.19122](https://arxiv.org/abs/2603.19122)|null|
+|2026-03-19|AlignMamba-2: Enhancing Multimodal Fusion and Sentiment Analysis with Modality-Aware Mamba|Yan Li et.al.|[2603.18462](https://arxiv.org/abs/2603.18462)|null|
+|2026-03-18|Procedural Generation of Algorithm Discovery Tasks in Machine Learning|Alexander D. Goldie et.al.|[2603.17863](https://arxiv.org/abs/2603.17863)|null|
+|2026-03-18|Exploring parameter-efficient fine-tuning (PEFT) of billion-parameter vision models with QLoRA and DoRA: insights into generalization for limited-data image classification under a 98:1 test-to-train regime|Haiyu Yang et.al.|[2603.17782](https://arxiv.org/abs/2603.17782)|null|
+|2026-03-18|rSDNet: Unified Robust Neural Learning against Label Noise and Adversarial Attacks|Suryasis Jana et.al.|[2603.17628](https://arxiv.org/abs/2603.17628)|null|
+|2026-03-18|Trust the Unreliability: Inward Backward Dynamic Unreliability Driven Coreset Selection for Medical Image Classification|Yan Liang et.al.|[2603.17603](https://arxiv.org/abs/2603.17603)|null|
+|2026-03-18|Harnessing the Power of Foundation Models for Accurate Material Classification|Qingran Lin et.al.|[2603.17390](https://arxiv.org/abs/2603.17390)|null|
+|2026-03-17|Noise-Response Calibration: A Causal Intervention Protocol for LLM-Judges|Maxim Khomiakov et.al.|[2603.17172](https://arxiv.org/abs/2603.17172)|null|
+|2026-03-17|Hybrid Classical-Quantum Transfer Learning with Noisy Quantum Circuits|D. Martín-Pérez et.al.|[2603.16973](https://arxiv.org/abs/2603.16973)|null|
+|2026-03-17|Confusion-Aware Spectral Regularizer for Long-Tailed Recognition|Ziquan Zhu et.al.|[2603.16732](https://arxiv.org/abs/2603.16732)|null|
+|2026-03-17|vAccSOL: Efficient and Transparent AI Vision Offloading for Mobile Robots|Adam Zahir et.al.|[2603.16685](https://arxiv.org/abs/2603.16685)|null|
+|2026-03-17|3D Fourier-based Global Feature Extraction for Hyperspectral Image Classification|Muhammad Ahmad et.al.|[2603.16426](https://arxiv.org/abs/2603.16426)|null|
+|2026-03-17|SF-Mamba: Rethinking State Space Model for Vision|Masakazu Yoshimura et.al.|[2603.16423](https://arxiv.org/abs/2603.16423)|null|
+|2026-03-17|Poisoning the Pixels: Revisiting Backdoor Attacks on Semantic Segmentation|Guangsheng Zhang et.al.|[2603.16405](https://arxiv.org/abs/2603.16405)|null|
+|2026-03-17|DermaFlux: Synthetic Skin Lesion Generation with Rectified Flows for Enhanced Image Classification|Stathis Galanakis et.al.|[2603.16392](https://arxiv.org/abs/2603.16392)|null|
+|2026-03-17|AI Application Benchmarking: Power-Aware Performance Analysis for Vision and Language Models|Martin Mayr et.al.|[2603.16164](https://arxiv.org/abs/2603.16164)|null|
+|2026-03-16|Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning|Ye Wang et.al.|[2603.15708](https://arxiv.org/abs/2603.15708)|null|
+|2026-03-16|Quantum-Inspired Unitary Pooling for Multispectral Satellite Image Classification|Georgios Maragkopoulos et.al.|[2603.15522](https://arxiv.org/abs/2603.15522)|null|
+|2026-03-16|Vision-Language Model Based Multi-Expert Fusion for CT Image Classification|Jianfa Bai et.al.|[2603.15154](https://arxiv.org/abs/2603.15154)|null|
+|2026-03-16|PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units|Mark Deutel et.al.|[2603.15106](https://arxiv.org/abs/2603.15106)|null|
+|2026-03-16|Towards Privacy-Preserving Machine Translation at the Inference Stage: A New Task and Benchmark|Wei Shao et.al.|[2603.14756](https://arxiv.org/abs/2603.14756)|null|
+|2026-03-15|TopoCL: Topological Contrastive Learning for Medical Imaging|Guangyu Meng et.al.|[2603.14647](https://arxiv.org/abs/2603.14647)|null|
+|2026-03-15|A Heterogeneous Ensemble for Multi-Center COVID-19 Classification from Chest CT Scans|Aadit Nilay et.al.|[2603.14621](https://arxiv.org/abs/2603.14621)|null|
+|2026-03-15|Histo-MExNet: A Unified Framework for Real-World, Cross-Magnification, and Trustworthy Breast Cancer Histopathology|Enam Ahmed Taufika et.al.|[2603.14416](https://arxiv.org/abs/2603.14416)|null|
+|2026-03-15|Selective Fine-Tuning of GPT Architectures for Parameter-Efficient Clinical Text Classification|Fariba Afrin Irany et.al.|[2603.14183](https://arxiv.org/abs/2603.14183)|null|
 |**2026-03-12**|**Resource-Efficient Iterative LLM-Based NAS with Feedback Memory**|Xiaojie Gu et.al.|[2603.12091](https://arxiv.org/abs/2603.12091)|null|
 |**2026-03-12**|**Single Pixel Image Classification using an Ultrafast Digital Light Projector**|Aisha Kanwal et.al.|[2603.12036](https://arxiv.org/abs/2603.12036)|null|
 |**2026-03-12**|**BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs**|Ilias Aarab et.al.|[2603.11991](https://arxiv.org/abs/2603.11991)|null|

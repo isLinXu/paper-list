@@ -2,6 +2,52 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan|Marta Moscati et.al.|[2603.24569](https://arxiv.org/abs/2603.24569)|null|
+|2026-03-25|A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English|Dana Serditova et.al.|[2603.24549](https://arxiv.org/abs/2603.24549)|null|
+|2026-03-25|What and When to Learn: CURriculum Ranking Loss for Large-Scale Speaker Verification|Massa Baali et.al.|[2603.24432](https://arxiv.org/abs/2603.24432)|null|
+|2026-03-25|When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools|Xingming Li et.al.|[2603.24389](https://arxiv.org/abs/2603.24389)|null|
+|2026-03-25|Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing|Rinku Sebastian et.al.|[2603.24283](https://arxiv.org/abs/2603.24283)|null|
+|2026-03-25|How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools for Romanian|Teodora Răgman et.al.|[2603.24116](https://arxiv.org/abs/2603.24116)|null|
+|2026-03-25|From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs|Xiaoyong Guo et.al.|[2603.24034](https://arxiv.org/abs/2603.24034)|null|
+|2026-03-24|Echoes: A semantically-aligned music deepfake detection dataset|Octavian Pascu et.al.|[2603.23667](https://arxiv.org/abs/2603.23667)|null|
+|2026-03-24|Ethio-ASR: Joint Multilingual Speech Recognition and Language Identification for Ethiopian Languages|Badr M. Abdullah et.al.|[2603.23654](https://arxiv.org/abs/2603.23654)|null|
+|2026-03-24|Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework|Zeinab Dehghani et.al.|[2603.23625](https://arxiv.org/abs/2603.23625)|null|
+|2026-03-24|MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates|Zikang Huang et.al.|[2603.23048](https://arxiv.org/abs/2603.23048)|null|
+|2026-03-24|When AVSR Meets Video Conferencing: Dataset, Degradation, and the Hidden Mechanism Behind Performance Collapse|Yihuan Huang et.al.|[2603.22915](https://arxiv.org/abs/2603.22915)|null|
+|2026-03-24|Who Spoke What When? Evaluating Spoken Language Models for Conversational ASR with Semantic and Overlap-Aware Metrics|Naohiro Tawara et.al.|[2603.22709](https://arxiv.org/abs/2603.22709)|null|
+|2026-03-24|MuQ-Eval: An Open-Source Per-Sample Quality Metric for AI Music Generation Evaluation|Di Zhu et.al.|[2603.22677](https://arxiv.org/abs/2603.22677)|null|
+|2026-03-23|Precision-Varying Prediction (PVP): Robustifying ASR systems against adversarial attacks|Matías Pizarro et.al.|[2603.22590](https://arxiv.org/abs/2603.22590)|null|
+|2026-03-23|SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation|Lucas H. Ueda et.al.|[2603.22252](https://arxiv.org/abs/2603.22252)|null|
+|2026-03-23|SLURP-TN : Resource for Tunisian Dialect Spoken Language Understanding|Haroun Elleuch et.al.|[2603.21940](https://arxiv.org/abs/2603.21940)|null|
+|2026-03-23|Ara-Best-RQ: Multi Dialectal Arabic SSL|Haroun Elleuch et.al.|[2603.21900](https://arxiv.org/abs/2603.21900)|null|
+|2026-03-23|Cascade-Free Mandarin Visual Speech Recognition via Semantic-Guided Cross-Representation Alignment|Lei Yang et.al.|[2603.21808](https://arxiv.org/abs/2603.21808)|null|
+|2026-03-23|RESPOND: Responsive Engagement Strategy for Predictive Orchestration and Dialogue|Meng-Chen Lee et.al.|[2603.21682](https://arxiv.org/abs/2603.21682)|null|
+|2026-03-22|HELIX: Scaling Raw Audio Understanding with Hybrid Mamba-Attention Beyond the Quadratic Limit|Khushiyant et.al.|[2603.21316](https://arxiv.org/abs/2603.21316)|null|
+|2026-03-22|Fusing Memory and Attention: A study on LSTM, Transformer and Hybrid Architectures for Symbolic Music Generation|Soudeep Ghoshal et.al.|[2603.21282](https://arxiv.org/abs/2603.21282)|null|
+|2026-03-22|SqueezeComposer: Temporal Speed-up is A Simple Trick for Long-form Music Composing|Jianyi Chen et.al.|[2603.21073](https://arxiv.org/abs/2603.21073)|null|
+|2026-03-20|Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio|Candice R. Gerstner et.al.|[2603.20165](https://arxiv.org/abs/2603.20165)|null|
+|2026-03-20|Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech|Niclas Pokel et.al.|[2603.20112](https://arxiv.org/abs/2603.20112)|null|
+|2026-03-20|LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families|Jianan Chen et.al.|[2603.20042](https://arxiv.org/abs/2603.20042)|null|
+|2026-03-20|Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?|Lokesh Kumar et.al.|[2603.19831](https://arxiv.org/abs/2603.19831)|null|
+|2026-03-20|Borderless Long Speech Synthesis|Xingchen Song et.al.|[2603.19798](https://arxiv.org/abs/2603.19798)|null|
+|2026-03-19|Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction|Anh-Tuan Dao et.al.|[2603.18657](https://arxiv.org/abs/2603.18657)|null|
+|2026-03-18|Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation|Himadri Samanta et.al.|[2603.18239](https://arxiv.org/abs/2603.18239)|null|
+|2026-03-18|Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition|Yuxiang Mei et.al.|[2603.17558](https://arxiv.org/abs/2603.17558)|null|
+|2026-03-17|Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network|Protopopov Alexey et.al.|[2603.16972](https://arxiv.org/abs/2603.16972)|null|
+|2026-03-17|On the Emotion Understanding of Synthesized Speech|Yuan Ge et.al.|[2603.16483](https://arxiv.org/abs/2603.16483)|null|
+|2026-03-17|RECOVER: Robust Entity Correction via agentic Orchestration of hypothesis Variants for Evidence-based Recovery|Abhishek Kumar et.al.|[2603.16411](https://arxiv.org/abs/2603.16411)|null|
+|2026-03-17|Is Semi-Automatic Transcription Useful in Corpus Creation? Preliminary Considerations on the KIParla Corpus|Martina Simonotti et.al.|[2603.16258](https://arxiv.org/abs/2603.16258)|null|
+|2026-03-17|Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR|Quy-Anh Dang et.al.|[2603.16184](https://arxiv.org/abs/2603.16184)|null|
+|2026-03-16|Lost in Transcription: Subtitle Errors in Automatic Speech Recognition Reduce Speaker and Content Evaluations|Kowe Kadoma et.al.|[2603.15807](https://arxiv.org/abs/2603.15807)|null|
+|2026-03-16|SEA-Vision: A Multilingual Benchmark for Comprehensive Document and Scene Text Understanding in Southeast Asia|Pengfei Yue et.al.|[2603.15409](https://arxiv.org/abs/2603.15409)|null|
+|2026-03-16|Tagarela - A Portuguese speech dataset from podcasts|Frederico Santos de Oliveira et.al.|[2603.15326](https://arxiv.org/abs/2603.15326)|null|
+|2026-03-16|Two-Stage Adaptation for Non-Normative Speech Recognition: Revisiting Speaker-Independent Initialization for Personalization|Shan Jiang et.al.|[2603.15261](https://arxiv.org/abs/2603.15261)|null|
+|2026-03-16|LLMs and Speech: Integration vs. Combination|Robin Schmitt et.al.|[2603.15045](https://arxiv.org/abs/2603.15045)|null|
+|2026-03-16|PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation|Vamshi Nallaguntla et.al.|[2603.15037](https://arxiv.org/abs/2603.15037)|null|
+|2026-03-16|Vietnamese Automatic Speech Recognition: A Revisit|Thi Vu et.al.|[2603.14779](https://arxiv.org/abs/2603.14779)|null|
+|2026-03-16|Investigating the Impact of Speech Enhancement on Audio Deepfake Detection in Noisy Environments|Anacin et.al.|[2603.14767](https://arxiv.org/abs/2603.14767)|null|
+|2026-03-15|Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations|Deok-Hyeon Cho et.al.|[2603.14432](https://arxiv.org/abs/2603.14432)|null|
+|2026-03-15|CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents|Wen-Chin Huang et.al.|[2603.14328](https://arxiv.org/abs/2603.14328)|null|
 |**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](https://arxiv.org/abs/2603.12046)|null|
 |**2026-03-12**|**ReDimNet2: Scaling Speaker Verification via Time-Pooled Dimension Reshaping**|Ivan Yakovlev et.al.|[2603.11841](https://arxiv.org/abs/2603.11841)|null|
 |**2026-03-12**|**Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2**|Suvendu Sekhar Mohanty et.al.|[2603.11683](https://arxiv.org/abs/2603.11683)|null|

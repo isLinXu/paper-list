@@ -2,6 +2,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning|Hieu Hoang et.al.|[2603.23988](https://arxiv.org/abs/2603.23988)|null|
+|2026-03-24|DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models|Jaewon Min et.al.|[2603.23499](https://arxiv.org/abs/2603.23499)|null|
+|2026-03-24|TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation|Jini Yang et.al.|[2603.23487](https://arxiv.org/abs/2603.23487)|null|
+|2026-03-23|GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning|Yixuan Luo et.al.|[2603.22270](https://arxiv.org/abs/2603.22270)|null|
+|2026-03-20|Goal-Oriented Framework for Optical Flow-based Multi-User Multi-Task Video Transmission|Yujie Xu et.al.|[2603.19995](https://arxiv.org/abs/2603.19995)|null|
+|2026-03-20|PCSTracker: Long-Term Scene Flow Estimation for Point Cloud Sequences|Min Lin et.al.|[2603.19762](https://arxiv.org/abs/2603.19762)|null|
+|2026-03-17| $x^2$ -Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space|Ruishan Guo et.al.|[2603.16671](https://arxiv.org/abs/2603.16671)|null|
+|2026-03-17|LenghuSky-8: An 8-Year All-Sky Cloud Dataset with Star-Aware Masks and Alt-Az Calibration for Segmentation and Nowcasting|Yicheng Rui et.al.|[2603.16429](https://arxiv.org/abs/2603.16429)|null|
+|2026-03-16|Towards Generalizable Robotic Manipulation in Dynamic Environments|Heng Fang et.al.|[2603.15620](https://arxiv.org/abs/2603.15620)|null|
+|2026-03-16|F2HDR: Two-Stage HDR Video Reconstruction via Flow Adapter and Physical Motion Modeling|Huanjing Yue et.al.|[2603.14920](https://arxiv.org/abs/2603.14920)|null|
+|2026-03-16|Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image|Joohyun Kwon et.al.|[2603.14772](https://arxiv.org/abs/2603.14772)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064](https://arxiv.org/abs/2603.12064)|null|
 |**2026-03-12**|**HiSync: Spatio-Temporally Aligning Hand Motion from Wearable IMU and On-Robot Camera for Command Source Identification in Long-Range HRI**|Chengwen Zhang et.al.|[2603.11809](https://arxiv.org/abs/2603.11809)|null|
 |**2026-03-11**|**Edge-Assisted Multi-Robot Visual-Inertial SLAM with Efficient Communication**|Xin Liu et.al.|[2603.11085](https://arxiv.org/abs/2603.11085)|null|

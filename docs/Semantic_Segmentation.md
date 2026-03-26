@@ -2,6 +2,62 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|2026-03-25|Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions|Shiqin Wang et.al.|[2603.24322](https://arxiv.org/abs/2603.24322)|null|
+|2026-03-25|RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation|Kai Zhu et.al.|[2603.24295](https://arxiv.org/abs/2603.24295)|null|
+|2026-03-25|InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment|Zixin Guo et.al.|[2603.24240](https://arxiv.org/abs/2603.24240)|null|
+|2026-03-24|Looking Beyond the Window: Global-Local Aligned CLIP for Training-free Open-Vocabulary Semantic Segmentation|ByeongCheol Lee et.al.|[2603.23030](https://arxiv.org/abs/2603.23030)|null|
+|2026-03-23|Toward Faithful Segmentation Attribution via Benchmarking and Dual-Evidence Fusion|Abu Noman Md Sakib et.al.|[2603.22624](https://arxiv.org/abs/2603.22624)|null|
+|2026-03-23|CanViT: Toward Active-Vision Foundation Models|Yohaï-Eliel Berreby et.al.|[2603.22570](https://arxiv.org/abs/2603.22570)|null|
+|2026-03-23|UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images|Kaizhen Tan et.al.|[2603.22531](https://arxiv.org/abs/2603.22531)|null|
+|2026-03-23|Spatially-Aware Evaluation Framework for Aerial LiDAR Point Cloud Semantic Segmentation: Distance-Based Metrics on Challenging Regions|Alex Salvatierra et.al.|[2603.22420](https://arxiv.org/abs/2603.22420)|null|
+|2026-03-23|Riverine Land Cover Mapping through Semantic Segmentation of Multispectral Point Clouds|Sopitta Thurachen et.al.|[2603.22230](https://arxiv.org/abs/2603.22230)|null|
+|2026-03-23|Benchmarking Deep Learning Models for Aerial LiDAR Point Cloud Semantic Segmentation under Real Acquisition Conditions: A Case Study in Navarre|Alex Salvatierra et.al.|[2603.22229](https://arxiv.org/abs/2603.22229)|null|
+|2026-03-23|Look, Listen and Segment: Towards Weakly Supervised Audio-visual Semantic Segmentation|Chengzhi Li et.al.|[2603.21948](https://arxiv.org/abs/2603.21948)|null|
+|2026-03-23|CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation|Mohammad Eslami et.al.|[2603.21566](https://arxiv.org/abs/2603.21566)|null|
+|2026-03-23|PEARL: Geometry Aligns Semantics for Training-Free Open-Vocabulary Semantic Segmentation|Gensheng Pei et.al.|[2603.21528](https://arxiv.org/abs/2603.21528)|null|
+|2026-03-22|Mitigating Objectness Bias and Region-to-Text Misalignment for Open-Vocabulary Panoptic Segmentation|Nikolay Kormushev et.al.|[2603.21386](https://arxiv.org/abs/2603.21386)|null|
+|2026-03-22|Boundary-Aware Instance Segmentation in Microscopy Imaging|Thomas Mendelson et.al.|[2603.21206](https://arxiv.org/abs/2603.21206)|null|
+|2026-03-22|LiFR-Seg: Anytime High-Frame-Rate Segmentation via Event-Guided Propagation|Xiaoshan Wu et.al.|[2603.21115](https://arxiv.org/abs/2603.21115)|null|
+|2026-03-22|CTFS : Collaborative Teacher Framework for Forward-Looking Sonar Image Semantic Segmentation with Extremely Limited Labels|Ping Guo et.al.|[2603.21071](https://arxiv.org/abs/2603.21071)|null|
+|2026-03-21|Elite Lanes: Evolutionary Generation of Realistic Small-Scale Road Networks|Artur Morys-Magiera et.al.|[2603.20964](https://arxiv.org/abs/2603.20964)|null|
+|2026-03-21|Lean Learning Beyond Clouds: Efficient Discrepancy-Conditioned Optical-SAR Fusion for Semantic Segmentation|Chenxing Meng et.al.|[2603.20811](https://arxiv.org/abs/2603.20811)|null|
+|2026-03-21|OmniPatch: A Universal Adversarial Patch for ViT-CNN Cross-Architecture Transfer in Semantic Segmentation|Aarush Aggarwal et.al.|[2603.20777](https://arxiv.org/abs/2603.20777)|null|
+|2026-03-20|An Open Source Computer Vision and Machine Learning Framework for Affordable Life Science Robotic Automation|Zachary Logan et.al.|[2603.20465](https://arxiv.org/abs/2603.20465)|null|
+|2026-03-20|MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models|Puskal Khadka et.al.|[2603.20074](https://arxiv.org/abs/2603.20074)|null|
+|2026-03-20|SegVGGT: Joint 3D Reconstruction and Instance Segmentation from Multi-View Images|Jinyuan Qu et.al.|[2603.19926](https://arxiv.org/abs/2603.19926)|null|
+|2026-03-20|PanORama: Multiview Consistent Panoptic Segmentation in Operating Rooms|Tuna Gürbüz et.al.|[2603.19920](https://arxiv.org/abs/2603.19920)|null|
+|2026-03-20|Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy|Carolin Teuber et.al.|[2603.19802](https://arxiv.org/abs/2603.19802)|null|
+|2026-03-20|Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation|Yifei Zhao et.al.|[2603.19757](https://arxiv.org/abs/2603.19757)|null|
+|2026-03-20|LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment|Shuaibang Peng et.al.|[2603.19609](https://arxiv.org/abs/2603.19609)|null|
+|2026-03-20|MagicSeg: Open-World Segmentation Pretraining via Counterfactural Diffusion-Based Auto-Generation|Kaixin Cai et.al.|[2603.19575](https://arxiv.org/abs/2603.19575)|null|
+|2026-03-19|dinov3.seg: Open-Vocabulary Semantic Segmentation with DINOv3|Saikat Dutta et.al.|[2603.19531](https://arxiv.org/abs/2603.19531)|null|
+|2026-03-19|DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding|Dong Zhuo et.al.|[2603.19219](https://arxiv.org/abs/2603.19219)|null|
+|2026-03-19|Reconstruction Matters: Learning Geometry-Aligned BEV Representation through 3D Gaussian Splatting|Yiren Lu et.al.|[2603.19193](https://arxiv.org/abs/2603.19193)|null|
+|2026-03-19|Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation|Yuchen Li et.al.|[2603.18795](https://arxiv.org/abs/2603.18795)|null|
+|2026-03-19|EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation|Longfei Liu et.al.|[2603.18739](https://arxiv.org/abs/2603.18739)|null|
+|2026-03-19|Towards High-Quality Image Segmentation: Improving Topology Accuracy by Penalizing Neighbor Pixels|Juan Miguel Valverde et.al.|[2603.18671](https://arxiv.org/abs/2603.18671)|null|
+|2026-03-19|R&D: Balancing Reliability and Diversity in Synthetic Data Augmentation for Semantic Segmentation|Huy Che et.al.|[2603.18427](https://arxiv.org/abs/2603.18427)|null|
+|2026-03-18|Semantic Segmentation and Depth Estimation for Real-Time Lunar Surface Mapping Using 3D Gaussian Splatting|Guillem Casadesus Vila et.al.|[2603.18218](https://arxiv.org/abs/2603.18218)|null|
+|2026-03-18|SegFly: A 2D-3D-2D Paradigm for Aerial RGB-Thermal Semantic Segmentation at Scale|Markus Gross et.al.|[2603.17920](https://arxiv.org/abs/2603.17920)|null|
+|2026-03-18|Revisiting foundation models for cell instance segmentation|Anwai Archit et.al.|[2603.17845](https://arxiv.org/abs/2603.17845)|null|
+|2026-03-18|Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation|Haocheng Li et.al.|[2603.17705](https://arxiv.org/abs/2603.17705)|null|
+|2026-03-18|AdaMuS: Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data|Cai Xu et.al.|[2603.17610](https://arxiv.org/abs/2603.17610)|null|
+|2026-03-18|Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis|Jaein Kim et.al.|[2603.17538](https://arxiv.org/abs/2603.17538)|null|
+|2026-03-18|SafeLand: Safe Autonomous Landing in Unknown Environments with Bayesian Semantic Mapping|Markus Gross et.al.|[2603.17430](https://arxiv.org/abs/2603.17430)|null|
+|2026-03-18|Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge|Adam Dai et.al.|[2603.17232](https://arxiv.org/abs/2603.17232)|null|
+|2026-03-17|DesertFormer: Transformer-Based Semantic Segmentation for Off-Road Desert Terrain Classification in Autonomous Navigation Systems|Yasaswini Chebolu et.al.|[2603.17056](https://arxiv.org/abs/2603.17056)|null|
+|2026-03-17|vAccSOL: Efficient and Transparent AI Vision Offloading for Mobile Robots|Adam Zahir et.al.|[2603.16685](https://arxiv.org/abs/2603.16685)|null|
+|2026-03-17|TCATSeg: A Tooth Center-Wise Attention Network for 3D Dental Model Semantic Segmentation|Qiang He et.al.|[2603.16620](https://arxiv.org/abs/2603.16620)|null|
+|2026-03-17|Segmentation-Based Attention Entropy: Detecting and Mitigating Object Hallucinations in Large Vision-Language Models|Jiale Song et.al.|[2603.16558](https://arxiv.org/abs/2603.16558)|null|
+|2026-03-17|SF-Mamba: Rethinking State Space Model for Vision|Masakazu Yoshimura et.al.|[2603.16423](https://arxiv.org/abs/2603.16423)|null|
+|2026-03-17|Poisoning the Pixels: Revisiting Backdoor Attacks on Semantic Segmentation|Guangsheng Zhang et.al.|[2603.16405](https://arxiv.org/abs/2603.16405)|null|
+|2026-03-17|Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting|Jiyang Huang et.al.|[2603.16241](https://arxiv.org/abs/2603.16241)|null|
+|2026-03-17|Speak, Segment, Track, Navigate: An Interactive System for Video-Guided Skull-Base Surgery|Jecia Z. Y. Mao et.al.|[2603.16024](https://arxiv.org/abs/2603.16024)|null|
+|2026-03-16|Self-Distillation of Hidden Layers for Self-Supervised Representation Learning|Scott C. Lowe et.al.|[2603.15553](https://arxiv.org/abs/2603.15553)|null|
+|2026-03-16|Seeing Beyond: Extrapolative Domain Adaptive Panoramic Segmentation|Yuanfan Zheng et.al.|[2603.15475](https://arxiv.org/abs/2603.15475)|null|
+|2026-03-16|A Tutorial on ALOS2 SAR Utilization: Dataset Preparation, Self-Supervised Pretraining, and Semantic Segmentation|Nevrez Imamoglu et.al.|[2603.15119](https://arxiv.org/abs/2603.15119)|null|
+|2026-03-15|Seeing Where to Deploy: Metric RGB-Based Traversability Analysis for Aerial-to-Ground Hidden Space Inspection|Seoyoung Lee et.al.|[2603.14639](https://arxiv.org/abs/2603.14639)|null|
+|2026-03-15|In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels|Tomislav Medic et.al.|[2603.14309](https://arxiv.org/abs/2603.14309)|null|
 |**2026-03-12**|**CrossEarth-SAR: A SAR-Centric and Billion-Scale Geospatial Foundation Model for Domain Generalizable Semantic Segmentation**|Ziqi Ye et.al.|[2603.12008](https://arxiv.org/abs/2603.12008)|null|
 |**2026-03-12**|**ActiveFreq: Integrating Active Learning and Frequency Domain Analysis for Interactive Segmentation**|Lijun Guo et.al.|[2603.11498](https://arxiv.org/abs/2603.11498)|null|
 |**2026-03-11**|**World Mouse: Exploring Interactions with a Cross-Reality Cursor**|Esen K. Tütüncü et.al.|[2603.10984](https://arxiv.org/abs/2603.10984)|null|
