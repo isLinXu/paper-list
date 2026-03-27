@@ -63,6 +63,9 @@ def run_monthly(config_path: str):
     logging.info(f"Monthly windows: {[(s.isoformat(), e.isoformat()) for s, e in month_ranges]}")
 
     # Iterate daily within each month window to guarantee coverage
+    changed_readme_topics = set()
+    changed_gitpage_topics = set()
+    changed_wechat_topics = set()
     for s_date, e_date in month_ranges:
         cur = s_date
         while cur <= e_date:
@@ -78,24 +81,24 @@ def run_monthly(config_path: str):
 
             # Merge JSON per day
             if publish_readme:
-                update_json_file(json_readme_path, data_collector)
+                changed_readme_topics.update(update_json_file(json_readme_path, data_collector))
             if publish_gitpage:
-                update_json_file(json_gitpage_path, data_collector)
+                changed_gitpage_topics.update(update_json_file(json_gitpage_path, data_collector))
             if publish_wechat and json_wechat_path:
-                update_json_file(json_wechat_path, data_collector_web)
+                changed_wechat_topics.update(update_json_file(json_wechat_path, data_collector_web))
 
             cur += datetime.timedelta(days=1)
 
     # Render markdown once at the end
     if publish_readme:
         json_to_md(json_readme_path, md_readme_path, task='Update Readme',
-                   to_web=False, show_badge=show_badge)
+                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics)
     if publish_gitpage:
         json_to_md(json_gitpage_path, md_gitpage_path, task='Update GitPage',
-                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True)
+                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
     if publish_wechat and json_wechat_path and md_wechat_path:
         json_to_md(json_wechat_path, md_wechat_path, task='Update Wechat',
-                   to_web=False, use_title=False, show_badge=show_badge)
+                   to_web=False, use_title=False, show_badge=show_badge, selected_topics=changed_wechat_topics)
 
 
 if __name__ == "__main__":

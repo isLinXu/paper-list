@@ -36,6 +36,9 @@ def run(**config):
 
     b_update = config['update_paper_links']
     logging.info(f'Update Paper Link = {b_update}')
+    changed_readme_topics = set()
+    changed_gitpage_topics = set()
+    changed_wechat_topics = set()
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
@@ -53,17 +56,17 @@ def run(**config):
         md_file = config['md_readme_path']
         # update paper links
         if config['update_paper_links']:
-            update_paper_links(
+            changed_readme_topics = update_paper_links(
                 json_file,
                 start_date=config.get('start_date'),
                 end_date=config.get('end_date'),
             )
         else:
             # update json data
-            update_json_file(json_file, data_collector)
+            changed_readme_topics = update_json_file(json_file, data_collector)
         # json data to markdown
         json_to_md(json_file, md_file, task='Update Readme',
-                   show_badge=show_badge, split_to_docs=True)
+                   show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -72,16 +75,18 @@ def run(**config):
         same_json_source = json_file == config['json_readme_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links'] and not same_json_source:
-            update_paper_links(
+            changed_gitpage_topics = update_paper_links(
                 json_file,
                 start_date=config.get('start_date'),
                 end_date=config.get('end_date'),
             )
         elif not config['update_paper_links'] and not same_json_source:
-            update_json_file(json_file, data_collector)
+            changed_gitpage_topics = update_json_file(json_file, data_collector)
+        elif same_json_source:
+            changed_gitpage_topics = changed_readme_topics
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
-                   use_tc=True, use_b2t=False, split_to_docs=True)
+                   use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -89,13 +94,13 @@ def run(**config):
         md_file = config['md_wechat_path']
         # TODO: duplicated update paper links!!!
         if config['update_paper_links']:
-            update_paper_links(
+            changed_wechat_topics = update_paper_links(
                 json_file,
                 start_date=config.get('start_date'),
                 end_date=config.get('end_date'),
             )
         else:
-            update_json_file(json_file, data_collector_web)
+            changed_wechat_topics = update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
 
 

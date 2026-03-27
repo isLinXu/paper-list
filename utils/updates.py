@@ -40,10 +40,12 @@ def update_paper_links(filename, start_date=None, end_date=None):
     start_bound = datetime.date.fromisoformat(start_date) if start_date else None
     end_bound = datetime.date.fromisoformat(end_date) if end_date else None
 
+    changed_topics = set()
     for keyword, papers in data.items():
         logging.info(f"keywords = {keyword}")
         for paper_id, entry in list(papers.items()):
             record = ensure_paper_record(entry, paper_id=paper_id)
+            original_code_url = record.get("code_url")
             publish_date = datetime.date.fromisoformat(record["date"])
 
             if start_bound and publish_date < start_bound:
@@ -78,8 +80,11 @@ def update_paper_links(filename, start_date=None, end_date=None):
             if repo_url is not None:
                 record["code_url"] = repo_url
             papers[paper_id] = record
+            if record.get("code_url") != original_code_url:
+                changed_topics.add(keyword)
 
     save_paper_store(filename, data)
+    return changed_topics
 
 
 def update_json_file(filename, data_dict):
@@ -88,6 +93,7 @@ def update_json_file(filename, data_dict):
     """
     data = load_paper_store(filename)
 
+    changed_topics = set()
     for chunk in data_dict:
         for keyword, papers in chunk.items():
             normalized = {
@@ -99,12 +105,18 @@ def update_json_file(filename, data_dict):
                     paper_id: ensure_paper_record(entry, paper_id=paper_id)
                     for paper_id, entry in data[keyword].items()
                 }
+                before = dict(existing)
                 existing.update(normalized)
                 data[keyword] = existing
+                if existing != before:
+                    changed_topics.add(keyword)
             else:
                 data[keyword] = normalized
+                if normalized:
+                    changed_topics.add(keyword)
 
     save_paper_store(filename, data)
+    return changed_topics
 
 
 def normalize_json_rows(filename):

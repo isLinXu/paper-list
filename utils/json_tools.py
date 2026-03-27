@@ -15,7 +15,8 @@ def json_to_md(filename, md_filename,
                use_tc=True,
                show_badge=True,
                use_b2t=True,
-               split_to_docs=False):
+               split_to_docs=False,
+               selected_topics=None):
     """
     @param filename: str
     @param md_filename: str
@@ -41,6 +42,7 @@ def json_to_md(filename, md_filename,
     DateNow = DateNow.replace('-', '.')
 
     data = load_paper_store(filename)
+    selected_topics = set(selected_topics or [])
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
@@ -132,23 +134,24 @@ def json_to_md(filename, md_filename,
                 if not os.path.exists('docs'):
                     os.makedirs('docs')
                 kw = keyword.replace(' ', '_')
-                with open(f"docs/{kw}.md", "w+") as f_sub:
-                    f_sub.write(f"## {keyword}\n\n")
-                    if use_title == True:
-                        if to_web == False:
-                            f_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
-                        else:
-                            f_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
-                            f_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
-                    
-                    day_content = sort_papers(day_content)
-                    for _, v in day_content.items():
-                        if v is not None:
-                            line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
-                            f_sub.write(pretty_math(line))
+                if (not selected_topics) or (keyword in selected_topics):
+                    with open(f"docs/{kw}.md", "w+") as f_sub:
+                        f_sub.write(f"## {keyword}\n\n")
+                        if use_title == True:
+                            if to_web == False:
+                                f_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
+                            else:
+                                f_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                                f_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
 
-                    back_target = "index.md" if to_web else "../README.md"
-                    f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
+                        day_content = sort_papers(day_content)
+                        for _, v in day_content.items():
+                            if v is not None:
+                                line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
+                                f_sub.write(pretty_math(line))
+
+                        back_target = "index.md" if to_web else "../README.md"
+                        f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
             else:
                 # the head of each part
                 f.write(f"## {keyword}\n\n")
