@@ -8,7 +8,7 @@ from urllib.parse import quote
 import arxiv
 import requests
 
-from .paper_links import ARXIV_ABS_PREFIX, render_paper_row
+from .paper_links import ARXIV_ABS_PREFIX, make_paper_record
 HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
 
@@ -158,20 +158,20 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
                     logging.info(f"GitHub fallback no result for id {paper_key}: {e}")
 
             if repo_url is not None:
-                content[paper_key] = render_paper_row(
-                    f"**{publish_time}**",
-                    f"**{paper_title}**",
+                content[paper_key] = make_paper_record(
+                    publish_time,
+                    paper_title,
                     f"{paper_first_author} et.al.",
                     paper_key,
-                    f"**[link]({repo_url})**",
+                    repo_url,
                 )
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                     publish_time, paper_title, paper_first_author, ARXIV_ABS_PREFIX + paper_key,
                     ARXIV_ABS_PREFIX + paper_key, repo_url, repo_url)
             else:
-                content[paper_key] = render_paper_row(
-                    f"**{publish_time}**",
-                    f"**{paper_title}**",
+                content[paper_key] = make_paper_record(
+                    publish_time,
+                    paper_title,
                     f"{paper_first_author} et.al.",
                     paper_key,
                     "null",

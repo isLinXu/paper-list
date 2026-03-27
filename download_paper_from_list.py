@@ -1,10 +1,11 @@
 import os
 import json
-import re
 import requests
 import logging
 from datetime import datetime
 from tqdm import tqdm
+
+from utils.paper_links import ensure_paper_record
 
 
 class ArxivPaperDownloader:
@@ -28,8 +29,9 @@ class ArxivPaperDownloader:
 
         # 遍历json
         for key, value in tqdm(self.data[selected_topic].items(), desc=f"Downloading {selected_topic} papers"):
-            # 使用正则表达式提取日期和论文名称
-            date_str, title = re.findall(r'\*\*(.+?)\*\*', value)[:2]
+            record = ensure_paper_record(value, paper_id=key)
+            date_str = record['date']
+            title = record['title']
 
             # 将日期字符串转换为日期对象
             date_obj = datetime.strptime(date_str, "%Y-%m-%d")
@@ -37,7 +39,7 @@ class ArxivPaperDownloader:
             # 检查日期是否在筛选范围内
             if self.start_date <= date_obj <= self.end_date:
                 # 构造pdf下载链接
-                url = f'http://arxiv.org/pdf/{key}.pdf'
+                url = f'http://arxiv.org/pdf/{record["arxiv_id"]}.pdf'
 
                 # 发送GET请求
                 response = requests.get(url)
@@ -80,4 +82,3 @@ if __name__ == "__main__":
     downloader.download_papers('Multimodal')
     downloader.download_papers('Reinforcement Learning')
     downloader.download_papers('Graph Neural Networks')
-

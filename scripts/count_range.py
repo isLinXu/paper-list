@@ -1,9 +1,14 @@
 import json
 import sys
-import re
 import datetime
 from collections import OrderedDict
 from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from utils.paper_links import ensure_paper_record
 
 
 def main():
@@ -22,8 +27,6 @@ def main():
     with open(json_path, 'r') as f:
         data = json.load(f)
 
-    rx = re.compile(r"\|\*{0,2}(\d{4}-\d{2}-\d{2})\*{0,2}\|")
-
     counts = OrderedDict()
     total = 0
     min_d = None
@@ -32,10 +35,11 @@ def main():
     for cat, items in data.items():
         c = 0
         for k, v in items.items():
-            m = rx.search(v)
-            if not m:
+            try:
+                record = ensure_paper_record(v, paper_id=k)
+            except Exception:
                 continue
-            d = datetime.date.fromisoformat(m.group(1))
+            d = datetime.date.fromisoformat(record["date"])
             if start_date <= d <= end_date:
                 c += 1
                 total += 1

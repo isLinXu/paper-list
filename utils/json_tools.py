@@ -4,6 +4,7 @@ import logging
 import re
 import os
 
+from .paper_links import ensure_paper_record, render_paper_row
 from .sorts import sort_papers
 
 
@@ -148,7 +149,8 @@ def json_to_md(filename, md_filename,
                     day_content = sort_papers(day_content)
                     for _, v in day_content.items():
                         if v is not None:
-                            f_sub.write(pretty_math(v))
+                            line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
+                            f_sub.write(pretty_math(line))
 
                     back_target = "index.md" if to_web else "../README.md"
                     f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
@@ -168,7 +170,8 @@ def json_to_md(filename, md_filename,
 
                 for _, v in day_content.items():
                     if v is not None:
-                        f.write(pretty_math(v))  # make latex pretty
+                        line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
+                        f.write(pretty_math(line))  # make latex pretty
 
                 f.write(f"\n")
 
