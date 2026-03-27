@@ -1,11 +1,11 @@
 import datetime
-import json
 import logging
 import re
 import os
 
-from .paper_links import ensure_paper_record, render_paper_row
+from .paper_links import render_paper_row
 from .sorts import sort_papers
+from .storage import load_paper_store
 
 
 def json_to_md(filename, md_filename,
@@ -40,12 +40,7 @@ def json_to_md(filename, md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-', '.')
 
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_paper_store(filename)
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:

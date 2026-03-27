@@ -1,4 +1,3 @@
-import json
 import sys
 import datetime
 from collections import OrderedDict
@@ -9,6 +8,7 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from utils.paper_links import ensure_paper_record
+from utils.storage import load_paper_store
 
 
 def main():
@@ -18,14 +18,13 @@ def main():
 
     start_date = datetime.date.fromisoformat(sys.argv[1])
     end_date = datetime.date.fromisoformat(sys.argv[2])
-    json_path = Path(sys.argv[3]) if len(sys.argv) > 3 else Path('docs/paper_list.json')
+    json_path = Path(sys.argv[3]) if len(sys.argv) > 3 else Path('docs/data')
 
     if not json_path.exists():
         print(f"File not found: {json_path}")
         sys.exit(2)
 
-    with open(json_path, 'r') as f:
-        data = json.load(f)
+    data = load_paper_store(json_path)
 
     counts = OrderedDict()
     total = 0

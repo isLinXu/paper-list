@@ -1,17 +1,16 @@
 import os
-import json
 import requests
 import logging
 from datetime import datetime
 from tqdm import tqdm
 
 from utils.paper_links import ensure_paper_record
+from utils.storage import load_paper_store
 
 
 class ArxivPaperDownloader:
     def __init__(self, json_file, start_date, end_date):
-        with open(json_file, 'r') as f:
-            self.data = json.load(f)
+        self.data = load_paper_store(json_file)
         self.start_date = datetime.strptime(start_date, "%Y-%m-%d")
         self.end_date = datetime.strptime(end_date, "%Y-%m-%d")
 
@@ -65,7 +64,7 @@ class ArxivPaperDownloader:
 
 if __name__ == "__main__":
     # 初始化下载器
-    downloader = ArxivPaperDownloader('docs/paper_list.json', '2024-02-01', '2024-06-13')
+    downloader = ArxivPaperDownloader('docs/data', '2024-02-01', '2024-06-13')
 
     # 下载指定分类的论文
     # downloader.download_papers('Classification')

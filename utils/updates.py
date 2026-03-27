@@ -6,6 +6,7 @@ import os
 import requests
 
 from .paper_links import ensure_paper_record
+from .storage import load_paper_store, save_paper_store
 
 HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
@@ -34,12 +35,7 @@ def update_paper_links(filename, start_date=None, end_date=None):
         # Disabling it to rely on GitHub API which is more stable.
         return None
 
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_paper_store(filename)
 
     start_bound = datetime.date.fromisoformat(start_date) if start_date else None
     end_bound = datetime.date.fromisoformat(end_date) if end_date else None
@@ -83,20 +79,14 @@ def update_paper_links(filename, start_date=None, end_date=None):
                 record["code_url"] = repo_url
             papers[paper_id] = record
 
-    with open(filename, "w") as f:
-        json.dump(data, f, indent=4)
+    save_paper_store(filename, data)
 
 
 def update_json_file(filename, data_dict):
     """
     Daily update json file using data_dict.
     """
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_paper_store(filename)
 
     for chunk in data_dict:
         for keyword, papers in chunk.items():
@@ -114,23 +104,9 @@ def update_json_file(filename, data_dict):
             else:
                 data[keyword] = normalized
 
-    with open(filename, "w") as f:
-        json.dump(data, f, indent=4)
+    save_paper_store(filename, data)
 
 
 def normalize_json_rows(filename):
-    with open(filename, "r") as f:
-        content = f.read()
-        if not content:
-            return
-        data = json.loads(content)
-
-    normalized = {}
-    for keyword, papers in data.items():
-        normalized[keyword] = {
-            paper_id: ensure_paper_record(entry, paper_id=paper_id)
-            for paper_id, entry in papers.items()
-        }
-
-    with open(filename, "w") as f:
-        json.dump(normalized, f, indent=4)
+    data = load_paper_store(filename)
+    save_paper_store(filename, data)

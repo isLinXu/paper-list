@@ -6,7 +6,7 @@ sys.path.append(os.getcwd())
 
 from utils.json_tools import json_to_md
 
-json_file = './docs/paper_list.json'
+json_file = './docs/data'
 md_file = 'README.md'
 show_badge = True
 
