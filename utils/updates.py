@@ -6,9 +6,10 @@ import datetime
 
 import requests
 
+from .paper_links import normalize_arxiv_id, render_paper_row
+
 HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "https://arxiv.org/"
 
 def parse_arxiv_record(s: str):
     row = str(s).strip()
@@ -20,21 +21,20 @@ def parse_arxiv_record(s: str):
         raise ValueError(f"Unexpected row format: {s[:200]}")
 
     date = parts[0].replace("**", "").strip()
-    title = "|".join(parts[1:-3]).replace("**", "").strip()
-    authors = parts[-3].replace("**", "").strip()
-    arxiv_id_link = parts[-2].strip()
     code = parts[-1].strip()
-    return date, title, authors, arxiv_id_link, code
-
-
-def normalize_arxiv_link(arxiv_id_link: str) -> str:
-    # Support ids with four or five digits after the dot, with optional version suffix.
-    m = re.search(r"\[(\d{4}\.\d{4,5}(?:v\d+)?)\]", arxiv_id_link)
-    if m:
-        arxiv_id = m.group(1)
+    if len(parts) >= 7:
+        read_link = parts[-2].strip()
+        translate_link = parts[-3].strip()
+        arxiv_id_link = parts[-4].strip()
+        authors = parts[-5].replace("**", "").strip()
+        title = "|".join(parts[1:-5]).replace("**", "").strip()
     else:
-        arxiv_id = arxiv_id_link
-    return re.sub(r"v\d+$", "", arxiv_id)
+        read_link = None
+        translate_link = None
+        arxiv_id_link = parts[-2].strip()
+        authors = parts[-3].replace("**", "").strip()
+        title = "|".join(parts[1:-3]).replace("**", "").strip()
+    return date, title, authors, arxiv_id_link, translate_link, read_link, code
 
 
 def update_paper_links(filename, start_date=None, end_date=None):
@@ -84,7 +84,7 @@ def update_paper_links(filename, start_date=None, end_date=None):
             contents = str(contents)
 
             try:
-                update_time, paper_title, paper_first_author, arxiv_id_link, code_url = parse_arxiv_record(contents)
+                update_time, paper_title, paper_first_author, arxiv_id_link, _, _, code_url = parse_arxiv_record(contents)
             except ValueError as exc:
                 logging.warning(f"Skip unparsable record {paper_id}: {exc}")
                 continue
@@ -95,11 +95,9 @@ def update_paper_links(filename, start_date=None, end_date=None):
             if end_bound and publish_date > end_bound:
                 continue
 
-            arxiv_id = normalize_arxiv_link(arxiv_id_link)
+            arxiv_id = normalize_arxiv_id(arxiv_id_link)
 
-            contents = "|{}|{}|{}|{}|{}|\n".format(update_time, paper_title, paper_first_author,
-                                                   f"[{arxiv_id}]({arxiv_url}abs/{arxiv_id})",
-                                                   code_url)
+            contents = render_paper_row(update_time, paper_title, paper_first_author, arxiv_id, code_url)
             json_data[keywords][paper_id] = str(contents)
             logging.info(f'paper_id = {paper_id}, contents = {contents}')
 
@@ -155,6 +153,23 @@ def update_json_file(filename, data_dict):
                 json_data[keyword].update(papers)
             else:
                 json_data[keyword] = papers
+
+    with open(filename, "w") as f:
+        json.dump(json_data, f, indent=4)
+
+
+def normalize_json_rows(filename):
+    with open(filename, "r") as f:
+        content = f.read()
+        if not content:
+            return
+        json_data = json.loads(content)
+
+    for keyword, papers in json_data.items():
+        for paper_id, row in list(papers.items()):
+            date, title, authors, arxiv_id_link, _, _, code = parse_arxiv_record(str(row))
+            arxiv_id = normalize_arxiv_id(arxiv_id_link)
+            json_data[keyword][paper_id] = render_paper_row(date, title, authors, arxiv_id, code)
 
     with open(filename, "w") as f:
         json.dump(json_data, f, indent=4)

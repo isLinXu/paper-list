@@ -140,10 +140,10 @@ def json_to_md(filename, md_filename,
                     f_sub.write(f"## {keyword}\n\n")
                     if use_title == True:
                         if to_web == False:
-                            f_sub.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                            f_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
                         else:
-                            f_sub.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                            f_sub.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                            f_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                            f_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
                     
                     day_content = sort_papers(day_content)
                     for _, v in day_content.items():
@@ -158,10 +158,10 @@ def json_to_md(filename, md_filename,
 
                 if use_title == True:
                     if to_web == False:
-                        f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                        f.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
                     else:
-                        f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                        f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                        f.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                        f.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
 
                 # sort papers by date
                 day_content = sort_papers(day_content)

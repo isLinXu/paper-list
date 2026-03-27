@@ -8,10 +8,9 @@ from urllib.parse import quote
 import arxiv
 import requests
 
-
+from .paper_links import ARXIV_ABS_PREFIX, render_paper_row
 HF_PAPER_PAGE = "https://huggingface.co/papers/"
 github_url = "https://api.github.com/search/repositories"
-arxiv_url = "https://arxiv.org/"
 
 
 def sanitize_table_cell(value: str) -> str:
@@ -131,7 +130,6 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
 
             paper_id = result.get_short_id()
             paper_title = sanitize_table_cell(result.title)
-            paper_url = result.entry_id
             paper_abstract = result.summary.replace("\n", " ")
             paper_authors = get_authors(result.authors)
             paper_first_author = sanitize_table_cell(get_authors(result.authors, first_author=True))
@@ -147,8 +145,6 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
                 paper_key = paper_id
             else:
                 paper_key = paper_id[0:ver_pos]
-            paper_url = arxiv_url + 'abs/' + paper_key
-
             # Try Hugging Face papers page -> GitHub fallback
             repo_url = try_hf_repo(paper_key)
             if repo_url is None:
@@ -162,15 +158,28 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
                     logging.info(f"GitHub fallback no result for id {paper_key}: {e}")
 
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                    publish_time, paper_title, paper_first_author, paper_key, paper_url, repo_url)
+                content[paper_key] = render_paper_row(
+                    f"**{publish_time}**",
+                    f"**{paper_title}**",
+                    f"{paper_first_author} et.al.",
+                    paper_key,
+                    f"**[link]({repo_url})**",
+                )
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                    publish_time, paper_title, paper_first_author, paper_url, paper_url, repo_url, repo_url)
+                    publish_time, paper_title, paper_first_author, ARXIV_ABS_PREFIX + paper_key,
+                    ARXIV_ABS_PREFIX + paper_key, repo_url, repo_url)
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                    publish_time, paper_title, paper_first_author, paper_key, paper_url)
+                content[paper_key] = render_paper_row(
+                    f"**{publish_time}**",
+                    f"**{paper_title}**",
+                    f"{paper_first_author} et.al.",
+                    paper_key,
+                    "null",
+                )
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                    publish_time, paper_title, paper_first_author, paper_url, paper_url)
+                    publish_time, paper_title, paper_first_author,
+                    ARXIV_ABS_PREFIX + paper_key,
+                    ARXIV_ABS_PREFIX + paper_key)
 
             # TODO: select useful comments
             comments = None
