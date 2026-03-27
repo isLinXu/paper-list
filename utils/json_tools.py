@@ -2,8 +2,9 @@ import datetime
 import logging
 import re
 import os
+from collections import defaultdict
 
-from .paper_links import render_paper_row
+from .paper_links import ensure_paper_record, render_paper_row
 from .sorts import sort_papers
 from .storage import load_paper_store
 
@@ -43,6 +44,13 @@ def json_to_md(filename, md_filename,
 
     data = load_paper_store(filename)
     selected_topics = set(selected_topics or [])
+
+    def group_papers_by_month(papers: dict) -> dict:
+        grouped = defaultdict(dict)
+        for paper_id, entry in sort_papers(papers).items():
+            record = ensure_paper_record(entry, paper_id=paper_id)
+            grouped[record["date"][:7]][paper_id] = record
+        return dict(grouped)
 
     # clean README.md if daily already exist else create it
     with open(md_filename, "w+") as f:
@@ -137,18 +145,32 @@ def json_to_md(filename, md_filename,
                 if (not selected_topics) or (keyword in selected_topics):
                     with open(f"docs/{kw}.md", "w+") as f_sub:
                         f_sub.write(f"## {keyword}\n\n")
-                        if use_title == True:
-                            if to_web == False:
-                                f_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
-                            else:
-                                f_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
-                                f_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
+                        grouped = group_papers_by_month(day_content)
+                        total_papers = sum(len(month_items) for month_items in grouped.values())
+                        f_sub.write(f"Total papers: **{total_papers}**\n\n")
+                        f_sub.write("## Monthly Archives\n\n")
+                        for month, month_items in sorted(grouped.items(), reverse=True):
+                            month_dir = os.path.join("docs", kw)
+                            os.makedirs(month_dir, exist_ok=True)
+                            month_file = os.path.join(month_dir, f"{month}.md")
+                            month_href = f"{kw}/{month}.md" if to_web else f"{kw}/{month}.md"
+                            f_sub.write(f"- [{month}]({month_href}) ({len(month_items)} papers)\n")
 
-                        day_content = sort_papers(day_content)
-                        for _, v in day_content.items():
-                            if v is not None:
-                                line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
-                                f_sub.write(pretty_math(line))
+                            with open(month_file, "w+") as month_sub:
+                                month_sub.write(f"## {keyword} - {month}\n\n")
+                                if use_title == True:
+                                    if to_web == False:
+                                        month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")
+                                    else:
+                                        month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
+                                        month_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
+
+                                for _, v in sort_papers(month_items).items():
+                                    if v is not None:
+                                        line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
+                                        month_sub.write(pretty_math(line))
+
+                                month_sub.write(f"\n<p align=right>(<a href=../{kw}.md>back to {keyword}</a>)</p>\n\n")
 
                         back_target = "index.md" if to_web else "../README.md"
                         f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
