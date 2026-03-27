@@ -1,7 +1,7 @@
 ## Object Detection
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Language-Guided Structure-Aware Network for Camouflaged Object Detection|Min Zhang et.al.|[2603.24355](https://arxiv.org/abs/2603.24355)|null|
 |2026-03-25|VERIA: Verification-Centric Multimodal Instance Augmentation for Long-Tailed 3D Object Detection|Jumin Lee et.al.|[2603.24294](https://arxiv.org/abs/2603.24294)|null|
 |2026-03-25|Heuristic-inspired Reasoning Priors Facilitate Data-Efficient Referring Object Detection|Xu Zhang et.al.|[2603.24166](https://arxiv.org/abs/2603.24166)|null|
@@ -3173,5 +3173,5 @@
 |**2024-02-27**|**A Vanilla Multi-Task Framework for Dense Visual Prediction Solution to 1st VCL Challenge -- Multi-Task Robustness Track**|Zehui Chen et.al.|[2402.17319](https://arxiv.org/abs/2402.17319)|null|
 |**2024-02-27**|**Probing Multimodal Large Language Models for Global and Local Semantic Representation**|Mingxu Tao et.al.|[2402.17304](https://arxiv.org/abs/2402.17304)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

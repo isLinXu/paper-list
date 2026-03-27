@@ -1,7 +1,7 @@
 ## Semantic Segmentation
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions|Shiqin Wang et.al.|[2603.24322](https://arxiv.org/abs/2603.24322)|null|
 |2026-03-25|RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation|Kai Zhu et.al.|[2603.24295](https://arxiv.org/abs/2603.24295)|null|
 |2026-03-25|InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment|Zixin Guo et.al.|[2603.24240](https://arxiv.org/abs/2603.24240)|null|
@@ -2560,5 +2560,5 @@
 |**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](https://arxiv.org/abs/2402.17653)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](https://arxiv.org/abs/2402.17622)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

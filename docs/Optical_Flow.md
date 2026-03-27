@@ -1,7 +1,7 @@
 ## Optical Flow
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|CAKE: Real-time Action Detection via Motion Distillation and Background-aware Contrastive Learning|Hieu Hoang et.al.|[2603.23988](https://arxiv.org/abs/2603.23988)|null|
 |2026-03-24|DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models|Jaewon Min et.al.|[2603.23499](https://arxiv.org/abs/2603.23499)|null|
 |2026-03-24|TETO: Tracking Events with Teacher Observation for Motion Estimation and Frame Interpolation|Jini Yang et.al.|[2603.23487](https://arxiv.org/abs/2603.23487)|null|
@@ -818,5 +818,5 @@
 |**2024-02-12**|**A Flow-based Credibility Metric for Safety-critical Pedestrian Detection**|Maria Lyssenko et.al.|[2402.07642](https://arxiv.org/abs/2402.07642)|null|
 |**2024-02-09**|**Image-based Deep Learning for the time-dependent prediction of fresh concrete properties**|Max Meyer et.al.|[2402.06611](https://arxiv.org/abs/2402.06611)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

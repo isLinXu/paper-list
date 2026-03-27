@@ -1,7 +1,7 @@
 ## Anomaly Detection
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Causal Transfer in Medical Image Analysis|Mohammed M. Abdelsamea et.al.|[2603.24388](https://arxiv.org/abs/2603.24388)|null|
 |2026-03-25|Praxium: Diagnosing Cloud Anomalies with AI-based Telemetry and Dependency Analysis|Rohan Kumar et.al.|[2603.23890](https://arxiv.org/abs/2603.23890)|null|
 |2026-03-25|MLE-UVAD: Minimal Latent Entropy Autoencoder for Fully Unsupervised Video Anomaly Detection|Yuang Geng et.al.|[2603.23868](https://arxiv.org/abs/2603.23868)|null|
@@ -2860,5 +2860,5 @@
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](https://arxiv.org/abs/2402.16912)|null|
 |**2024-02-26**|**Uncertainty Quantification in Anomaly Detection with Cross-Conformal $p$ -Values**|Oliver Hennhöfer et.al.|[2402.16388](https://arxiv.org/abs/2402.16388)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

@@ -1,7 +1,7 @@
 ## Classification
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Cross-Modal Prototype Alignment and Mixing for Training-Free Few-Shot Classification|Dipam Goswami et.al.|[2603.24528](https://arxiv.org/abs/2603.24528)|null|
 |2026-03-25|Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection|Adhemar de Senneville et.al.|[2603.24181](https://arxiv.org/abs/2603.24181)|null|
 |2026-03-25|LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification|Jiawen Wen et.al.|[2603.24045](https://arxiv.org/abs/2603.24045)|null|
@@ -3245,5 +3245,5 @@
 |**2024-02-27**|**Scaling Supervised Local Learning with Augmented Auxiliary Networks**|Chenxiang Ma et.al.|[2402.17318](https://arxiv.org/abs/2402.17318)|**[link](https://github.com/chenxiangma/auglocal)**|
 |**2024-02-26**|**Offline Writer Identification Using Convolutional Neural Network Activation Features**|Vincent Christlein et.al.|[2402.17029](https://arxiv.org/abs/2402.17029)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

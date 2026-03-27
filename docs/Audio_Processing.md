@@ -1,7 +1,7 @@
 ## Audio Processing
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan|Marta Moscati et.al.|[2603.24569](https://arxiv.org/abs/2603.24569)|null|
 |2026-03-25|A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English|Dana Serditova et.al.|[2603.24549](https://arxiv.org/abs/2603.24549)|null|
 |2026-03-25|What and When to Learn: CURriculum Ranking Loss for Large-Scale Speaker Verification|Massa Baali et.al.|[2603.24432](https://arxiv.org/abs/2603.24432)|null|
@@ -2229,5 +2229,5 @@
 |**2024-02-26**|**Effect of utterance duration and phonetic content on speaker identification using second-order statistical methods**|Ivan Magrin-Chagnolleau et.al.|[2402.16429](https://arxiv.org/abs/2402.16429)|null|
 |**2024-02-24**|**ArEEG_Chars: Dataset for Envisioned Speech Recognition using EEG for Arabic Characters**|Hazem Darwish et.al.|[2402.15733](https://arxiv.org/abs/2402.15733)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

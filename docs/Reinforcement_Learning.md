@@ -1,7 +1,7 @@
 ## Reinforcement Learning
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving|Pengxuan Yang et.al.|[2603.24587](https://arxiv.org/abs/2603.24587)|null|
 |2026-03-25|MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination|Zhuo Li et.al.|[2603.24579](https://arxiv.org/abs/2603.24579)|null|
 |2026-03-25|VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models|Qijia He et.al.|[2603.24575](https://arxiv.org/abs/2603.24575)|null|
@@ -5904,5 +5904,5 @@
 |**2024-02-28**|**Is Crowdsourcing Breaking Your Bank? Cost-Effective Fine-Tuning of Pre-trained Language Models with Proximal Policy Optimization**|Shuo Yang et.al.|[2402.18284](https://arxiv.org/abs/2402.18284)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](https://arxiv.org/abs/2402.18246)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

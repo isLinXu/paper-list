@@ -119,7 +119,8 @@ def json_to_md(filename, md_filename,
                     continue
                 if split_to_docs:
                     kw = keyword.replace(' ', '_')
-                    f.write(f"    <li><a href=docs/{kw}.md>{keyword}</a></li>\n")
+                    href = f"{kw}.md" if to_web else f"docs/{kw}.md"
+                    f.write(f"    <li><a href={href}>{keyword}</a></li>\n")
                 else:
                     kw = keyword.replace(' ', '-')
                     f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
@@ -148,8 +149,9 @@ def json_to_md(filename, md_filename,
                     for _, v in day_content.items():
                         if v is not None:
                             f_sub.write(pretty_math(v))
-                    
-                    f_sub.write(f"\n<p align=right>(<a href=../README.md>back to main</a>)</p>\n\n")
+
+                    back_target = "index.md" if to_web else "../README.md"
+                    f_sub.write(f"\n<p align=right>(<a href={back_target}>back to main</a>)</p>\n\n")
             else:
                 # the head of each part
                 f.write(f"## {keyword}\n\n")

@@ -1,7 +1,7 @@
 ## Pose Estimation
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics|Junheng Li et.al.|[2603.23995](https://arxiv.org/abs/2603.23995)|null|
 |2026-03-24|Object Pose Transformer: Unifying Unseen Object Pose Estimation|Weihang Li et.al.|[2603.23370](https://arxiv.org/abs/2603.23370)|null|
 |2026-03-24|PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals|Jesse F. d'Almeida et.al.|[2603.23365](https://arxiv.org/abs/2603.23365)|null|
@@ -1809,5 +1809,5 @@
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](https://arxiv.org/abs/2402.16308)|null|
 |**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175](https://arxiv.org/abs/2402.16175)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

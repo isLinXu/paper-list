@@ -1,7 +1,7 @@
 ## Scene Understanding
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|LightSplat: Fast and Memory-Efficient Open-Vocabulary 3D Scene Understanding in Five Seconds|Jaehun Bang et.al.|[2603.24146](https://arxiv.org/abs/2603.24146)|null|
 |2026-03-25|MMTIT-Bench: A Multilingual and Multi-Scenario Benchmark with Cognition-Perception-Reasoning Guided Text-Image Machine Translation|Gengluo Li et.al.|[2603.23896](https://arxiv.org/abs/2603.23896)|null|
 |2026-03-24|SLARM: Streaming and Language-Aligned Reconstruction Model for Dynamic Scenes|Zhicheng Qiu et.al.|[2603.22893](https://arxiv.org/abs/2603.22893)|null|
@@ -1365,5 +1365,5 @@
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643](https://arxiv.org/abs/2402.13643)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-25**|**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**|Xiaoyu Tian et.al.|[2402.12289](https://arxiv.org/abs/2402.12289)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

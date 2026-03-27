@@ -1,7 +1,7 @@
 ## Image Generation
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method|Arthur Jacot et.al.|[2603.24594](https://arxiv.org/abs/2603.24594)|null|
 |2026-03-25|Anti-I2V: Safeguarding your photos from malicious image-to-video generation|Duc Vu et.al.|[2603.24570](https://arxiv.org/abs/2603.24570)|null|
 |2026-03-25|ViHOI: Human-Object Interaction Synthesis with Visual Priors|Songjin Cai et.al.|[2603.24383](https://arxiv.org/abs/2603.24383)|null|
@@ -4209,5 +4209,5 @@
 |**2024-02-28**|**Breaking the Black-Box: Confidence-Guided Model Inversion Attack for Distribution Shift**|Xinhao Liu et.al.|[2402.18027](https://arxiv.org/abs/2402.18027)|null|
 |**2024-02-27**|**CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing**|Chufeng Xiao et.al.|[2402.17624](https://arxiv.org/abs/2402.17624)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

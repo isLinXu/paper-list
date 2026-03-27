@@ -92,7 +92,7 @@ def run_monthly(config_path: str):
                    to_web=False, show_badge=show_badge)
     if publish_gitpage:
         json_to_md(json_gitpage_path, md_gitpage_path, task='Update GitPage',
-                   to_web=True, show_badge=show_badge, use_tc=False, use_b2t=False)
+                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True)
     if publish_wechat and json_wechat_path and md_wechat_path:
         json_to_md(json_wechat_path, md_wechat_path, task='Update Wechat',
                    to_web=False, use_title=False, show_badge=show_badge)

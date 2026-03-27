@@ -1,7 +1,7 @@
 ## Transfer Learning
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA|Saahil Mathur et.al.|[2603.24580](https://arxiv.org/abs/2603.24580)|null|
 |2026-03-25|VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models|Qijia He et.al.|[2603.24575](https://arxiv.org/abs/2603.24575)|null|
 |2026-03-25|Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction|Haresh Rengaraj Rajamohan et.al.|[2603.24562](https://arxiv.org/abs/2603.24562)|null|
@@ -6018,5 +6018,5 @@
 |**2024-02-28**|**OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine**|Xiaosong Wang et.al.|[2402.18028](https://arxiv.org/abs/2402.18028)|null|
 |**2024-02-28**|**Collaborative decoding of critical tokens for boosting factuality of large language models**|Lifeng Jin et.al.|[2402.17982](https://arxiv.org/abs/2402.17982)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

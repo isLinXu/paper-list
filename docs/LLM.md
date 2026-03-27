@@ -1,7 +1,7 @@
 ## LLM
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini|Ruofei Du et.al.|[2603.24591](https://arxiv.org/abs/2603.24591)|null|
 |2026-03-25|MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination|Zhuo Li et.al.|[2603.24579](https://arxiv.org/abs/2603.24579)|null|
 |2026-03-25|LensWalk: Agentic Video Understanding by Planning How You See in Videos|Keliang Li et.al.|[2603.24558](https://arxiv.org/abs/2603.24558)|null|
@@ -7909,5 +7909,5 @@
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](https://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](https://arxiv.org/abs/2402.18409)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

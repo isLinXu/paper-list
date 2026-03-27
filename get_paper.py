@@ -69,18 +69,19 @@ def run(**config):
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file = config['md_gitpage_path']
+        same_json_source = json_file == config['json_readme_path']
         # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
+        if config['update_paper_links'] and not same_json_source:
             update_paper_links(
                 json_file,
                 start_date=config.get('start_date'),
                 end_date=config.get('end_date'),
             )
-        else:
+        elif not config['update_paper_links'] and not same_json_source:
             update_json_file(json_file, data_collector)
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
-                   use_tc=False, use_b2t=False)
+                   use_tc=True, use_b2t=False, split_to_docs=True)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:

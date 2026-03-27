@@ -1,7 +1,7 @@
 ## Object Tracking
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|COVTrack++: Learning Open-Vocabulary Multi-Object Tracking from Continuous Videos via a Synergistic Paradigm|Zekun Qian et.al.|[2603.24016](https://arxiv.org/abs/2603.24016)|null|
 |2026-03-24|AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation|Woojeong Jin et.al.|[2603.23489](https://arxiv.org/abs/2603.23489)|null|
 |2026-03-23|Probabilistic modeling over permutations using quantum computers|Vasilis Belis et.al.|[2603.22401](https://arxiv.org/abs/2603.22401)|null|
@@ -808,5 +808,5 @@
 |**2024-02-24**|**Multi-Object Tracking by Hierarchical Visual Representations**|Jinkun Cao et.al.|[2402.15895](https://arxiv.org/abs/2402.15895)|null|
 |**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](https://arxiv.org/abs/2402.15756)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

@@ -1,7 +1,7 @@
 ## Graph Neural Networks
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations|Ian Störmer et.al.|[2603.24360](https://arxiv.org/abs/2603.24360)|null|
 |2026-03-25|CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization|Bowen Lu et.al.|[2603.24304](https://arxiv.org/abs/2603.24304)|null|
 |2026-03-25|Reservoir-Based Graph Convolutional Networks|Mayssa Soussia et.al.|[2603.24131](https://arxiv.org/abs/2603.24131)|null|
@@ -3559,5 +3559,5 @@
 |**2024-02-27**|**Using Graph Neural Networks to Predict Local Culture**|Thiago H Silva et.al.|[2402.17905](https://arxiv.org/abs/2402.17905)|null|
 |**2024-02-27**|**Learning Topological Representations with Bidirectional Graph Attention Network for Solving Job Shop Scheduling Problem**|Cong Zhang et.al.|[2402.17606](https://arxiv.org/abs/2402.17606)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

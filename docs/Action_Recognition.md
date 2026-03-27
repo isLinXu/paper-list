@@ -1,7 +1,7 @@
 ## Action Recognition
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|B-MoE: A Body-Part-Aware Mixture-of-Experts "All Parts Matter" Approach to Micro-Action Recognition|Nishit Poddar et.al.|[2603.24245](https://arxiv.org/abs/2603.24245)|null|
 |2026-03-24|VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs|Haoran Yuan et.al.|[2603.23481](https://arxiv.org/abs/2603.23481)|null|
 |2026-03-23|mmFHE: mmWave Sensing with End-to-End Fully Homomorphic Encryption|Tanvir Ahmed et.al.|[2603.22437](https://arxiv.org/abs/2603.22437)|null|
@@ -1112,5 +1112,5 @@
 |**2024-02-13**|**Vision-Based Hand Gesture Customization from a Single Demonstration**|Soroush Shahi et.al.|[2402.08420](https://arxiv.org/abs/2402.08420)|null|
 |**2024-02-12**|**PBADet: A One-Stage Anchor-Free Approach for Part-Body Association**|Zhongpai Gao et.al.|[2402.07814](https://arxiv.org/abs/2402.07814)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

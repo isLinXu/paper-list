@@ -1,7 +1,7 @@
 ## Depth Estimation
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction|Falong Fan et.al.|[2603.24577](https://arxiv.org/abs/2603.24577)|null|
 |2026-03-24|One View Is Enough! Monocular Training for In-the-Wild Novel View Generation|Adrien Ramanana Rahary et.al.|[2603.23488](https://arxiv.org/abs/2603.23488)|null|
 |2026-03-24|Active Robotic Perception for Disease Detection and Mapping in Apple Trees|Hayden Feddock et.al.|[2603.23112](https://arxiv.org/abs/2603.23112)|null|
@@ -1154,5 +1154,5 @@
 |**2024-02-19**|**An Endoscopic Chisel: Intraoperative Imaging Carves 3D Anatomical Models**|Jan Emily Mangulabnan et.al.|[2402.11840](https://arxiv.org/abs/2402.11840)|null|
 |**2024-02-19**|**Unveiling the Depths: A Multi-Modal Fusion Framework for Challenging Scenarios**|Jialei Xu et.al.|[2402.11826](https://arxiv.org/abs/2402.11826)|null|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 

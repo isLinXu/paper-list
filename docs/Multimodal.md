@@ -1,7 +1,7 @@
 ## Multimodal
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |2026-03-25|QuadFM: Foundational Text-Driven Quadruped Motion Dataset for Generation and Control|Li Gao et.al.|[2603.24021](https://arxiv.org/abs/2603.24021)|null|
 |2026-03-25|Language-Grounded Multi-Agent Planning for Personalized and Fair Participatory Urban Sensing|Xusen Guo et.al.|[2603.24014](https://arxiv.org/abs/2603.24014)|null|
 |2026-03-25|Thinking with Tables: Enhancing Multi-Modal Tabular Understanding via Neuro-Symbolic Reasoning|Kun-Yang Yu et.al.|[2603.24004](https://arxiv.org/abs/2603.24004)|null|
@@ -941,5 +941,5 @@
 |**2024-02-19**|**Multimodal Emotion Recognition from Raw Audio with Sinc-convolution**|Xiaohui Zhang et.al.|[2402.11954](https://arxiv.org/abs/2402.11954)|null|
 |**2024-02-18**|**Efficient Multimodal Learning from Data-centric Perspective**|Muyang He et.al.|[2402.11530](https://arxiv.org/abs/2402.11530)|**[link](https://github.com/baai-dcai/bunny)**|
 
-<p align=right>(<a href=../README.md>back to main</a>)</p>
+<p align=right>(<a href=index.md>back to main</a>)</p>
 
