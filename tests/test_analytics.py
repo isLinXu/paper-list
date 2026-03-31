@@ -1,4 +1,7 @@
+import json
+import tempfile
 import unittest
+from pathlib import Path
 
 from utils.analytics.aggregate import (
     aggregate_code_coverage_daily,
@@ -7,6 +10,7 @@ from utils.analytics.aggregate import (
     aggregate_top_first_authors,
     parse_first_author,
 )
+from utils.analytics.export import write_csv_rows, write_json_rows, write_meta
 
 
 class TestAnalyticsAggregate(unittest.TestCase):
@@ -86,6 +90,33 @@ class TestAnalyticsAggregate(unittest.TestCase):
         self.assertEqual(top[0]["count"], 2)
 
 
+class TestAnalyticsExport(unittest.TestCase):
+    def test_write_json_and_csv(self):
+        rows = [{"topic": "LLM", "date": "2026-03-01", "count": 2}]
+        with tempfile.TemporaryDirectory() as td:
+            out = Path(td)
+            write_json_rows(out / "a.json", rows)
+            write_csv_rows(out / "a.csv", rows, fieldnames=["topic", "date", "count"])
+            self.assertTrue((out / "a.json").exists())
+            self.assertTrue((out / "a.csv").exists())
+            data = json.loads((out / "a.json").read_text(encoding="utf-8"))
+            self.assertEqual(data, rows)
+
+    def test_write_meta(self):
+        with tempfile.TemporaryDirectory() as td:
+            out = Path(td)
+            write_meta(
+                out / "meta.json",
+                topics=["LLM", "Multimodal"],
+                min_date="2026-03-01",
+                max_date="2026-03-02",
+                default_range_days=90,
+                default_range_months=12,
+            )
+            meta = json.loads((out / "meta.json").read_text(encoding="utf-8"))
+            self.assertIn("generated_at", meta)
+            self.assertEqual(meta["topics"], ["LLM", "Multimodal"])
+
+
 if __name__ == "__main__":
     unittest.main()
-
