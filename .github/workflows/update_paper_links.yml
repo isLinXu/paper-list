@@ -49,6 +49,7 @@ jobs:
           pip install arxiv
           pip install requests
           pip install pyyaml
+          pip install matplotlib
           
       - name: Refresh recent paper links
         run: |
@@ -56,15 +57,19 @@ jobs:
           END_DATE=$(date -u +%Y-%m-%d)
           python get_paper.py --update_paper_links --start_date "$START_DATE" --end_date "$END_DATE"
 
+      - name: Build analytics artifacts
+        run: |
+          python scripts/build_analytics.py --store docs/data --out docs/analytics
+
       - name: Commit and push updates
         run: |
           git config user.name "${GITHUB_USER_NAME}"
           git config user.email "${GITHUB_USER_EMAIL}"
-          git add README.md docs/*.json docs/*.md docs/wechat.md
+          git add README.md docs/*.json docs/*.md docs/wechat.md docs/analytics
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Github Action Automatic Update CV Arxiv Papers"
+          git commit -m "ci: build and commit analytics artifacts"
           git pull --rebase origin main
           git push origin HEAD:main
