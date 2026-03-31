@@ -1,0 +1,3047 @@
+[
+  {
+    "topic": "Action Recognition",
+    "date": "2024-02",
+    "total": 11,
+    "code_covered": 2,
+    "code_coverage": 0.1818
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-03",
+    "total": 55,
+    "code_covered": 18,
+    "code_coverage": 0.3273
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-04",
+    "total": 59,
+    "code_covered": 13,
+    "code_coverage": 0.2203
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-05",
+    "total": 43,
+    "code_covered": 11,
+    "code_coverage": 0.2558
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-06",
+    "total": 37,
+    "code_covered": 12,
+    "code_coverage": 0.3243
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-07",
+    "total": 61,
+    "code_covered": 23,
+    "code_coverage": 0.377
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-08",
+    "total": 37,
+    "code_covered": 13,
+    "code_coverage": 0.3514
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-09",
+    "total": 43,
+    "code_covered": 8,
+    "code_coverage": 0.186
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-10",
+    "total": 48,
+    "code_covered": 13,
+    "code_coverage": 0.2708
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-11",
+    "total": 45,
+    "code_covered": 9,
+    "code_coverage": 0.2
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-12",
+    "total": 40,
+    "code_covered": 14,
+    "code_coverage": 0.35
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-01",
+    "total": 35,
+    "code_covered": 8,
+    "code_coverage": 0.2286
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-02",
+    "total": 35,
+    "code_covered": 10,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-03",
+    "total": 55,
+    "code_covered": 12,
+    "code_coverage": 0.2182
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-04",
+    "total": 51,
+    "code_covered": 9,
+    "code_coverage": 0.1765
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-05",
+    "total": 47,
+    "code_covered": 17,
+    "code_coverage": 0.3617
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-06",
+    "total": 56,
+    "code_covered": 9,
+    "code_coverage": 0.1607
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-07",
+    "total": 26,
+    "code_covered": 3,
+    "code_coverage": 0.1154
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-08",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-09",
+    "total": 49,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-10",
+    "total": 50,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-11",
+    "total": 78,
+    "code_covered": 2,
+    "code_coverage": 0.0256
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-12",
+    "total": 53,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-01",
+    "total": 43,
+    "code_covered": 1,
+    "code_coverage": 0.0233
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-02",
+    "total": 16,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-03",
+    "total": 35,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-02",
+    "total": 16,
+    "code_covered": 3,
+    "code_coverage": 0.1875
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-03",
+    "total": 111,
+    "code_covered": 20,
+    "code_coverage": 0.1802
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-04",
+    "total": 103,
+    "code_covered": 16,
+    "code_coverage": 0.1553
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-05",
+    "total": 114,
+    "code_covered": 24,
+    "code_coverage": 0.2105
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-06",
+    "total": 109,
+    "code_covered": 16,
+    "code_coverage": 0.1468
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-07",
+    "total": 115,
+    "code_covered": 24,
+    "code_coverage": 0.2087
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-08",
+    "total": 114,
+    "code_covered": 21,
+    "code_coverage": 0.1842
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-09",
+    "total": 105,
+    "code_covered": 17,
+    "code_coverage": 0.1619
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-10",
+    "total": 122,
+    "code_covered": 25,
+    "code_coverage": 0.2049
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-11",
+    "total": 106,
+    "code_covered": 12,
+    "code_coverage": 0.1132
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-12",
+    "total": 133,
+    "code_covered": 27,
+    "code_coverage": 0.203
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-01",
+    "total": 114,
+    "code_covered": 21,
+    "code_coverage": 0.1842
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-02",
+    "total": 133,
+    "code_covered": 16,
+    "code_coverage": 0.1203
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-03",
+    "total": 126,
+    "code_covered": 12,
+    "code_coverage": 0.0952
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-04",
+    "total": 156,
+    "code_covered": 8,
+    "code_coverage": 0.0513
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-05",
+    "total": 154,
+    "code_covered": 20,
+    "code_coverage": 0.1299
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-06",
+    "total": 137,
+    "code_covered": 4,
+    "code_coverage": 0.0292
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-07",
+    "total": 106,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-08",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-09",
+    "total": 3,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-10",
+    "total": 84,
+    "code_covered": 1,
+    "code_coverage": 0.0119
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-11",
+    "total": 104,
+    "code_covered": 1,
+    "code_coverage": 0.0096
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-12",
+    "total": 162,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-01",
+    "total": 168,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-02",
+    "total": 100,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-03",
+    "total": 161,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-02",
+    "total": 14,
+    "code_covered": 3,
+    "code_coverage": 0.2143
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-03",
+    "total": 72,
+    "code_covered": 11,
+    "code_coverage": 0.1528
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-04",
+    "total": 72,
+    "code_covered": 12,
+    "code_coverage": 0.1667
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-05",
+    "total": 74,
+    "code_covered": 15,
+    "code_coverage": 0.2027
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-06",
+    "total": 157,
+    "code_covered": 23,
+    "code_coverage": 0.1465
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-07",
+    "total": 103,
+    "code_covered": 21,
+    "code_coverage": 0.2039
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-08",
+    "total": 100,
+    "code_covered": 15,
+    "code_coverage": 0.15
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-09",
+    "total": 130,
+    "code_covered": 10,
+    "code_coverage": 0.0769
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-10",
+    "total": 116,
+    "code_covered": 21,
+    "code_coverage": 0.181
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-11",
+    "total": 74,
+    "code_covered": 10,
+    "code_coverage": 0.1351
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-12",
+    "total": 80,
+    "code_covered": 12,
+    "code_coverage": 0.15
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-01",
+    "total": 100,
+    "code_covered": 18,
+    "code_coverage": 0.18
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-02",
+    "total": 90,
+    "code_covered": 14,
+    "code_coverage": 0.1556
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-03",
+    "total": 68,
+    "code_covered": 16,
+    "code_coverage": 0.2353
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-04",
+    "total": 61,
+    "code_covered": 7,
+    "code_coverage": 0.1148
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-05",
+    "total": 125,
+    "code_covered": 21,
+    "code_coverage": 0.168
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-06",
+    "total": 121,
+    "code_covered": 12,
+    "code_coverage": 0.0992
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-07",
+    "total": 88,
+    "code_covered": 6,
+    "code_coverage": 0.0682
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-08",
+    "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-10",
+    "total": 110,
+    "code_covered": 11,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-11",
+    "total": 109,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-12",
+    "total": 64,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-01",
+    "total": 115,
+    "code_covered": 6,
+    "code_coverage": 0.0522
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-02",
+    "total": 69,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-03",
+    "total": 109,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-02",
+    "total": 18,
+    "code_covered": 4,
+    "code_coverage": 0.2222
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-03",
+    "total": 147,
+    "code_covered": 47,
+    "code_coverage": 0.3197
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-04",
+    "total": 136,
+    "code_covered": 37,
+    "code_coverage": 0.2721
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-05",
+    "total": 136,
+    "code_covered": 27,
+    "code_coverage": 0.1985
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-06",
+    "total": 135,
+    "code_covered": 41,
+    "code_coverage": 0.3037
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-07",
+    "total": 145,
+    "code_covered": 35,
+    "code_coverage": 0.2414
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-08",
+    "total": 143,
+    "code_covered": 23,
+    "code_coverage": 0.1608
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-09",
+    "total": 114,
+    "code_covered": 18,
+    "code_coverage": 0.1579
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-10",
+    "total": 143,
+    "code_covered": 31,
+    "code_coverage": 0.2168
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-11",
+    "total": 111,
+    "code_covered": 30,
+    "code_coverage": 0.2703
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-12",
+    "total": 118,
+    "code_covered": 34,
+    "code_coverage": 0.2881
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-01",
+    "total": 123,
+    "code_covered": 29,
+    "code_coverage": 0.2358
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-02",
+    "total": 133,
+    "code_covered": 12,
+    "code_coverage": 0.0902
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-03",
+    "total": 136,
+    "code_covered": 30,
+    "code_coverage": 0.2206
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-04",
+    "total": 127,
+    "code_covered": 14,
+    "code_coverage": 0.1102
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-05",
+    "total": 131,
+    "code_covered": 15,
+    "code_coverage": 0.1145
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-06",
+    "total": 125,
+    "code_covered": 6,
+    "code_coverage": 0.048
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-07",
+    "total": 141,
+    "code_covered": 9,
+    "code_coverage": 0.0638
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-08",
+    "total": 146,
+    "code_covered": 5,
+    "code_coverage": 0.0342
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-09",
+    "total": 137,
+    "code_covered": 9,
+    "code_coverage": 0.0657
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-10",
+    "total": 155,
+    "code_covered": 4,
+    "code_coverage": 0.0258
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-11",
+    "total": 125,
+    "code_covered": 1,
+    "code_coverage": 0.008
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-12",
+    "total": 99,
+    "code_covered": 3,
+    "code_coverage": 0.0303
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-01",
+    "total": 107,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-02",
+    "total": 95,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-03",
+    "total": 116,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-02",
+    "total": 11,
+    "code_covered": 1,
+    "code_coverage": 0.0909
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-03",
+    "total": 58,
+    "code_covered": 17,
+    "code_coverage": 0.2931
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-04",
+    "total": 46,
+    "code_covered": 12,
+    "code_coverage": 0.2609
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-05",
+    "total": 39,
+    "code_covered": 9,
+    "code_coverage": 0.2308
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-06",
+    "total": 37,
+    "code_covered": 11,
+    "code_coverage": 0.2973
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-07",
+    "total": 34,
+    "code_covered": 15,
+    "code_coverage": 0.4412
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-08",
+    "total": 29,
+    "code_covered": 8,
+    "code_coverage": 0.2759
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-09",
+    "total": 52,
+    "code_covered": 12,
+    "code_coverage": 0.2308
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-10",
+    "total": 36,
+    "code_covered": 11,
+    "code_coverage": 0.3056
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-11",
+    "total": 50,
+    "code_covered": 7,
+    "code_coverage": 0.14
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-12",
+    "total": 58,
+    "code_covered": 6,
+    "code_coverage": 0.1034
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-01",
+    "total": 32,
+    "code_covered": 6,
+    "code_coverage": 0.1875
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-02",
+    "total": 27,
+    "code_covered": 3,
+    "code_coverage": 0.1111
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-03",
+    "total": 62,
+    "code_covered": 12,
+    "code_coverage": 0.1935
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-04",
+    "total": 44,
+    "code_covered": 12,
+    "code_coverage": 0.2727
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-05",
+    "total": 45,
+    "code_covered": 8,
+    "code_coverage": 0.1778
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-06",
+    "total": 44,
+    "code_covered": 7,
+    "code_coverage": 0.1591
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-07",
+    "total": 51,
+    "code_covered": 1,
+    "code_coverage": 0.0196
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-08",
+    "total": 41,
+    "code_covered": 1,
+    "code_coverage": 0.0244
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-09",
+    "total": 62,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-10",
+    "total": 77,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-11",
+    "total": 60,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-12",
+    "total": 49,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-01",
+    "total": 30,
+    "code_covered": 2,
+    "code_coverage": 0.0667
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-02",
+    "total": 26,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-03",
+    "total": 51,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-02",
+    "total": 19,
+    "code_covered": 6,
+    "code_coverage": 0.3158
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-03",
+    "total": 171,
+    "code_covered": 30,
+    "code_coverage": 0.1754
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-04",
+    "total": 161,
+    "code_covered": 32,
+    "code_coverage": 0.1988
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-05",
+    "total": 170,
+    "code_covered": 25,
+    "code_coverage": 0.1471
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-06",
+    "total": 158,
+    "code_covered": 39,
+    "code_coverage": 0.2468
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-07",
+    "total": 174,
+    "code_covered": 33,
+    "code_coverage": 0.1897
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-08",
+    "total": 160,
+    "code_covered": 21,
+    "code_coverage": 0.1313
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-09",
+    "total": 127,
+    "code_covered": 21,
+    "code_coverage": 0.1654
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-10",
+    "total": 181,
+    "code_covered": 32,
+    "code_coverage": 0.1768
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-11",
+    "total": 165,
+    "code_covered": 34,
+    "code_coverage": 0.2061
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-12",
+    "total": 162,
+    "code_covered": 36,
+    "code_coverage": 0.2222
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-01",
+    "total": 150,
+    "code_covered": 29,
+    "code_coverage": 0.1933
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-02",
+    "total": 165,
+    "code_covered": 9,
+    "code_coverage": 0.0545
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-03",
+    "total": 150,
+    "code_covered": 10,
+    "code_coverage": 0.0667
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-04",
+    "total": 171,
+    "code_covered": 4,
+    "code_coverage": 0.0234
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-05",
+    "total": 182,
+    "code_covered": 18,
+    "code_coverage": 0.0989
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-06",
+    "total": 154,
+    "code_covered": 4,
+    "code_coverage": 0.026
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-07",
+    "total": 125,
+    "code_covered": 2,
+    "code_coverage": 0.016
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-09",
+    "total": 3,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-10",
+    "total": 76,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-11",
+    "total": 87,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-12",
+    "total": 234,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-01",
+    "total": 161,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-02",
+    "total": 99,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-03",
+    "total": 151,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-02",
+    "total": 20,
+    "code_covered": 4,
+    "code_coverage": 0.2
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-03",
+    "total": 180,
+    "code_covered": 41,
+    "code_coverage": 0.2278
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-04",
+    "total": 186,
+    "code_covered": 35,
+    "code_coverage": 0.1882
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-05",
+    "total": 174,
+    "code_covered": 41,
+    "code_coverage": 0.2356
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-06",
+    "total": 159,
+    "code_covered": 57,
+    "code_coverage": 0.3585
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-07",
+    "total": 188,
+    "code_covered": 48,
+    "code_coverage": 0.2553
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-08",
+    "total": 182,
+    "code_covered": 40,
+    "code_coverage": 0.2198
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-09",
+    "total": 142,
+    "code_covered": 44,
+    "code_coverage": 0.3099
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-10",
+    "total": 197,
+    "code_covered": 47,
+    "code_coverage": 0.2386
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-11",
+    "total": 162,
+    "code_covered": 38,
+    "code_coverage": 0.2346
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-12",
+    "total": 174,
+    "code_covered": 52,
+    "code_coverage": 0.2989
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-01",
+    "total": 164,
+    "code_covered": 41,
+    "code_coverage": 0.25
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-02",
+    "total": 164,
+    "code_covered": 13,
+    "code_coverage": 0.0793
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-03",
+    "total": 195,
+    "code_covered": 49,
+    "code_coverage": 0.2513
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-04",
+    "total": 189,
+    "code_covered": 42,
+    "code_coverage": 0.2222
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-05",
+    "total": 190,
+    "code_covered": 57,
+    "code_coverage": 0.3
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-06",
+    "total": 165,
+    "code_covered": 30,
+    "code_coverage": 0.1818
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-07",
+    "total": 129,
+    "code_covered": 14,
+    "code_coverage": 0.1085
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-08",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-09",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-10",
+    "total": 75,
+    "code_covered": 1,
+    "code_coverage": 0.0133
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-11",
+    "total": 66,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-12",
+    "total": 315,
+    "code_covered": 3,
+    "code_coverage": 0.0095
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-01",
+    "total": 247,
+    "code_covered": 17,
+    "code_coverage": 0.0688
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-02",
+    "total": 273,
+    "code_covered": 7,
+    "code_coverage": 0.0256
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-03",
+    "total": 267,
+    "code_covered": 2,
+    "code_coverage": 0.0075
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-02",
+    "total": 20,
+    "code_covered": 7,
+    "code_coverage": 0.35
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-03",
+    "total": 193,
+    "code_covered": 38,
+    "code_coverage": 0.1969
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-04",
+    "total": 211,
+    "code_covered": 88,
+    "code_coverage": 0.4171
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-05",
+    "total": 220,
+    "code_covered": 69,
+    "code_coverage": 0.3136
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-06",
+    "total": 179,
+    "code_covered": 64,
+    "code_coverage": 0.3575
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-07",
+    "total": 211,
+    "code_covered": 72,
+    "code_coverage": 0.3412
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-08",
+    "total": 220,
+    "code_covered": 59,
+    "code_coverage": 0.2682
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-09",
+    "total": 158,
+    "code_covered": 48,
+    "code_coverage": 0.3038
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-10",
+    "total": 210,
+    "code_covered": 57,
+    "code_coverage": 0.2714
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-11",
+    "total": 189,
+    "code_covered": 64,
+    "code_coverage": 0.3386
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-12",
+    "total": 183,
+    "code_covered": 66,
+    "code_coverage": 0.3607
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-01",
+    "total": 209,
+    "code_covered": 47,
+    "code_coverage": 0.2249
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-02",
+    "total": 190,
+    "code_covered": 37,
+    "code_coverage": 0.1947
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-03",
+    "total": 211,
+    "code_covered": 42,
+    "code_coverage": 0.1991
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-04",
+    "total": 210,
+    "code_covered": 39,
+    "code_coverage": 0.1857
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-05",
+    "total": 222,
+    "code_covered": 48,
+    "code_coverage": 0.2162
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-06",
+    "total": 179,
+    "code_covered": 38,
+    "code_coverage": 0.2123
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-07",
+    "total": 151,
+    "code_covered": 25,
+    "code_coverage": 0.1656
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-08",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-09",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-10",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-11",
+    "total": 248,
+    "code_covered": 7,
+    "code_coverage": 0.0282
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-12",
+    "total": 1055,
+    "code_covered": 34,
+    "code_coverage": 0.0322
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-01",
+    "total": 1417,
+    "code_covered": 46,
+    "code_coverage": 0.0325
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-02",
+    "total": 850,
+    "code_covered": 19,
+    "code_coverage": 0.0224
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-03",
+    "total": 967,
+    "code_covered": 3,
+    "code_coverage": 0.0031
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-02",
+    "total": 13,
+    "code_covered": 4,
+    "code_coverage": 0.3077
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-03",
+    "total": 23,
+    "code_covered": 7,
+    "code_coverage": 0.3043
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-04",
+    "total": 25,
+    "code_covered": 10,
+    "code_coverage": 0.4
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-05",
+    "total": 29,
+    "code_covered": 8,
+    "code_coverage": 0.2759
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-06",
+    "total": 30,
+    "code_covered": 11,
+    "code_coverage": 0.3667
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-07",
+    "total": 27,
+    "code_covered": 7,
+    "code_coverage": 0.2593
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-08",
+    "total": 30,
+    "code_covered": 9,
+    "code_coverage": 0.3
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-09",
+    "total": 20,
+    "code_covered": 8,
+    "code_coverage": 0.4
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-10",
+    "total": 22,
+    "code_covered": 7,
+    "code_coverage": 0.3182
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-11",
+    "total": 32,
+    "code_covered": 8,
+    "code_coverage": 0.25
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-12",
+    "total": 26,
+    "code_covered": 5,
+    "code_coverage": 0.1923
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-01",
+    "total": 26,
+    "code_covered": 7,
+    "code_coverage": 0.2692
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-02",
+    "total": 33,
+    "code_covered": 8,
+    "code_coverage": 0.2424
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-03",
+    "total": 44,
+    "code_covered": 9,
+    "code_coverage": 0.2045
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-04",
+    "total": 30,
+    "code_covered": 3,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-05",
+    "total": 54,
+    "code_covered": 14,
+    "code_coverage": 0.2593
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-06",
+    "total": 53,
+    "code_covered": 7,
+    "code_coverage": 0.1321
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-07",
+    "total": 36,
+    "code_covered": 2,
+    "code_coverage": 0.0556
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-08",
+    "total": 51,
+    "code_covered": 3,
+    "code_coverage": 0.0588
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-09",
+    "total": 55,
+    "code_covered": 2,
+    "code_coverage": 0.0364
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-10",
+    "total": 63,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-11",
+    "total": 71,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-12",
+    "total": 47,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-01",
+    "total": 40,
+    "code_covered": 1,
+    "code_coverage": 0.025
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-02",
+    "total": 8,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-03",
+    "total": 50,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-02",
+    "total": 20,
+    "code_covered": 2,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-03",
+    "total": 164,
+    "code_covered": 43,
+    "code_coverage": 0.2622
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-04",
+    "total": 141,
+    "code_covered": 34,
+    "code_coverage": 0.2411
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-05",
+    "total": 131,
+    "code_covered": 37,
+    "code_coverage": 0.2824
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-06",
+    "total": 128,
+    "code_covered": 44,
+    "code_coverage": 0.3438
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-07",
+    "total": 167,
+    "code_covered": 58,
+    "code_coverage": 0.3473
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-08",
+    "total": 163,
+    "code_covered": 25,
+    "code_coverage": 0.1534
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-09",
+    "total": 117,
+    "code_covered": 27,
+    "code_coverage": 0.2308
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-10",
+    "total": 151,
+    "code_covered": 42,
+    "code_coverage": 0.2781
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-11",
+    "total": 126,
+    "code_covered": 31,
+    "code_coverage": 0.246
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-12",
+    "total": 149,
+    "code_covered": 35,
+    "code_coverage": 0.2349
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-01",
+    "total": 129,
+    "code_covered": 33,
+    "code_coverage": 0.2558
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-02",
+    "total": 111,
+    "code_covered": 11,
+    "code_coverage": 0.0991
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-03",
+    "total": 160,
+    "code_covered": 26,
+    "code_coverage": 0.1625
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-04",
+    "total": 148,
+    "code_covered": 15,
+    "code_coverage": 0.1014
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-05",
+    "total": 154,
+    "code_covered": 26,
+    "code_coverage": 0.1688
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-06",
+    "total": 125,
+    "code_covered": 15,
+    "code_coverage": 0.12
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-07",
+    "total": 135,
+    "code_covered": 7,
+    "code_coverage": 0.0519
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-09",
+    "total": 29,
+    "code_covered": 1,
+    "code_coverage": 0.0345
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-10",
+    "total": 159,
+    "code_covered": 9,
+    "code_coverage": 0.0566
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-11",
+    "total": 85,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-12",
+    "total": 140,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-01",
+    "total": 99,
+    "code_covered": 5,
+    "code_coverage": 0.0505
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-02",
+    "total": 103,
+    "code_covered": 3,
+    "code_coverage": 0.0291
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-03",
+    "total": 136,
+    "code_covered": 1,
+    "code_coverage": 0.0074
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-02",
+    "total": 10,
+    "code_covered": 1,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-03",
+    "total": 40,
+    "code_covered": 11,
+    "code_coverage": 0.275
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-04",
+    "total": 23,
+    "code_covered": 10,
+    "code_coverage": 0.4348
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-05",
+    "total": 37,
+    "code_covered": 10,
+    "code_coverage": 0.2703
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-06",
+    "total": 38,
+    "code_covered": 8,
+    "code_coverage": 0.2105
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-07",
+    "total": 30,
+    "code_covered": 3,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-08",
+    "total": 29,
+    "code_covered": 9,
+    "code_coverage": 0.3103
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-09",
+    "total": 32,
+    "code_covered": 11,
+    "code_coverage": 0.3438
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-10",
+    "total": 33,
+    "code_covered": 10,
+    "code_coverage": 0.303
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-11",
+    "total": 36,
+    "code_covered": 7,
+    "code_coverage": 0.1944
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-12",
+    "total": 39,
+    "code_covered": 16,
+    "code_coverage": 0.4103
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-01",
+    "total": 20,
+    "code_covered": 7,
+    "code_coverage": 0.35
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-02",
+    "total": 20,
+    "code_covered": 2,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-03",
+    "total": 23,
+    "code_covered": 10,
+    "code_coverage": 0.4348
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-04",
+    "total": 33,
+    "code_covered": 7,
+    "code_coverage": 0.2121
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-05",
+    "total": 31,
+    "code_covered": 9,
+    "code_coverage": 0.2903
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-06",
+    "total": 23,
+    "code_covered": 1,
+    "code_coverage": 0.0435
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-07",
+    "total": 35,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-08",
+    "total": 34,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-09",
+    "total": 32,
+    "code_covered": 1,
+    "code_coverage": 0.0312
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-10",
+    "total": 54,
+    "code_covered": 1,
+    "code_coverage": 0.0185
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-11",
+    "total": 67,
+    "code_covered": 2,
+    "code_coverage": 0.0299
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-12",
+    "total": 30,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-01",
+    "total": 14,
+    "code_covered": 1,
+    "code_coverage": 0.0714
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-02",
+    "total": 16,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-03",
+    "total": 26,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-02",
+    "total": 11,
+    "code_covered": 3,
+    "code_coverage": 0.2727
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-03",
+    "total": 43,
+    "code_covered": 9,
+    "code_coverage": 0.2093
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-04",
+    "total": 31,
+    "code_covered": 5,
+    "code_coverage": 0.1613
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-05",
+    "total": 36,
+    "code_covered": 13,
+    "code_coverage": 0.3611
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-06",
+    "total": 21,
+    "code_covered": 5,
+    "code_coverage": 0.2381
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-07",
+    "total": 32,
+    "code_covered": 13,
+    "code_coverage": 0.4062
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-08",
+    "total": 19,
+    "code_covered": 5,
+    "code_coverage": 0.2632
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-09",
+    "total": 31,
+    "code_covered": 8,
+    "code_coverage": 0.2581
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-10",
+    "total": 21,
+    "code_covered": 10,
+    "code_coverage": 0.4762
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-11",
+    "total": 32,
+    "code_covered": 4,
+    "code_coverage": 0.125
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-12",
+    "total": 32,
+    "code_covered": 7,
+    "code_coverage": 0.2188
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-01",
+    "total": 31,
+    "code_covered": 9,
+    "code_coverage": 0.2903
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-02",
+    "total": 18,
+    "code_covered": 2,
+    "code_coverage": 0.1111
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-03",
+    "total": 49,
+    "code_covered": 14,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-04",
+    "total": 29,
+    "code_covered": 3,
+    "code_coverage": 0.1034
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-05",
+    "total": 36,
+    "code_covered": 8,
+    "code_coverage": 0.2222
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-06",
+    "total": 35,
+    "code_covered": 9,
+    "code_coverage": 0.2571
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-07",
+    "total": 37,
+    "code_covered": 4,
+    "code_coverage": 0.1081
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-08",
+    "total": 29,
+    "code_covered": 2,
+    "code_coverage": 0.069
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-09",
+    "total": 27,
+    "code_covered": 3,
+    "code_coverage": 0.1111
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-10",
+    "total": 75,
+    "code_covered": 4,
+    "code_coverage": 0.0533
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-11",
+    "total": 42,
+    "code_covered": 1,
+    "code_coverage": 0.0238
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-12",
+    "total": 40,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-01",
+    "total": 16,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-02",
+    "total": 12,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-03",
+    "total": 30,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-02",
+    "total": 11,
+    "code_covered": 4,
+    "code_coverage": 0.3636
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-03",
+    "total": 95,
+    "code_covered": 21,
+    "code_coverage": 0.2211
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-04",
+    "total": 64,
+    "code_covered": 21,
+    "code_coverage": 0.3281
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-05",
+    "total": 60,
+    "code_covered": 15,
+    "code_coverage": 0.25
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-06",
+    "total": 50,
+    "code_covered": 14,
+    "code_coverage": 0.28
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-07",
+    "total": 70,
+    "code_covered": 20,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-08",
+    "total": 58,
+    "code_covered": 14,
+    "code_coverage": 0.2414
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-09",
+    "total": 84,
+    "code_covered": 12,
+    "code_coverage": 0.1429
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-10",
+    "total": 65,
+    "code_covered": 15,
+    "code_coverage": 0.2308
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-11",
+    "total": 66,
+    "code_covered": 20,
+    "code_coverage": 0.303
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-12",
+    "total": 61,
+    "code_covered": 18,
+    "code_coverage": 0.2951
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-01",
+    "total": 58,
+    "code_covered": 10,
+    "code_coverage": 0.1724
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-02",
+    "total": 48,
+    "code_covered": 9,
+    "code_coverage": 0.1875
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-03",
+    "total": 105,
+    "code_covered": 16,
+    "code_coverage": 0.1524
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-04",
+    "total": 75,
+    "code_covered": 15,
+    "code_coverage": 0.2
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-05",
+    "total": 73,
+    "code_covered": 7,
+    "code_coverage": 0.0959
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-06",
+    "total": 76,
+    "code_covered": 8,
+    "code_coverage": 0.1053
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-07",
+    "total": 72,
+    "code_covered": 3,
+    "code_coverage": 0.0417
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-08",
+    "total": 75,
+    "code_covered": 5,
+    "code_coverage": 0.0667
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-09",
+    "total": 80,
+    "code_covered": 8,
+    "code_coverage": 0.1
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-10",
+    "total": 97,
+    "code_covered": 3,
+    "code_coverage": 0.0309
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-11",
+    "total": 99,
+    "code_covered": 1,
+    "code_coverage": 0.0101
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-12",
+    "total": 82,
+    "code_covered": 1,
+    "code_coverage": 0.0122
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-01",
+    "total": 44,
+    "code_covered": 2,
+    "code_coverage": 0.0455
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-02",
+    "total": 59,
+    "code_covered": 1,
+    "code_coverage": 0.0169
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-03",
+    "total": 79,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-02",
+    "total": 20,
+    "code_covered": 3,
+    "code_coverage": 0.15
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-03",
+    "total": 191,
+    "code_covered": 23,
+    "code_coverage": 0.1204
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-04",
+    "total": 205,
+    "code_covered": 31,
+    "code_coverage": 0.1512
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-05",
+    "total": 208,
+    "code_covered": 36,
+    "code_coverage": 0.1731
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-06",
+    "total": 178,
+    "code_covered": 32,
+    "code_coverage": 0.1798
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-07",
+    "total": 213,
+    "code_covered": 27,
+    "code_coverage": 0.1268
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-08",
+    "total": 210,
+    "code_covered": 35,
+    "code_coverage": 0.1667
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-09",
+    "total": 157,
+    "code_covered": 11,
+    "code_coverage": 0.0701
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-10",
+    "total": 211,
+    "code_covered": 44,
+    "code_coverage": 0.2085
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-11",
+    "total": 190,
+    "code_covered": 27,
+    "code_coverage": 0.1421
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-12",
+    "total": 178,
+    "code_covered": 32,
+    "code_coverage": 0.1798
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-01",
+    "total": 206,
+    "code_covered": 20,
+    "code_coverage": 0.0971
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-02",
+    "total": 191,
+    "code_covered": 27,
+    "code_coverage": 0.1414
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-03",
+    "total": 200,
+    "code_covered": 35,
+    "code_coverage": 0.175
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-04",
+    "total": 210,
+    "code_covered": 36,
+    "code_coverage": 0.1714
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-05",
+    "total": 219,
+    "code_covered": 46,
+    "code_coverage": 0.21
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-06",
+    "total": 179,
+    "code_covered": 33,
+    "code_coverage": 0.1844
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-07",
+    "total": 153,
+    "code_covered": 22,
+    "code_coverage": 0.1438
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-09",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-10",
+    "total": 112,
+    "code_covered": 6,
+    "code_coverage": 0.0536
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-11",
+    "total": 157,
+    "code_covered": 7,
+    "code_coverage": 0.0446
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-12",
+    "total": 636,
+    "code_covered": 24,
+    "code_coverage": 0.0377
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-01",
+    "total": 794,
+    "code_covered": 45,
+    "code_coverage": 0.0567
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-02",
+    "total": 18,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-03",
+    "total": 864,
+    "code_covered": 3,
+    "code_coverage": 0.0035
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-02",
+    "total": 14,
+    "code_covered": 4,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-03",
+    "total": 53,
+    "code_covered": 14,
+    "code_coverage": 0.2642
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-04",
+    "total": 41,
+    "code_covered": 15,
+    "code_coverage": 0.3659
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-05",
+    "total": 35,
+    "code_covered": 13,
+    "code_coverage": 0.3714
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-06",
+    "total": 32,
+    "code_covered": 10,
+    "code_coverage": 0.3125
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-07",
+    "total": 52,
+    "code_covered": 17,
+    "code_coverage": 0.3269
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-08",
+    "total": 33,
+    "code_covered": 11,
+    "code_coverage": 0.3333
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-09",
+    "total": 38,
+    "code_covered": 11,
+    "code_coverage": 0.2895
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-10",
+    "total": 39,
+    "code_covered": 9,
+    "code_coverage": 0.2308
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-11",
+    "total": 45,
+    "code_covered": 13,
+    "code_coverage": 0.2889
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-12",
+    "total": 55,
+    "code_covered": 17,
+    "code_coverage": 0.3091
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-01",
+    "total": 37,
+    "code_covered": 11,
+    "code_coverage": 0.2973
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-02",
+    "total": 32,
+    "code_covered": 11,
+    "code_coverage": 0.3438
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-03",
+    "total": 105,
+    "code_covered": 11,
+    "code_coverage": 0.1048
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-04",
+    "total": 61,
+    "code_covered": 14,
+    "code_coverage": 0.2295
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-05",
+    "total": 64,
+    "code_covered": 15,
+    "code_coverage": 0.2344
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-06",
+    "total": 71,
+    "code_covered": 10,
+    "code_coverage": 0.1408
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-07",
+    "total": 70,
+    "code_covered": 10,
+    "code_coverage": 0.1429
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-08",
+    "total": 52,
+    "code_covered": 1,
+    "code_coverage": 0.0192
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-09",
+    "total": 70,
+    "code_covered": 3,
+    "code_coverage": 0.0429
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-10",
+    "total": 86,
+    "code_covered": 4,
+    "code_coverage": 0.0465
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-11",
+    "total": 87,
+    "code_covered": 2,
+    "code_coverage": 0.023
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-12",
+    "total": 65,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-01",
+    "total": 39,
+    "code_covered": 5,
+    "code_coverage": 0.1282
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-02",
+    "total": 8,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-03",
+    "total": 78,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-02",
+    "total": 14,
+    "code_covered": 4,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-03",
+    "total": 132,
+    "code_covered": 39,
+    "code_coverage": 0.2955
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-04",
+    "total": 141,
+    "code_covered": 38,
+    "code_coverage": 0.2695
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-05",
+    "total": 103,
+    "code_covered": 24,
+    "code_coverage": 0.233
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-06",
+    "total": 107,
+    "code_covered": 41,
+    "code_coverage": 0.3832
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-07",
+    "total": 155,
+    "code_covered": 58,
+    "code_coverage": 0.3742
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-08",
+    "total": 116,
+    "code_covered": 35,
+    "code_coverage": 0.3017
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-09",
+    "total": 93,
+    "code_covered": 23,
+    "code_coverage": 0.2473
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-10",
+    "total": 117,
+    "code_covered": 41,
+    "code_coverage": 0.3504
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-11",
+    "total": 105,
+    "code_covered": 29,
+    "code_coverage": 0.2762
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-12",
+    "total": 116,
+    "code_covered": 31,
+    "code_coverage": 0.2672
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-01",
+    "total": 90,
+    "code_covered": 30,
+    "code_coverage": 0.3333
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-02",
+    "total": 87,
+    "code_covered": 18,
+    "code_coverage": 0.2069
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-03",
+    "total": 131,
+    "code_covered": 16,
+    "code_coverage": 0.1221
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-04",
+    "total": 116,
+    "code_covered": 8,
+    "code_coverage": 0.069
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-05",
+    "total": 126,
+    "code_covered": 32,
+    "code_coverage": 0.254
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-06",
+    "total": 111,
+    "code_covered": 14,
+    "code_coverage": 0.1261
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-07",
+    "total": 102,
+    "code_covered": 11,
+    "code_coverage": 0.1078
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-10",
+    "total": 94,
+    "code_covered": 2,
+    "code_coverage": 0.0213
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-11",
+    "total": 129,
+    "code_covered": 1,
+    "code_coverage": 0.0078
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-12",
+    "total": 106,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-01",
+    "total": 85,
+    "code_covered": 6,
+    "code_coverage": 0.0706
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-02",
+    "total": 81,
+    "code_covered": 2,
+    "code_coverage": 0.0247
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-03",
+    "total": 100,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-02",
+    "total": 14,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-03",
+    "total": 168,
+    "code_covered": 43,
+    "code_coverage": 0.256
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-04",
+    "total": 175,
+    "code_covered": 50,
+    "code_coverage": 0.2857
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-05",
+    "total": 168,
+    "code_covered": 38,
+    "code_coverage": 0.2262
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-06",
+    "total": 155,
+    "code_covered": 32,
+    "code_coverage": 0.2065
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-07",
+    "total": 176,
+    "code_covered": 36,
+    "code_coverage": 0.2045
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-08",
+    "total": 143,
+    "code_covered": 34,
+    "code_coverage": 0.2378
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-09",
+    "total": 141,
+    "code_covered": 28,
+    "code_coverage": 0.1986
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-10",
+    "total": 176,
+    "code_covered": 37,
+    "code_coverage": 0.2102
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-11",
+    "total": 155,
+    "code_covered": 26,
+    "code_coverage": 0.1677
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-12",
+    "total": 147,
+    "code_covered": 35,
+    "code_coverage": 0.2381
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-01",
+    "total": 163,
+    "code_covered": 28,
+    "code_coverage": 0.1718
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-02",
+    "total": 161,
+    "code_covered": 18,
+    "code_coverage": 0.1118
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-03",
+    "total": 171,
+    "code_covered": 31,
+    "code_coverage": 0.1813
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-04",
+    "total": 171,
+    "code_covered": 20,
+    "code_coverage": 0.117
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-05",
+    "total": 185,
+    "code_covered": 23,
+    "code_coverage": 0.1243
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-06",
+    "total": 161,
+    "code_covered": 14,
+    "code_coverage": 0.087
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-07",
+    "total": 129,
+    "code_covered": 8,
+    "code_coverage": 0.062
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-09",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-10",
+    "total": 77,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-11",
+    "total": 41,
+    "code_covered": 1,
+    "code_coverage": 0.0244
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-12",
+    "total": 796,
+    "code_covered": 21,
+    "code_coverage": 0.0264
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-01",
+    "total": 1108,
+    "code_covered": 30,
+    "code_coverage": 0.0271
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-02",
+    "total": 356,
+    "code_covered": 13,
+    "code_coverage": 0.0365
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-03",
+    "total": 877,
+    "code_covered": 2,
+    "code_coverage": 0.0023
+  }
+]

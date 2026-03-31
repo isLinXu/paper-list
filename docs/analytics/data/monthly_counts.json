@@ -1,0 +1,2177 @@
+[
+  {
+    "topic": "Action Recognition",
+    "date": "2024-02",
+    "count": 11
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-03",
+    "count": 55
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-04",
+    "count": 59
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-05",
+    "count": 43
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-06",
+    "count": 37
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-07",
+    "count": 61
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-08",
+    "count": 37
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-09",
+    "count": 43
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-10",
+    "count": 48
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-11",
+    "count": 45
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2024-12",
+    "count": 40
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-01",
+    "count": 35
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-02",
+    "count": 35
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-03",
+    "count": 55
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-04",
+    "count": 51
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-05",
+    "count": 47
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-06",
+    "count": 56
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-07",
+    "count": 26
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-08",
+    "count": 1
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-09",
+    "count": 49
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-10",
+    "count": 50
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-11",
+    "count": 78
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2025-12",
+    "count": 53
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-01",
+    "count": 43
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-02",
+    "count": 16
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-03",
+    "count": 35
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-02",
+    "count": 16
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-03",
+    "count": 111
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-04",
+    "count": 103
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-05",
+    "count": 114
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-06",
+    "count": 109
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-07",
+    "count": 115
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-08",
+    "count": 114
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-09",
+    "count": 105
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-10",
+    "count": 122
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-11",
+    "count": 106
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2024-12",
+    "count": 133
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-01",
+    "count": 114
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-02",
+    "count": 133
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-03",
+    "count": 126
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-04",
+    "count": 156
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-05",
+    "count": 154
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-06",
+    "count": 137
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-07",
+    "count": 106
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-08",
+    "count": 1
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-09",
+    "count": 3
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-10",
+    "count": 84
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-11",
+    "count": 104
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2025-12",
+    "count": 162
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-01",
+    "count": 168
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-02",
+    "count": 100
+  },
+  {
+    "topic": "Anomaly Detection",
+    "date": "2026-03",
+    "count": 161
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-02",
+    "count": 14
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-03",
+    "count": 72
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-04",
+    "count": 72
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-05",
+    "count": 74
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-06",
+    "count": 157
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-07",
+    "count": 103
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-08",
+    "count": 100
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-09",
+    "count": 130
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-10",
+    "count": 116
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-11",
+    "count": 74
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2024-12",
+    "count": 80
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-01",
+    "count": 100
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-02",
+    "count": 90
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-03",
+    "count": 68
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-04",
+    "count": 61
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-05",
+    "count": 125
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-06",
+    "count": 121
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-07",
+    "count": 88
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-08",
+    "count": 5
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-10",
+    "count": 110
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-11",
+    "count": 109
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2025-12",
+    "count": 64
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-01",
+    "count": 115
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-02",
+    "count": 69
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-03",
+    "count": 109
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-02",
+    "count": 18
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-03",
+    "count": 147
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-04",
+    "count": 136
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-05",
+    "count": 136
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-06",
+    "count": 135
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-07",
+    "count": 145
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-08",
+    "count": 143
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-09",
+    "count": 114
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-10",
+    "count": 143
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-11",
+    "count": 111
+  },
+  {
+    "topic": "Classification",
+    "date": "2024-12",
+    "count": 118
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-01",
+    "count": 123
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-02",
+    "count": 133
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-03",
+    "count": 136
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-04",
+    "count": 127
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-05",
+    "count": 131
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-06",
+    "count": 125
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-07",
+    "count": 141
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-08",
+    "count": 146
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-09",
+    "count": 137
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-10",
+    "count": 155
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-11",
+    "count": 125
+  },
+  {
+    "topic": "Classification",
+    "date": "2025-12",
+    "count": 99
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-01",
+    "count": 107
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-02",
+    "count": 95
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-03",
+    "count": 116
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-02",
+    "count": 11
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-03",
+    "count": 58
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-04",
+    "count": 46
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-05",
+    "count": 39
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-06",
+    "count": 37
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-07",
+    "count": 34
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-08",
+    "count": 29
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-09",
+    "count": 52
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-10",
+    "count": 36
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-11",
+    "count": 50
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2024-12",
+    "count": 58
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-01",
+    "count": 32
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-02",
+    "count": 27
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-03",
+    "count": 62
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-04",
+    "count": 44
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-05",
+    "count": 45
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-06",
+    "count": 44
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-07",
+    "count": 51
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-08",
+    "count": 41
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-09",
+    "count": 62
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-10",
+    "count": 77
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-11",
+    "count": 60
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2025-12",
+    "count": 49
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-01",
+    "count": 30
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-02",
+    "count": 26
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-03",
+    "count": 51
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-02",
+    "count": 19
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-03",
+    "count": 171
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-04",
+    "count": 161
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-05",
+    "count": 170
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-06",
+    "count": 158
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-07",
+    "count": 174
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-08",
+    "count": 160
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-09",
+    "count": 127
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-10",
+    "count": 181
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-11",
+    "count": 165
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2024-12",
+    "count": 162
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-01",
+    "count": 150
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-02",
+    "count": 165
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-03",
+    "count": 150
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-04",
+    "count": 171
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-05",
+    "count": 182
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-06",
+    "count": 154
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-07",
+    "count": 125
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-09",
+    "count": 3
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-10",
+    "count": 76
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-11",
+    "count": 87
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2025-12",
+    "count": 234
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-01",
+    "count": 161
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-02",
+    "count": 99
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-03",
+    "count": 151
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-02",
+    "count": 20
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-03",
+    "count": 180
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-04",
+    "count": 186
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-05",
+    "count": 174
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-06",
+    "count": 159
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-07",
+    "count": 188
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-08",
+    "count": 182
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-09",
+    "count": 142
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-10",
+    "count": 197
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-11",
+    "count": 162
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2024-12",
+    "count": 174
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-01",
+    "count": 164
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-02",
+    "count": 164
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-03",
+    "count": 195
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-04",
+    "count": 189
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-05",
+    "count": 190
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-06",
+    "count": 165
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-07",
+    "count": 129
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-08",
+    "count": 1
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-09",
+    "count": 2
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-10",
+    "count": 75
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-11",
+    "count": 66
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2025-12",
+    "count": 315
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-01",
+    "count": 247
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-02",
+    "count": 273
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-03",
+    "count": 267
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-02",
+    "count": 20
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-03",
+    "count": 193
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-04",
+    "count": 211
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-05",
+    "count": 220
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-06",
+    "count": 179
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-07",
+    "count": 211
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-08",
+    "count": 220
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-09",
+    "count": 158
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-10",
+    "count": 210
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-11",
+    "count": 189
+  },
+  {
+    "topic": "LLM",
+    "date": "2024-12",
+    "count": 183
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-01",
+    "count": 209
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-02",
+    "count": 190
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-03",
+    "count": 211
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-04",
+    "count": 210
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-05",
+    "count": 222
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-06",
+    "count": 179
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-07",
+    "count": 151
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-08",
+    "count": 1
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-09",
+    "count": 1
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-10",
+    "count": 1
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-11",
+    "count": 248
+  },
+  {
+    "topic": "LLM",
+    "date": "2025-12",
+    "count": 1055
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-01",
+    "count": 1417
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-02",
+    "count": 850
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-03",
+    "count": 967
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-02",
+    "count": 13
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-03",
+    "count": 23
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-04",
+    "count": 25
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-05",
+    "count": 29
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-06",
+    "count": 30
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-07",
+    "count": 27
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-08",
+    "count": 30
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-09",
+    "count": 20
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-10",
+    "count": 22
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-11",
+    "count": 32
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2024-12",
+    "count": 26
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-01",
+    "count": 26
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-02",
+    "count": 33
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-03",
+    "count": 44
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-04",
+    "count": 30
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-05",
+    "count": 54
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-06",
+    "count": 53
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-07",
+    "count": 36
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-08",
+    "count": 51
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-09",
+    "count": 55
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-10",
+    "count": 63
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-11",
+    "count": 71
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2025-12",
+    "count": 47
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-01",
+    "count": 40
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-02",
+    "count": 8
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-03",
+    "count": 50
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-02",
+    "count": 20
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-03",
+    "count": 164
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-04",
+    "count": 141
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-05",
+    "count": 131
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-06",
+    "count": 128
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-07",
+    "count": 167
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-08",
+    "count": 163
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-09",
+    "count": 117
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-10",
+    "count": 151
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-11",
+    "count": 126
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2024-12",
+    "count": 149
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-01",
+    "count": 129
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-02",
+    "count": 111
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-03",
+    "count": 160
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-04",
+    "count": 148
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-05",
+    "count": 154
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-06",
+    "count": 125
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-07",
+    "count": 135
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-09",
+    "count": 29
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-10",
+    "count": 159
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-11",
+    "count": 85
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2025-12",
+    "count": 140
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-01",
+    "count": 99
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-02",
+    "count": 103
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-03",
+    "count": 136
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-02",
+    "count": 10
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-03",
+    "count": 40
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-04",
+    "count": 23
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-05",
+    "count": 37
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-06",
+    "count": 38
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-07",
+    "count": 30
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-08",
+    "count": 29
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-09",
+    "count": 32
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-10",
+    "count": 33
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-11",
+    "count": 36
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2024-12",
+    "count": 39
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-01",
+    "count": 20
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-02",
+    "count": 20
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-03",
+    "count": 23
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-04",
+    "count": 33
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-05",
+    "count": 31
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-06",
+    "count": 23
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-07",
+    "count": 35
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-08",
+    "count": 34
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-09",
+    "count": 32
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-10",
+    "count": 54
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-11",
+    "count": 67
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2025-12",
+    "count": 30
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-01",
+    "count": 14
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-02",
+    "count": 16
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-03",
+    "count": 26
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-02",
+    "count": 11
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-03",
+    "count": 43
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-04",
+    "count": 31
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-05",
+    "count": 36
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-06",
+    "count": 21
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-07",
+    "count": 32
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-08",
+    "count": 19
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-09",
+    "count": 31
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-10",
+    "count": 21
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-11",
+    "count": 32
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2024-12",
+    "count": 32
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-01",
+    "count": 31
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-02",
+    "count": 18
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-03",
+    "count": 49
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-04",
+    "count": 29
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-05",
+    "count": 36
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-06",
+    "count": 35
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-07",
+    "count": 37
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-08",
+    "count": 29
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-09",
+    "count": 27
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-10",
+    "count": 75
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-11",
+    "count": 42
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2025-12",
+    "count": 40
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-01",
+    "count": 16
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-02",
+    "count": 12
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-03",
+    "count": 30
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-02",
+    "count": 11
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-03",
+    "count": 95
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-04",
+    "count": 64
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-05",
+    "count": 60
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-06",
+    "count": 50
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-07",
+    "count": 70
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-08",
+    "count": 58
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-09",
+    "count": 84
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-10",
+    "count": 65
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-11",
+    "count": 66
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2024-12",
+    "count": 61
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-01",
+    "count": 58
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-02",
+    "count": 48
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-03",
+    "count": 105
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-04",
+    "count": 75
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-05",
+    "count": 73
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-06",
+    "count": 76
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-07",
+    "count": 72
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-08",
+    "count": 75
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-09",
+    "count": 80
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-10",
+    "count": 97
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-11",
+    "count": 99
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2025-12",
+    "count": 82
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-01",
+    "count": 44
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-02",
+    "count": 59
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-03",
+    "count": 79
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-02",
+    "count": 20
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-03",
+    "count": 191
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-04",
+    "count": 205
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-05",
+    "count": 208
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-06",
+    "count": 178
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-07",
+    "count": 213
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-08",
+    "count": 210
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-09",
+    "count": 157
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-10",
+    "count": 211
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-11",
+    "count": 190
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2024-12",
+    "count": 178
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-01",
+    "count": 206
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-02",
+    "count": 191
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-03",
+    "count": 200
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-04",
+    "count": 210
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-05",
+    "count": 219
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-06",
+    "count": 179
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-07",
+    "count": 153
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-09",
+    "count": 1
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-10",
+    "count": 112
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-11",
+    "count": 157
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2025-12",
+    "count": 636
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-01",
+    "count": 794
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-02",
+    "count": 18
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-03",
+    "count": 864
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-02",
+    "count": 14
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-03",
+    "count": 53
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-04",
+    "count": 41
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-05",
+    "count": 35
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-06",
+    "count": 32
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-07",
+    "count": 52
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-08",
+    "count": 33
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-09",
+    "count": 38
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-10",
+    "count": 39
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-11",
+    "count": 45
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2024-12",
+    "count": 55
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-01",
+    "count": 37
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-02",
+    "count": 32
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-03",
+    "count": 105
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-04",
+    "count": 61
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-05",
+    "count": 64
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-06",
+    "count": 71
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-07",
+    "count": 70
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-08",
+    "count": 52
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-09",
+    "count": 70
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-10",
+    "count": 86
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-11",
+    "count": 87
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2025-12",
+    "count": 65
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-01",
+    "count": 39
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-02",
+    "count": 8
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-03",
+    "count": 78
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-02",
+    "count": 14
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-03",
+    "count": 132
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-04",
+    "count": 141
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-05",
+    "count": 103
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-06",
+    "count": 107
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-07",
+    "count": 155
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-08",
+    "count": 116
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-09",
+    "count": 93
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-10",
+    "count": 117
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-11",
+    "count": 105
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2024-12",
+    "count": 116
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-01",
+    "count": 90
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-02",
+    "count": 87
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-03",
+    "count": 131
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-04",
+    "count": 116
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-05",
+    "count": 126
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-06",
+    "count": 111
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-07",
+    "count": 102
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-10",
+    "count": 94
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-11",
+    "count": 129
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2025-12",
+    "count": 106
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-01",
+    "count": 85
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-02",
+    "count": 81
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-03",
+    "count": 100
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-02",
+    "count": 14
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-03",
+    "count": 168
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-04",
+    "count": 175
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-05",
+    "count": 168
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-06",
+    "count": 155
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-07",
+    "count": 176
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-08",
+    "count": 143
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-09",
+    "count": 141
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-10",
+    "count": 176
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-11",
+    "count": 155
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2024-12",
+    "count": 147
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-01",
+    "count": 163
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-02",
+    "count": 161
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-03",
+    "count": 171
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-04",
+    "count": 171
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-05",
+    "count": 185
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-06",
+    "count": 161
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-07",
+    "count": 129
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-09",
+    "count": 1
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-10",
+    "count": 77
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-11",
+    "count": 41
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2025-12",
+    "count": 796
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-01",
+    "count": 1108
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-02",
+    "count": 356
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-03",
+    "count": 877
+  }
+]

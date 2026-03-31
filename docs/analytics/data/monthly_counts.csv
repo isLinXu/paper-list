@@ -1,0 +1,436 @@
+topic,date,count
+Action Recognition,2024-02,11
+Action Recognition,2024-03,55
+Action Recognition,2024-04,59
+Action Recognition,2024-05,43
+Action Recognition,2024-06,37
+Action Recognition,2024-07,61
+Action Recognition,2024-08,37
+Action Recognition,2024-09,43
+Action Recognition,2024-10,48
+Action Recognition,2024-11,45
+Action Recognition,2024-12,40
+Action Recognition,2025-01,35
+Action Recognition,2025-02,35
+Action Recognition,2025-03,55
+Action Recognition,2025-04,51
+Action Recognition,2025-05,47
+Action Recognition,2025-06,56
+Action Recognition,2025-07,26
+Action Recognition,2025-08,1
+Action Recognition,2025-09,49
+Action Recognition,2025-10,50
+Action Recognition,2025-11,78
+Action Recognition,2025-12,53
+Action Recognition,2026-01,43
+Action Recognition,2026-02,16
+Action Recognition,2026-03,35
+Anomaly Detection,2024-02,16
+Anomaly Detection,2024-03,111
+Anomaly Detection,2024-04,103
+Anomaly Detection,2024-05,114
+Anomaly Detection,2024-06,109
+Anomaly Detection,2024-07,115
+Anomaly Detection,2024-08,114
+Anomaly Detection,2024-09,105
+Anomaly Detection,2024-10,122
+Anomaly Detection,2024-11,106
+Anomaly Detection,2024-12,133
+Anomaly Detection,2025-01,114
+Anomaly Detection,2025-02,133
+Anomaly Detection,2025-03,126
+Anomaly Detection,2025-04,156
+Anomaly Detection,2025-05,154
+Anomaly Detection,2025-06,137
+Anomaly Detection,2025-07,106
+Anomaly Detection,2025-08,1
+Anomaly Detection,2025-09,3
+Anomaly Detection,2025-10,84
+Anomaly Detection,2025-11,104
+Anomaly Detection,2025-12,162
+Anomaly Detection,2026-01,168
+Anomaly Detection,2026-02,100
+Anomaly Detection,2026-03,161
+Audio Processing,2024-02,14
+Audio Processing,2024-03,72
+Audio Processing,2024-04,72
+Audio Processing,2024-05,74
+Audio Processing,2024-06,157
+Audio Processing,2024-07,103
+Audio Processing,2024-08,100
+Audio Processing,2024-09,130
+Audio Processing,2024-10,116
+Audio Processing,2024-11,74
+Audio Processing,2024-12,80
+Audio Processing,2025-01,100
+Audio Processing,2025-02,90
+Audio Processing,2025-03,68
+Audio Processing,2025-04,61
+Audio Processing,2025-05,125
+Audio Processing,2025-06,121
+Audio Processing,2025-07,88
+Audio Processing,2025-08,5
+Audio Processing,2025-10,110
+Audio Processing,2025-11,109
+Audio Processing,2025-12,64
+Audio Processing,2026-01,115
+Audio Processing,2026-02,69
+Audio Processing,2026-03,109
+Classification,2024-02,18
+Classification,2024-03,147
+Classification,2024-04,136
+Classification,2024-05,136
+Classification,2024-06,135
+Classification,2024-07,145
+Classification,2024-08,143
+Classification,2024-09,114
+Classification,2024-10,143
+Classification,2024-11,111
+Classification,2024-12,118
+Classification,2025-01,123
+Classification,2025-02,133
+Classification,2025-03,136
+Classification,2025-04,127
+Classification,2025-05,131
+Classification,2025-06,125
+Classification,2025-07,141
+Classification,2025-08,146
+Classification,2025-09,137
+Classification,2025-10,155
+Classification,2025-11,125
+Classification,2025-12,99
+Classification,2026-01,107
+Classification,2026-02,95
+Classification,2026-03,116
+Depth Estimation,2024-02,11
+Depth Estimation,2024-03,58
+Depth Estimation,2024-04,46
+Depth Estimation,2024-05,39
+Depth Estimation,2024-06,37
+Depth Estimation,2024-07,34
+Depth Estimation,2024-08,29
+Depth Estimation,2024-09,52
+Depth Estimation,2024-10,36
+Depth Estimation,2024-11,50
+Depth Estimation,2024-12,58
+Depth Estimation,2025-01,32
+Depth Estimation,2025-02,27
+Depth Estimation,2025-03,62
+Depth Estimation,2025-04,44
+Depth Estimation,2025-05,45
+Depth Estimation,2025-06,44
+Depth Estimation,2025-07,51
+Depth Estimation,2025-08,41
+Depth Estimation,2025-09,62
+Depth Estimation,2025-10,77
+Depth Estimation,2025-11,60
+Depth Estimation,2025-12,49
+Depth Estimation,2026-01,30
+Depth Estimation,2026-02,26
+Depth Estimation,2026-03,51
+Graph Neural Networks,2024-02,19
+Graph Neural Networks,2024-03,171
+Graph Neural Networks,2024-04,161
+Graph Neural Networks,2024-05,170
+Graph Neural Networks,2024-06,158
+Graph Neural Networks,2024-07,174
+Graph Neural Networks,2024-08,160
+Graph Neural Networks,2024-09,127
+Graph Neural Networks,2024-10,181
+Graph Neural Networks,2024-11,165
+Graph Neural Networks,2024-12,162
+Graph Neural Networks,2025-01,150
+Graph Neural Networks,2025-02,165
+Graph Neural Networks,2025-03,150
+Graph Neural Networks,2025-04,171
+Graph Neural Networks,2025-05,182
+Graph Neural Networks,2025-06,154
+Graph Neural Networks,2025-07,125
+Graph Neural Networks,2025-09,3
+Graph Neural Networks,2025-10,76
+Graph Neural Networks,2025-11,87
+Graph Neural Networks,2025-12,234
+Graph Neural Networks,2026-01,161
+Graph Neural Networks,2026-02,99
+Graph Neural Networks,2026-03,151
+Image Generation,2024-02,20
+Image Generation,2024-03,180
+Image Generation,2024-04,186
+Image Generation,2024-05,174
+Image Generation,2024-06,159
+Image Generation,2024-07,188
+Image Generation,2024-08,182
+Image Generation,2024-09,142
+Image Generation,2024-10,197
+Image Generation,2024-11,162
+Image Generation,2024-12,174
+Image Generation,2025-01,164
+Image Generation,2025-02,164
+Image Generation,2025-03,195
+Image Generation,2025-04,189
+Image Generation,2025-05,190
+Image Generation,2025-06,165
+Image Generation,2025-07,129
+Image Generation,2025-08,1
+Image Generation,2025-09,2
+Image Generation,2025-10,75
+Image Generation,2025-11,66
+Image Generation,2025-12,315
+Image Generation,2026-01,247
+Image Generation,2026-02,273
+Image Generation,2026-03,267
+LLM,2024-02,20
+LLM,2024-03,193
+LLM,2024-04,211
+LLM,2024-05,220
+LLM,2024-06,179
+LLM,2024-07,211
+LLM,2024-08,220
+LLM,2024-09,158
+LLM,2024-10,210
+LLM,2024-11,189
+LLM,2024-12,183
+LLM,2025-01,209
+LLM,2025-02,190
+LLM,2025-03,211
+LLM,2025-04,210
+LLM,2025-05,222
+LLM,2025-06,179
+LLM,2025-07,151
+LLM,2025-08,1
+LLM,2025-09,1
+LLM,2025-10,1
+LLM,2025-11,248
+LLM,2025-12,1055
+LLM,2026-01,1417
+LLM,2026-02,850
+LLM,2026-03,967
+Multimodal,2024-02,13
+Multimodal,2024-03,23
+Multimodal,2024-04,25
+Multimodal,2024-05,29
+Multimodal,2024-06,30
+Multimodal,2024-07,27
+Multimodal,2024-08,30
+Multimodal,2024-09,20
+Multimodal,2024-10,22
+Multimodal,2024-11,32
+Multimodal,2024-12,26
+Multimodal,2025-01,26
+Multimodal,2025-02,33
+Multimodal,2025-03,44
+Multimodal,2025-04,30
+Multimodal,2025-05,54
+Multimodal,2025-06,53
+Multimodal,2025-07,36
+Multimodal,2025-08,51
+Multimodal,2025-09,55
+Multimodal,2025-10,63
+Multimodal,2025-11,71
+Multimodal,2025-12,47
+Multimodal,2026-01,40
+Multimodal,2026-02,8
+Multimodal,2026-03,50
+Object Detection,2024-02,20
+Object Detection,2024-03,164
+Object Detection,2024-04,141
+Object Detection,2024-05,131
+Object Detection,2024-06,128
+Object Detection,2024-07,167
+Object Detection,2024-08,163
+Object Detection,2024-09,117
+Object Detection,2024-10,151
+Object Detection,2024-11,126
+Object Detection,2024-12,149
+Object Detection,2025-01,129
+Object Detection,2025-02,111
+Object Detection,2025-03,160
+Object Detection,2025-04,148
+Object Detection,2025-05,154
+Object Detection,2025-06,125
+Object Detection,2025-07,135
+Object Detection,2025-09,29
+Object Detection,2025-10,159
+Object Detection,2025-11,85
+Object Detection,2025-12,140
+Object Detection,2026-01,99
+Object Detection,2026-02,103
+Object Detection,2026-03,136
+Object Tracking,2024-02,10
+Object Tracking,2024-03,40
+Object Tracking,2024-04,23
+Object Tracking,2024-05,37
+Object Tracking,2024-06,38
+Object Tracking,2024-07,30
+Object Tracking,2024-08,29
+Object Tracking,2024-09,32
+Object Tracking,2024-10,33
+Object Tracking,2024-11,36
+Object Tracking,2024-12,39
+Object Tracking,2025-01,20
+Object Tracking,2025-02,20
+Object Tracking,2025-03,23
+Object Tracking,2025-04,33
+Object Tracking,2025-05,31
+Object Tracking,2025-06,23
+Object Tracking,2025-07,35
+Object Tracking,2025-08,34
+Object Tracking,2025-09,32
+Object Tracking,2025-10,54
+Object Tracking,2025-11,67
+Object Tracking,2025-12,30
+Object Tracking,2026-01,14
+Object Tracking,2026-02,16
+Object Tracking,2026-03,26
+Optical Flow,2024-02,11
+Optical Flow,2024-03,43
+Optical Flow,2024-04,31
+Optical Flow,2024-05,36
+Optical Flow,2024-06,21
+Optical Flow,2024-07,32
+Optical Flow,2024-08,19
+Optical Flow,2024-09,31
+Optical Flow,2024-10,21
+Optical Flow,2024-11,32
+Optical Flow,2024-12,32
+Optical Flow,2025-01,31
+Optical Flow,2025-02,18
+Optical Flow,2025-03,49
+Optical Flow,2025-04,29
+Optical Flow,2025-05,36
+Optical Flow,2025-06,35
+Optical Flow,2025-07,37
+Optical Flow,2025-08,29
+Optical Flow,2025-09,27
+Optical Flow,2025-10,75
+Optical Flow,2025-11,42
+Optical Flow,2025-12,40
+Optical Flow,2026-01,16
+Optical Flow,2026-02,12
+Optical Flow,2026-03,30
+Pose Estimation,2024-02,11
+Pose Estimation,2024-03,95
+Pose Estimation,2024-04,64
+Pose Estimation,2024-05,60
+Pose Estimation,2024-06,50
+Pose Estimation,2024-07,70
+Pose Estimation,2024-08,58
+Pose Estimation,2024-09,84
+Pose Estimation,2024-10,65
+Pose Estimation,2024-11,66
+Pose Estimation,2024-12,61
+Pose Estimation,2025-01,58
+Pose Estimation,2025-02,48
+Pose Estimation,2025-03,105
+Pose Estimation,2025-04,75
+Pose Estimation,2025-05,73
+Pose Estimation,2025-06,76
+Pose Estimation,2025-07,72
+Pose Estimation,2025-08,75
+Pose Estimation,2025-09,80
+Pose Estimation,2025-10,97
+Pose Estimation,2025-11,99
+Pose Estimation,2025-12,82
+Pose Estimation,2026-01,44
+Pose Estimation,2026-02,59
+Pose Estimation,2026-03,79
+Reinforcement Learning,2024-02,20
+Reinforcement Learning,2024-03,191
+Reinforcement Learning,2024-04,205
+Reinforcement Learning,2024-05,208
+Reinforcement Learning,2024-06,178
+Reinforcement Learning,2024-07,213
+Reinforcement Learning,2024-08,210
+Reinforcement Learning,2024-09,157
+Reinforcement Learning,2024-10,211
+Reinforcement Learning,2024-11,190
+Reinforcement Learning,2024-12,178
+Reinforcement Learning,2025-01,206
+Reinforcement Learning,2025-02,191
+Reinforcement Learning,2025-03,200
+Reinforcement Learning,2025-04,210
+Reinforcement Learning,2025-05,219
+Reinforcement Learning,2025-06,179
+Reinforcement Learning,2025-07,153
+Reinforcement Learning,2025-09,1
+Reinforcement Learning,2025-10,112
+Reinforcement Learning,2025-11,157
+Reinforcement Learning,2025-12,636
+Reinforcement Learning,2026-01,794
+Reinforcement Learning,2026-02,18
+Reinforcement Learning,2026-03,864
+Scene Understanding,2024-02,14
+Scene Understanding,2024-03,53
+Scene Understanding,2024-04,41
+Scene Understanding,2024-05,35
+Scene Understanding,2024-06,32
+Scene Understanding,2024-07,52
+Scene Understanding,2024-08,33
+Scene Understanding,2024-09,38
+Scene Understanding,2024-10,39
+Scene Understanding,2024-11,45
+Scene Understanding,2024-12,55
+Scene Understanding,2025-01,37
+Scene Understanding,2025-02,32
+Scene Understanding,2025-03,105
+Scene Understanding,2025-04,61
+Scene Understanding,2025-05,64
+Scene Understanding,2025-06,71
+Scene Understanding,2025-07,70
+Scene Understanding,2025-08,52
+Scene Understanding,2025-09,70
+Scene Understanding,2025-10,86
+Scene Understanding,2025-11,87
+Scene Understanding,2025-12,65
+Scene Understanding,2026-01,39
+Scene Understanding,2026-02,8
+Scene Understanding,2026-03,78
+Semantic Segmentation,2024-02,14
+Semantic Segmentation,2024-03,132
+Semantic Segmentation,2024-04,141
+Semantic Segmentation,2024-05,103
+Semantic Segmentation,2024-06,107
+Semantic Segmentation,2024-07,155
+Semantic Segmentation,2024-08,116
+Semantic Segmentation,2024-09,93
+Semantic Segmentation,2024-10,117
+Semantic Segmentation,2024-11,105
+Semantic Segmentation,2024-12,116
+Semantic Segmentation,2025-01,90
+Semantic Segmentation,2025-02,87
+Semantic Segmentation,2025-03,131
+Semantic Segmentation,2025-04,116
+Semantic Segmentation,2025-05,126
+Semantic Segmentation,2025-06,111
+Semantic Segmentation,2025-07,102
+Semantic Segmentation,2025-10,94
+Semantic Segmentation,2025-11,129
+Semantic Segmentation,2025-12,106
+Semantic Segmentation,2026-01,85
+Semantic Segmentation,2026-02,81
+Semantic Segmentation,2026-03,100
+Transfer Learning,2024-02,14
+Transfer Learning,2024-03,168
+Transfer Learning,2024-04,175
+Transfer Learning,2024-05,168
+Transfer Learning,2024-06,155
+Transfer Learning,2024-07,176
+Transfer Learning,2024-08,143
+Transfer Learning,2024-09,141
+Transfer Learning,2024-10,176
+Transfer Learning,2024-11,155
+Transfer Learning,2024-12,147
+Transfer Learning,2025-01,163
+Transfer Learning,2025-02,161
+Transfer Learning,2025-03,171
+Transfer Learning,2025-04,171
+Transfer Learning,2025-05,185
+Transfer Learning,2025-06,161
+Transfer Learning,2025-07,129
+Transfer Learning,2025-09,1
+Transfer Learning,2025-10,77
+Transfer Learning,2025-11,41
+Transfer Learning,2025-12,796
+Transfer Learning,2026-01,1108
+Transfer Learning,2026-02,356
+Transfer Learning,2026-03,877

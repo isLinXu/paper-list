@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-03-31T13:16:45+00:00",
+  "topics": [
+    "Action Recognition",
+    "Anomaly Detection",
+    "Audio Processing",
+    "Classification",
+    "Depth Estimation",
+    "Graph Neural Networks",
+    "Image Generation",
+    "LLM",
+    "Multimodal",
+    "Object Detection",
+    "Object Tracking",
+    "Optical Flow",
+    "Pose Estimation",
+    "Reinforcement Learning",
+    "Scene Understanding",
+    "Semantic Segmentation",
+    "Transfer Learning"
+  ],
+  "min_date": "2024-02-09",
+  "max_date": "2026-03-25",
+  "granularities": [
+    "day",
+    "month"
+  ],
+  "default_range_days": 90,
+  "default_range_months": 12
+}

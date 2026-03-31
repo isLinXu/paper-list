@@ -1,0 +1,436 @@
+topic,date,total,code_covered,code_coverage
+Action Recognition,2024-02,11,2,0.1818
+Action Recognition,2024-03,55,18,0.3273
+Action Recognition,2024-04,59,13,0.2203
+Action Recognition,2024-05,43,11,0.2558
+Action Recognition,2024-06,37,12,0.3243
+Action Recognition,2024-07,61,23,0.377
+Action Recognition,2024-08,37,13,0.3514
+Action Recognition,2024-09,43,8,0.186
+Action Recognition,2024-10,48,13,0.2708
+Action Recognition,2024-11,45,9,0.2
+Action Recognition,2024-12,40,14,0.35
+Action Recognition,2025-01,35,8,0.2286
+Action Recognition,2025-02,35,10,0.2857
+Action Recognition,2025-03,55,12,0.2182
+Action Recognition,2025-04,51,9,0.1765
+Action Recognition,2025-05,47,17,0.3617
+Action Recognition,2025-06,56,9,0.1607
+Action Recognition,2025-07,26,3,0.1154
+Action Recognition,2025-08,1,0,0.0
+Action Recognition,2025-09,49,0,0.0
+Action Recognition,2025-10,50,0,0.0
+Action Recognition,2025-11,78,2,0.0256
+Action Recognition,2025-12,53,0,0.0
+Action Recognition,2026-01,43,1,0.0233
+Action Recognition,2026-02,16,0,0.0
+Action Recognition,2026-03,35,0,0.0
+Anomaly Detection,2024-02,16,3,0.1875
+Anomaly Detection,2024-03,111,20,0.1802
+Anomaly Detection,2024-04,103,16,0.1553
+Anomaly Detection,2024-05,114,24,0.2105
+Anomaly Detection,2024-06,109,16,0.1468
+Anomaly Detection,2024-07,115,24,0.2087
+Anomaly Detection,2024-08,114,21,0.1842
+Anomaly Detection,2024-09,105,17,0.1619
+Anomaly Detection,2024-10,122,25,0.2049
+Anomaly Detection,2024-11,106,12,0.1132
+Anomaly Detection,2024-12,133,27,0.203
+Anomaly Detection,2025-01,114,21,0.1842
+Anomaly Detection,2025-02,133,16,0.1203
+Anomaly Detection,2025-03,126,12,0.0952
+Anomaly Detection,2025-04,156,8,0.0513
+Anomaly Detection,2025-05,154,20,0.1299
+Anomaly Detection,2025-06,137,4,0.0292
+Anomaly Detection,2025-07,106,0,0.0
+Anomaly Detection,2025-08,1,0,0.0
+Anomaly Detection,2025-09,3,0,0.0
+Anomaly Detection,2025-10,84,1,0.0119
+Anomaly Detection,2025-11,104,1,0.0096
+Anomaly Detection,2025-12,162,0,0.0
+Anomaly Detection,2026-01,168,0,0.0
+Anomaly Detection,2026-02,100,0,0.0
+Anomaly Detection,2026-03,161,0,0.0
+Audio Processing,2024-02,14,3,0.2143
+Audio Processing,2024-03,72,11,0.1528
+Audio Processing,2024-04,72,12,0.1667
+Audio Processing,2024-05,74,15,0.2027
+Audio Processing,2024-06,157,23,0.1465
+Audio Processing,2024-07,103,21,0.2039
+Audio Processing,2024-08,100,15,0.15
+Audio Processing,2024-09,130,10,0.0769
+Audio Processing,2024-10,116,21,0.181
+Audio Processing,2024-11,74,10,0.1351
+Audio Processing,2024-12,80,12,0.15
+Audio Processing,2025-01,100,18,0.18
+Audio Processing,2025-02,90,14,0.1556
+Audio Processing,2025-03,68,16,0.2353
+Audio Processing,2025-04,61,7,0.1148
+Audio Processing,2025-05,125,21,0.168
+Audio Processing,2025-06,121,12,0.0992
+Audio Processing,2025-07,88,6,0.0682
+Audio Processing,2025-08,5,0,0.0
+Audio Processing,2025-10,110,11,0.1
+Audio Processing,2025-11,109,0,0.0
+Audio Processing,2025-12,64,0,0.0
+Audio Processing,2026-01,115,6,0.0522
+Audio Processing,2026-02,69,0,0.0
+Audio Processing,2026-03,109,0,0.0
+Classification,2024-02,18,4,0.2222
+Classification,2024-03,147,47,0.3197
+Classification,2024-04,136,37,0.2721
+Classification,2024-05,136,27,0.1985
+Classification,2024-06,135,41,0.3037
+Classification,2024-07,145,35,0.2414
+Classification,2024-08,143,23,0.1608
+Classification,2024-09,114,18,0.1579
+Classification,2024-10,143,31,0.2168
+Classification,2024-11,111,30,0.2703
+Classification,2024-12,118,34,0.2881
+Classification,2025-01,123,29,0.2358
+Classification,2025-02,133,12,0.0902
+Classification,2025-03,136,30,0.2206
+Classification,2025-04,127,14,0.1102
+Classification,2025-05,131,15,0.1145
+Classification,2025-06,125,6,0.048
+Classification,2025-07,141,9,0.0638
+Classification,2025-08,146,5,0.0342
+Classification,2025-09,137,9,0.0657
+Classification,2025-10,155,4,0.0258
+Classification,2025-11,125,1,0.008
+Classification,2025-12,99,3,0.0303
+Classification,2026-01,107,0,0.0
+Classification,2026-02,95,0,0.0
+Classification,2026-03,116,0,0.0
+Depth Estimation,2024-02,11,1,0.0909
+Depth Estimation,2024-03,58,17,0.2931
+Depth Estimation,2024-04,46,12,0.2609
+Depth Estimation,2024-05,39,9,0.2308
+Depth Estimation,2024-06,37,11,0.2973
+Depth Estimation,2024-07,34,15,0.4412
+Depth Estimation,2024-08,29,8,0.2759
+Depth Estimation,2024-09,52,12,0.2308
+Depth Estimation,2024-10,36,11,0.3056
+Depth Estimation,2024-11,50,7,0.14
+Depth Estimation,2024-12,58,6,0.1034
+Depth Estimation,2025-01,32,6,0.1875
+Depth Estimation,2025-02,27,3,0.1111
+Depth Estimation,2025-03,62,12,0.1935
+Depth Estimation,2025-04,44,12,0.2727
+Depth Estimation,2025-05,45,8,0.1778
+Depth Estimation,2025-06,44,7,0.1591
+Depth Estimation,2025-07,51,1,0.0196
+Depth Estimation,2025-08,41,1,0.0244
+Depth Estimation,2025-09,62,0,0.0
+Depth Estimation,2025-10,77,0,0.0
+Depth Estimation,2025-11,60,0,0.0
+Depth Estimation,2025-12,49,0,0.0
+Depth Estimation,2026-01,30,2,0.0667
+Depth Estimation,2026-02,26,0,0.0
+Depth Estimation,2026-03,51,0,0.0
+Graph Neural Networks,2024-02,19,6,0.3158
+Graph Neural Networks,2024-03,171,30,0.1754
+Graph Neural Networks,2024-04,161,32,0.1988
+Graph Neural Networks,2024-05,170,25,0.1471
+Graph Neural Networks,2024-06,158,39,0.2468
+Graph Neural Networks,2024-07,174,33,0.1897
+Graph Neural Networks,2024-08,160,21,0.1313
+Graph Neural Networks,2024-09,127,21,0.1654
+Graph Neural Networks,2024-10,181,32,0.1768
+Graph Neural Networks,2024-11,165,34,0.2061
+Graph Neural Networks,2024-12,162,36,0.2222
+Graph Neural Networks,2025-01,150,29,0.1933
+Graph Neural Networks,2025-02,165,9,0.0545
+Graph Neural Networks,2025-03,150,10,0.0667
+Graph Neural Networks,2025-04,171,4,0.0234
+Graph Neural Networks,2025-05,182,18,0.0989
+Graph Neural Networks,2025-06,154,4,0.026
+Graph Neural Networks,2025-07,125,2,0.016
+Graph Neural Networks,2025-09,3,0,0.0
+Graph Neural Networks,2025-10,76,0,0.0
+Graph Neural Networks,2025-11,87,0,0.0
+Graph Neural Networks,2025-12,234,0,0.0
+Graph Neural Networks,2026-01,161,0,0.0
+Graph Neural Networks,2026-02,99,0,0.0
+Graph Neural Networks,2026-03,151,0,0.0
+Image Generation,2024-02,20,4,0.2
+Image Generation,2024-03,180,41,0.2278
+Image Generation,2024-04,186,35,0.1882
+Image Generation,2024-05,174,41,0.2356
+Image Generation,2024-06,159,57,0.3585
+Image Generation,2024-07,188,48,0.2553
+Image Generation,2024-08,182,40,0.2198
+Image Generation,2024-09,142,44,0.3099
+Image Generation,2024-10,197,47,0.2386
+Image Generation,2024-11,162,38,0.2346
+Image Generation,2024-12,174,52,0.2989
+Image Generation,2025-01,164,41,0.25
+Image Generation,2025-02,164,13,0.0793
+Image Generation,2025-03,195,49,0.2513
+Image Generation,2025-04,189,42,0.2222
+Image Generation,2025-05,190,57,0.3
+Image Generation,2025-06,165,30,0.1818
+Image Generation,2025-07,129,14,0.1085
+Image Generation,2025-08,1,0,0.0
+Image Generation,2025-09,2,0,0.0
+Image Generation,2025-10,75,1,0.0133
+Image Generation,2025-11,66,0,0.0
+Image Generation,2025-12,315,3,0.0095
+Image Generation,2026-01,247,17,0.0688
+Image Generation,2026-02,273,7,0.0256
+Image Generation,2026-03,267,2,0.0075
+LLM,2024-02,20,7,0.35
+LLM,2024-03,193,38,0.1969
+LLM,2024-04,211,88,0.4171
+LLM,2024-05,220,69,0.3136
+LLM,2024-06,179,64,0.3575
+LLM,2024-07,211,72,0.3412
+LLM,2024-08,220,59,0.2682
+LLM,2024-09,158,48,0.3038
+LLM,2024-10,210,57,0.2714
+LLM,2024-11,189,64,0.3386
+LLM,2024-12,183,66,0.3607
+LLM,2025-01,209,47,0.2249
+LLM,2025-02,190,37,0.1947
+LLM,2025-03,211,42,0.1991
+LLM,2025-04,210,39,0.1857
+LLM,2025-05,222,48,0.2162
+LLM,2025-06,179,38,0.2123
+LLM,2025-07,151,25,0.1656
+LLM,2025-08,1,0,0.0
+LLM,2025-09,1,0,0.0
+LLM,2025-10,1,0,0.0
+LLM,2025-11,248,7,0.0282
+LLM,2025-12,1055,34,0.0322
+LLM,2026-01,1417,46,0.0325
+LLM,2026-02,850,19,0.0224
+LLM,2026-03,967,3,0.0031
+Multimodal,2024-02,13,4,0.3077
+Multimodal,2024-03,23,7,0.3043
+Multimodal,2024-04,25,10,0.4
+Multimodal,2024-05,29,8,0.2759
+Multimodal,2024-06,30,11,0.3667
+Multimodal,2024-07,27,7,0.2593
+Multimodal,2024-08,30,9,0.3
+Multimodal,2024-09,20,8,0.4
+Multimodal,2024-10,22,7,0.3182
+Multimodal,2024-11,32,8,0.25
+Multimodal,2024-12,26,5,0.1923
+Multimodal,2025-01,26,7,0.2692
+Multimodal,2025-02,33,8,0.2424
+Multimodal,2025-03,44,9,0.2045
+Multimodal,2025-04,30,3,0.1
+Multimodal,2025-05,54,14,0.2593
+Multimodal,2025-06,53,7,0.1321
+Multimodal,2025-07,36,2,0.0556
+Multimodal,2025-08,51,3,0.0588
+Multimodal,2025-09,55,2,0.0364
+Multimodal,2025-10,63,0,0.0
+Multimodal,2025-11,71,0,0.0
+Multimodal,2025-12,47,0,0.0
+Multimodal,2026-01,40,1,0.025
+Multimodal,2026-02,8,0,0.0
+Multimodal,2026-03,50,0,0.0
+Object Detection,2024-02,20,2,0.1
+Object Detection,2024-03,164,43,0.2622
+Object Detection,2024-04,141,34,0.2411
+Object Detection,2024-05,131,37,0.2824
+Object Detection,2024-06,128,44,0.3438
+Object Detection,2024-07,167,58,0.3473
+Object Detection,2024-08,163,25,0.1534
+Object Detection,2024-09,117,27,0.2308
+Object Detection,2024-10,151,42,0.2781
+Object Detection,2024-11,126,31,0.246
+Object Detection,2024-12,149,35,0.2349
+Object Detection,2025-01,129,33,0.2558
+Object Detection,2025-02,111,11,0.0991
+Object Detection,2025-03,160,26,0.1625
+Object Detection,2025-04,148,15,0.1014
+Object Detection,2025-05,154,26,0.1688
+Object Detection,2025-06,125,15,0.12
+Object Detection,2025-07,135,7,0.0519
+Object Detection,2025-09,29,1,0.0345
+Object Detection,2025-10,159,9,0.0566
+Object Detection,2025-11,85,0,0.0
+Object Detection,2025-12,140,0,0.0
+Object Detection,2026-01,99,5,0.0505
+Object Detection,2026-02,103,3,0.0291
+Object Detection,2026-03,136,1,0.0074
+Object Tracking,2024-02,10,1,0.1
+Object Tracking,2024-03,40,11,0.275
+Object Tracking,2024-04,23,10,0.4348
+Object Tracking,2024-05,37,10,0.2703
+Object Tracking,2024-06,38,8,0.2105
+Object Tracking,2024-07,30,3,0.1
+Object Tracking,2024-08,29,9,0.3103
+Object Tracking,2024-09,32,11,0.3438
+Object Tracking,2024-10,33,10,0.303
+Object Tracking,2024-11,36,7,0.1944
+Object Tracking,2024-12,39,16,0.4103
+Object Tracking,2025-01,20,7,0.35
+Object Tracking,2025-02,20,2,0.1
+Object Tracking,2025-03,23,10,0.4348
+Object Tracking,2025-04,33,7,0.2121
+Object Tracking,2025-05,31,9,0.2903
+Object Tracking,2025-06,23,1,0.0435
+Object Tracking,2025-07,35,0,0.0
+Object Tracking,2025-08,34,0,0.0
+Object Tracking,2025-09,32,1,0.0312
+Object Tracking,2025-10,54,1,0.0185
+Object Tracking,2025-11,67,2,0.0299
+Object Tracking,2025-12,30,0,0.0
+Object Tracking,2026-01,14,1,0.0714
+Object Tracking,2026-02,16,0,0.0
+Object Tracking,2026-03,26,0,0.0
+Optical Flow,2024-02,11,3,0.2727
+Optical Flow,2024-03,43,9,0.2093
+Optical Flow,2024-04,31,5,0.1613
+Optical Flow,2024-05,36,13,0.3611
+Optical Flow,2024-06,21,5,0.2381
+Optical Flow,2024-07,32,13,0.4062
+Optical Flow,2024-08,19,5,0.2632
+Optical Flow,2024-09,31,8,0.2581
+Optical Flow,2024-10,21,10,0.4762
+Optical Flow,2024-11,32,4,0.125
+Optical Flow,2024-12,32,7,0.2188
+Optical Flow,2025-01,31,9,0.2903
+Optical Flow,2025-02,18,2,0.1111
+Optical Flow,2025-03,49,14,0.2857
+Optical Flow,2025-04,29,3,0.1034
+Optical Flow,2025-05,36,8,0.2222
+Optical Flow,2025-06,35,9,0.2571
+Optical Flow,2025-07,37,4,0.1081
+Optical Flow,2025-08,29,2,0.069
+Optical Flow,2025-09,27,3,0.1111
+Optical Flow,2025-10,75,4,0.0533
+Optical Flow,2025-11,42,1,0.0238
+Optical Flow,2025-12,40,0,0.0
+Optical Flow,2026-01,16,0,0.0
+Optical Flow,2026-02,12,0,0.0
+Optical Flow,2026-03,30,0,0.0
+Pose Estimation,2024-02,11,4,0.3636
+Pose Estimation,2024-03,95,21,0.2211
+Pose Estimation,2024-04,64,21,0.3281
+Pose Estimation,2024-05,60,15,0.25
+Pose Estimation,2024-06,50,14,0.28
+Pose Estimation,2024-07,70,20,0.2857
+Pose Estimation,2024-08,58,14,0.2414
+Pose Estimation,2024-09,84,12,0.1429
+Pose Estimation,2024-10,65,15,0.2308
+Pose Estimation,2024-11,66,20,0.303
+Pose Estimation,2024-12,61,18,0.2951
+Pose Estimation,2025-01,58,10,0.1724
+Pose Estimation,2025-02,48,9,0.1875
+Pose Estimation,2025-03,105,16,0.1524
+Pose Estimation,2025-04,75,15,0.2
+Pose Estimation,2025-05,73,7,0.0959
+Pose Estimation,2025-06,76,8,0.1053
+Pose Estimation,2025-07,72,3,0.0417
+Pose Estimation,2025-08,75,5,0.0667
+Pose Estimation,2025-09,80,8,0.1
+Pose Estimation,2025-10,97,3,0.0309
+Pose Estimation,2025-11,99,1,0.0101
+Pose Estimation,2025-12,82,1,0.0122
+Pose Estimation,2026-01,44,2,0.0455
+Pose Estimation,2026-02,59,1,0.0169
+Pose Estimation,2026-03,79,0,0.0
+Reinforcement Learning,2024-02,20,3,0.15
+Reinforcement Learning,2024-03,191,23,0.1204
+Reinforcement Learning,2024-04,205,31,0.1512
+Reinforcement Learning,2024-05,208,36,0.1731
+Reinforcement Learning,2024-06,178,32,0.1798
+Reinforcement Learning,2024-07,213,27,0.1268
+Reinforcement Learning,2024-08,210,35,0.1667
+Reinforcement Learning,2024-09,157,11,0.0701
+Reinforcement Learning,2024-10,211,44,0.2085
+Reinforcement Learning,2024-11,190,27,0.1421
+Reinforcement Learning,2024-12,178,32,0.1798
+Reinforcement Learning,2025-01,206,20,0.0971
+Reinforcement Learning,2025-02,191,27,0.1414
+Reinforcement Learning,2025-03,200,35,0.175
+Reinforcement Learning,2025-04,210,36,0.1714
+Reinforcement Learning,2025-05,219,46,0.21
+Reinforcement Learning,2025-06,179,33,0.1844
+Reinforcement Learning,2025-07,153,22,0.1438
+Reinforcement Learning,2025-09,1,0,0.0
+Reinforcement Learning,2025-10,112,6,0.0536
+Reinforcement Learning,2025-11,157,7,0.0446
+Reinforcement Learning,2025-12,636,24,0.0377
+Reinforcement Learning,2026-01,794,45,0.0567
+Reinforcement Learning,2026-02,18,0,0.0
+Reinforcement Learning,2026-03,864,3,0.0035
+Scene Understanding,2024-02,14,4,0.2857
+Scene Understanding,2024-03,53,14,0.2642
+Scene Understanding,2024-04,41,15,0.3659
+Scene Understanding,2024-05,35,13,0.3714
+Scene Understanding,2024-06,32,10,0.3125
+Scene Understanding,2024-07,52,17,0.3269
+Scene Understanding,2024-08,33,11,0.3333
+Scene Understanding,2024-09,38,11,0.2895
+Scene Understanding,2024-10,39,9,0.2308
+Scene Understanding,2024-11,45,13,0.2889
+Scene Understanding,2024-12,55,17,0.3091
+Scene Understanding,2025-01,37,11,0.2973
+Scene Understanding,2025-02,32,11,0.3438
+Scene Understanding,2025-03,105,11,0.1048
+Scene Understanding,2025-04,61,14,0.2295
+Scene Understanding,2025-05,64,15,0.2344
+Scene Understanding,2025-06,71,10,0.1408
+Scene Understanding,2025-07,70,10,0.1429
+Scene Understanding,2025-08,52,1,0.0192
+Scene Understanding,2025-09,70,3,0.0429
+Scene Understanding,2025-10,86,4,0.0465
+Scene Understanding,2025-11,87,2,0.023
+Scene Understanding,2025-12,65,0,0.0
+Scene Understanding,2026-01,39,5,0.1282
+Scene Understanding,2026-02,8,0,0.0
+Scene Understanding,2026-03,78,0,0.0
+Semantic Segmentation,2024-02,14,4,0.2857
+Semantic Segmentation,2024-03,132,39,0.2955
+Semantic Segmentation,2024-04,141,38,0.2695
+Semantic Segmentation,2024-05,103,24,0.233
+Semantic Segmentation,2024-06,107,41,0.3832
+Semantic Segmentation,2024-07,155,58,0.3742
+Semantic Segmentation,2024-08,116,35,0.3017
+Semantic Segmentation,2024-09,93,23,0.2473
+Semantic Segmentation,2024-10,117,41,0.3504
+Semantic Segmentation,2024-11,105,29,0.2762
+Semantic Segmentation,2024-12,116,31,0.2672
+Semantic Segmentation,2025-01,90,30,0.3333
+Semantic Segmentation,2025-02,87,18,0.2069
+Semantic Segmentation,2025-03,131,16,0.1221
+Semantic Segmentation,2025-04,116,8,0.069
+Semantic Segmentation,2025-05,126,32,0.254
+Semantic Segmentation,2025-06,111,14,0.1261
+Semantic Segmentation,2025-07,102,11,0.1078
+Semantic Segmentation,2025-10,94,2,0.0213
+Semantic Segmentation,2025-11,129,1,0.0078
+Semantic Segmentation,2025-12,106,0,0.0
+Semantic Segmentation,2026-01,85,6,0.0706
+Semantic Segmentation,2026-02,81,2,0.0247
+Semantic Segmentation,2026-03,100,0,0.0
+Transfer Learning,2024-02,14,0,0.0
+Transfer Learning,2024-03,168,43,0.256
+Transfer Learning,2024-04,175,50,0.2857
+Transfer Learning,2024-05,168,38,0.2262
+Transfer Learning,2024-06,155,32,0.2065
+Transfer Learning,2024-07,176,36,0.2045
+Transfer Learning,2024-08,143,34,0.2378
+Transfer Learning,2024-09,141,28,0.1986
+Transfer Learning,2024-10,176,37,0.2102
+Transfer Learning,2024-11,155,26,0.1677
+Transfer Learning,2024-12,147,35,0.2381
+Transfer Learning,2025-01,163,28,0.1718
+Transfer Learning,2025-02,161,18,0.1118
+Transfer Learning,2025-03,171,31,0.1813
+Transfer Learning,2025-04,171,20,0.117
+Transfer Learning,2025-05,185,23,0.1243
+Transfer Learning,2025-06,161,14,0.087
+Transfer Learning,2025-07,129,8,0.062
+Transfer Learning,2025-09,1,0,0.0
+Transfer Learning,2025-10,77,0,0.0
+Transfer Learning,2025-11,41,1,0.0244
+Transfer Learning,2025-12,796,21,0.0264
+Transfer Learning,2026-01,1108,30,0.0271
+Transfer Learning,2026-02,356,13,0.0365
+Transfer Learning,2026-03,877,2,0.0023
