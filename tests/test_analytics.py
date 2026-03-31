@@ -10,6 +10,7 @@ from utils.analytics.aggregate import (
     aggregate_top_first_authors,
     parse_first_author,
 )
+from utils.analytics.charts import render_trend_chart
 from utils.analytics.export import write_csv_rows, write_json_rows, write_meta
 
 
@@ -116,6 +117,18 @@ class TestAnalyticsExport(unittest.TestCase):
             meta = json.loads((out / "meta.json").read_text(encoding="utf-8"))
             self.assertIn("generated_at", meta)
             self.assertEqual(meta["topics"], ["LLM", "Multimodal"])
+
+
+class TestAnalyticsCharts(unittest.TestCase):
+    def test_render_trend_chart_smoke(self):
+        rows = [
+            {"topic": "LLM", "date": "2026-03-01", "count": 2},
+            {"topic": "LLM", "date": "2026-03-02", "count": 1},
+        ]
+        with tempfile.TemporaryDirectory() as td:
+            out = Path(td) / "trend.png"
+            render_trend_chart(rows, out, title="Trend", max_topics=5)
+            self.assertTrue(out.exists())
 
 
 if __name__ == "__main__":
