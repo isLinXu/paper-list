@@ -46,10 +46,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install arxiv
-          pip install requests
-          pip install pyyaml
-          pip install matplotlib
+          pip install -r requirements.txt
           
       - name: Refresh recent paper links
         run: |
@@ -65,7 +62,8 @@ jobs:
         run: |
           git config user.name "${GITHUB_USER_NAME}"
           git config user.email "${GITHUB_USER_EMAIL}"
-          git add README.md docs/*.json docs/*.md docs/wechat.md docs/analytics
+          # Stage README + entire docs tree (includes docs/data shards and analytics outputs)
+          git add README.md docs
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
