@@ -9,6 +9,18 @@ This repository provides a daily-updated list of computer vision papers from arX
 
 Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)
 
+## Analytics
+
+- Dashboard: [docs/analytics/](docs/analytics/)
+
+![trend_daily](docs/analytics/charts/trend_daily.png)
+
+![topic_rank](docs/analytics/charts/topic_rank.png)
+
+![code_coverage](docs/analytics/charts/code_coverage_trend.png)
+
+![top_authors](docs/analytics/charts/top_authors.png)
+
 ## Usage
 
 To generate the paper list locally, follow these steps:

@@ -90,6 +90,22 @@ def json_to_md(filename, md_filename,
         f.write("This repository provides a daily-updated list of computer vision papers from arXiv, organized by topic. ")
         f.write("The updates are automated using GitHub Actions to ensure you stay current with the latest research.\n\n")
         f.write("Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
+
+        # Add Analytics入口（静态图 + 交互页）
+        if to_web:
+            analytics_href = "analytics/"
+            charts_prefix = "analytics/charts/"
+        else:
+            analytics_href = "docs/analytics/"
+            charts_prefix = "docs/analytics/charts/"
+
+        f.write("## Analytics\n\n")
+        f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
+        f.write("\n")
+        f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
+        f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
+        f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
+        f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
         
         # Add Usage Instructions
         f.write("## Usage\n\n")
