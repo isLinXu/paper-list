@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", sans-serif;
+  background: #0f1115;
+  color: #e9edf1;
+}
+
+.header {
+  padding: 20px 18px;
+  border-bottom: 1px solid #262a33;
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.subtitle {
+  margin: 6px 0 0;
+  color: #aab3bf;
+  font-size: 14px;
+}
+
+.meta {
+  color: #aab3bf;
+  font-size: 12px;
+  text-align: right;
+}
+
+.controls {
+  padding: 12px 18px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #262a33;
+}
+
+.controls label {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  color: #c7cfda;
+}
+
+select {
+  background: #151824;
+  color: #e9edf1;
+  border: 1px solid #2b3140;
+  border-radius: 8px;
+  padding: 6px 8px;
+}
+
+button {
+  background: #2b6cff;
+  border: 0;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #245ee0;
+}
+
+.grid {
+  padding: 18px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 1100px) {
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.card {
+  background: #121520;
+  border: 1px solid #262a33;
+  border-radius: 14px;
+  padding: 12px 12px 16px;
+}
+
+.card h2 {
+  margin: 6px 6px 10px;
+  font-size: 16px;
+  color: #dfe6ee;
+}
+
+.footer {
+  padding: 18px;
+  color: #aab3bf;
+}
+
+.footer a {
+  color: #aab3bf;
+}
+

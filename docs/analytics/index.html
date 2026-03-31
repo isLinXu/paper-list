@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paper List Analytics</title>
+    <link rel="stylesheet" href="./assets/app.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="title">
+        <h1>Paper List Analytics</h1>
+        <p class="subtitle">离线聚合数据 · 日/月趋势 · Topic 排行 · Code 覆盖率 · Top 第一作者</p>
+      </div>
+      <div class="meta" id="meta"></div>
+    </header>
+
+    <section class="controls">
+      <label>
+        粒度：
+        <select id="granularity">
+          <option value="day">日</option>
+          <option value="month">月</option>
+        </select>
+      </label>
+
+      <label>
+        时间窗：
+        <select id="presetRange">
+          <option value="last_30d">最近30天</option>
+          <option value="last_90d" selected>最近90天</option>
+          <option value="last_12m">最近12个月</option>
+          <option value="ytd">今年以来</option>
+        </select>
+      </label>
+
+      <label>
+        Topics（多选）：
+        <select id="topics" multiple size="6"></select>
+      </label>
+
+      <button id="apply">应用</button>
+    </section>
+
+    <main class="grid">
+      <section class="card">
+        <h2>趋势（Counts）</h2>
+        <canvas id="trendChart"></canvas>
+      </section>
+
+      <section class="card">
+        <h2>Topic 排行</h2>
+        <canvas id="rankChart"></canvas>
+      </section>
+
+      <section class="card">
+        <h2>Code 覆盖率（趋势/近似）</h2>
+        <canvas id="coverageChart"></canvas>
+      </section>
+
+      <section class="card">
+        <h2>Top 第一作者</h2>
+        <canvas id="authorsChart"></canvas>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <a href="../index.html">返回 Docs 首页</a>
+      <span>·</span>
+      <a href="../paper_list.md">paper_list</a>
+    </footer>
+
+    <script src="./assets/vendor/chart.umd.min.js"></script>
+    <script src="./assets/app.js"></script>
+  </body>
+</html>
