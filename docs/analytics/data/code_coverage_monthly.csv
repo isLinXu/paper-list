@@ -50,7 +50,7 @@ Anomaly Detection,2025-11,104,1,0.0096
 Anomaly Detection,2025-12,162,0,0.0
 Anomaly Detection,2026-01,168,0,0.0
 Anomaly Detection,2026-02,100,0,0.0
-Anomaly Detection,2026-03,161,0,0.0
+Anomaly Detection,2026-03,165,0,0.0
 Audio Processing,2024-02,14,3,0.2143
 Audio Processing,2024-03,72,11,0.1528
 Audio Processing,2024-04,72,12,0.1667
@@ -75,7 +75,7 @@ Audio Processing,2025-11,109,0,0.0
 Audio Processing,2025-12,64,0,0.0
 Audio Processing,2026-01,115,6,0.0522
 Audio Processing,2026-02,69,0,0.0
-Audio Processing,2026-03,109,0,0.0
+Audio Processing,2026-03,113,0,0.0
 Classification,2024-02,18,4,0.2222
 Classification,2024-03,147,47,0.3197
 Classification,2024-04,136,37,0.2721
@@ -101,7 +101,7 @@ Classification,2025-11,125,1,0.008
 Classification,2025-12,99,3,0.0303
 Classification,2026-01,107,0,0.0
 Classification,2026-02,95,0,0.0
-Classification,2026-03,116,0,0.0
+Classification,2026-03,119,0,0.0
 Depth Estimation,2024-02,11,1,0.0909
 Depth Estimation,2024-03,58,17,0.2931
 Depth Estimation,2024-04,46,12,0.2609
@@ -152,7 +152,7 @@ Graph Neural Networks,2025-11,87,0,0.0
 Graph Neural Networks,2025-12,234,0,0.0
 Graph Neural Networks,2026-01,161,0,0.0
 Graph Neural Networks,2026-02,99,0,0.0
-Graph Neural Networks,2026-03,151,0,0.0
+Graph Neural Networks,2026-03,156,0,0.0
 Image Generation,2024-02,20,4,0.2
 Image Generation,2024-03,180,41,0.2278
 Image Generation,2024-04,186,35,0.1882
@@ -178,7 +178,7 @@ Image Generation,2025-11,66,0,0.0
 Image Generation,2025-12,315,3,0.0095
 Image Generation,2026-01,247,17,0.0688
 Image Generation,2026-02,273,7,0.0256
-Image Generation,2026-03,267,2,0.0075
+Image Generation,2026-03,278,2,0.0072
 LLM,2024-02,20,7,0.35
 LLM,2024-03,193,38,0.1969
 LLM,2024-04,211,88,0.4171
@@ -204,7 +204,7 @@ LLM,2025-11,248,7,0.0282
 LLM,2025-12,1055,34,0.0322
 LLM,2026-01,1417,46,0.0325
 LLM,2026-02,850,19,0.0224
-LLM,2026-03,967,3,0.0031
+LLM,2026-03,1038,3,0.0029
 Multimodal,2024-02,13,4,0.3077
 Multimodal,2024-03,23,7,0.3043
 Multimodal,2024-04,25,10,0.4
@@ -230,7 +230,7 @@ Multimodal,2025-11,71,0,0.0
 Multimodal,2025-12,47,0,0.0
 Multimodal,2026-01,40,1,0.025
 Multimodal,2026-02,8,0,0.0
-Multimodal,2026-03,50,0,0.0
+Multimodal,2026-03,51,0,0.0
 Object Detection,2024-02,20,2,0.1
 Object Detection,2024-03,164,43,0.2622
 Object Detection,2024-04,141,34,0.2411
@@ -255,7 +255,7 @@ Object Detection,2025-11,85,0,0.0
 Object Detection,2025-12,140,0,0.0
 Object Detection,2026-01,99,5,0.0505
 Object Detection,2026-02,103,3,0.0291
-Object Detection,2026-03,136,1,0.0074
+Object Detection,2026-03,145,1,0.0069
 Object Tracking,2024-02,10,1,0.1
 Object Tracking,2024-03,40,11,0.275
 Object Tracking,2024-04,23,10,0.4348
@@ -307,7 +307,7 @@ Optical Flow,2025-11,42,1,0.0238
 Optical Flow,2025-12,40,0,0.0
 Optical Flow,2026-01,16,0,0.0
 Optical Flow,2026-02,12,0,0.0
-Optical Flow,2026-03,30,0,0.0
+Optical Flow,2026-03,32,0,0.0
 Pose Estimation,2024-02,11,4,0.3636
 Pose Estimation,2024-03,95,21,0.2211
 Pose Estimation,2024-04,64,21,0.3281
@@ -333,7 +333,7 @@ Pose Estimation,2025-11,99,1,0.0101
 Pose Estimation,2025-12,82,1,0.0122
 Pose Estimation,2026-01,44,2,0.0455
 Pose Estimation,2026-02,59,1,0.0169
-Pose Estimation,2026-03,79,0,0.0
+Pose Estimation,2026-03,80,0,0.0
 Reinforcement Learning,2024-02,20,3,0.15
 Reinforcement Learning,2024-03,191,23,0.1204
 Reinforcement Learning,2024-04,205,31,0.1512
@@ -358,7 +358,7 @@ Reinforcement Learning,2025-11,157,7,0.0446
 Reinforcement Learning,2025-12,636,24,0.0377
 Reinforcement Learning,2026-01,794,45,0.0567
 Reinforcement Learning,2026-02,18,0,0.0
-Reinforcement Learning,2026-03,864,3,0.0035
+Reinforcement Learning,2026-03,898,3,0.0033
 Scene Understanding,2024-02,14,4,0.2857
 Scene Understanding,2024-03,53,14,0.2642
 Scene Understanding,2024-04,41,15,0.3659
@@ -384,7 +384,7 @@ Scene Understanding,2025-11,87,2,0.023
 Scene Understanding,2025-12,65,0,0.0
 Scene Understanding,2026-01,39,5,0.1282
 Scene Understanding,2026-02,8,0,0.0
-Scene Understanding,2026-03,78,0,0.0
+Scene Understanding,2026-03,84,0,0.0
 Semantic Segmentation,2024-02,14,4,0.2857
 Semantic Segmentation,2024-03,132,39,0.2955
 Semantic Segmentation,2024-04,141,38,0.2695
@@ -408,7 +408,7 @@ Semantic Segmentation,2025-11,129,1,0.0078
 Semantic Segmentation,2025-12,106,0,0.0
 Semantic Segmentation,2026-01,85,6,0.0706
 Semantic Segmentation,2026-02,81,2,0.0247
-Semantic Segmentation,2026-03,100,0,0.0
+Semantic Segmentation,2026-03,110,0,0.0
 Transfer Learning,2024-02,14,0,0.0
 Transfer Learning,2024-03,168,43,0.256
 Transfer Learning,2024-04,175,50,0.2857
@@ -433,4 +433,4 @@ Transfer Learning,2025-11,41,1,0.0244
 Transfer Learning,2025-12,796,21,0.0264
 Transfer Learning,2026-01,1108,30,0.0271
 Transfer Learning,2026-02,356,13,0.0365
-Transfer Learning,2026-03,877,2,0.0023
+Transfer Learning,2026-03,923,2,0.0022

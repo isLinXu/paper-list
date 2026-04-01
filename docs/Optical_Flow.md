@@ -1,10 +1,10 @@
 ## Optical Flow
 
-Total papers: **815**
+Total papers: **817**
 
 ## Monthly Archives
 
-- [2026-03](Optical_Flow/2026-03.md) (30 papers)
+- [2026-03](Optical_Flow/2026-03.md) (32 papers)
 - [2026-02](Optical_Flow/2026-02.md) (12 papers)
 - [2026-01](Optical_Flow/2026-01.md) (16 papers)
 - [2025-12](Optical_Flow/2025-12.md) (40 papers)

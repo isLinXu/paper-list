@@ -1,102 +1,102 @@
 [
   {
-    "author": "Li Sun",
-    "count": 6,
-    "rank": 1
-  },
-  {
     "author": "Abdullah Al Masud",
     "count": 5,
-    "rank": 2
-  },
-  {
-    "author": "Yu Wang",
-    "count": 5,
-    "rank": 3
-  },
-  {
-    "author": "Wenjie Wei",
-    "count": 4,
-    "rank": 4
+    "rank": 1
   },
   {
     "author": "Xiaojie Gu",
     "count": 4,
-    "rank": 5
+    "rank": 2
   },
   {
     "author": "Xiaokang Zhang",
     "count": 4,
-    "rank": 6
+    "rank": 3
   },
   {
     "author": "Aodi Wu",
     "count": 4,
-    "rank": 7
+    "rank": 4
   },
   {
     "author": "Rui Ding",
     "count": 4,
-    "rank": 8
+    "rank": 5
   },
   {
     "author": "Hao Zhang",
     "count": 4,
-    "rank": 9
+    "rank": 6
   },
   {
     "author": "Zijin Yin",
     "count": 4,
-    "rank": 10
+    "rank": 7
   },
   {
     "author": "Chao Li",
     "count": 4,
-    "rank": 11
+    "rank": 8
   },
   {
     "author": "Xiucheng Wang",
     "count": 4,
-    "rank": 12
-  },
-  {
-    "author": "Zehao Li",
-    "count": 4,
-    "rank": 13
+    "rank": 9
   },
   {
     "author": "Nils Constantin Hellwig",
     "count": 4,
-    "rank": 14
+    "rank": 10
   },
   {
     "author": "Yongzhong Wang",
     "count": 4,
-    "rank": 15
+    "rank": 11
   },
   {
     "author": "Jiaye Feng",
     "count": 4,
-    "rank": 16
+    "rank": 12
   },
   {
     "author": "Yicai Xing",
     "count": 4,
-    "rank": 17
+    "rank": 13
   },
   {
     "author": "Zhongyi Li",
     "count": 4,
-    "rank": 18
+    "rank": 14
   },
   {
     "author": "Shuai Wang",
     "count": 4,
-    "rank": 19
+    "rank": 15
+  },
+  {
+    "author": "Alkis Sygkounas",
+    "count": 4,
+    "rank": 16
   },
   {
     "author": "Pol Buitrago",
     "count": 4,
+    "rank": 17
+  },
+  {
+    "author": "Devashish Chaudhary",
+    "count": 4,
+    "rank": 18
+  },
+  {
+    "author": "Trung V. Phan",
+    "count": 4,
+    "rank": 19
+  },
+  {
+    "author": "Aisha Kanwal",
+    "count": 3,
     "rank": 20
   }
 ]

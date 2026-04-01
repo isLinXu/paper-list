@@ -359,7 +359,7 @@
   {
     "topic": "Anomaly Detection",
     "date": "2026-03",
-    "total": 161,
+    "total": 165,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -534,7 +534,7 @@
   {
     "topic": "Audio Processing",
     "date": "2026-03",
-    "total": 109,
+    "total": 113,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -716,7 +716,7 @@
   {
     "topic": "Classification",
     "date": "2026-03",
-    "total": 116,
+    "total": 119,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1073,7 +1073,7 @@
   {
     "topic": "Graph Neural Networks",
     "date": "2026-03",
-    "total": 151,
+    "total": 156,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1255,9 +1255,9 @@
   {
     "topic": "Image Generation",
     "date": "2026-03",
-    "total": 267,
+    "total": 278,
     "code_covered": 2,
-    "code_coverage": 0.0075
+    "code_coverage": 0.0072
   },
   {
     "topic": "LLM",
@@ -1437,9 +1437,9 @@
   {
     "topic": "LLM",
     "date": "2026-03",
-    "total": 967,
+    "total": 1038,
     "code_covered": 3,
-    "code_coverage": 0.0031
+    "code_coverage": 0.0029
   },
   {
     "topic": "Multimodal",
@@ -1619,7 +1619,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-03",
-    "total": 50,
+    "total": 51,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1794,9 +1794,9 @@
   {
     "topic": "Object Detection",
     "date": "2026-03",
-    "total": 136,
+    "total": 145,
     "code_covered": 1,
-    "code_coverage": 0.0074
+    "code_coverage": 0.0069
   },
   {
     "topic": "Object Tracking",
@@ -2158,7 +2158,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-03",
-    "total": 30,
+    "total": 32,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2340,7 +2340,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-03",
-    "total": 79,
+    "total": 80,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2515,9 +2515,9 @@
   {
     "topic": "Reinforcement Learning",
     "date": "2026-03",
-    "total": 864,
+    "total": 898,
     "code_covered": 3,
-    "code_coverage": 0.0035
+    "code_coverage": 0.0033
   },
   {
     "topic": "Scene Understanding",
@@ -2697,7 +2697,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-03",
-    "total": 78,
+    "total": 84,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2865,7 +2865,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-03",
-    "total": 100,
+    "total": 110,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3040,8 +3040,8 @@
   {
     "topic": "Transfer Learning",
     "date": "2026-03",
-    "total": 877,
+    "total": 923,
     "code_covered": 2,
-    "code_coverage": 0.0023
+    "code_coverage": 0.0022
   }
 ]

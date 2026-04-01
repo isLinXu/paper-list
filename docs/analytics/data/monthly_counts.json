@@ -257,7 +257,7 @@
   {
     "topic": "Anomaly Detection",
     "date": "2026-03",
-    "count": 161
+    "count": 165
   },
   {
     "topic": "Audio Processing",
@@ -382,7 +382,7 @@
   {
     "topic": "Audio Processing",
     "date": "2026-03",
-    "count": 109
+    "count": 113
   },
   {
     "topic": "Classification",
@@ -512,7 +512,7 @@
   {
     "topic": "Classification",
     "date": "2026-03",
-    "count": 116
+    "count": 119
   },
   {
     "topic": "Depth Estimation",
@@ -767,7 +767,7 @@
   {
     "topic": "Graph Neural Networks",
     "date": "2026-03",
-    "count": 151
+    "count": 156
   },
   {
     "topic": "Image Generation",
@@ -897,7 +897,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-03",
-    "count": 267
+    "count": 278
   },
   {
     "topic": "LLM",
@@ -1027,7 +1027,7 @@
   {
     "topic": "LLM",
     "date": "2026-03",
-    "count": 967
+    "count": 1038
   },
   {
     "topic": "Multimodal",
@@ -1157,7 +1157,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-03",
-    "count": 50
+    "count": 51
   },
   {
     "topic": "Object Detection",
@@ -1282,7 +1282,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-03",
-    "count": 136
+    "count": 145
   },
   {
     "topic": "Object Tracking",
@@ -1542,7 +1542,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-03",
-    "count": 30
+    "count": 32
   },
   {
     "topic": "Pose Estimation",
@@ -1672,7 +1672,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-03",
-    "count": 79
+    "count": 80
   },
   {
     "topic": "Reinforcement Learning",
@@ -1797,7 +1797,7 @@
   {
     "topic": "Reinforcement Learning",
     "date": "2026-03",
-    "count": 864
+    "count": 898
   },
   {
     "topic": "Scene Understanding",
@@ -1927,7 +1927,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-03",
-    "count": 78
+    "count": 84
   },
   {
     "topic": "Semantic Segmentation",
@@ -2047,7 +2047,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-03",
-    "count": 100
+    "count": 110
   },
   {
     "topic": "Transfer Learning",
@@ -2172,6 +2172,6 @@
   {
     "topic": "Transfer Learning",
     "date": "2026-03",
-    "count": 877
+    "count": 923
   }
 ]

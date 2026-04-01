@@ -1,10 +1,10 @@
 ## Classification
 
-Total papers: **3242**
+Total papers: **3245**
 
 ## Monthly Archives
 
-- [2026-03](Classification/2026-03.md) (116 papers)
+- [2026-03](Classification/2026-03.md) (119 papers)
 - [2026-02](Classification/2026-02.md) (95 papers)
 - [2026-01](Classification/2026-01.md) (107 papers)
 - [2025-12](Classification/2025-12.md) (99 papers)
