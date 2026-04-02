@@ -1,10 +1,10 @@
 ## Anomaly Detection
 
-Total papers: **2861**
+Total papers: **2867**
 
 ## Monthly Archives
 
-- [2026-03](Anomaly_Detection/2026-03.md) (165 papers)
+- [2026-03](Anomaly_Detection/2026-03.md) (171 papers)
 - [2026-02](Anomaly_Detection/2026-02.md) (100 papers)
 - [2026-01](Anomaly_Detection/2026-01.md) (168 papers)
 - [2025-12](Anomaly_Detection/2025-12.md) (162 papers)

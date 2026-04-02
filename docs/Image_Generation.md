@@ -1,10 +1,10 @@
 ## Image Generation
 
-Total papers: **4217**
+Total papers: **4227**
 
 ## Monthly Archives
 
-- [2026-03](Image_Generation/2026-03.md) (278 papers)
+- [2026-03](Image_Generation/2026-03.md) (288 papers)
 - [2026-02](Image_Generation/2026-02.md) (273 papers)
 - [2026-01](Image_Generation/2026-01.md) (247 papers)
 - [2025-12](Image_Generation/2025-12.md) (315 papers)

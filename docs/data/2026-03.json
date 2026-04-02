@@ -1189,6 +1189,46 @@
             "translate_url": "https://papers.cool/arxiv/2603.28052",
             "read_url": "https://hjfy.top/arxiv/2603.28052",
             "code_url": null
+        },
+        "2603.29915": {
+            "date": "2026-03-31",
+            "title": "Uncertainty Gating for Cost-Aware Explainable Artificial Intelligence",
+            "authors": "Georgii Mikriukov et.al.",
+            "arxiv_id": "2603.29915",
+            "pdf_url": "https://arxiv.org/abs/2603.29915",
+            "translate_url": "https://papers.cool/arxiv/2603.29915",
+            "read_url": "https://hjfy.top/arxiv/2603.29915",
+            "code_url": null
+        },
+        "2603.29784": {
+            "date": "2026-03-31",
+            "title": "MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification",
+            "authors": "Boshko Koloski et.al.",
+            "arxiv_id": "2603.29784",
+            "pdf_url": "https://arxiv.org/abs/2603.29784",
+            "translate_url": "https://papers.cool/arxiv/2603.29784",
+            "read_url": "https://hjfy.top/arxiv/2603.29784",
+            "code_url": null
+        },
+        "2603.29768": {
+            "date": "2026-03-31",
+            "title": "Big2Small: A Unifying Neural Network Framework for Model Compression",
+            "authors": "Jing-Xiao Liao et.al.",
+            "arxiv_id": "2603.29768",
+            "pdf_url": "https://arxiv.org/abs/2603.29768",
+            "translate_url": "https://papers.cool/arxiv/2603.29768",
+            "read_url": "https://hjfy.top/arxiv/2603.29768",
+            "code_url": null
+        },
+        "2603.29375": {
+            "date": "2026-03-31",
+            "title": "Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices",
+            "authors": "Christopher Goetze et.al.",
+            "arxiv_id": "2603.29375",
+            "pdf_url": "https://arxiv.org/abs/2603.29375",
+            "translate_url": "https://papers.cool/arxiv/2603.29375",
+            "read_url": "https://hjfy.top/arxiv/2603.29375",
+            "code_url": null
         }
     },
     "Object Detection": {
@@ -2641,6 +2681,36 @@
             "translate_url": "https://papers.cool/arxiv/2603.27949",
             "read_url": "https://hjfy.top/arxiv/2603.27949",
             "code_url": null
+        },
+        "2603.30008": {
+            "date": "2026-03-31",
+            "title": "Conditional Polarization Guidance for Camouflaged Object Detection",
+            "authors": "QIfan Zhang et.al.",
+            "arxiv_id": "2603.30008",
+            "pdf_url": "https://arxiv.org/abs/2603.30008",
+            "translate_url": "https://papers.cool/arxiv/2603.30008",
+            "read_url": "https://hjfy.top/arxiv/2603.30008",
+            "code_url": null
+        },
+        "2603.29954": {
+            "date": "2026-03-31",
+            "title": "Detecting Unknown Objects via Energy-based Separation for Open World Object Detection",
+            "authors": "Jun-Woo Heo et.al.",
+            "arxiv_id": "2603.29954",
+            "pdf_url": "https://arxiv.org/abs/2603.29954",
+            "translate_url": "https://papers.cool/arxiv/2603.29954",
+            "read_url": "https://hjfy.top/arxiv/2603.29954",
+            "code_url": null
+        },
+        "2603.29842": {
+            "date": "2026-03-31",
+            "title": "Toward Generalizable Whole Brain Representations with High-Resolution Light-Sheet Data",
+            "authors": "Minyoung E. Kim et.al.",
+            "arxiv_id": "2603.29842",
+            "pdf_url": "https://arxiv.org/abs/2603.29842",
+            "translate_url": "https://papers.cool/arxiv/2603.29842",
+            "read_url": "https://hjfy.top/arxiv/2603.29842",
+            "code_url": null
         }
     },
     "Semantic Segmentation": {
@@ -3743,6 +3813,26 @@
             "translate_url": "https://papers.cool/arxiv/2603.27923",
             "read_url": "https://hjfy.top/arxiv/2603.27923",
             "code_url": null
+        },
+        "2603.29438": {
+            "date": "2026-03-31",
+            "title": "Polyhedral Unmixing: Bridging Semantic Segmentation with Hyperspectral Unmixing via Polyhedral-Cone Partitioning",
+            "authors": "Antoine Bottenmuller et.al.",
+            "arxiv_id": "2603.29438",
+            "pdf_url": "https://arxiv.org/abs/2603.29438",
+            "translate_url": "https://papers.cool/arxiv/2603.29438",
+            "read_url": "https://hjfy.top/arxiv/2603.29438",
+            "code_url": null
+        },
+        "2603.29271": {
+            "date": "2026-03-31",
+            "title": "ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation",
+            "authors": "Wenyang Chen et.al.",
+            "arxiv_id": "2603.29271",
+            "pdf_url": "https://arxiv.org/abs/2603.29271",
+            "translate_url": "https://papers.cool/arxiv/2603.29271",
+            "read_url": "https://hjfy.top/arxiv/2603.29271",
+            "code_url": null
         }
     },
     "Object Tracking": {
@@ -4356,6 +4446,16 @@
             "pdf_url": "https://arxiv.org/abs/2603.14397",
             "translate_url": "https://papers.cool/arxiv/2603.14397",
             "read_url": "https://hjfy.top/arxiv/2603.14397",
+            "code_url": null
+        },
+        "2603.29692": {
+            "date": "2026-03-31",
+            "title": "SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition",
+            "authors": "Ning Wang et.al.",
+            "arxiv_id": "2603.29692",
+            "pdf_url": "https://arxiv.org/abs/2603.29692",
+            "translate_url": "https://papers.cool/arxiv/2603.29692",
+            "read_url": "https://hjfy.top/arxiv/2603.29692",
             "code_url": null
         }
     },
@@ -5158,6 +5258,36 @@
             "pdf_url": "https://arxiv.org/abs/2603.27915",
             "translate_url": "https://papers.cool/arxiv/2603.27915",
             "read_url": "https://hjfy.top/arxiv/2603.27915",
+            "code_url": null
+        },
+        "2603.29570": {
+            "date": "2026-03-31",
+            "title": "Generating Key Postures of Bharatanatyam Adavus with Pose Estimation",
+            "authors": "Jagadish Kashinath Kamble et.al.",
+            "arxiv_id": "2603.29570",
+            "pdf_url": "https://arxiv.org/abs/2603.29570",
+            "translate_url": "https://papers.cool/arxiv/2603.29570",
+            "read_url": "https://hjfy.top/arxiv/2603.29570",
+            "code_url": null
+        },
+        "2603.29383": {
+            "date": "2026-03-31",
+            "title": "Interacting Multiple Model Proprioceptive Odometry for Legged Robots",
+            "authors": "Wanlei Li et.al.",
+            "arxiv_id": "2603.29383",
+            "pdf_url": "https://arxiv.org/abs/2603.29383",
+            "translate_url": "https://papers.cool/arxiv/2603.29383",
+            "read_url": "https://hjfy.top/arxiv/2603.29383",
+            "code_url": null
+        },
+        "2603.29185": {
+            "date": "2026-03-31",
+            "title": "Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting",
+            "authors": "Huaqi Tao et.al.",
+            "arxiv_id": "2603.29185",
+            "pdf_url": "https://arxiv.org/abs/2603.29185",
+            "translate_url": "https://papers.cool/arxiv/2603.29185",
+            "read_url": "https://hjfy.top/arxiv/2603.29185",
             "code_url": null
         }
     },
@@ -7940,6 +8070,106 @@
             "pdf_url": "https://arxiv.org/abs/2603.27959",
             "translate_url": "https://papers.cool/arxiv/2603.27959",
             "read_url": "https://hjfy.top/arxiv/2603.27959",
+            "code_url": null
+        },
+        "2603.29924": {
+            "date": "2026-03-31",
+            "title": "Abstraction in Style",
+            "authors": "Min Lu et.al.",
+            "arxiv_id": "2603.29924",
+            "pdf_url": "https://arxiv.org/abs/2603.29924",
+            "translate_url": "https://papers.cool/arxiv/2603.29924",
+            "read_url": "https://hjfy.top/arxiv/2603.29924",
+            "code_url": null
+        },
+        "2603.29902": {
+            "date": "2026-03-31",
+            "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
+            "authors": "Yinuo Liu et.al.",
+            "arxiv_id": "2603.29902",
+            "pdf_url": "https://arxiv.org/abs/2603.29902",
+            "translate_url": "https://papers.cool/arxiv/2603.29902",
+            "read_url": "https://hjfy.top/arxiv/2603.29902",
+            "code_url": null
+        },
+        "2603.29748": {
+            "date": "2026-03-31",
+            "title": "Accurate Determination of Chemical Abundances near a Supermassive Black Hole",
+            "authors": "The XRISM collaboration et.al.",
+            "arxiv_id": "2603.29748",
+            "pdf_url": "https://arxiv.org/abs/2603.29748",
+            "translate_url": "https://papers.cool/arxiv/2603.29748",
+            "read_url": "https://hjfy.top/arxiv/2603.29748",
+            "code_url": null
+        },
+        "2603.29634": {
+            "date": "2026-03-31",
+            "title": "MacTok: Robust Continuous Tokenization for Image Generation",
+            "authors": "Hengyu Zeng et.al.",
+            "arxiv_id": "2603.29634",
+            "pdf_url": "https://arxiv.org/abs/2603.29634",
+            "translate_url": "https://papers.cool/arxiv/2603.29634",
+            "read_url": "https://hjfy.top/arxiv/2603.29634",
+            "code_url": null
+        },
+        "2603.29620": {
+            "date": "2026-03-31",
+            "title": "Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis",
+            "authors": "Shuang Chen et.al.",
+            "arxiv_id": "2603.29620",
+            "pdf_url": "https://arxiv.org/abs/2603.29620",
+            "translate_url": "https://papers.cool/arxiv/2603.29620",
+            "read_url": "https://hjfy.top/arxiv/2603.29620",
+            "code_url": null
+        },
+        "2603.29591": {
+            "date": "2026-03-31",
+            "title": "FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models",
+            "authors": "Jules Ripoll et.al.",
+            "arxiv_id": "2603.29591",
+            "pdf_url": "https://arxiv.org/abs/2603.29591",
+            "translate_url": "https://papers.cool/arxiv/2603.29591",
+            "read_url": "https://hjfy.top/arxiv/2603.29591",
+            "code_url": null
+        },
+        "2603.29570": {
+            "date": "2026-03-31",
+            "title": "Generating Key Postures of Bharatanatyam Adavus with Pose Estimation",
+            "authors": "Jagadish Kashinath Kamble et.al.",
+            "arxiv_id": "2603.29570",
+            "pdf_url": "https://arxiv.org/abs/2603.29570",
+            "translate_url": "https://papers.cool/arxiv/2603.29570",
+            "read_url": "https://hjfy.top/arxiv/2603.29570",
+            "code_url": null
+        },
+        "2603.29356": {
+            "date": "2026-03-31",
+            "title": "CIPHER: Counterfeit Image Pattern High-level Examination via Representation",
+            "authors": "Kyeonghun Kim et.al.",
+            "arxiv_id": "2603.29356",
+            "pdf_url": "https://arxiv.org/abs/2603.29356",
+            "translate_url": "https://papers.cool/arxiv/2603.29356",
+            "read_url": "https://hjfy.top/arxiv/2603.29356",
+            "code_url": null
+        },
+        "2603.29295": {
+            "date": "2026-03-31",
+            "title": "GazeCLIP: Gaze-Guided CLIP with Adaptive-Enhanced Fine-Grained Language Prompt for Deepfake Attribution and Detection",
+            "authors": "Yaning Zhang et.al.",
+            "arxiv_id": "2603.29295",
+            "pdf_url": "https://arxiv.org/abs/2603.29295",
+            "translate_url": "https://papers.cool/arxiv/2603.29295",
+            "read_url": "https://hjfy.top/arxiv/2603.29295",
+            "code_url": null
+        },
+        "2603.29293": {
+            "date": "2026-03-31",
+            "title": "Semantic Communication for 6G Networks: A Trade-off between Distortion Criticality and Information Representability",
+            "authors": "Faizan Shafi et.al.",
+            "arxiv_id": "2603.29293",
+            "pdf_url": "https://arxiv.org/abs/2603.29293",
+            "translate_url": "https://papers.cool/arxiv/2603.29293",
+            "read_url": "https://hjfy.top/arxiv/2603.29293",
             "code_url": null
         }
     },
@@ -18323,6 +18553,706 @@
             "translate_url": "https://papers.cool/arxiv/2603.27914",
             "read_url": "https://hjfy.top/arxiv/2603.27914",
             "code_url": null
+        },
+        "2603.30035": {
+            "date": "2026-03-31",
+            "title": "Reward-Based Online LLM Routing via NeuralUCB",
+            "authors": "Ming-Hua Tsai et.al.",
+            "arxiv_id": "2603.30035",
+            "pdf_url": "https://arxiv.org/abs/2603.30035",
+            "translate_url": "https://papers.cool/arxiv/2603.30035",
+            "read_url": "https://hjfy.top/arxiv/2603.30035",
+            "code_url": null
+        },
+        "2603.30031": {
+            "date": "2026-03-31",
+            "title": "The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction",
+            "authors": "Davide Di Gioia et.al.",
+            "arxiv_id": "2603.30031",
+            "pdf_url": "https://arxiv.org/abs/2603.30031",
+            "translate_url": "https://papers.cool/arxiv/2603.30031",
+            "read_url": "https://hjfy.top/arxiv/2603.30031",
+            "code_url": null
+        },
+        "2603.30028": {
+            "date": "2026-03-31",
+            "title": "Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive",
+            "authors": "Iulian Luc\u0103u et.al.",
+            "arxiv_id": "2603.30028",
+            "pdf_url": "https://arxiv.org/abs/2603.30028",
+            "translate_url": "https://papers.cool/arxiv/2603.30028",
+            "read_url": "https://hjfy.top/arxiv/2603.30028",
+            "code_url": null
+        },
+        "2603.30025": {
+            "date": "2026-03-31",
+            "title": "ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection",
+            "authors": "Yufeng Li et.al.",
+            "arxiv_id": "2603.30025",
+            "pdf_url": "https://arxiv.org/abs/2603.30025",
+            "translate_url": "https://papers.cool/arxiv/2603.30025",
+            "read_url": "https://hjfy.top/arxiv/2603.30025",
+            "code_url": null
+        },
+        "2603.30022": {
+            "date": "2026-03-31",
+            "title": "Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models",
+            "authors": "Md Saad et.al.",
+            "arxiv_id": "2603.30022",
+            "pdf_url": "https://arxiv.org/abs/2603.30022",
+            "translate_url": "https://papers.cool/arxiv/2603.30022",
+            "read_url": "https://hjfy.top/arxiv/2603.30022",
+            "code_url": null
+        },
+        "2603.30016": {
+            "date": "2026-03-31",
+            "title": "Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks",
+            "authors": "Chong Xiang et.al.",
+            "arxiv_id": "2603.30016",
+            "pdf_url": "https://arxiv.org/abs/2603.30016",
+            "translate_url": "https://papers.cool/arxiv/2603.30016",
+            "read_url": "https://hjfy.top/arxiv/2603.30016",
+            "code_url": null
+        },
+        "2603.29982": {
+            "date": "2026-03-31",
+            "title": "Performative Scenario Optimization",
+            "authors": "Quanyan Zhu et.al.",
+            "arxiv_id": "2603.29982",
+            "pdf_url": "https://arxiv.org/abs/2603.29982",
+            "translate_url": "https://papers.cool/arxiv/2603.29982",
+            "read_url": "https://hjfy.top/arxiv/2603.29982",
+            "code_url": null
+        },
+        "2603.29962": {
+            "date": "2026-03-31",
+            "title": "SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy",
+            "authors": "Shi Li et.al.",
+            "arxiv_id": "2603.29962",
+            "pdf_url": "https://arxiv.org/abs/2603.29962",
+            "translate_url": "https://papers.cool/arxiv/2603.29962",
+            "read_url": "https://hjfy.top/arxiv/2603.29962",
+            "code_url": null
+        },
+        "2603.29957": {
+            "date": "2026-03-31",
+            "title": "Think Anywhere in Code Generation",
+            "authors": "Xue Jiang et.al.",
+            "arxiv_id": "2603.29957",
+            "pdf_url": "https://arxiv.org/abs/2603.29957",
+            "translate_url": "https://papers.cool/arxiv/2603.29957",
+            "read_url": "https://hjfy.top/arxiv/2603.29957",
+            "code_url": null
+        },
+        "2603.29943": {
+            "date": "2026-03-31",
+            "title": "EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos",
+            "authors": "Fumihiko Tsuchiya et.al.",
+            "arxiv_id": "2603.29943",
+            "pdf_url": "https://arxiv.org/abs/2603.29943",
+            "translate_url": "https://papers.cool/arxiv/2603.29943",
+            "read_url": "https://hjfy.top/arxiv/2603.29943",
+            "code_url": null
+        },
+        "2603.29932": {
+            "date": "2026-03-31",
+            "title": "Bethe Ansatz with a Large Language Model",
+            "authors": "Bal\u00e1zs Pozsgay et.al.",
+            "arxiv_id": "2603.29932",
+            "pdf_url": "https://arxiv.org/abs/2603.29932",
+            "translate_url": "https://papers.cool/arxiv/2603.29932",
+            "read_url": "https://hjfy.top/arxiv/2603.29932",
+            "code_url": null
+        },
+        "2603.29913": {
+            "date": "2026-03-31",
+            "title": "SISA: A Scale-In Systolic Array for GEMM Acceleration",
+            "authors": "Luigi Altamura et.al.",
+            "arxiv_id": "2603.29913",
+            "pdf_url": "https://arxiv.org/abs/2603.29913",
+            "translate_url": "https://papers.cool/arxiv/2603.29913",
+            "read_url": "https://hjfy.top/arxiv/2603.29913",
+            "code_url": null
+        },
+        "2603.29908": {
+            "date": "2026-03-31",
+            "title": "C-TRAIL: A Commonsense World Framework for Trajectory Planning in Autonomous Driving",
+            "authors": "Zhihong Cui et.al.",
+            "arxiv_id": "2603.29908",
+            "pdf_url": "https://arxiv.org/abs/2603.29908",
+            "translate_url": "https://papers.cool/arxiv/2603.29908",
+            "read_url": "https://hjfy.top/arxiv/2603.29908",
+            "code_url": null
+        },
+        "2603.29902": {
+            "date": "2026-03-31",
+            "title": "ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation",
+            "authors": "Yinuo Liu et.al.",
+            "arxiv_id": "2603.29902",
+            "pdf_url": "https://arxiv.org/abs/2603.29902",
+            "translate_url": "https://papers.cool/arxiv/2603.29902",
+            "read_url": "https://hjfy.top/arxiv/2603.29902",
+            "code_url": null
+        },
+        "2603.29871": {
+            "date": "2026-03-31",
+            "title": "ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training",
+            "authors": "Rui Ai et.al.",
+            "arxiv_id": "2603.29871",
+            "pdf_url": "https://arxiv.org/abs/2603.29871",
+            "translate_url": "https://papers.cool/arxiv/2603.29871",
+            "read_url": "https://hjfy.top/arxiv/2603.29871",
+            "code_url": null
+        },
+        "2603.29846": {
+            "date": "2026-03-31",
+            "title": "SNEAK: Evaluating Strategic Communication and Information Leakage in Large Language Models",
+            "authors": "Adar Avsian et.al.",
+            "arxiv_id": "2603.29846",
+            "pdf_url": "https://arxiv.org/abs/2603.29846",
+            "translate_url": "https://papers.cool/arxiv/2603.29846",
+            "read_url": "https://hjfy.top/arxiv/2603.29846",
+            "code_url": null
+        },
+        "2603.29813": {
+            "date": "2026-03-31",
+            "title": "Compiling Code LLMs into Lightweight Executables",
+            "authors": "Jieke Shi et.al.",
+            "arxiv_id": "2603.29813",
+            "pdf_url": "https://arxiv.org/abs/2603.29813",
+            "translate_url": "https://papers.cool/arxiv/2603.29813",
+            "read_url": "https://hjfy.top/arxiv/2603.29813",
+            "code_url": null
+        },
+        "2603.29801": {
+            "date": "2026-03-31",
+            "title": "ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian",
+            "authors": "Cristian Santini et.al.",
+            "arxiv_id": "2603.29801",
+            "pdf_url": "https://arxiv.org/abs/2603.29801",
+            "translate_url": "https://papers.cool/arxiv/2603.29801",
+            "read_url": "https://hjfy.top/arxiv/2603.29801",
+            "code_url": null
+        },
+        "2603.29765": {
+            "date": "2026-03-31",
+            "title": "Training-Free Dynamic Upcycling of Expert Language Models",
+            "authors": "Eros Fan\u00ec et.al.",
+            "arxiv_id": "2603.29765",
+            "pdf_url": "https://arxiv.org/abs/2603.29765",
+            "translate_url": "https://papers.cool/arxiv/2603.29765",
+            "read_url": "https://hjfy.top/arxiv/2603.29765",
+            "code_url": null
+        },
+        "2603.29756": {
+            "date": "2026-03-31",
+            "title": "One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting",
+            "authors": "Prasanjit Dey et.al.",
+            "arxiv_id": "2603.29756",
+            "pdf_url": "https://arxiv.org/abs/2603.29756",
+            "translate_url": "https://papers.cool/arxiv/2603.29756",
+            "read_url": "https://hjfy.top/arxiv/2603.29756",
+            "code_url": null
+        },
+        "2603.29752": {
+            "date": "2026-03-31",
+            "title": "AI-Programmable Wireless Connectivity: Challenges and Research Directions Toward Interactive and Immersive Industry",
+            "authors": "Haris Gacanin et.al.",
+            "arxiv_id": "2603.29752",
+            "pdf_url": "https://arxiv.org/abs/2603.29752",
+            "translate_url": "https://papers.cool/arxiv/2603.29752",
+            "read_url": "https://hjfy.top/arxiv/2603.29752",
+            "code_url": null
+        },
+        "2603.29735": {
+            "date": "2026-03-31",
+            "title": "Spontaneous Functional Differentiation in Large Language Models: A Brain-Like Intelligence Economy",
+            "authors": "Junjie Zhang et.al.",
+            "arxiv_id": "2603.29735",
+            "pdf_url": "https://arxiv.org/abs/2603.29735",
+            "translate_url": "https://papers.cool/arxiv/2603.29735",
+            "read_url": "https://hjfy.top/arxiv/2603.29735",
+            "code_url": null
+        },
+        "2603.29693": {
+            "date": "2026-03-31",
+            "title": "Measuring the metacognition of AI",
+            "authors": "Richard Servajean et.al.",
+            "arxiv_id": "2603.29693",
+            "pdf_url": "https://arxiv.org/abs/2603.29693",
+            "translate_url": "https://papers.cool/arxiv/2603.29693",
+            "read_url": "https://hjfy.top/arxiv/2603.29693",
+            "code_url": null
+        },
+        "2603.29689": {
+            "date": "2026-03-31",
+            "title": "KEditVis: A Visual Analytics System for Knowledge Editing of Large Language Models",
+            "authors": "Zhenning Chen et.al.",
+            "arxiv_id": "2603.29689",
+            "pdf_url": "https://arxiv.org/abs/2603.29689",
+            "translate_url": "https://papers.cool/arxiv/2603.29689",
+            "read_url": "https://hjfy.top/arxiv/2603.29689",
+            "code_url": null
+        },
+        "2603.29681": {
+            "date": "2026-03-31",
+            "title": "Beyond the Steeper Curve: AI-Mediated Metacognitive Decoupling and the Limits of the Dunning-Kruger Metaphor",
+            "authors": "Christopher Koch et.al.",
+            "arxiv_id": "2603.29681",
+            "pdf_url": "https://arxiv.org/abs/2603.29681",
+            "translate_url": "https://papers.cool/arxiv/2603.29681",
+            "read_url": "https://hjfy.top/arxiv/2603.29681",
+            "code_url": null
+        },
+        "2603.29661": {
+            "date": "2026-03-31",
+            "title": "Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models",
+            "authors": "Brian Felipe Keith-Norambuena et.al.",
+            "arxiv_id": "2603.29661",
+            "pdf_url": "https://arxiv.org/abs/2603.29661",
+            "translate_url": "https://papers.cool/arxiv/2603.29661",
+            "read_url": "https://hjfy.top/arxiv/2603.29661",
+            "code_url": null
+        },
+        "2603.29632": {
+            "date": "2026-03-31",
+            "title": "An Empirical Study of Multi-Agent Collaboration for Automated Research",
+            "authors": "Yang Shen et.al.",
+            "arxiv_id": "2603.29632",
+            "pdf_url": "https://arxiv.org/abs/2603.29632",
+            "translate_url": "https://papers.cool/arxiv/2603.29632",
+            "read_url": "https://hjfy.top/arxiv/2603.29632",
+            "code_url": null
+        },
+        "2603.29630": {
+            "date": "2026-03-31",
+            "title": "BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation",
+            "authors": "Johann-Ludwig Herzog et.al.",
+            "arxiv_id": "2603.29630",
+            "pdf_url": "https://arxiv.org/abs/2603.29630",
+            "translate_url": "https://papers.cool/arxiv/2603.29630",
+            "read_url": "https://hjfy.top/arxiv/2603.29630",
+            "code_url": null
+        },
+        "2603.29623": {
+            "date": "2026-03-31",
+            "title": "Enhancing LLM-Based Bug Reproduction for Android Apps via Pre-Assessment of Visual Effects",
+            "authors": "Xiangyang Xiao et.al.",
+            "arxiv_id": "2603.29623",
+            "pdf_url": "https://arxiv.org/abs/2603.29623",
+            "translate_url": "https://papers.cool/arxiv/2603.29623",
+            "read_url": "https://hjfy.top/arxiv/2603.29623",
+            "code_url": null
+        },
+        "2603.29608": {
+            "date": "2026-03-31",
+            "title": "Learning Diagnostic Reasoning for Decision Support in Toxicology",
+            "authors": "Nico Oberl\u00e4nder et.al.",
+            "arxiv_id": "2603.29608",
+            "pdf_url": "https://arxiv.org/abs/2603.29608",
+            "translate_url": "https://papers.cool/arxiv/2603.29608",
+            "read_url": "https://hjfy.top/arxiv/2603.29608",
+            "code_url": null
+        },
+        "2603.29559": {
+            "date": "2026-03-31",
+            "title": "When Can We Trust LLM Graders? Calibrating Confidence for Automated Assessment",
+            "authors": "Robinson Ferrer et.al.",
+            "arxiv_id": "2603.29559",
+            "pdf_url": "https://arxiv.org/abs/2603.29559",
+            "translate_url": "https://papers.cool/arxiv/2603.29559",
+            "read_url": "https://hjfy.top/arxiv/2603.29559",
+            "code_url": null
+        },
+        "2603.29541": {
+            "date": "2026-03-31",
+            "title": "Can LLM Agents Identify Spoken Dialects like a Linguist?",
+            "authors": "Tobias Bystrich et.al.",
+            "arxiv_id": "2603.29541",
+            "pdf_url": "https://arxiv.org/abs/2603.29541",
+            "translate_url": "https://papers.cool/arxiv/2603.29541",
+            "read_url": "https://hjfy.top/arxiv/2603.29541",
+            "code_url": null
+        },
+        "2603.29529": {
+            "date": "2026-03-31",
+            "title": "Sampling at intermediate temperatures is optimal for training large language models in protein structure prediction",
+            "authors": "L. Ghiringhelli et.al.",
+            "arxiv_id": "2603.29529",
+            "pdf_url": "https://arxiv.org/abs/2603.29529",
+            "translate_url": "https://papers.cool/arxiv/2603.29529",
+            "read_url": "https://hjfy.top/arxiv/2603.29529",
+            "code_url": null
+        },
+        "2603.29517": {
+            "date": "2026-03-31",
+            "title": "LLM Probe: Evaluating LLMs for Low-Resource Languages",
+            "authors": "Hailay Kidu Teklehaymanot et.al.",
+            "arxiv_id": "2603.29517",
+            "pdf_url": "https://arxiv.org/abs/2603.29517",
+            "translate_url": "https://papers.cool/arxiv/2603.29517",
+            "read_url": "https://hjfy.top/arxiv/2603.29517",
+            "code_url": null
+        },
+        "2603.29500": {
+            "date": "2026-03-31",
+            "title": "Learning to Generate Formally Verifiable Step-by-Step Logic Reasoning via Structured Formal Intermediaries",
+            "authors": "Luoxin Chen et.al.",
+            "arxiv_id": "2603.29500",
+            "pdf_url": "https://arxiv.org/abs/2603.29500",
+            "translate_url": "https://papers.cool/arxiv/2603.29500",
+            "read_url": "https://hjfy.top/arxiv/2603.29500",
+            "code_url": null
+        },
+        "2603.29497": {
+            "date": "2026-03-31",
+            "title": "Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models",
+            "authors": "Gabriel Loiseau et.al.",
+            "arxiv_id": "2603.29497",
+            "pdf_url": "https://arxiv.org/abs/2603.29497",
+            "translate_url": "https://papers.cool/arxiv/2603.29497",
+            "read_url": "https://hjfy.top/arxiv/2603.29497",
+            "code_url": null
+        },
+        "2603.29493": {
+            "date": "2026-03-31",
+            "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
+            "authors": "Ziliang Guo et.al.",
+            "arxiv_id": "2603.29493",
+            "pdf_url": "https://arxiv.org/abs/2603.29493",
+            "translate_url": "https://papers.cool/arxiv/2603.29493",
+            "read_url": "https://hjfy.top/arxiv/2603.29493",
+            "code_url": null
+        },
+        "2603.29483": {
+            "date": "2026-03-31",
+            "title": "CXLRAMSim v1.0: System-Level Exploration of CXL Memory Expander Cards",
+            "authors": "Karan Pathak et.al.",
+            "arxiv_id": "2603.29483",
+            "pdf_url": "https://arxiv.org/abs/2603.29483",
+            "translate_url": "https://papers.cool/arxiv/2603.29483",
+            "read_url": "https://hjfy.top/arxiv/2603.29483",
+            "code_url": null
+        },
+        "2603.29467": {
+            "date": "2026-03-31",
+            "title": "M-MiniGPT4: Multilingual VLLM Alignment via Translated Data",
+            "authors": "Seung Hun Han et.al.",
+            "arxiv_id": "2603.29467",
+            "pdf_url": "https://arxiv.org/abs/2603.29467",
+            "translate_url": "https://papers.cool/arxiv/2603.29467",
+            "read_url": "https://hjfy.top/arxiv/2603.29467",
+            "code_url": null
+        },
+        "2603.29466": {
+            "date": "2026-03-31",
+            "title": "An Isotropic Approach to Efficient Uncertainty Quantification with Gradient Norms",
+            "authors": "Nils Gr\u00fcnefeld et.al.",
+            "arxiv_id": "2603.29466",
+            "pdf_url": "https://arxiv.org/abs/2603.29466",
+            "translate_url": "https://papers.cool/arxiv/2603.29466",
+            "read_url": "https://hjfy.top/arxiv/2603.29466",
+            "code_url": null
+        },
+        "2603.29454": {
+            "date": "2026-03-31",
+            "title": "Authorship Impersonation via LLM Prompting does not Evade Authorship Verification Methods",
+            "authors": "Baoyi Zeng et.al.",
+            "arxiv_id": "2603.29454",
+            "pdf_url": "https://arxiv.org/abs/2603.29454",
+            "translate_url": "https://papers.cool/arxiv/2603.29454",
+            "read_url": "https://hjfy.top/arxiv/2603.29454",
+            "code_url": null
+        },
+        "2603.29437": {
+            "date": "2026-03-31",
+            "title": "SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering",
+            "authors": "Wenli Li et.al.",
+            "arxiv_id": "2603.29437",
+            "pdf_url": "https://arxiv.org/abs/2603.29437",
+            "translate_url": "https://papers.cool/arxiv/2603.29437",
+            "read_url": "https://hjfy.top/arxiv/2603.29437",
+            "code_url": null
+        },
+        "2603.29418": {
+            "date": "2026-03-31",
+            "title": "Adversarial Prompt Injection Attack on Multimodal Large Language Models",
+            "authors": "Meiwen Ding et.al.",
+            "arxiv_id": "2603.29418",
+            "pdf_url": "https://arxiv.org/abs/2603.29418",
+            "translate_url": "https://papers.cool/arxiv/2603.29418",
+            "read_url": "https://hjfy.top/arxiv/2603.29418",
+            "code_url": null
+        },
+        "2603.29406": {
+            "date": "2026-03-31",
+            "title": "PRISM: PRIor from corpus Statistics for topic Modeling",
+            "authors": "Tal Ishon et.al.",
+            "arxiv_id": "2603.29406",
+            "pdf_url": "https://arxiv.org/abs/2603.29406",
+            "translate_url": "https://papers.cool/arxiv/2603.29406",
+            "read_url": "https://hjfy.top/arxiv/2603.29406",
+            "code_url": null
+        },
+        "2603.29399": {
+            "date": "2026-03-31",
+            "title": "ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+            "authors": "Christopher Zanoli et.al.",
+            "arxiv_id": "2603.29399",
+            "pdf_url": "https://arxiv.org/abs/2603.29399",
+            "translate_url": "https://papers.cool/arxiv/2603.29399",
+            "read_url": "https://hjfy.top/arxiv/2603.29399",
+            "code_url": null
+        },
+        "2603.29396": {
+            "date": "2026-03-31",
+            "title": "Is my model perplexed for the right reason? Contrasting LLMs' Benchmark Behavior with Token-Level Perplexity",
+            "authors": "Zo\u00eb Prins et.al.",
+            "arxiv_id": "2603.29396",
+            "pdf_url": "https://arxiv.org/abs/2603.29396",
+            "translate_url": "https://papers.cool/arxiv/2603.29396",
+            "read_url": "https://hjfy.top/arxiv/2603.29396",
+            "code_url": null
+        },
+        "2603.29376": {
+            "date": "2026-03-31",
+            "title": "Assessing Multimodal Chronic Wound Embeddings with Expert Triplet Agreement",
+            "authors": "Fabian Kabus et.al.",
+            "arxiv_id": "2603.29376",
+            "pdf_url": "https://arxiv.org/abs/2603.29376",
+            "translate_url": "https://papers.cool/arxiv/2603.29376",
+            "read_url": "https://hjfy.top/arxiv/2603.29376",
+            "code_url": null
+        },
+        "2603.29373": {
+            "date": "2026-03-31",
+            "title": "Beyond Idealized Patients: Evaluating LLMs under Challenging Patient Behaviors in Medical Consultations",
+            "authors": "Yahan Li et.al.",
+            "arxiv_id": "2603.29373",
+            "pdf_url": "https://arxiv.org/abs/2603.29373",
+            "translate_url": "https://papers.cool/arxiv/2603.29373",
+            "read_url": "https://hjfy.top/arxiv/2603.29373",
+            "code_url": null
+        },
+        "2603.29366": {
+            "date": "2026-03-31",
+            "title": "AI-Generated Prior Authorization Letters: Strong Clinical Content, Weak Administrative Scaffolding",
+            "authors": "Moiz Sadiq Awan et.al.",
+            "arxiv_id": "2603.29366",
+            "pdf_url": "https://arxiv.org/abs/2603.29366",
+            "translate_url": "https://papers.cool/arxiv/2603.29366",
+            "read_url": "https://hjfy.top/arxiv/2603.29366",
+            "code_url": null
+        },
+        "2603.29292": {
+            "date": "2026-03-31",
+            "title": "Self-Improving Code Generation via Semantic Entropy and Behavioral Consensus",
+            "authors": "Huan Zhang et.al.",
+            "arxiv_id": "2603.29292",
+            "pdf_url": "https://arxiv.org/abs/2603.29292",
+            "translate_url": "https://papers.cool/arxiv/2603.29292",
+            "read_url": "https://hjfy.top/arxiv/2603.29292",
+            "code_url": null
+        },
+        "2603.29291": {
+            "date": "2026-03-31",
+            "title": "MELT: Improve Composed Image Retrieval via the Modification Frequentation-Rarity Balance Network",
+            "authors": "Guozhi Qiu et.al.",
+            "arxiv_id": "2603.29291",
+            "pdf_url": "https://arxiv.org/abs/2603.29291",
+            "translate_url": "https://papers.cool/arxiv/2603.29291",
+            "read_url": "https://hjfy.top/arxiv/2603.29291",
+            "code_url": null
+        },
+        "2603.29288": {
+            "date": "2026-03-31",
+            "title": "Sima AIunty: Caste Audit in LLM-Driven Matchmaking",
+            "authors": "Atharva Naik et.al.",
+            "arxiv_id": "2603.29288",
+            "pdf_url": "https://arxiv.org/abs/2603.29288",
+            "translate_url": "https://papers.cool/arxiv/2603.29288",
+            "read_url": "https://hjfy.top/arxiv/2603.29288",
+            "code_url": null
+        },
+        "2603.29273": {
+            "date": "2026-03-31",
+            "title": "Customer Analysis and Text Generation for Small Retail Stores Using LLM-Generated Marketing Presence",
+            "authors": "Shiori Nakamura et.al.",
+            "arxiv_id": "2603.29273",
+            "pdf_url": "https://arxiv.org/abs/2603.29273",
+            "translate_url": "https://papers.cool/arxiv/2603.29273",
+            "read_url": "https://hjfy.top/arxiv/2603.29273",
+            "code_url": null
+        },
+        "2603.29259": {
+            "date": "2026-03-31",
+            "title": "Aligning Multimodal Sequential Recommendations via Robust Direct Preference Optimization with Sparse MoE",
+            "authors": "Hejin Huang et.al.",
+            "arxiv_id": "2603.29259",
+            "pdf_url": "https://arxiv.org/abs/2603.29259",
+            "translate_url": "https://papers.cool/arxiv/2603.29259",
+            "read_url": "https://hjfy.top/arxiv/2603.29259",
+            "code_url": null
+        },
+        "2603.29252": {
+            "date": "2026-03-31",
+            "title": "Scaling the Long Video Understanding of Multimodal Large Language Models via Visual Memory Mechanism",
+            "authors": "Tao Chen et.al.",
+            "arxiv_id": "2603.29252",
+            "pdf_url": "https://arxiv.org/abs/2603.29252",
+            "translate_url": "https://papers.cool/arxiv/2603.29252",
+            "read_url": "https://hjfy.top/arxiv/2603.29252",
+            "code_url": null
+        },
+        "2603.29232": {
+            "date": "2026-03-31",
+            "title": "Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs",
+            "authors": "Zhuowen Liang et.al.",
+            "arxiv_id": "2603.29232",
+            "pdf_url": "https://arxiv.org/abs/2603.29232",
+            "translate_url": "https://papers.cool/arxiv/2603.29232",
+            "read_url": "https://hjfy.top/arxiv/2603.29232",
+            "code_url": null
+        },
+        "2603.29217": {
+            "date": "2026-03-31",
+            "title": "Advancing LLM-based phoneme-to-grapheme for multilingual speech recognition",
+            "authors": "Lukuang Dong et.al.",
+            "arxiv_id": "2603.29217",
+            "pdf_url": "https://arxiv.org/abs/2603.29217",
+            "translate_url": "https://papers.cool/arxiv/2603.29217",
+            "read_url": "https://hjfy.top/arxiv/2603.29217",
+            "code_url": null
+        },
+        "2603.29216": {
+            "date": "2026-03-31",
+            "title": "Software Vulnerability Detection Using a Lightweight Graph Neural Network",
+            "authors": "Miles Farmer et.al.",
+            "arxiv_id": "2603.29216",
+            "pdf_url": "https://arxiv.org/abs/2603.29216",
+            "translate_url": "https://papers.cool/arxiv/2603.29216",
+            "read_url": "https://hjfy.top/arxiv/2603.29216",
+            "code_url": null
+        },
+        "2603.29206": {
+            "date": "2026-03-31",
+            "title": "Route-Induced Density and Stability (RIDE): Controlled Intervention and Mechanism Analysis of Routing-Style Meta Prompts on LLM Internal States",
+            "authors": "Dianxing Zhang et.al.",
+            "arxiv_id": "2603.29206",
+            "pdf_url": "https://arxiv.org/abs/2603.29206",
+            "translate_url": "https://papers.cool/arxiv/2603.29206",
+            "read_url": "https://hjfy.top/arxiv/2603.29206",
+            "code_url": null
+        },
+        "2603.29205": {
+            "date": "2026-03-31",
+            "title": "BiMoE: Brain-Inspired Experts for EEG-Dominant Affective State Recognition",
+            "authors": "Hongyu Zhu et.al.",
+            "arxiv_id": "2603.29205",
+            "pdf_url": "https://arxiv.org/abs/2603.29205",
+            "translate_url": "https://papers.cool/arxiv/2603.29205",
+            "read_url": "https://hjfy.top/arxiv/2603.29205",
+            "code_url": null
+        },
+        "2603.29193": {
+            "date": "2026-03-31",
+            "title": "Developing Adaptive Context Compression Techniques for Large Language Models (LLMs) in Long-Running Interactions",
+            "authors": "Payal Fofadiya et.al.",
+            "arxiv_id": "2603.29193",
+            "pdf_url": "https://arxiv.org/abs/2603.29193",
+            "translate_url": "https://papers.cool/arxiv/2603.29193",
+            "read_url": "https://hjfy.top/arxiv/2603.29193",
+            "code_url": null
+        },
+        "2603.29161": {
+            "date": "2026-03-31",
+            "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
+            "authors": "Guan-Lun Huang et.al.",
+            "arxiv_id": "2603.29161",
+            "pdf_url": "https://arxiv.org/abs/2603.29161",
+            "translate_url": "https://papers.cool/arxiv/2603.29161",
+            "read_url": "https://hjfy.top/arxiv/2603.29161",
+            "code_url": null
+        },
+        "2603.29152": {
+            "date": "2026-03-31",
+            "title": "SimMOF: AI agent for Automated MOF Simulations",
+            "authors": "Jaewoong Lee et.al.",
+            "arxiv_id": "2603.29152",
+            "pdf_url": "https://arxiv.org/abs/2603.29152",
+            "translate_url": "https://papers.cool/arxiv/2603.29152",
+            "read_url": "https://hjfy.top/arxiv/2603.29152",
+            "code_url": null
+        },
+        "2603.29149": {
+            "date": "2026-03-31",
+            "title": "Knowledge database development by large language models for countermeasures against viruses and marine toxins",
+            "authors": "Hung N. Do et.al.",
+            "arxiv_id": "2603.29149",
+            "pdf_url": "https://arxiv.org/abs/2603.29149",
+            "translate_url": "https://papers.cool/arxiv/2603.29149",
+            "read_url": "https://hjfy.top/arxiv/2603.29149",
+            "code_url": null
+        },
+        "2603.29142": {
+            "date": "2026-03-31",
+            "title": "REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour",
+            "authors": "Fares Fawzi et.al.",
+            "arxiv_id": "2603.29142",
+            "pdf_url": "https://arxiv.org/abs/2603.29142",
+            "translate_url": "https://papers.cool/arxiv/2603.29142",
+            "read_url": "https://hjfy.top/arxiv/2603.29142",
+            "code_url": null
+        },
+        "2603.29141": {
+            "date": "2026-03-31",
+            "title": "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education",
+            "authors": "Danielle R. Thomas et.al.",
+            "arxiv_id": "2603.29141",
+            "pdf_url": "https://arxiv.org/abs/2603.29141",
+            "translate_url": "https://papers.cool/arxiv/2603.29141",
+            "read_url": "https://hjfy.top/arxiv/2603.29141",
+            "code_url": null
+        },
+        "2603.29139": {
+            "date": "2026-03-31",
+            "title": "SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents",
+            "authors": "Kuangshi Ai et.al.",
+            "arxiv_id": "2603.29139",
+            "pdf_url": "https://arxiv.org/abs/2603.29139",
+            "translate_url": "https://papers.cool/arxiv/2603.29139",
+            "read_url": "https://hjfy.top/arxiv/2603.29139",
+            "code_url": null
+        },
+        "2603.29112": {
+            "date": "2026-03-31",
+            "title": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+            "authors": "Iordanis Fostiropoulos et.al.",
+            "arxiv_id": "2603.29112",
+            "pdf_url": "https://arxiv.org/abs/2603.29112",
+            "translate_url": "https://papers.cool/arxiv/2603.29112",
+            "read_url": "https://hjfy.top/arxiv/2603.29112",
+            "code_url": null
+        },
+        "2603.29095": {
+            "date": "2026-03-31",
+            "title": "VueBuds: Visual Intelligence with Wireless Earbuds",
+            "authors": "Maruchi Kim et.al.",
+            "arxiv_id": "2603.29095",
+            "pdf_url": "https://arxiv.org/abs/2603.29095",
+            "translate_url": "https://papers.cool/arxiv/2603.29095",
+            "read_url": "https://hjfy.top/arxiv/2603.29095",
+            "code_url": null
+        },
+        "2603.29088": {
+            "date": "2026-03-31",
+            "title": "WybeCoder: Verified Imperative Code Generation",
+            "authors": "Fabian Gloeckle et.al.",
+            "arxiv_id": "2603.29088",
+            "pdf_url": "https://arxiv.org/abs/2603.29088",
+            "translate_url": "https://papers.cool/arxiv/2603.29088",
+            "read_url": "https://hjfy.top/arxiv/2603.29088",
+            "code_url": null
         }
     },
     "Scene Understanding": {
@@ -19165,6 +20095,36 @@
             "translate_url": "https://papers.cool/arxiv/2603.27923",
             "read_url": "https://hjfy.top/arxiv/2603.27923",
             "code_url": null
+        },
+        "2603.29798": {
+            "date": "2026-03-31",
+            "title": "SceneTeract: Agentic Functional Affordances and VLM Grounding in 3D Scenes",
+            "authors": "L\u00e9opold Maillard et.al.",
+            "arxiv_id": "2603.29798",
+            "pdf_url": "https://arxiv.org/abs/2603.29798",
+            "translate_url": "https://papers.cool/arxiv/2603.29798",
+            "read_url": "https://hjfy.top/arxiv/2603.29798",
+            "code_url": null
+        },
+        "2603.29405": {
+            "date": "2026-03-31",
+            "title": "Hallucination-aware intermediate representation edit in large vision-language models",
+            "authors": "Wei Suo et.al.",
+            "arxiv_id": "2603.29405",
+            "pdf_url": "https://arxiv.org/abs/2603.29405",
+            "translate_url": "https://papers.cool/arxiv/2603.29405",
+            "read_url": "https://hjfy.top/arxiv/2603.29405",
+            "code_url": null
+        },
+        "2603.29095": {
+            "date": "2026-03-31",
+            "title": "VueBuds: Visual Intelligence with Wireless Earbuds",
+            "authors": "Maruchi Kim et.al.",
+            "arxiv_id": "2603.29095",
+            "pdf_url": "https://arxiv.org/abs/2603.29095",
+            "translate_url": "https://papers.cool/arxiv/2603.29095",
+            "read_url": "https://hjfy.top/arxiv/2603.29095",
+            "code_url": null
         }
     },
     "Depth Estimation": {
@@ -19676,6 +20636,26 @@
             "pdf_url": "https://arxiv.org/abs/2603.14482",
             "translate_url": "https://papers.cool/arxiv/2603.14482",
             "read_url": "https://hjfy.top/arxiv/2603.14482",
+            "code_url": null
+        },
+        "2603.29387": {
+            "date": "2026-03-31",
+            "title": "Extend3D: Town-Scale 3D Generation",
+            "authors": "Seungwoo Yoon et.al.",
+            "arxiv_id": "2603.29387",
+            "pdf_url": "https://arxiv.org/abs/2603.29387",
+            "translate_url": "https://papers.cool/arxiv/2603.29387",
+            "read_url": "https://hjfy.top/arxiv/2603.29387",
+            "code_url": null
+        },
+        "2603.29368": {
+            "date": "2026-03-31",
+            "title": "StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision",
+            "authors": "Ziyang Chen et.al.",
+            "arxiv_id": "2603.29368",
+            "pdf_url": "https://arxiv.org/abs/2603.29368",
+            "translate_url": "https://papers.cool/arxiv/2603.29368",
+            "read_url": "https://hjfy.top/arxiv/2603.29368",
             "code_url": null
         }
     },
@@ -20809,6 +21789,56 @@
             "translate_url": "https://papers.cool/arxiv/2603.27981",
             "read_url": "https://hjfy.top/arxiv/2603.27981",
             "code_url": null
+        },
+        "2603.29892": {
+            "date": "2026-03-31",
+            "title": "FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish",
+            "authors": "Daban Q. Jaff et.al.",
+            "arxiv_id": "2603.29892",
+            "pdf_url": "https://arxiv.org/abs/2603.29892",
+            "translate_url": "https://papers.cool/arxiv/2603.29892",
+            "read_url": "https://hjfy.top/arxiv/2603.29892",
+            "code_url": null
+        },
+        "2603.29517": {
+            "date": "2026-03-31",
+            "title": "LLM Probe: Evaluating LLMs for Low-Resource Languages",
+            "authors": "Hailay Kidu Teklehaymanot et.al.",
+            "arxiv_id": "2603.29517",
+            "pdf_url": "https://arxiv.org/abs/2603.29517",
+            "translate_url": "https://papers.cool/arxiv/2603.29517",
+            "read_url": "https://hjfy.top/arxiv/2603.29517",
+            "code_url": null
+        },
+        "2603.29311": {
+            "date": "2026-03-31",
+            "title": "Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing",
+            "authors": "Sota Hikasa et.al.",
+            "arxiv_id": "2603.29311",
+            "pdf_url": "https://arxiv.org/abs/2603.29311",
+            "translate_url": "https://papers.cool/arxiv/2603.29311",
+            "read_url": "https://hjfy.top/arxiv/2603.29311",
+            "code_url": null
+        },
+        "2603.29217": {
+            "date": "2026-03-31",
+            "title": "Advancing LLM-based phoneme-to-grapheme for multilingual speech recognition",
+            "authors": "Lukuang Dong et.al.",
+            "arxiv_id": "2603.29217",
+            "pdf_url": "https://arxiv.org/abs/2603.29217",
+            "translate_url": "https://papers.cool/arxiv/2603.29217",
+            "read_url": "https://hjfy.top/arxiv/2603.29217",
+            "code_url": null
+        },
+        "2603.29162": {
+            "date": "2026-03-31",
+            "title": "From Natural Alignment to Conditional Controllability in Multimodal Dialogue",
+            "authors": "Zeyu Jin et.al.",
+            "arxiv_id": "2603.29162",
+            "pdf_url": "https://arxiv.org/abs/2603.29162",
+            "translate_url": "https://papers.cool/arxiv/2603.29162",
+            "read_url": "https://hjfy.top/arxiv/2603.29162",
+            "code_url": null
         }
     },
     "Multimodal": {
@@ -21320,6 +22350,36 @@
             "pdf_url": "https://arxiv.org/abs/2603.28522",
             "translate_url": "https://papers.cool/arxiv/2603.28522",
             "read_url": "https://hjfy.top/arxiv/2603.28522",
+            "code_url": null
+        },
+        "2603.29677": {
+            "date": "2026-03-31",
+            "title": "Mind the Gap: A Framework for Assessing Pitfalls in Multimodal Active Learning",
+            "authors": "Dustin Eisenhardt et.al.",
+            "arxiv_id": "2603.29677",
+            "pdf_url": "https://arxiv.org/abs/2603.29677",
+            "translate_url": "https://papers.cool/arxiv/2603.29677",
+            "read_url": "https://hjfy.top/arxiv/2603.29677",
+            "code_url": null
+        },
+        "2603.29631": {
+            "date": "2026-03-31",
+            "title": "Storing Less, Finding More: How Novelty Filtering Improves Cross-Modal Retrieval on Edge Cameras",
+            "authors": "Sherif Abdelwahab et.al.",
+            "arxiv_id": "2603.29631",
+            "pdf_url": "https://arxiv.org/abs/2603.29631",
+            "translate_url": "https://papers.cool/arxiv/2603.29631",
+            "read_url": "https://hjfy.top/arxiv/2603.29631",
+            "code_url": null
+        },
+        "2603.29441": {
+            "date": "2026-03-31",
+            "title": "EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images",
+            "authors": "Yijie Zheng et.al.",
+            "arxiv_id": "2603.29441",
+            "pdf_url": "https://arxiv.org/abs/2603.29441",
+            "translate_url": "https://papers.cool/arxiv/2603.29441",
+            "read_url": "https://hjfy.top/arxiv/2603.29441",
             "code_url": null
         }
     },
@@ -22972,6 +24032,66 @@
             "pdf_url": "https://arxiv.org/abs/2603.28225",
             "translate_url": "https://papers.cool/arxiv/2603.28225",
             "read_url": "https://hjfy.top/arxiv/2603.28225",
+            "code_url": null
+        },
+        "2603.29956": {
+            "date": "2026-03-31",
+            "title": "An Information-Theoretic Method for Dynamic System Identification With Output-Only Damping Estimation",
+            "authors": "Marios Impraimakis et.al.",
+            "arxiv_id": "2603.29956",
+            "pdf_url": "https://arxiv.org/abs/2603.29956",
+            "translate_url": "https://papers.cool/arxiv/2603.29956",
+            "read_url": "https://hjfy.top/arxiv/2603.29956",
+            "code_url": null
+        },
+        "2603.29755": {
+            "date": "2026-03-31",
+            "title": "CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing",
+            "authors": "Chathurangi Shyalika et.al.",
+            "arxiv_id": "2603.29755",
+            "pdf_url": "https://arxiv.org/abs/2603.29755",
+            "translate_url": "https://papers.cool/arxiv/2603.29755",
+            "read_url": "https://hjfy.top/arxiv/2603.29755",
+            "code_url": null
+        },
+        "2603.29740": {
+            "date": "2026-03-31",
+            "title": "Data-Driven Optimisation of Superconducting Magnets at CEA Paris-Saclay",
+            "authors": "Damien F. G. Minenna et.al.",
+            "arxiv_id": "2603.29740",
+            "pdf_url": "https://arxiv.org/abs/2603.29740",
+            "translate_url": "https://papers.cool/arxiv/2603.29740",
+            "read_url": "https://hjfy.top/arxiv/2603.29740",
+            "code_url": null
+        },
+        "2603.29511": {
+            "date": "2026-03-31",
+            "title": "Anomaly detection in Fink. I. Discovery, follow-up, and classification of unusual sources",
+            "authors": "M. V. Pruzhinskaya et.al.",
+            "arxiv_id": "2603.29511",
+            "pdf_url": "https://arxiv.org/abs/2603.29511",
+            "translate_url": "https://papers.cool/arxiv/2603.29511",
+            "read_url": "https://hjfy.top/arxiv/2603.29511",
+            "code_url": null
+        },
+        "2603.29375": {
+            "date": "2026-03-31",
+            "title": "Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices",
+            "authors": "Christopher Goetze et.al.",
+            "arxiv_id": "2603.29375",
+            "pdf_url": "https://arxiv.org/abs/2603.29375",
+            "translate_url": "https://papers.cool/arxiv/2603.29375",
+            "read_url": "https://hjfy.top/arxiv/2603.29375",
+            "code_url": null
+        },
+        "2603.29183": {
+            "date": "2026-03-31",
+            "title": "IMPACT: Influence Modeling for Open-Set Time Series Anomaly Detection",
+            "authors": "Xiaohui Zhou et.al.",
+            "arxiv_id": "2603.29183",
+            "pdf_url": "https://arxiv.org/abs/2603.29183",
+            "translate_url": "https://papers.cool/arxiv/2603.29183",
+            "read_url": "https://hjfy.top/arxiv/2603.29183",
             "code_url": null
         }
     },
@@ -32204,6 +33324,436 @@
             "pdf_url": "https://arxiv.org/abs/2603.27914",
             "translate_url": "https://papers.cool/arxiv/2603.27914",
             "read_url": "https://hjfy.top/arxiv/2603.27914",
+            "code_url": null
+        },
+        "2603.30025": {
+            "date": "2026-03-31",
+            "title": "ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection",
+            "authors": "Yufeng Li et.al.",
+            "arxiv_id": "2603.30025",
+            "pdf_url": "https://arxiv.org/abs/2603.30025",
+            "translate_url": "https://papers.cool/arxiv/2603.30025",
+            "read_url": "https://hjfy.top/arxiv/2603.30025",
+            "code_url": null
+        },
+        "2603.29962": {
+            "date": "2026-03-31",
+            "title": "SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy",
+            "authors": "Shi Li et.al.",
+            "arxiv_id": "2603.29962",
+            "pdf_url": "https://arxiv.org/abs/2603.29962",
+            "translate_url": "https://papers.cool/arxiv/2603.29962",
+            "read_url": "https://hjfy.top/arxiv/2603.29962",
+            "code_url": null
+        },
+        "2603.29928": {
+            "date": "2026-03-31",
+            "title": "ScoringBench: A Benchmark for Evaluating Tabular Foundation Models with Proper Scoring Rules",
+            "authors": "Jonas Landsgesell et.al.",
+            "arxiv_id": "2603.29928",
+            "pdf_url": "https://arxiv.org/abs/2603.29928",
+            "translate_url": "https://papers.cool/arxiv/2603.29928",
+            "read_url": "https://hjfy.top/arxiv/2603.29928",
+            "code_url": null
+        },
+        "2603.29914": {
+            "date": "2026-03-31",
+            "title": "Task Scarcity and Label Leakage in Relational Transfer Learning",
+            "authors": "Francisco Galuppo Azevedo et.al.",
+            "arxiv_id": "2603.29914",
+            "pdf_url": "https://arxiv.org/abs/2603.29914",
+            "translate_url": "https://papers.cool/arxiv/2603.29914",
+            "read_url": "https://hjfy.top/arxiv/2603.29914",
+            "code_url": null
+        },
+        "2603.29892": {
+            "date": "2026-03-31",
+            "title": "FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish",
+            "authors": "Daban Q. Jaff et.al.",
+            "arxiv_id": "2603.29892",
+            "pdf_url": "https://arxiv.org/abs/2603.29892",
+            "translate_url": "https://papers.cool/arxiv/2603.29892",
+            "read_url": "https://hjfy.top/arxiv/2603.29892",
+            "code_url": null
+        },
+        "2603.29824": {
+            "date": "2026-03-31",
+            "title": "Curvature-Guided LoRA: Steering in the pretrained NTK subspace",
+            "authors": "Fr\u00e9d\u00e9ric Zheng et.al.",
+            "arxiv_id": "2603.29824",
+            "pdf_url": "https://arxiv.org/abs/2603.29824",
+            "translate_url": "https://papers.cool/arxiv/2603.29824",
+            "read_url": "https://hjfy.top/arxiv/2603.29824",
+            "code_url": null
+        },
+        "2603.29801": {
+            "date": "2026-03-31",
+            "title": "ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian",
+            "authors": "Cristian Santini et.al.",
+            "arxiv_id": "2603.29801",
+            "pdf_url": "https://arxiv.org/abs/2603.29801",
+            "translate_url": "https://papers.cool/arxiv/2603.29801",
+            "read_url": "https://hjfy.top/arxiv/2603.29801",
+            "code_url": null
+        },
+        "2603.29765": {
+            "date": "2026-03-31",
+            "title": "Training-Free Dynamic Upcycling of Expert Language Models",
+            "authors": "Eros Fan\u00ec et.al.",
+            "arxiv_id": "2603.29765",
+            "pdf_url": "https://arxiv.org/abs/2603.29765",
+            "translate_url": "https://papers.cool/arxiv/2603.29765",
+            "read_url": "https://hjfy.top/arxiv/2603.29765",
+            "code_url": null
+        },
+        "2603.29756": {
+            "date": "2026-03-31",
+            "title": "One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting",
+            "authors": "Prasanjit Dey et.al.",
+            "arxiv_id": "2603.29756",
+            "pdf_url": "https://arxiv.org/abs/2603.29756",
+            "translate_url": "https://papers.cool/arxiv/2603.29756",
+            "read_url": "https://hjfy.top/arxiv/2603.29756",
+            "code_url": null
+        },
+        "2603.29705": {
+            "date": "2026-03-31",
+            "title": "Drift-Aware Continual Tokenization for Generative Recommendation",
+            "authors": "Yuebo Feng et.al.",
+            "arxiv_id": "2603.29705",
+            "pdf_url": "https://arxiv.org/abs/2603.29705",
+            "translate_url": "https://papers.cool/arxiv/2603.29705",
+            "read_url": "https://hjfy.top/arxiv/2603.29705",
+            "code_url": null
+        },
+        "2603.29697": {
+            "date": "2026-03-31",
+            "title": "FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing",
+            "authors": "Fengjian Xue et.al.",
+            "arxiv_id": "2603.29697",
+            "pdf_url": "https://arxiv.org/abs/2603.29697",
+            "translate_url": "https://papers.cool/arxiv/2603.29697",
+            "read_url": "https://hjfy.top/arxiv/2603.29697",
+            "code_url": null
+        },
+        "2603.29666": {
+            "date": "2026-03-31",
+            "title": "CoRe-DA: Contrastive Regression for Unsupervised Domain Adaptation in Surgical Skill Assessment",
+            "authors": "Dimitrios Anastasiou et.al.",
+            "arxiv_id": "2603.29666",
+            "pdf_url": "https://arxiv.org/abs/2603.29666",
+            "translate_url": "https://papers.cool/arxiv/2603.29666",
+            "read_url": "https://hjfy.top/arxiv/2603.29666",
+            "code_url": null
+        },
+        "2603.29663": {
+            "date": "2026-03-31",
+            "title": "A review on the use of complex networks in science education research",
+            "authors": "Paula Tuz\u00f3n et.al.",
+            "arxiv_id": "2603.29663",
+            "pdf_url": "https://arxiv.org/abs/2603.29663",
+            "translate_url": "https://papers.cool/arxiv/2603.29663",
+            "read_url": "https://hjfy.top/arxiv/2603.29663",
+            "code_url": null
+        },
+        "2603.29660": {
+            "date": "2026-03-31",
+            "title": "STRADAViT: Towards a Foundational Model for Radio Astronomy through Self-Supervised Transfer",
+            "authors": "Andrea DeMarco et.al.",
+            "arxiv_id": "2603.29660",
+            "pdf_url": "https://arxiv.org/abs/2603.29660",
+            "translate_url": "https://papers.cool/arxiv/2603.29660",
+            "read_url": "https://hjfy.top/arxiv/2603.29660",
+            "code_url": null
+        },
+        "2603.29656": {
+            "date": "2026-03-31",
+            "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management",
+            "authors": "Jiao Chen et.al.",
+            "arxiv_id": "2603.29656",
+            "pdf_url": "https://arxiv.org/abs/2603.29656",
+            "translate_url": "https://papers.cool/arxiv/2603.29656",
+            "read_url": "https://hjfy.top/arxiv/2603.29656",
+            "code_url": null
+        },
+        "2603.29633": {
+            "date": "2026-03-31",
+            "title": "Self-Supervised Federated Learning under Data Heterogeneity for Label-Scarce Diatom Classification",
+            "authors": "Mingkun Tan et.al.",
+            "arxiv_id": "2603.29633",
+            "pdf_url": "https://arxiv.org/abs/2603.29633",
+            "translate_url": "https://papers.cool/arxiv/2603.29633",
+            "read_url": "https://hjfy.top/arxiv/2603.29633",
+            "code_url": null
+        },
+        "2603.29630": {
+            "date": "2026-03-31",
+            "title": "BigEarthNet.txt: A Large-Scale Multi-Sensor Image-Text Dataset and Benchmark for Earth Observation",
+            "authors": "Johann-Ludwig Herzog et.al.",
+            "arxiv_id": "2603.29630",
+            "pdf_url": "https://arxiv.org/abs/2603.29630",
+            "translate_url": "https://papers.cool/arxiv/2603.29630",
+            "read_url": "https://hjfy.top/arxiv/2603.29630",
+            "code_url": null
+        },
+        "2603.29591": {
+            "date": "2026-03-31",
+            "title": "FlowID : Enhancing Forensic Identification with Latent Flow-Matching Models",
+            "authors": "Jules Ripoll et.al.",
+            "arxiv_id": "2603.29591",
+            "pdf_url": "https://arxiv.org/abs/2603.29591",
+            "translate_url": "https://papers.cool/arxiv/2603.29591",
+            "read_url": "https://hjfy.top/arxiv/2603.29591",
+            "code_url": null
+        },
+        "2603.29575": {
+            "date": "2026-03-31",
+            "title": "Transfer Learning for Moderate-Dimensional Ridge-Regularized Robust Linear Regression",
+            "authors": "Lingfeng Lyu et.al.",
+            "arxiv_id": "2603.29575",
+            "pdf_url": "https://arxiv.org/abs/2603.29575",
+            "translate_url": "https://papers.cool/arxiv/2603.29575",
+            "read_url": "https://hjfy.top/arxiv/2603.29575",
+            "code_url": null
+        },
+        "2603.29518": {
+            "date": "2026-03-31",
+            "title": "Impact of enriched meaning representations for language generation in dialogue tasks: A comprehensive exploration of the relevance of tasks, corpora and metrics",
+            "authors": "Alain V\u00e1zquez et.al.",
+            "arxiv_id": "2603.29518",
+            "pdf_url": "https://arxiv.org/abs/2603.29518",
+            "translate_url": "https://papers.cool/arxiv/2603.29518",
+            "read_url": "https://hjfy.top/arxiv/2603.29518",
+            "code_url": null
+        },
+        "2603.29493": {
+            "date": "2026-03-31",
+            "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
+            "authors": "Ziliang Guo et.al.",
+            "arxiv_id": "2603.29493",
+            "pdf_url": "https://arxiv.org/abs/2603.29493",
+            "translate_url": "https://papers.cool/arxiv/2603.29493",
+            "read_url": "https://hjfy.top/arxiv/2603.29493",
+            "code_url": null
+        },
+        "2603.29492": {
+            "date": "2026-03-31",
+            "title": "Calibrated Confidence Expression for Radiology Report Generation",
+            "authors": "David Bani-Harouni et.al.",
+            "arxiv_id": "2603.29492",
+            "pdf_url": "https://arxiv.org/abs/2603.29492",
+            "translate_url": "https://papers.cool/arxiv/2603.29492",
+            "read_url": "https://hjfy.top/arxiv/2603.29492",
+            "code_url": null
+        },
+        "2603.29478": {
+            "date": "2026-03-31",
+            "title": "30-meter Land Surface Temperature from Landsat via Progressive Self-Training Downscaling",
+            "authors": "Huanfeng Shen et.al.",
+            "arxiv_id": "2603.29478",
+            "pdf_url": "https://arxiv.org/abs/2603.29478",
+            "translate_url": "https://papers.cool/arxiv/2603.29478",
+            "read_url": "https://hjfy.top/arxiv/2603.29478",
+            "code_url": null
+        },
+        "2603.29475": {
+            "date": "2026-03-31",
+            "title": "Survival In-Context: Prior-fitted In-context Learning Tabular Foundation Model for Survival Analysis",
+            "authors": "Dmitrii Seletkov et.al.",
+            "arxiv_id": "2603.29475",
+            "pdf_url": "https://arxiv.org/abs/2603.29475",
+            "translate_url": "https://papers.cool/arxiv/2603.29475",
+            "read_url": "https://hjfy.top/arxiv/2603.29475",
+            "code_url": null
+        },
+        "2603.29466": {
+            "date": "2026-03-31",
+            "title": "An Isotropic Approach to Efficient Uncertainty Quantification with Gradient Norms",
+            "authors": "Nils Gr\u00fcnefeld et.al.",
+            "arxiv_id": "2603.29466",
+            "pdf_url": "https://arxiv.org/abs/2603.29466",
+            "translate_url": "https://papers.cool/arxiv/2603.29466",
+            "read_url": "https://hjfy.top/arxiv/2603.29466",
+            "code_url": null
+        },
+        "2603.29450": {
+            "date": "2026-03-31",
+            "title": "Few-shot Writer Adaptation via Multimodal In-Context Learning",
+            "authors": "Tom Simon et.al.",
+            "arxiv_id": "2603.29450",
+            "pdf_url": "https://arxiv.org/abs/2603.29450",
+            "translate_url": "https://papers.cool/arxiv/2603.29450",
+            "read_url": "https://hjfy.top/arxiv/2603.29450",
+            "code_url": null
+        },
+        "2603.29410": {
+            "date": "2026-03-31",
+            "title": "AGFT: Alignment-Guided Fine-Tuning for Zero-Shot Adversarial Robustness of Vision-Language Models",
+            "authors": "Yubo Cui et.al.",
+            "arxiv_id": "2603.29410",
+            "pdf_url": "https://arxiv.org/abs/2603.29410",
+            "translate_url": "https://papers.cool/arxiv/2603.29410",
+            "read_url": "https://hjfy.top/arxiv/2603.29410",
+            "code_url": null
+        },
+        "2603.29356": {
+            "date": "2026-03-31",
+            "title": "CIPHER: Counterfeit Image Pattern High-level Examination via Representation",
+            "authors": "Kyeonghun Kim et.al.",
+            "arxiv_id": "2603.29356",
+            "pdf_url": "https://arxiv.org/abs/2603.29356",
+            "translate_url": "https://papers.cool/arxiv/2603.29356",
+            "read_url": "https://hjfy.top/arxiv/2603.29356",
+            "code_url": null
+        },
+        "2603.29345": {
+            "date": "2026-03-31",
+            "title": "Open Machine Translation for Esperanto",
+            "authors": "Ona de Gibert et.al.",
+            "arxiv_id": "2603.29345",
+            "pdf_url": "https://arxiv.org/abs/2603.29345",
+            "translate_url": "https://papers.cool/arxiv/2603.29345",
+            "read_url": "https://hjfy.top/arxiv/2603.29345",
+            "code_url": null
+        },
+        "2603.29334": {
+            "date": "2026-03-31",
+            "title": "Mexican Burrowing Toads as gravitational wave detectors",
+            "authors": "Frederic V. Hessman et.al.",
+            "arxiv_id": "2603.29334",
+            "pdf_url": "https://arxiv.org/abs/2603.29334",
+            "translate_url": "https://papers.cool/arxiv/2603.29334",
+            "read_url": "https://hjfy.top/arxiv/2603.29334",
+            "code_url": null
+        },
+        "2603.29313": {
+            "date": "2026-03-31",
+            "title": "HSFM: Hard-Set-Guided Feature-Space Meta-Learning for Robust Classification under Spurious Correlations",
+            "authors": "Aryan Yazdan Parast et.al.",
+            "arxiv_id": "2603.29313",
+            "pdf_url": "https://arxiv.org/abs/2603.29313",
+            "translate_url": "https://papers.cool/arxiv/2603.29313",
+            "read_url": "https://hjfy.top/arxiv/2603.29313",
+            "code_url": null
+        },
+        "2603.29292": {
+            "date": "2026-03-31",
+            "title": "Self-Improving Code Generation via Semantic Entropy and Behavioral Consensus",
+            "authors": "Huan Zhang et.al.",
+            "arxiv_id": "2603.29292",
+            "pdf_url": "https://arxiv.org/abs/2603.29292",
+            "translate_url": "https://papers.cool/arxiv/2603.29292",
+            "read_url": "https://hjfy.top/arxiv/2603.29292",
+            "code_url": null
+        },
+        "2603.29281": {
+            "date": "2026-03-31",
+            "title": "PRISM: A Multi-View Multi-Capability Retail Video Dataset for Embodied Vision-Language Models",
+            "authors": "Amirreza Rouhi et.al.",
+            "arxiv_id": "2603.29281",
+            "pdf_url": "https://arxiv.org/abs/2603.29281",
+            "translate_url": "https://papers.cool/arxiv/2603.29281",
+            "read_url": "https://hjfy.top/arxiv/2603.29281",
+            "code_url": null
+        },
+        "2603.29268": {
+            "date": "2026-03-31",
+            "title": "From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks",
+            "authors": "Mohamed Gharib et.al.",
+            "arxiv_id": "2603.29268",
+            "pdf_url": "https://arxiv.org/abs/2603.29268",
+            "translate_url": "https://papers.cool/arxiv/2603.29268",
+            "read_url": "https://hjfy.top/arxiv/2603.29268",
+            "code_url": null
+        },
+        "2603.29258": {
+            "date": "2026-03-31",
+            "title": "Omni-NegCLIP: Enhancing CLIP with Front-Layer Contrastive Fine-Tuning for Comprehensive Negation Understanding",
+            "authors": "Jingqi Xu et.al.",
+            "arxiv_id": "2603.29258",
+            "pdf_url": "https://arxiv.org/abs/2603.29258",
+            "translate_url": "https://papers.cool/arxiv/2603.29258",
+            "read_url": "https://hjfy.top/arxiv/2603.29258",
+            "code_url": null
+        },
+        "2603.29232": {
+            "date": "2026-03-31",
+            "title": "Long-Document QA with Chain-of-Structured-Thought and Fine-Tuned SLMs",
+            "authors": "Zhuowen Liang et.al.",
+            "arxiv_id": "2603.29232",
+            "pdf_url": "https://arxiv.org/abs/2603.29232",
+            "translate_url": "https://papers.cool/arxiv/2603.29232",
+            "read_url": "https://hjfy.top/arxiv/2603.29232",
+            "code_url": null
+        },
+        "2603.29221": {
+            "date": "2026-03-31",
+            "title": "SiPaKosa: A Comprehensive Corpus of Canonical and Classical Buddhist Texts in Sinhala and Pali",
+            "authors": "Ranidu Gurusinghe et.al.",
+            "arxiv_id": "2603.29221",
+            "pdf_url": "https://arxiv.org/abs/2603.29221",
+            "translate_url": "https://papers.cool/arxiv/2603.29221",
+            "read_url": "https://hjfy.top/arxiv/2603.29221",
+            "code_url": null
+        },
+        "2603.29171": {
+            "date": "2026-03-31",
+            "title": "Segmentation of Gray Matters and White Matters from Brain MRI data",
+            "authors": "Chang Sun et.al.",
+            "arxiv_id": "2603.29171",
+            "pdf_url": "https://arxiv.org/abs/2603.29171",
+            "translate_url": "https://papers.cool/arxiv/2603.29171",
+            "read_url": "https://hjfy.top/arxiv/2603.29171",
+            "code_url": null
+        },
+        "2603.29133": {
+            "date": "2026-03-31",
+            "title": "Dual-Imbalance Continual Learning for Real-World Food Recognition",
+            "authors": "Xiaoyan Zhang et.al.",
+            "arxiv_id": "2603.29133",
+            "pdf_url": "https://arxiv.org/abs/2603.29133",
+            "translate_url": "https://papers.cool/arxiv/2603.29133",
+            "read_url": "https://hjfy.top/arxiv/2603.29133",
+            "code_url": null
+        },
+        "2603.29108": {
+            "date": "2026-03-31",
+            "title": "Efficient Bilevel Optimization with KFAC-Based Hypergradients",
+            "authors": "Disen Liao et.al.",
+            "arxiv_id": "2603.29108",
+            "pdf_url": "https://arxiv.org/abs/2603.29108",
+            "translate_url": "https://papers.cool/arxiv/2603.29108",
+            "read_url": "https://hjfy.top/arxiv/2603.29108",
+            "code_url": null
+        },
+        "2603.29106": {
+            "date": "2026-03-31",
+            "title": "Exploring non-trivial band structure and spin polarizations in $d$-wave altermagnets tailored by anisotropic optical fields",
+            "authors": "Andrii Iurov et.al.",
+            "arxiv_id": "2603.29106",
+            "pdf_url": "https://arxiv.org/abs/2603.29106",
+            "translate_url": "https://papers.cool/arxiv/2603.29106",
+            "read_url": "https://hjfy.top/arxiv/2603.29106",
+            "code_url": null
+        },
+        "2603.29092": {
+            "date": "2026-03-31",
+            "title": "TrajectoryMover: Generative Movement of Object Trajectories in Videos",
+            "authors": "Kiran Chhatre et.al.",
+            "arxiv_id": "2603.29092",
+            "pdf_url": "https://arxiv.org/abs/2603.29092",
+            "translate_url": "https://papers.cool/arxiv/2603.29092",
+            "read_url": "https://hjfy.top/arxiv/2603.29092",
+            "code_url": null
+        },
+        "2603.29087": {
+            "date": "2026-03-31",
+            "title": "IQRA 2026: Interspeech Challenge on Automatic Assessment Pronunciation for Modern Standard Arabic (MSA)",
+            "authors": "Yassine El Kheir et.al.",
+            "arxiv_id": "2603.29087",
+            "pdf_url": "https://arxiv.org/abs/2603.29087",
+            "translate_url": "https://papers.cool/arxiv/2603.29087",
+            "read_url": "https://hjfy.top/arxiv/2603.29087",
             "code_url": null
         }
     },
@@ -41509,6 +43059,216 @@
             "translate_url": "https://papers.cool/arxiv/2603.27944",
             "read_url": "https://hjfy.top/arxiv/2603.27944",
             "code_url": null
+        },
+        "2603.30042": {
+            "date": "2026-03-31",
+            "title": "HapCompass: A Rotational Haptic Device for Contact-Rich Robotic Teleoperation",
+            "authors": "Xiangshan Tan et.al.",
+            "arxiv_id": "2603.30042",
+            "pdf_url": "https://arxiv.org/abs/2603.30042",
+            "translate_url": "https://papers.cool/arxiv/2603.30042",
+            "read_url": "https://hjfy.top/arxiv/2603.30042",
+            "code_url": null
+        },
+        "2603.30022": {
+            "date": "2026-03-31",
+            "title": "Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models",
+            "authors": "Md Saad et.al.",
+            "arxiv_id": "2603.30022",
+            "pdf_url": "https://arxiv.org/abs/2603.30022",
+            "translate_url": "https://papers.cool/arxiv/2603.30022",
+            "read_url": "https://hjfy.top/arxiv/2603.30022",
+            "code_url": null
+        },
+        "2603.29999": {
+            "date": "2026-03-31",
+            "title": "Phyelds: A Pythonic Framework for Aggregate Computing",
+            "authors": "Gianluca Aguzzi et.al.",
+            "arxiv_id": "2603.29999",
+            "pdf_url": "https://arxiv.org/abs/2603.29999",
+            "translate_url": "https://papers.cool/arxiv/2603.29999",
+            "read_url": "https://hjfy.top/arxiv/2603.29999",
+            "code_url": null
+        },
+        "2603.29933": {
+            "date": "2026-03-31",
+            "title": "GreenFLag: A Green Agentic Approach for Energy-Efficient Federated Learning",
+            "authors": "Theodora Panagea et.al.",
+            "arxiv_id": "2603.29933",
+            "pdf_url": "https://arxiv.org/abs/2603.29933",
+            "translate_url": "https://papers.cool/arxiv/2603.29933",
+            "read_url": "https://hjfy.top/arxiv/2603.29933",
+            "code_url": null
+        },
+        "2603.29871": {
+            "date": "2026-03-31",
+            "title": "ShapE-GRPO: Shapley-Enhanced Reward Allocation for Multi-Candidate LLM Training",
+            "authors": "Rui Ai et.al.",
+            "arxiv_id": "2603.29871",
+            "pdf_url": "https://arxiv.org/abs/2603.29871",
+            "translate_url": "https://papers.cool/arxiv/2603.29871",
+            "read_url": "https://hjfy.top/arxiv/2603.29871",
+            "code_url": null
+        },
+        "2603.29858": {
+            "date": "2026-03-31",
+            "title": "An Output Feedback Q-learning Algorithm for Optimal Control of Nonlinear Systems with Koopman Linear Embedding",
+            "authors": "Victor G. Lopez et.al.",
+            "arxiv_id": "2603.29858",
+            "pdf_url": "https://arxiv.org/abs/2603.29858",
+            "translate_url": "https://papers.cool/arxiv/2603.29858",
+            "read_url": "https://hjfy.top/arxiv/2603.29858",
+            "code_url": null
+        },
+        "2603.29834": {
+            "date": "2026-03-31",
+            "title": "Friends, Foes, and First Authors: A Game Theory Model of How Power Plays Rewrite Academic Co-Authorship Networks",
+            "authors": "Amit Bengal et.al.",
+            "arxiv_id": "2603.29834",
+            "pdf_url": "https://arxiv.org/abs/2603.29834",
+            "translate_url": "https://papers.cool/arxiv/2603.29834",
+            "read_url": "https://hjfy.top/arxiv/2603.29834",
+            "code_url": null
+        },
+        "2603.29723": {
+            "date": "2026-03-31",
+            "title": "Reinforced Reasoning for End-to-End Retrosynthetic Planning",
+            "authors": "Chenyang Zuo et.al.",
+            "arxiv_id": "2603.29723",
+            "pdf_url": "https://arxiv.org/abs/2603.29723",
+            "translate_url": "https://papers.cool/arxiv/2603.29723",
+            "read_url": "https://hjfy.top/arxiv/2603.29723",
+            "code_url": null
+        },
+        "2603.29656": {
+            "date": "2026-03-31",
+            "title": "6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management",
+            "authors": "Jiao Chen et.al.",
+            "arxiv_id": "2603.29656",
+            "pdf_url": "https://arxiv.org/abs/2603.29656",
+            "translate_url": "https://papers.cool/arxiv/2603.29656",
+            "read_url": "https://hjfy.top/arxiv/2603.29656",
+            "code_url": null
+        },
+        "2603.29640": {
+            "date": "2026-03-31",
+            "title": "ASI-Evolve: AI Accelerates AI",
+            "authors": "Weixian Xu et.al.",
+            "arxiv_id": "2603.29640",
+            "pdf_url": "https://arxiv.org/abs/2603.29640",
+            "translate_url": "https://papers.cool/arxiv/2603.29640",
+            "read_url": "https://hjfy.top/arxiv/2603.29640",
+            "code_url": null
+        },
+        "2603.29608": {
+            "date": "2026-03-31",
+            "title": "Learning Diagnostic Reasoning for Decision Support in Toxicology",
+            "authors": "Nico Oberl\u00e4nder et.al.",
+            "arxiv_id": "2603.29608",
+            "pdf_url": "https://arxiv.org/abs/2603.29608",
+            "translate_url": "https://papers.cool/arxiv/2603.29608",
+            "read_url": "https://hjfy.top/arxiv/2603.29608",
+            "code_url": null
+        },
+        "2603.29533": {
+            "date": "2026-03-31",
+            "title": "GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning",
+            "authors": "Ancheng Hou et.al.",
+            "arxiv_id": "2603.29533",
+            "pdf_url": "https://arxiv.org/abs/2603.29533",
+            "translate_url": "https://papers.cool/arxiv/2603.29533",
+            "read_url": "https://hjfy.top/arxiv/2603.29533",
+            "code_url": null
+        },
+        "2603.29501": {
+            "date": "2026-03-31",
+            "title": "Target-Aligned Reinforcement Learning",
+            "authors": "Leonard S. Pleiss et.al.",
+            "arxiv_id": "2603.29501",
+            "pdf_url": "https://arxiv.org/abs/2603.29501",
+            "translate_url": "https://papers.cool/arxiv/2603.29501",
+            "read_url": "https://hjfy.top/arxiv/2603.29501",
+            "code_url": null
+        },
+        "2603.29500": {
+            "date": "2026-03-31",
+            "title": "Learning to Generate Formally Verifiable Step-by-Step Logic Reasoning via Structured Formal Intermediaries",
+            "authors": "Luoxin Chen et.al.",
+            "arxiv_id": "2603.29500",
+            "pdf_url": "https://arxiv.org/abs/2603.29500",
+            "translate_url": "https://papers.cool/arxiv/2603.29500",
+            "read_url": "https://hjfy.top/arxiv/2603.29500",
+            "code_url": null
+        },
+        "2603.29493": {
+            "date": "2026-03-31",
+            "title": "MemFactory: Unified Inference & Training Framework for Agent Memory",
+            "authors": "Ziliang Guo et.al.",
+            "arxiv_id": "2603.29493",
+            "pdf_url": "https://arxiv.org/abs/2603.29493",
+            "translate_url": "https://papers.cool/arxiv/2603.29493",
+            "read_url": "https://hjfy.top/arxiv/2603.29493",
+            "code_url": null
+        },
+        "2603.29492": {
+            "date": "2026-03-31",
+            "title": "Calibrated Confidence Expression for Radiology Report Generation",
+            "authors": "David Bani-Harouni et.al.",
+            "arxiv_id": "2603.29492",
+            "pdf_url": "https://arxiv.org/abs/2603.29492",
+            "translate_url": "https://papers.cool/arxiv/2603.29492",
+            "read_url": "https://hjfy.top/arxiv/2603.29492",
+            "code_url": null
+        },
+        "2603.29426": {
+            "date": "2026-03-31",
+            "title": "Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning",
+            "authors": "Jiaao Ma et.al.",
+            "arxiv_id": "2603.29426",
+            "pdf_url": "https://arxiv.org/abs/2603.29426",
+            "translate_url": "https://papers.cool/arxiv/2603.29426",
+            "read_url": "https://hjfy.top/arxiv/2603.29426",
+            "code_url": null
+        },
+        "2603.29369": {
+            "date": "2026-03-31",
+            "title": "AP-DRL: A Synergistic Algorithm-Hardware Framework for Automatic Task Partitioning of Deep Reinforcement Learning on Versal ACAP",
+            "authors": "Enlai Li et.al.",
+            "arxiv_id": "2603.29369",
+            "pdf_url": "https://arxiv.org/abs/2603.29369",
+            "translate_url": "https://papers.cool/arxiv/2603.29369",
+            "read_url": "https://hjfy.top/arxiv/2603.29369",
+            "code_url": null
+        },
+        "2603.29332": {
+            "date": "2026-03-31",
+            "title": "Scaling Whole-Body Human Musculoskeletal Behavior Emulation for Specificity and Diversity",
+            "authors": "Yunyue Wei et.al.",
+            "arxiv_id": "2603.29332",
+            "pdf_url": "https://arxiv.org/abs/2603.29332",
+            "translate_url": "https://papers.cool/arxiv/2603.29332",
+            "read_url": "https://hjfy.top/arxiv/2603.29332",
+            "code_url": null
+        },
+        "2603.29289": {
+            "date": "2026-03-31",
+            "title": "Downsides of Smartness Across Edge-Cloud Continuum in Modern Industry",
+            "authors": "Akhil Gupta Chigullapally et.al.",
+            "arxiv_id": "2603.29289",
+            "pdf_url": "https://arxiv.org/abs/2603.29289",
+            "translate_url": "https://papers.cool/arxiv/2603.29289",
+            "read_url": "https://hjfy.top/arxiv/2603.29289",
+            "code_url": null
+        },
+        "2603.29247": {
+            "date": "2026-03-31",
+            "title": "MemRerank: Preference Memory for Personalized Product Reranking",
+            "authors": "Zhiyuan Peng et.al.",
+            "arxiv_id": "2603.29247",
+            "pdf_url": "https://arxiv.org/abs/2603.29247",
+            "translate_url": "https://papers.cool/arxiv/2603.29247",
+            "read_url": "https://hjfy.top/arxiv/2603.29247",
+            "code_url": null
         }
     },
     "Graph Neural Networks": {
@@ -43070,6 +44830,116 @@
             "pdf_url": "https://arxiv.org/abs/2603.28006",
             "translate_url": "https://papers.cool/arxiv/2603.28006",
             "read_url": "https://hjfy.top/arxiv/2603.28006",
+            "code_url": null
+        },
+        "2603.29967": {
+            "date": "2026-03-31",
+            "title": "Learning Structural-Functional Brain Representations through Multi-Scale Adaptive Graph Attention for Cognitive Insight",
+            "authors": "Badhan Mazumder et.al.",
+            "arxiv_id": "2603.29967",
+            "pdf_url": "https://arxiv.org/abs/2603.29967",
+            "translate_url": "https://papers.cool/arxiv/2603.29967",
+            "read_url": "https://hjfy.top/arxiv/2603.29967",
+            "code_url": null
+        },
+        "2603.29960": {
+            "date": "2026-03-31",
+            "title": "NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance Use Initiation Prediction from Longitudinal Functional Connectome",
+            "authors": "Badhan Mazumder et.al.",
+            "arxiv_id": "2603.29960",
+            "pdf_url": "https://arxiv.org/abs/2603.29960",
+            "translate_url": "https://papers.cool/arxiv/2603.29960",
+            "read_url": "https://hjfy.top/arxiv/2603.29960",
+            "code_url": null
+        },
+        "2603.29784": {
+            "date": "2026-03-31",
+            "title": "MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification",
+            "authors": "Boshko Koloski et.al.",
+            "arxiv_id": "2603.29784",
+            "pdf_url": "https://arxiv.org/abs/2603.29784",
+            "translate_url": "https://papers.cool/arxiv/2603.29784",
+            "read_url": "https://hjfy.top/arxiv/2603.29784",
+            "code_url": null
+        },
+        "2603.29644": {
+            "date": "2026-03-31",
+            "title": "Disentangled Graph Prompting for Out-Of-Distribution Detection",
+            "authors": "Cheng Yang et.al.",
+            "arxiv_id": "2603.29644",
+            "pdf_url": "https://arxiv.org/abs/2603.29644",
+            "translate_url": "https://papers.cool/arxiv/2603.29644",
+            "read_url": "https://hjfy.top/arxiv/2603.29644",
+            "code_url": null
+        },
+        "2603.29515": {
+            "date": "2026-03-31",
+            "title": "Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems",
+            "authors": "David Gonzalez et.al.",
+            "arxiv_id": "2603.29515",
+            "pdf_url": "https://arxiv.org/abs/2603.29515",
+            "translate_url": "https://papers.cool/arxiv/2603.29515",
+            "read_url": "https://hjfy.top/arxiv/2603.29515",
+            "code_url": null
+        },
+        "2603.29460": {
+            "date": "2026-03-31",
+            "title": "Square Superpixel Generation and Representation Learning via Granular Ball Computing",
+            "authors": "Shuyin Xia et.al.",
+            "arxiv_id": "2603.29460",
+            "pdf_url": "https://arxiv.org/abs/2603.29460",
+            "translate_url": "https://papers.cool/arxiv/2603.29460",
+            "read_url": "https://hjfy.top/arxiv/2603.29460",
+            "code_url": null
+        },
+        "2603.29384": {
+            "date": "2026-03-31",
+            "title": "Causality-inspired Federated Learning for Dynamic Spatio-Temporal Graphs",
+            "authors": "Yuxuan Liu et.al.",
+            "arxiv_id": "2603.29384",
+            "pdf_url": "https://arxiv.org/abs/2603.29384",
+            "translate_url": "https://papers.cool/arxiv/2603.29384",
+            "read_url": "https://hjfy.top/arxiv/2603.29384",
+            "code_url": null
+        },
+        "2603.29268": {
+            "date": "2026-03-31",
+            "title": "From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks",
+            "authors": "Mohamed Gharib et.al.",
+            "arxiv_id": "2603.29268",
+            "pdf_url": "https://arxiv.org/abs/2603.29268",
+            "translate_url": "https://papers.cool/arxiv/2603.29268",
+            "read_url": "https://hjfy.top/arxiv/2603.29268",
+            "code_url": null
+        },
+        "2603.29216": {
+            "date": "2026-03-31",
+            "title": "Software Vulnerability Detection Using a Lightweight Graph Neural Network",
+            "authors": "Miles Farmer et.al.",
+            "arxiv_id": "2603.29216",
+            "pdf_url": "https://arxiv.org/abs/2603.29216",
+            "translate_url": "https://papers.cool/arxiv/2603.29216",
+            "read_url": "https://hjfy.top/arxiv/2603.29216",
+            "code_url": null
+        },
+        "2603.29148": {
+            "date": "2026-03-31",
+            "title": "Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification",
+            "authors": "Guan Wang et.al.",
+            "arxiv_id": "2603.29148",
+            "pdf_url": "https://arxiv.org/abs/2603.29148",
+            "translate_url": "https://papers.cool/arxiv/2603.29148",
+            "read_url": "https://hjfy.top/arxiv/2603.29148",
+            "code_url": null
+        },
+        "2603.29090": {
+            "date": "2026-03-31",
+            "title": "HCLSM: Hierarchical Causal Latent State Machines for Object-Centric World Modeling",
+            "authors": "Jaber Jaber et.al.",
+            "arxiv_id": "2603.29090",
+            "pdf_url": "https://arxiv.org/abs/2603.29090",
+            "translate_url": "https://papers.cool/arxiv/2603.29090",
+            "read_url": "https://hjfy.top/arxiv/2603.29090",
             "code_url": null
         }
     }
