@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Analytics（可视化 + 导出 + 交互页）Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
@@ -878,7 +882,7 @@ Expected:
     <footer class="footer">
       <a href="../index.html">返回 Docs 首页</a>
       <span>·</span>
-      <a href="../paper_list.md">paper_list</a>
+      <a href="../paper_list.html">paper_list</a>
     </footer>
 
     <script src="./assets/vendor/chart.umd.min.js"></script>

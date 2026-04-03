@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta
+      name="description"
+      content="{{ page.description | default: site.description | escape }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        var theme = localStorage.getItem("paper-list-theme") || "editorial";
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
+    {% seo %}
+  </head>
+  <body>
+    <div class="site-shell">
+      <div class="site-noise" aria-hidden="true"></div>
+
+      <header class="site-header">
+        <div class="site-header__inner">
+          <a class="brandmark" href="{{ '/' | relative_url }}">
+            <span class="brandmark__eyebrow">Research Radar</span>
+            <span class="brandmark__title">{{ site.title }}</span>
+          </a>
+
+          <div class="site-controls">
+            <nav class="site-nav" aria-label="Primary">
+              <a href="{{ '/' | relative_url }}">Home</a>
+              <a href="{{ '/paper_list.html' | relative_url }}">All Papers</a>
+              <a href="{{ '/analytics/' | relative_url }}">Analytics</a>
+              <a href="https://github.com/isLinXu/paper-list">GitHub</a>
+            </nav>
+
+            <label class="theme-switcher" for="theme-switcher">
+              <span>Theme</span>
+              <select id="theme-switcher" aria-label="Theme switcher">
+                <option value="editorial">Editorial</option>
+                <option value="atlas">Atlas</option>
+                <option value="lab">Lab</option>
+              </select>
+            </label>
+          </div>
+        </div>
+      </header>
+
+      <main class="page-shell">
+        {% if page.url == "/" %}
+          {{ content }}
+        {% else %}
+          <article class="page-content page-content--document">
+            {{ content }}
+          </article>
+        {% endif %}
+      </main>
+
+      <footer class="site-footer">
+        <div class="site-footer__inner">
+          <p>Daily-updated arXiv paper tracking for computer vision and adjacent AI topics.</p>
+          <div class="site-footer__links">
+            <a href="{{ '/analytics/' | relative_url }}">Analytics</a>
+            <a href="{{ '/paper_list.html' | relative_url }}">Full List</a>
+            <a href="https://github.com/isLinXu/paper-list">Repository</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="{{ '/assets/site.js' | relative_url }}"></script>
+  </body>
+</html>

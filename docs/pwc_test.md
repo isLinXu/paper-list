@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p align="center"><h1 align="center"><br><ins>Paper-List-DAILY</ins><br>Automatically Update Papers Daily in list</h1></p>
 ## Updated on 2025.11.05
 

@@ -4,71 +4,112 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Paper List Analytics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        var theme = localStorage.getItem("paper-list-theme") || "editorial";
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
     <link rel="stylesheet" href="./assets/app.css" />
   </head>
   <body>
-    <header class="header">
-      <div class="title">
-        <h1>Paper List Analytics</h1>
-        <p class="subtitle">离线聚合数据 · 日/月趋势 · Topic 排行 · Code 覆盖率 · Top 第一作者</p>
-      </div>
-      <div class="meta" id="meta"></div>
-    </header>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__content">
+          <p class="eyebrow">Research Analytics</p>
+          <h1>Paper List Analytics</h1>
+          <p class="subtitle">离线聚合数据 · 日/月趋势 · Topic 排行 · Code 覆盖率 · Top 第一作者</p>
+          <div class="hero-toolbar">
+            <div class="quick-links">
+              <a href="../index.html">首页</a>
+              <a href="../paper_list.html">完整列表</a>
+              <a href="https://github.com/isLinXu/paper-list">GitHub</a>
+            </div>
+            <label class="theme-switcher" for="theme-switcher">
+              <span>Theme</span>
+              <select id="theme-switcher" aria-label="Theme switcher">
+                <option value="editorial">Editorial</option>
+                <option value="atlas">Atlas</option>
+                <option value="lab">Lab</option>
+              </select>
+            </label>
+          </div>
+        </div>
+        <div class="meta-card">
+          <span class="meta-card__label">数据摘要</span>
+          <div class="meta" id="meta"></div>
+        </div>
+      </header>
 
-    <section class="controls">
-      <label>
-        粒度：
-        <select id="granularity">
-          <option value="day">日</option>
-          <option value="month">月</option>
-        </select>
-      </label>
+      <section class="controls card">
+        <div class="controls__group">
+          <label>
+            <span>粒度</span>
+            <select id="granularity">
+              <option value="day">日</option>
+              <option value="month">月</option>
+            </select>
+          </label>
 
-      <label>
-        时间窗：
-        <select id="presetRange">
-          <option value="last_30d">最近30天</option>
-          <option value="last_90d" selected>最近90天</option>
-          <option value="last_12m">最近12个月</option>
-          <option value="ytd">今年以来</option>
-        </select>
-      </label>
+          <label>
+            <span>时间窗</span>
+            <select id="presetRange">
+              <option value="last_30d">最近30天</option>
+              <option value="last_90d" selected>最近90天</option>
+              <option value="last_12m">最近12个月</option>
+              <option value="ytd">今年以来</option>
+            </select>
+          </label>
+        </div>
 
-      <label>
-        Topics（多选）：
-        <select id="topics" multiple size="6"></select>
-      </label>
+        <label class="topics-field">
+          <span>Topics（多选）</span>
+          <select id="topics" multiple size="8"></select>
+        </label>
 
-      <button id="apply">应用</button>
-    </section>
+        <button id="apply">应用筛选</button>
+      </section>
 
-    <main class="grid">
-      <section class="card">
-        <h2>趋势（Counts）</h2>
+      <main class="grid">
+        <section class="card chart-card">
+          <div class="card__header">
+            <h2>趋势（Counts）</h2>
+            <p>按时间查看不同 topic 的论文新增趋势。</p>
+          </div>
         <canvas id="trendChart"></canvas>
-      </section>
+        </section>
 
-      <section class="card">
-        <h2>Topic 排行</h2>
+        <section class="card chart-card">
+          <div class="card__header">
+            <h2>Topic 排行</h2>
+            <p>当前时间窗内最活跃的主题排名。</p>
+          </div>
         <canvas id="rankChart"></canvas>
-      </section>
+        </section>
 
-      <section class="card">
-        <h2>Code 覆盖率（趋势/近似）</h2>
+        <section class="card chart-card">
+          <div class="card__header">
+            <h2>Code 覆盖率（趋势/近似）</h2>
+            <p>观察各 topic 代码链接覆盖度的变化轨迹。</p>
+          </div>
         <canvas id="coverageChart"></canvas>
-      </section>
+        </section>
 
-      <section class="card">
-        <h2>Top 第一作者</h2>
+        <section class="card chart-card">
+          <div class="card__header">
+            <h2>Top 第一作者</h2>
+            <p>在当前筛选范围内出现频次最高的第一作者。</p>
+          </div>
         <canvas id="authorsChart"></canvas>
-      </section>
-    </main>
-
-    <footer class="footer">
-      <a href="../index.html">返回 Docs 首页</a>
-      <span>·</span>
-      <a href="../paper_list.md">paper_list</a>
-    </footer>
+        </section>
+      </main>
+    </div>
 
     <script src="./assets/vendor/chart.umd.min.js"></script>
     <script src="./assets/app.js"></script>

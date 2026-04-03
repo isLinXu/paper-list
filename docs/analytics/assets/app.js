@@ -1,3 +1,17 @@
+function initThemeSwitcher() {
+  const select = document.getElementById("theme-switcher")
+  if (!select) return
+
+  const current = document.documentElement.getAttribute("data-theme") || "editorial"
+  select.value = current
+
+  select.addEventListener("change", () => {
+    const theme = select.value
+    document.documentElement.setAttribute("data-theme", theme)
+    localStorage.setItem("paper-list-theme", theme)
+  })
+}
+
 async function fetchJson(path) {
   const r = await fetch(path, { cache: "no-store" })
   if (!r.ok) throw new Error(`Fetch failed: ${path} ${r.status}`)
@@ -28,16 +42,16 @@ function buildLineDatasets(rows, topics, dateKey, valueKey) {
 
   const allDates = uniqSorted(rows.map((r) => r[dateKey]))
   const colors = [
-    "#2b6cff",
-    "#20c997",
-    "#ff6b6b",
-    "#ffd43b",
-    "#845ef7",
-    "#74c0fc",
-    "#ff922b",
-    "#69db7c",
-    "#e599f7",
-    "#ced4da",
+    "#70a3ff",
+    "#63c6be",
+    "#ff8c82",
+    "#ffce7c",
+    "#c294ff",
+    "#7dd7ff",
+    "#ffab5e",
+    "#8dd19d",
+    "#f09cff",
+    "#d8e0e6",
   ]
 
   const datasets = topics.map((t, idx) => {
@@ -71,6 +85,7 @@ function buildBarDataset(rows, labelKey, valueKey, title) {
 }
 
 async function main() {
+  initThemeSwitcher()
   const meta = await fetchJson("./data/meta.json")
   document.getElementById("meta").textContent = `数据范围：${meta.min_date} ~ ${meta.max_date} · 生成时间：${meta.generated_at}`
 
@@ -92,7 +107,7 @@ async function main() {
     const granularity = document.getElementById("granularity").value
     const preset = document.getElementById("presetRange").value
     const selectedTopics = getSelectedOptions(topicsEl)
-    const topicsForChart = selectedTopics.slice(0, 10) // 控制可读性
+    const topicsForChart = (selectedTopics.length ? selectedTopics : meta.topics).slice(0, 10) // 控制可读性
 
     const countsPath = granularity === "day" ? "./data/daily_counts.json" : "./data/monthly_counts.json"
     const covPath = granularity === "day" ? "./data/code_coverage_daily.json" : "./data/code_coverage_monthly.json"
@@ -112,10 +127,10 @@ async function main() {
       data: trendData,
       options: {
         responsive: true,
-        plugins: { legend: { labels: { color: "#c7cfda" } } },
+        plugins: { legend: { labels: { color: "#dce6ef" } } },
         scales: {
-          x: { ticks: { color: "#aab3bf", maxRotation: 0 }, grid: { color: "rgba(255,255,255,0.04)" } },
-          y: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
+          x: { ticks: { color: "#9fb0bc", maxRotation: 0 }, grid: { color: "rgba(255,255,255,0.05)" } },
+          y: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
         },
       },
     })
@@ -130,8 +145,8 @@ async function main() {
         indexAxis: "y",
         plugins: { legend: { display: false } },
         scales: {
-          x: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
-          y: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
+          x: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
+          y: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
         },
       },
     })
@@ -145,12 +160,12 @@ async function main() {
       data: covData,
       options: {
         responsive: true,
-        plugins: { legend: { labels: { color: "#c7cfda" } } },
+        plugins: { legend: { labels: { color: "#dce6ef" } } },
         scales: {
-          x: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
+          x: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
           y: {
-            ticks: { color: "#aab3bf" },
-            grid: { color: "rgba(255,255,255,0.04)" },
+            ticks: { color: "#9fb0bc" },
+            grid: { color: "rgba(255,255,255,0.05)" },
             suggestedMin: 0,
             suggestedMax: 1,
           },
@@ -168,8 +183,8 @@ async function main() {
         indexAxis: "y",
         plugins: { legend: { display: false } },
         scales: {
-          x: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
-          y: { ticks: { color: "#aab3bf" }, grid: { color: "rgba(255,255,255,0.04)" } },
+          x: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
+          y: { ticks: { color: "#9fb0bc" }, grid: { color: "rgba(255,255,255,0.05)" } },
         },
       },
     })
@@ -186,4 +201,3 @@ main().catch((e) => {
   console.error(e)
   alert(e.message)
 })
-

@@ -6,14 +6,16 @@ github:
   zip_url: https://github.com/isLinXu/paper-list
   another_url: https://github.com/isLinXu/paper-list
 
-## add remote theme
-remote_theme: jekyll/minima@v2.5.1
-
-# minima:
-skin: dark
 social_links:
   twitter:
   github: isLinXu
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
