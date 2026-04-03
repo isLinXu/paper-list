@@ -1,9 +1,10 @@
 ## Semantic Segmentation
 
-Total papers: **2569**
+Total papers: **2573**
 
 ## Monthly Archives
 
+- [2026-04](Semantic_Segmentation/2026-04.md) (4 papers)
 - [2026-03](Semantic_Segmentation/2026-03.md) (112 papers)
 - [2026-02](Semantic_Segmentation/2026-02.md) (81 papers)
 - [2026-01](Semantic_Segmentation/2026-01.md) (85 papers)
