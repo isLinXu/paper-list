@@ -3913,6 +3913,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-04-02",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "total": 1,
@@ -8239,6 +8246,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Anomaly Detection",
+    "date": "2026-04-02",
+    "total": 8,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Audio Processing",
     "date": "2024-02-24",
     "total": 2,
@@ -12449,6 +12463,13 @@
     "topic": "Audio Processing",
     "date": "2026-04-01",
     "total": 4,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-04-02",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -17318,6 +17339,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Classification",
+    "date": "2026-04-02",
+    "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "total": 2,
@@ -21227,6 +21255,13 @@
     "topic": "Depth Estimation",
     "date": "2026-04-01",
     "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-04-02",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -25193,6 +25228,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Graph Neural Networks",
+    "date": "2026-04-02",
+    "total": 4,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Image Generation",
     "date": "2024-02-27",
     "total": 1,
@@ -28966,6 +29008,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-04-02",
+    "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02-28",
     "total": 10,
@@ -31881,6 +31930,13 @@
     "topic": "LLM",
     "date": "2026-04-01",
     "total": 81,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-04-02",
+    "total": 83,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -35276,6 +35332,13 @@
     "topic": "Multimodal",
     "date": "2026-03-31",
     "total": 3,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-04-02",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -39550,6 +39613,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-04-02",
+    "total": 4,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "total": 2,
@@ -42738,6 +42808,13 @@
     "topic": "Object Tracking",
     "date": "2026-04-01",
     "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-04-02",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -46014,6 +46091,13 @@
     "topic": "Optical Flow",
     "date": "2026-04-01",
     "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-04-02",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -50617,6 +50701,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Pose Estimation",
+    "date": "2026-04-02",
+    "total": 4,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Reinforcement Learning",
     "date": "2024-02-28",
     "total": 10,
@@ -53679,6 +53770,13 @@
     "topic": "Reinforcement Learning",
     "date": "2026-04-01",
     "total": 30,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-04-02",
+    "total": 29,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -57666,6 +57764,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-04-02",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "total": 3,
@@ -62034,6 +62139,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Semantic Segmentation",
+    "date": "2026-04-02",
+    "total": 9,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Transfer Learning",
     "date": "2024-02-28",
     "total": 9,
@@ -65754,6 +65866,13 @@
     "topic": "Transfer Learning",
     "date": "2026-04-01",
     "total": 51,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Transfer Learning",
+    "date": "2026-04-02",
+    "total": 38,
     "code_covered": 0,
     "code_coverage": 0.0
   }

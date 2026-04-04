@@ -1,102 +1,102 @@
 [
   {
+    "author": "Liang Zhu",
+    "count": 7,
+    "rank": 1
+  },
+  {
     "author": "Abdullah Al Masud",
     "count": 5,
-    "rank": 1
+    "rank": 2
+  },
+  {
+    "author": "Kyeonghun Kim",
+    "count": 5,
+    "rank": 3
   },
   {
     "author": "Xiaojie Gu",
     "count": 4,
-    "rank": 2
+    "rank": 4
   },
   {
     "author": "Xiaokang Zhang",
     "count": 4,
-    "rank": 3
+    "rank": 5
   },
   {
     "author": "Aodi Wu",
     "count": 4,
-    "rank": 4
+    "rank": 6
   },
   {
     "author": "Rui Ding",
     "count": 4,
-    "rank": 5
-  },
-  {
-    "author": "Hao Zhang",
-    "count": 4,
-    "rank": 6
-  },
-  {
-    "author": "Chao Li",
-    "count": 4,
     "rank": 7
   },
   {
-    "author": "Xiucheng Wang",
+    "author": "Yixin Chen",
     "count": 4,
     "rank": 8
   },
   {
-    "author": "Kyeonghun Kim",
+    "author": "Yuheng Jiang",
     "count": 4,
     "rank": 9
   },
   {
-    "author": "Yongzhong Wang",
+    "author": "Xiucheng Wang",
     "count": 4,
     "rank": 10
   },
   {
-    "author": "Mingyang Song",
+    "author": "Yongzhong Wang",
     "count": 4,
     "rank": 11
   },
   {
-    "author": "Jiaye Feng",
+    "author": "Mingyang Song",
     "count": 4,
     "rank": 12
   },
   {
-    "author": "Yicai Xing",
+    "author": "Jiaye Feng",
     "count": 4,
     "rank": 13
   },
   {
-    "author": "Zhongyi Li",
+    "author": "Yicai Xing",
     "count": 4,
     "rank": 14
   },
   {
-    "author": "Shuai Wang",
+    "author": "Zhongyi Li",
     "count": 4,
     "rank": 15
   },
   {
-    "author": "Alkis Sygkounas",
+    "author": "Shuai Wang",
     "count": 4,
     "rank": 16
   },
   {
-    "author": "Pol Buitrago",
+    "author": "Alkis Sygkounas",
     "count": 4,
     "rank": 17
   },
   {
-    "author": "Devashish Chaudhary",
+    "author": "Pol Buitrago",
     "count": 4,
     "rank": 18
   },
   {
-    "author": "Trung V. Phan",
+    "author": "Devashish Chaudhary",
     "count": 4,
     "rank": 19
   },
   {
-    "author": "Aisha Kanwal",
-    "count": 3,
+    "author": "Trung V. Phan",
+    "count": 4,
     "rank": 20
   }
 ]
