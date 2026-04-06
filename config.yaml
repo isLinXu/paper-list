@@ -77,3 +77,6 @@ keywords:
   # 图神经网络
   "Graph Neural Networks":
     filters: [ "Graph Neural Networks", "Graph Convolutional Networks", "Graph Attention Networks", "Graph Autoencoders", "Graph Generative Models" ]
+  # 潜空间与语言模型（综述 arXiv:2604.02029）
+  "Latent Space LLM":
+    filters: [ "latent space", "continuous latent", "language-based model", "latent language model", "latent reasoning", "latent representation", "latent thought", "implicit reasoning", "latent planning", "latent memory", "continuous token", "soft token", "diffusion language model", "discretization bottleneck", "verbal trace", "explicit token" ]
