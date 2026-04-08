@@ -559,6 +559,7 @@ Action Recognition,2026-03-25,1,0,0.0
 Action Recognition,2026-03-31,1,0,0.0
 Action Recognition,2026-04-01,1,0,0.0
 Action Recognition,2026-04-02,1,0,0.0
+Action Recognition,2026-04-06,2,0,0.0
 Anomaly Detection,2024-02-25,1,0,0.0
 Anomaly Detection,2024-02-26,2,0,0.0
 Anomaly Detection,2024-02-27,4,0,0.0
@@ -1178,6 +1179,7 @@ Anomaly Detection,2026-03-30,4,0,0.0
 Anomaly Detection,2026-03-31,6,0,0.0
 Anomaly Detection,2026-04-01,5,0,0.0
 Anomaly Detection,2026-04-02,8,0,0.0
+Anomaly Detection,2026-04-06,2,0,0.0
 Audio Processing,2024-02-24,2,0,0.0
 Audio Processing,2024-02-26,2,1,0.5
 Audio Processing,2024-02-27,4,1,0.25
@@ -1781,6 +1783,7 @@ Audio Processing,2026-03-30,4,0,0.0
 Audio Processing,2026-03-31,5,0,0.0
 Audio Processing,2026-04-01,4,0,0.0
 Audio Processing,2026-04-02,2,0,0.0
+Audio Processing,2026-04-06,1,0,0.0
 Classification,2024-02-26,1,0,0.0
 Classification,2024-02-27,4,2,0.5
 Classification,2024-02-28,6,1,0.1667
@@ -3037,6 +3040,7 @@ Depth Estimation,2026-03-25,1,0,0.0
 Depth Estimation,2026-03-31,2,0,0.0
 Depth Estimation,2026-04-01,2,0,0.0
 Depth Estimation,2026-04-02,3,0,0.0
+Depth Estimation,2026-04-06,4,0,0.0
 Graph Neural Networks,2024-02-27,2,0,0.0
 Graph Neural Networks,2024-02-28,9,2,0.2222
 Graph Neural Networks,2024-02-29,8,4,0.5
@@ -3604,6 +3608,7 @@ Graph Neural Networks,2026-03-30,5,0,0.0
 Graph Neural Networks,2026-03-31,11,0,0.0
 Graph Neural Networks,2026-04-01,7,0,0.0
 Graph Neural Networks,2026-04-02,4,0,0.0
+Graph Neural Networks,2026-04-06,3,0,0.0
 Image Generation,2024-02-27,1,0,0.0
 Image Generation,2024-02-28,9,1,0.1111
 Image Generation,2024-02-29,10,3,0.3
@@ -4144,6 +4149,7 @@ Image Generation,2026-03-30,11,0,0.0
 Image Generation,2026-03-31,10,0,0.0
 Image Generation,2026-04-01,6,0,0.0
 Image Generation,2026-04-02,5,0,0.0
+Image Generation,2026-04-06,8,0,0.0
 LLM,2024-02-28,10,3,0.3
 LLM,2024-02-29,10,4,0.4
 LLM,2024-03-02,10,1,0.1
@@ -4562,6 +4568,8 @@ LLM,2026-03-30,71,0,0.0
 LLM,2026-03-31,70,0,0.0
 LLM,2026-04-01,81,0,0.0
 LLM,2026-04-02,83,0,0.0
+LLM,2026-04-06,59,0,0.0
+Latent Space LLM,2026-04-06,7,0,0.0
 Multimodal,2024-02-18,1,1,1.0
 Multimodal,2024-02-19,1,0,0.0
 Multimodal,2024-02-20,1,1,1.0
@@ -7243,6 +7251,7 @@ Pose Estimation,2026-03-30,1,0,0.0
 Pose Estimation,2026-03-31,3,0,0.0
 Pose Estimation,2026-04-01,2,0,0.0
 Pose Estimation,2026-04-02,4,0,0.0
+Pose Estimation,2026-04-06,4,0,0.0
 Reinforcement Learning,2024-02-28,10,1,0.1
 Reinforcement Learning,2024-02-29,10,2,0.2
 Reinforcement Learning,2024-03-01,5,0,0.0
@@ -7680,8 +7689,9 @@ Reinforcement Learning,2026-03-24,34,0,0.0
 Reinforcement Learning,2026-03-25,32,0,0.0
 Reinforcement Learning,2026-03-30,34,0,0.0
 Reinforcement Learning,2026-03-31,21,0,0.0
-Reinforcement Learning,2026-04-01,30,0,0.0
+Reinforcement Learning,2026-04-01,30,1,0.0333
 Reinforcement Learning,2026-04-02,29,0,0.0
+Reinforcement Learning,2026-04-06,29,0,0.0
 Scene Understanding,2024-02-21,1,1,1.0
 Scene Understanding,2024-02-22,2,1,0.5
 Scene Understanding,2024-02-23,1,0,0.0
@@ -8252,6 +8262,7 @@ Scene Understanding,2026-03-30,6,0,0.0
 Scene Understanding,2026-03-31,3,0,0.0
 Scene Understanding,2026-04-01,1,0,0.0
 Scene Understanding,2026-04-02,2,0,0.0
+Scene Understanding,2026-04-06,1,0,0.0
 Semantic Segmentation,2024-02-27,3,1,0.3333
 Semantic Segmentation,2024-02-28,6,1,0.1667
 Semantic Segmentation,2024-02-29,5,2,0.4
@@ -9410,3 +9421,4 @@ Transfer Learning,2026-03-30,46,0,0.0
 Transfer Learning,2026-03-31,43,0,0.0
 Transfer Learning,2026-04-01,51,0,0.0
 Transfer Learning,2026-04-02,38,0,0.0
+Transfer Learning,2026-04-06,29,0,0.0

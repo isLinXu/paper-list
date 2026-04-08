@@ -1,10 +1,10 @@
 ## LLM
 
-Total papers: **8211**
+Total papers: **8270**
 
 ## Monthly Archives
 
-- [2026-04](LLM/2026-04.md) (164 papers)
+- [2026-04](LLM/2026-04.md) (223 papers)
 - [2026-03](LLM/2026-03.md) (1108 papers)
 - [2026-02](LLM/2026-02.md) (850 papers)
 - [2026-01](LLM/2026-01.md) (1417 papers)

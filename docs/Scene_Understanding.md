@@ -1,10 +1,10 @@
 ## Scene Understanding
 
-Total papers: **1374**
+Total papers: **1375**
 
 ## Monthly Archives
 
-- [2026-04](Scene_Understanding/2026-04.md) (3 papers)
+- [2026-04](Scene_Understanding/2026-04.md) (4 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)
 - [2026-01](Scene_Understanding/2026-01.md) (39 papers)

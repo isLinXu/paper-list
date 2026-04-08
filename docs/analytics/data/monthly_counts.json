@@ -132,7 +132,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-04",
-    "count": 2
+    "count": 4
   },
   {
     "topic": "Anomaly Detection",
@@ -267,7 +267,7 @@
   {
     "topic": "Anomaly Detection",
     "date": "2026-04",
-    "count": 13
+    "count": 15
   },
   {
     "topic": "Audio Processing",
@@ -397,7 +397,7 @@
   {
     "topic": "Audio Processing",
     "date": "2026-04",
-    "count": 6
+    "count": 7
   },
   {
     "topic": "Classification",
@@ -667,7 +667,7 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "count": 5
+    "count": 9
   },
   {
     "topic": "Graph Neural Networks",
@@ -797,7 +797,7 @@
   {
     "topic": "Graph Neural Networks",
     "date": "2026-04",
-    "count": 11
+    "count": 14
   },
   {
     "topic": "Image Generation",
@@ -932,7 +932,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "count": 11
+    "count": 19
   },
   {
     "topic": "LLM",
@@ -1067,7 +1067,12 @@
   {
     "topic": "LLM",
     "date": "2026-04",
-    "count": 164
+    "count": 223
+  },
+  {
+    "topic": "Latent Space LLM",
+    "date": "2026-04",
+    "count": 7
   },
   {
     "topic": "Multimodal",
@@ -1737,7 +1742,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "count": 6
+    "count": 10
   },
   {
     "topic": "Reinforcement Learning",
@@ -1867,7 +1872,7 @@
   {
     "topic": "Reinforcement Learning",
     "date": "2026-04",
-    "count": 59
+    "count": 88
   },
   {
     "topic": "Scene Understanding",
@@ -2002,7 +2007,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "count": 3
+    "count": 4
   },
   {
     "topic": "Semantic Segmentation",
@@ -2257,6 +2262,6 @@
   {
     "topic": "Transfer Learning",
     "date": "2026-04",
-    "count": 89
+    "count": 118
   }
 ]

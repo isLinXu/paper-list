@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T00:13:15+00:00",
+  "generated_at": "2026-04-08T00:53:08+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -9,6 +9,7 @@
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
+    "Latent Space LLM",
     "Multimodal",
     "Object Detection",
     "Object Tracking",
@@ -20,7 +21,7 @@
     "Transfer Learning"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-04-02",
+  "max_date": "2026-04-06",
   "granularities": [
     "day",
     "month"
