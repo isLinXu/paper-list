@@ -1,10 +1,10 @@
 ## Audio Processing
 
-Total papers: **2242**
+Total papers: **2247**
 
 ## Monthly Archives
 
-- [2026-04](Audio_Processing/2026-04.md) (7 papers)
+- [2026-04](Audio_Processing/2026-04.md) (12 papers)
 - [2026-03](Audio_Processing/2026-03.md) (118 papers)
 - [2026-02](Audio_Processing/2026-02.md) (69 papers)
 - [2026-01](Audio_Processing/2026-01.md) (115 papers)

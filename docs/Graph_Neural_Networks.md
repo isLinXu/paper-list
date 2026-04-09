@@ -1,10 +1,10 @@
 ## Graph Neural Networks
 
-Total papers: **3586**
+Total papers: **3589**
 
 ## Monthly Archives
 
-- [2026-04](Graph_Neural_Networks/2026-04.md) (14 papers)
+- [2026-04](Graph_Neural_Networks/2026-04.md) (17 papers)
 - [2026-03](Graph_Neural_Networks/2026-03.md) (167 papers)
 - [2026-02](Graph_Neural_Networks/2026-02.md) (99 papers)
 - [2026-01](Graph_Neural_Networks/2026-01.md) (161 papers)

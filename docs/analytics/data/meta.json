@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T00:53:08+00:00",
+  "generated_at": "2026-04-09T00:13:40+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -21,7 +21,7 @@
     "Transfer Learning"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-04-06",
+  "max_date": "2026-04-07",
   "granularities": [
     "day",
     "month"

@@ -1,42 +1,42 @@
 [
   {
     "topic": "LLM",
-    "count": 3416,
+    "count": 3531,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 2438,
+    "count": 2485,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 1703,
+    "count": 1684,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 787,
+    "count": 781,
     "rank": 4
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 421,
+    "topic": "Anomaly Detection",
+    "count": 423,
     "rank": 5
   },
   {
-    "topic": "Anomaly Detection",
+    "topic": "Graph Neural Networks",
     "count": 420,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 335,
+    "count": 334,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 320,
+    "count": 316,
     "rank": 8
   },
   {
@@ -51,27 +51,27 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 189,
+    "count": 188,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 134,
+    "count": 132,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 108,
+    "count": 107,
     "rank": 13
   },
   {
     "topic": "Multimodal",
-    "count": 99,
+    "count": 104,
     "rank": 14
   },
   {
     "topic": "Action Recognition",
-    "count": 95,
+    "count": 93,
     "rank": 15
   },
   {
@@ -81,12 +81,12 @@
   },
   {
     "topic": "Object Tracking",
-    "count": 57,
+    "count": 58,
     "rank": 17
   },
   {
     "topic": "Latent Space LLM",
-    "count": 7,
+    "count": 15,
     "rank": 18
   }
 ]

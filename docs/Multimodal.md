@@ -1,10 +1,10 @@
 ## Multimodal
 
-Total papers: **944**
+Total papers: **949**
 
 ## Monthly Archives
 
-- [2026-04](Multimodal/2026-04.md) (2 papers)
+- [2026-04](Multimodal/2026-04.md) (7 papers)
 - [2026-03](Multimodal/2026-03.md) (54 papers)
 - [2026-02](Multimodal/2026-02.md) (8 papers)
 - [2026-01](Multimodal/2026-01.md) (40 papers)
