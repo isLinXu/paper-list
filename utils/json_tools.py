@@ -5,8 +5,16 @@ import os
 from collections import defaultdict
 
 from .paper_links import ensure_paper_record, render_paper_row
-from .sorts import sort_papers
 from .storage import load_paper_store
+
+
+def sort_papers(papers: dict) -> dict:
+    """Sort papers by key in reverse order (newest first)."""
+    output = {}
+    keys = sorted(papers.keys(), reverse=True)
+    for key in keys:
+        output[key] = papers[key]
+    return output
 
 
 def json_to_md(filename, md_filename,

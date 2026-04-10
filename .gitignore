@@ -159,3 +159,27 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /assets/
+
+# Generated artifacts (PWC pipeline outputs)
+analytics/
+architectures/
+benchmarks/
+data/
+datasets/
+docs/pwc/
+frameworks/
+methods/
+review/
+tasks/
+fetch_state.json
+bulk_sync_state.json
+local_seed_manifest.json
+manual_urls.txt
+default.html
+index.md
+site.css
+site.js
+pytest.ini
+
+# Local workbuddy memory (personal workspace state)
+.workbuddy/
