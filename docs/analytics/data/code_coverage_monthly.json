@@ -184,7 +184,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-04",
-    "total": 5,
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -373,7 +373,7 @@
   {
     "topic": "Anomaly Detection",
     "date": "2026-04",
-    "total": 22,
+    "total": 26,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -555,7 +555,7 @@
   {
     "topic": "Audio Processing",
     "date": "2026-04",
-    "total": 12,
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 9,
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -933,7 +933,7 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "total": 10,
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1115,7 +1115,7 @@
   {
     "topic": "Graph Neural Networks",
     "date": "2026-04",
-    "total": 17,
+    "total": 23,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1304,7 +1304,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 26,
+    "total": 36,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1493,14 +1493,14 @@
   {
     "topic": "LLM",
     "date": "2026-04",
-    "total": 338,
+    "total": 436,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Latent Space LLM",
     "date": "2026-04",
-    "total": 15,
+    "total": 26,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1871,7 +1871,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 13,
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2060,7 +2060,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 7,
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2438,7 +2438,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "total": 11,
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2620,9 +2620,9 @@
   {
     "topic": "Reinforcement Learning",
     "date": "2026-04",
-    "total": 115,
+    "total": 144,
     "code_covered": 1,
-    "code_coverage": 0.0087
+    "code_coverage": 0.0069
   },
   {
     "topic": "Scene Understanding",
@@ -2984,7 +2984,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 17,
+    "total": 23,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3166,7 +3166,7 @@
   {
     "topic": "Transfer Learning",
     "date": "2026-04",
-    "total": 168,
+    "total": 206,
     "code_covered": 0,
     "code_coverage": 0.0
   }
