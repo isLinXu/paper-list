@@ -9,6 +9,84 @@ This repository provides a daily-updated list of computer vision papers from arX
 
 Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)
 
+## PapersWithCode Archive Ingest
+
+This repository now includes a structured ingestion lane for archived PapersWithCode pages.
+Instead of storing scraped results as loose Markdown, the archive workflow keeps:
+
+- raw archived HTML and discovery manifests
+- normalized paper records with provenance
+- enrichment-ready fields such as repo languages, frameworks, and architecture labels
+- generated docs under `docs/pwc/`
+
+The repository now ships both:
+
+- `sample.json`: a schema example for development
+- `sample_live.json`: a real-world seed record for live OpenAlex and GitHub validation
+
+Recommended entry points:
+
+```bash
+python scripts/pwc_discover.py --input-html data/pwc_archive/raw/home.html --source-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/
+python scripts/pwc_cdx_discover.py --from-timestamp 20250101 --to-timestamp 20250630
+python scripts/pwc_seed_from_archive.py --archive-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/ --archive-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/sota --limit 20
+python scripts/pwc_fetch_archive.py --entity-type paper --limit 10
+python scripts/pwc_parse_pages.py --input-html data/pwc_archive/raw/example-paper.html --archive-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/paper/example-diffusion-transformer
+python scripts/pwc_enrich_openalex.py --mailto your-email@example.com
+python scripts/pwc_enrich_github.py
+python scripts/pwc_build_catalog.py
+```
+
+GitHub enrichment works best with a personal access token because unauthenticated API calls can hit rate limits quickly during batch runs:
+
+```bash
+export GITHUB_TOKEN=your_token_here
+python scripts/pwc_enrich_github.py --input data/pwc_archive/normalized/papers
+```
+
+If GitHub enrichment reports rate limiting, keep the current normalized files, set `GITHUB_TOKEN`, and rerun only the GitHub step before rebuilding the catalog.
+
+Or run a small end-to-end batch:
+
+```bash
+python scripts/pwc_run_pipeline.py --from-timestamp 20250101 --to-timestamp 20250630 --limit 5 --mailto your-email@example.com
+```
+
+If CDX is slow, bootstrap directly from archived entry pages:
+
+```bash
+python scripts/pwc_run_pipeline.py --seed-archive-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/ --seed-archive-url https://web.archive.org/web/20250616051252/https://paperswithcode.com/sota --limit 5
+```
+
+To resume after partial success, reuse local checkpoint files:
+
+```bash
+python scripts/pwc_run_pipeline.py --reuse-existing-manifest --reuse-existing-fetch-state --skip-openalex --skip-github
+```
+
+To avoid real-time Archive dependence, merge local seed sources and manual URLs:
+
+```bash
+python scripts/pwc_merge_seed_sources.py --manifest data/pwc_archive/staging/seed_manifest.json --manifest data/pwc_archive/staging/discovery_manifest.json
+python scripts/pwc_run_pipeline.py --use-local-seeds --limit 5
+```
+
+For resumable archive fetches across larger seed pools, use the bulk sync worker:
+
+```bash
+python scripts/pwc_bulk_sync.py --batch-size 5
+python scripts/pwc_bulk_sync.py --batch-size 5 --max-batches 4 --wait-between-batches 30
+```
+
+This worker writes live progress to:
+
+- `data/pwc_archive/staging/fetch_state.json`
+- `data/pwc_archive/staging/bulk_sync_state.json`
+
+If Wayback responds with `429` errors, keep the current state files and rerun later; the worker will respect cooldown windows and continue from the remaining eligible queue.
+
+Catalog page: [docs/pwc/index.md](docs/pwc/index.md)
+
 ## Analytics
 
 - Dashboard: [docs/analytics/](docs/analytics/)
