@@ -175,6 +175,9 @@ fetch_state.json
 bulk_sync_state.json
 local_seed_manifest.json
 manual_urls.txt
+data/pwc_archive/staging/paper_list.db
+data/pwc_archive/staging/paper_list.db-wal
+data/pwc_archive/staging/paper_list.db-shm
 default.html
 index.md
 site.css

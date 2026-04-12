@@ -1,5 +1,8 @@
 import argparse
+import json
+import math
 import os
+import random
 import sys
 import time
 from pathlib import Path
@@ -11,26 +14,106 @@ if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
 from utils.pwc_archive import dump_json, load_json, manifest_row_filename
+from utils.state_manager import (
+    upsert_fetch_row, update_fetch_status, increment_retry,
+    get_fetch_stats, get_blocked_rows, get_pending_rows,
+    get_checkpoint, upsert_checkpoint,
+)
 
 
-def fetch_archive_html(archive_url: str, max_retries: int = 3, backoff_seconds: float = 2.0) -> tuple[str, str]:
+# ---------------------------------------------------------------------------
+# Exponential backoff with jitter
+# ---------------------------------------------------------------------------
+
+def _jitter(base: float, attempt: int, cap: float = 64.0) -> float:
+    """Exponential backoff with full jitter.
+
+    Each retry sleeps for a random value in [base * 2^attempt / 2, base * 2^attempt],
+    capped at `cap` seconds.  This is the recommended approach for HTTP 429
+    handling (AWS architecture blog: Exponential Backoff And Jitter).
+    """
+    sleep_time = min(base * (2**attempt), cap)
+    return random.uniform(sleep_time / 2, sleep_time)
+
+
+def fetch_archive_html(
+    archive_url: str,
+    max_retries: int = 5,
+    base_delay: float = 1.0,
+    timeout: float = 45.0,
+) -> tuple[str, str]:
+    """
+    Fetch an archive URL with exponential backoff and jitter.
+
+    On 429 (rate-limited) responses, reads the Retry-After header if present,
+    otherwise applies exponential backoff with jitter.  On other HTTP errors
+    retries up to max_retries times.  Returns (html, final_url).
+    """
     last_error = None
     for attempt in range(max_retries):
-        response = requests.get(
-            archive_url,
-            timeout=45,
-            headers={"User-Agent": "paper-list/1.0", "Accept": "text/html,application/xhtml+xml"},
-        )
-        if response.status_code != 429:
+        try:
+            response = requests.get(
+                archive_url,
+                timeout=timeout,
+                headers={"User-Agent": "paper-list/1.0", "Accept": "text/html,application/xhtml+xml"},
+            )
+        except requests.RequestException as exc:
+            last_error = exc
+            # Network-level errors: retry with backoff
+            if attempt < max_retries - 1:
+                sleep_time = _jitter(base_delay, attempt)
+                time.sleep(sleep_time)
+            continue
+
+        if response.status_code == 429:
+            # Rate-limited — respect Retry-After if provided, else backoff
+            retry_after = response.headers.get("Retry-After")
+            if retry_after:
+                try:
+                    sleep_seconds = float(retry_after)
+                except ValueError:
+                    sleep_seconds = _jitter(base_delay, attempt)
+            else:
+                sleep_seconds = _jitter(base_delay, attempt)
+            time.sleep(sleep_seconds)
+            last_error = requests.HTTPError(
+                f"429 Too Many Requests (attempt {attempt + 1}/{max_retries})",
+                response=response,
+            )
+            continue
+
+        if response.status_code >= 400:
             response.raise_for_status()
+            # 4xx other than 429 — don't retry
             return response.text, response.url
-        last_error = requests.HTTPError(f"429 Client Error: Too Many Requests for url: {response.url}", response=response)
-        retry_after = response.headers.get("Retry-After")
-        sleep_seconds = float(retry_after) if retry_after else backoff_seconds * (attempt + 1)
-        time.sleep(sleep_seconds)
+
+        # 2xx
+        return response.text, response.url
+
     if last_error:
         raise last_error
-    raise RuntimeError(f"Unable to fetch archive URL: {archive_url}")
+    raise RuntimeError(f"Unable to fetch archive URL after {max_retries} attempts: {archive_url}")
+
+
+# ---------------------------------------------------------------------------
+# SQLite-backed state helpers
+# ---------------------------------------------------------------------------
+
+def _load_manifest_or_checkpoint(manifest_path: Path) -> list[dict]:
+    """Load manifest, or return empty list if file is missing."""
+    if manifest_path.exists():
+        return load_json(manifest_path, [])
+    return []
+
+
+def _init_fetch_state_from_manifest(manifest: list[dict]) -> None:
+    """Pre-seed the SQLite fetch_log with any manifest rows not yet tracked."""
+    for row in manifest:
+        upsert_fetch_row(
+            archive_url=row.get("archive_url", ""),
+            entity_type=row.get("entity_type"),
+            fetch_status="pending",
+        )
 
 
 def main() -> None:
@@ -47,59 +130,126 @@ def main() -> None:
         default=Path("data/pwc_archive/raw/html"),
         help="Directory for archived HTML files.",
     )
-    parser.add_argument("--limit", type=int, default=20, help="Maximum number of rows to fetch in one run.")
+    parser.add_argument("--limit", type=int, default=20, help="Maximum rows to fetch per run (0=unlimited).")
     parser.add_argument("--entity-type", default=None, help="Optional entity type filter, e.g. paper")
-    parser.add_argument("--sleep-seconds", type=float, default=1.0, help="Delay between requests.")
-    parser.add_argument("--max-retries", type=int, default=3, help="Retry count for 429 or transient fetch failures.")
-    parser.add_argument("--continue-on-error", action="store_true", help="Skip archive pages that fail to fetch.")
+    parser.add_argument("--sleep-seconds", type=float, default=1.0, help="Delay between successful requests.")
+    parser.add_argument("--max-retries", type=int, default=5, help="Max retry attempts per row on 429/transient errors.")
+    parser.add_argument("--base-delay", type=float, default=1.0, help="Base delay (seconds) for exponential backoff.")
+    parser.add_argument("--continue-on-error", action="store_true", help="Skip rows that fail after all retries.")
     parser.add_argument(
-        "--state-output",
-        type=Path,
-        default=Path("data/pwc_archive/staging/fetch_state.json"),
-        help="Output JSON file describing fetched rows.",
+        "--show-stats",
+        action="store_true",
+        help="Print aggregate fetch statistics before exiting.",
+    )
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Resume from SQLite state instead of manifest (ignore already-fetched rows).",
     )
     args = parser.parse_args()
 
-    manifest = load_json(args.manifest, [])
+    manifest = _load_manifest_or_checkpoint(args.manifest)
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    fetched_rows = []
-    count = 0
+
+    # Pre-seed SQLite with manifest rows
+    _init_fetch_state_from_manifest(manifest)
+
+    run_id = f"run_{int(time.time())}"
+    total = len(manifest)
     success_count = 0
     cached_count = 0
     error_count = 0
+    rate_limited_count = 0
 
-    for row in manifest:
-        if args.entity_type and row.get("entity_type") != args.entity_type:
+    # Choose rows to process
+    if args.resume:
+        rows_to_fetch = [
+            r for r in get_pending_rows(limit=args.limit or 1000)
+            if args.entity_type is None or r.get("entity_type") == args.entity_type
+        ]
+    else:
+        rows_to_fetch = [
+            r for r in manifest
+            if args.entity_type is None or r.get("entity_type") == args.entity_type
+        ]
+        if args.limit > 0:
+            rows_to_fetch = rows_to_fetch[: args.limit]
+
+    processed = 0
+    for row in rows_to_fetch:
+        archive_url = row.get("archive_url", "")
+        if not archive_url:
             continue
-        if count >= args.limit:
-            break
 
         output_path = args.output_dir / manifest_row_filename(row)
+
+        # Already fetched and cached on disk
         if output_path.exists():
-            fetched_rows.append({**row, "raw_html_path": str(output_path), "fetch_status": "cached"})
-            count += 1
+            update_fetch_status(archive_url, "cached", raw_html_path=str(output_path))
             cached_count += 1
+            processed += 1
             continue
 
+        # Attempt fetch
         try:
-            html, final_url = fetch_archive_html(row["archive_url"], max_retries=args.max_retries)
-        except requests.RequestException as exc:
-            fetched_rows.append({**row, "fetch_status": "error", "error": str(exc)})
-            count += 1
-            error_count += 1
+            html, final_url = fetch_archive_html(
+                archive_url,
+                max_retries=args.max_retries,
+                base_delay=args.base_delay,
+            )
+        except requests.HTTPError as exc:
+            if exc.response is not None and exc.response.status_code == 429:
+                update_fetch_status(archive_url, "rate_limited", last_error=str(exc), http_status=429)
+                rate_limited_count += 1
+            else:
+                update_fetch_status(archive_url, "error", last_error=str(exc))
+                error_count += 1
+            processed += 1
             if not args.continue_on_error:
                 raise
             continue
+        except requests.RequestException as exc:
+            update_fetch_status(archive_url, "error", last_error=str(exc))
+            error_count += 1
+            processed += 1
+            if not args.continue_on_error:
+                raise
+            continue
+
+        # Success
         output_path.write_text(html, encoding="utf-8")
-        fetched_rows.append({**row, "raw_html_path": str(output_path), "archive_url": final_url, "fetch_status": "fetched"})
-        count += 1
+        update_fetch_status(archive_url, "fetched", raw_html_path=str(output_path))
         success_count += 1
+        processed += 1
         time.sleep(args.sleep_seconds)
 
-    dump_json(args.state_output, fetched_rows)
-    print(
-        f"Archive fetch summary: success={success_count}, cached={cached_count}, error={error_count}, total={len(fetched_rows)}"
+        # Checkpoint every 10 rows
+        if processed % 10 == 0:
+            upsert_checkpoint(
+                "archive_fetch",
+                run_id,
+                total_rows=len(rows_to_fetch),
+                processed_rows=processed,
+                failed_rows=error_count + rate_limited_count,
+            )
+
+    # Final checkpoint
+    upsert_checkpoint(
+        "archive_fetch",
+        run_id,
+        total_rows=len(rows_to_fetch),
+        processed_rows=processed,
+        failed_rows=error_count + rate_limited_count,
     )
+
+    print(
+        f"Archive fetch summary: success={success_count}, cached={cached_count}, "
+        f"rate_limited={rate_limited_count}, error={error_count}, total={processed}"
+    )
+
+    if args.show_stats:
+        stats = get_fetch_stats()
+        print(f"SQLite stats: {stats}")
 
 
 if __name__ == "__main__":
