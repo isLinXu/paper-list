@@ -184,7 +184,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-04",
-    "total": 7,
+    "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 20,
+    "total": 22,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -933,7 +933,14 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "total": 20,
+    "total": 23,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-04",
+    "total": 25,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1304,7 +1311,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 48,
+    "total": 58,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1694,6 +1701,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Neural Rendering",
+    "date": "2026-04",
+    "total": 9,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Detection",
     "date": "2024-02",
     "total": 20,
@@ -1871,7 +1885,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 21,
+    "total": 28,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2060,7 +2074,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 8,
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2249,7 +2263,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04",
-    "total": 9,
+    "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2438,7 +2452,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "total": 15,
+    "total": 18,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2809,7 +2823,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "total": 8,
+    "total": 15,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2984,7 +2998,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 26,
+    "total": 39,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3167,6 +3181,13 @@
     "topic": "Transfer Learning",
     "date": "2026-04",
     "total": 255,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-04",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   }

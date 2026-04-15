@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 856,
+    "count": 866,
     "rank": 4
   },
   {
@@ -31,37 +31,37 @@
   },
   {
     "topic": "Object Detection",
-    "count": 371,
+    "count": 378,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 345,
+    "count": 347,
     "rank": 8
   },
   {
-    "topic": "Audio Processing",
+    "topic": "Semantic Segmentation",
     "count": 317,
     "rank": 9
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 304,
+    "topic": "Audio Processing",
+    "count": 317,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 201,
+    "count": 204,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 142,
+    "count": 149,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 129,
+    "count": 132,
     "rank": 13
   },
   {
@@ -71,22 +71,32 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 102,
+    "count": 105,
     "rank": 15
   },
   {
     "topic": "Optical Flow",
-    "count": 69,
+    "count": 70,
     "rank": 16
   },
   {
     "topic": "Object Tracking",
-    "count": 64,
+    "count": 69,
     "rank": 17
   },
   {
     "topic": "Latent Space LLM",
     "count": 40,
     "rank": 18
+  },
+  {
+    "topic": "Diffusion Models",
+    "count": 25,
+    "rank": 19
+  },
+  {
+    "topic": "Video Understanding",
+    "count": 13,
+    "rank": 20
   }
 ]

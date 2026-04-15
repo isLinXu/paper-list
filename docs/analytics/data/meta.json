@@ -1,16 +1,18 @@
 {
-  "generated_at": "2026-04-14T01:48:33+00:00",
+  "generated_at": "2026-04-15T01:44:02+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
     "Classification",
     "Depth Estimation",
+    "Diffusion Models",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
     "Latent Space LLM",
     "Multimodal",
+    "Neural Rendering",
     "Object Detection",
     "Object Tracking",
     "Optical Flow",
@@ -18,10 +20,11 @@
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Transfer Learning"
+    "Transfer Learning",
+    "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-04-09",
+  "max_date": "2026-04-13",
   "granularities": [
     "day",
     "month"
