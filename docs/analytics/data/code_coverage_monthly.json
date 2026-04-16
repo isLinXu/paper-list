@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 22,
+    "total": 29,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -933,14 +933,14 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "total": 23,
+    "total": 24,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Diffusion Models",
     "date": "2026-04",
-    "total": 25,
+    "total": 45,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1311,7 +1311,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 58,
+    "total": 71,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1703,7 +1703,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-04",
-    "total": 9,
+    "total": 17,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1885,7 +1885,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 28,
+    "total": 31,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2074,7 +2074,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 13,
+    "total": 21,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2263,7 +2263,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04",
-    "total": 10,
+    "total": 11,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2452,7 +2452,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "total": 18,
+    "total": 20,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2635,8 +2635,8 @@
     "topic": "Reinforcement Learning",
     "date": "2026-04",
     "total": 185,
-    "code_covered": 1,
-    "code_coverage": 0.0054
+    "code_covered": 4,
+    "code_coverage": 0.0216
   },
   {
     "topic": "Scene Understanding",
@@ -2823,7 +2823,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "total": 15,
+    "total": 20,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2998,7 +2998,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 39,
+    "total": 47,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3187,7 +3187,7 @@
   {
     "topic": "Video Understanding",
     "date": "2026-04",
-    "total": 13,
+    "total": 25,
     "code_covered": 0,
     "code_coverage": 0.0
   }
