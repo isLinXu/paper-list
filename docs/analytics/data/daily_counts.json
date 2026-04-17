@@ -2825,6 +2825,11 @@
     "count": 3
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-04-15",
+    "count": 4
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "count": 1
@@ -15305,6 +15310,11 @@
     "count": 1
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-04-15",
+    "count": 1
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -20900,6 +20910,11 @@
     "count": 13
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-04-15",
+    "count": 12
+  },
+  {
     "topic": "LLM",
     "date": "2024-02-28",
     "count": 10
@@ -25475,6 +25490,11 @@
     "count": 8
   },
   {
+    "topic": "Neural Rendering",
+    "date": "2026-04-15",
+    "count": 6
+  },
+  {
     "topic": "Object Detection",
     "date": "2024-02-27",
     "count": 3
@@ -28555,6 +28575,11 @@
     "count": 3
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-04-15",
+    "count": 4
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "count": 2
@@ -30857,6 +30882,11 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04-14",
+    "count": 8
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-04-15",
     "count": 8
   },
   {
@@ -36535,6 +36565,11 @@
     "count": 2
   },
   {
+    "topic": "Pose Estimation",
+    "date": "2026-04-15",
+    "count": 2
+  },
+  {
     "topic": "Reinforcement Learning",
     "date": "2024-02-28",
     "count": 10
@@ -41625,6 +41660,11 @@
     "count": 5
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-04-15",
+    "count": 3
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "count": 3
@@ -44775,6 +44815,11 @@
     "count": 8
   },
   {
+    "topic": "Semantic Segmentation",
+    "date": "2026-04-15",
+    "count": 7
+  },
+  {
     "topic": "Transfer Learning",
     "date": "2024-02-28",
     "count": 9
@@ -47468,5 +47513,10 @@
     "topic": "Video Understanding",
     "date": "2026-04-14",
     "count": 12
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-04-15",
+    "count": 5
   }
 ]
