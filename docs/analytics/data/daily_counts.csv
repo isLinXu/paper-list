@@ -565,6 +565,7 @@ Action Recognition,2026-04-08,1
 Action Recognition,2026-04-09,1
 Action Recognition,2026-04-13,3
 Action Recognition,2026-04-15,4
+Action Recognition,2026-04-16,4
 Anomaly Detection,2024-02-25,1
 Anomaly Detection,2024-02-26,2
 Anomaly Detection,2024-02-27,4
@@ -2495,6 +2496,7 @@ Classification,2026-04-08,4
 Classification,2026-04-09,7
 Classification,2026-04-13,2
 Classification,2026-04-14,7
+Classification,2026-04-16,6
 Depth Estimation,2024-02-19,2
 Depth Estimation,2024-02-21,1
 Depth Estimation,2024-02-22,2
@@ -3062,8 +3064,10 @@ Depth Estimation,2026-04-09,6
 Depth Estimation,2026-04-13,3
 Depth Estimation,2026-04-14,1
 Depth Estimation,2026-04-15,1
+Depth Estimation,2026-04-16,1
 Diffusion Models,2026-04-13,25
 Diffusion Models,2026-04-14,20
+Diffusion Models,2026-04-16,16
 Graph Neural Networks,2024-02-27,2
 Graph Neural Networks,2024-02-28,9
 Graph Neural Networks,2024-02-29,8
@@ -4182,6 +4186,7 @@ Image Generation,2026-04-09,12
 Image Generation,2026-04-13,10
 Image Generation,2026-04-14,13
 Image Generation,2026-04-15,12
+Image Generation,2026-04-16,9
 LLM,2024-02-28,10
 LLM,2024-02-29,10
 LLM,2024-03-02,10
@@ -5098,6 +5103,7 @@ Multimodal,2026-04-07,5
 Neural Rendering,2026-04-13,9
 Neural Rendering,2026-04-14,8
 Neural Rendering,2026-04-15,6
+Neural Rendering,2026-04-16,5
 Object Detection,2024-02-27,3
 Object Detection,2024-02-28,8
 Object Detection,2024-02-29,9
@@ -5715,6 +5721,7 @@ Object Detection,2026-04-09,7
 Object Detection,2026-04-13,7
 Object Detection,2026-04-14,3
 Object Detection,2026-04-15,4
+Object Detection,2026-04-16,7
 Object Tracking,2024-02-24,2
 Object Tracking,2024-02-26,3
 Object Tracking,2024-02-27,2
@@ -6177,6 +6184,7 @@ Object Tracking,2026-04-08,1
 Object Tracking,2026-04-13,5
 Object Tracking,2026-04-14,8
 Object Tracking,2026-04-15,8
+Object Tracking,2026-04-16,4
 Optical Flow,2024-02-09,1
 Optical Flow,2024-02-12,1
 Optical Flow,2024-02-14,1
@@ -6648,6 +6656,7 @@ Optical Flow,2026-04-01,1
 Optical Flow,2026-04-02,8
 Optical Flow,2026-04-13,1
 Optical Flow,2026-04-14,1
+Optical Flow,2026-04-16,1
 Pose Estimation,2024-02-25,1
 Pose Estimation,2024-02-26,4
 Pose Estimation,2024-02-27,1
@@ -7313,6 +7322,7 @@ Pose Estimation,2026-04-09,1
 Pose Estimation,2026-04-13,3
 Pose Estimation,2026-04-14,2
 Pose Estimation,2026-04-15,2
+Pose Estimation,2026-04-16,3
 Reinforcement Learning,2024-02-28,10
 Reinforcement Learning,2024-02-29,10
 Reinforcement Learning,2024-03-01,5
@@ -8332,6 +8342,7 @@ Scene Understanding,2026-04-09,3
 Scene Understanding,2026-04-13,7
 Scene Understanding,2026-04-14,5
 Scene Understanding,2026-04-15,3
+Scene Understanding,2026-04-16,2
 Semantic Segmentation,2024-02-27,3
 Semantic Segmentation,2024-02-28,6
 Semantic Segmentation,2024-02-29,5
@@ -8963,6 +8974,7 @@ Semantic Segmentation,2026-04-09,3
 Semantic Segmentation,2026-04-13,13
 Semantic Segmentation,2026-04-14,8
 Semantic Segmentation,2026-04-15,7
+Semantic Segmentation,2026-04-16,4
 Transfer Learning,2024-02-28,9
 Transfer Learning,2024-02-29,5
 Transfer Learning,2024-03-01,5
@@ -9503,3 +9515,4 @@ Transfer Learning,2026-04-09,49
 Video Understanding,2026-04-13,13
 Video Understanding,2026-04-14,12
 Video Understanding,2026-04-15,5
+Video Understanding,2026-04-16,10
