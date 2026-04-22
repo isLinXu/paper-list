@@ -1,62 +1,62 @@
 [
   {
     "topic": "LLM",
-    "count": 3344,
+    "count": 3136,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 2175,
+    "count": 2072,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 1491,
+    "count": 1436,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 780,
+    "count": 777,
     "rank": 4
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 387,
+    "topic": "Anomaly Detection",
+    "count": 363,
     "rank": 5
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 382,
+    "topic": "Graph Neural Networks",
+    "count": 363,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 338,
+    "count": 333,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 312,
+    "count": 305,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 288,
+    "count": 285,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 268,
+    "count": 255,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 190,
+    "count": 187,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 138,
+    "count": 141,
     "rank": 12
   },
   {
@@ -66,36 +66,36 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 91,
+    "count": 92,
     "rank": 14
   },
   {
-    "topic": "Multimodal",
-    "count": 88,
+    "topic": "Diffusion Models",
+    "count": 86,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 79,
+    "count": 85,
     "rank": 16
   },
   {
-    "topic": "Optical Flow",
-    "count": 64,
+    "topic": "Multimodal",
+    "count": 85,
     "rank": 17
   },
   {
-    "topic": "Diffusion Models",
+    "topic": "Optical Flow",
     "count": 61,
     "rank": 18
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Video Understanding",
+    "count": 52,
     "rank": 19
   },
   {
-    "topic": "Video Understanding",
+    "topic": "Latent Space LLM",
     "count": 40,
     "rank": 20
   }

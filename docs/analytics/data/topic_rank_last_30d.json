@@ -1,77 +1,77 @@
 [
   {
     "topic": "LLM",
-    "count": 1092,
+    "count": 1033,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 675,
+    "count": 506,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 507,
+    "count": 364,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 211,
+    "count": 175,
     "rank": 4
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 113,
+    "count": 92,
     "rank": 5
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 107,
+    "topic": "Diffusion Models",
+    "count": 86,
     "rank": 6
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 99,
+    "topic": "Object Detection",
+    "count": 82,
     "rank": 7
   },
   {
-    "topic": "Object Detection",
-    "count": 89,
+    "topic": "Anomaly Detection",
+    "count": 78,
     "rank": 8
   },
   {
-    "topic": "Classification",
-    "count": 80,
+    "topic": "Graph Neural Networks",
+    "count": 73,
     "rank": 9
   },
   {
-    "topic": "Diffusion Models",
-    "count": 61,
+    "topic": "Classification",
+    "count": 62,
     "rank": 10
   },
   {
-    "topic": "Pose Estimation",
-    "count": 56,
+    "topic": "Video Understanding",
+    "count": 52,
     "rank": 11
   },
   {
     "topic": "Audio Processing",
-    "count": 55,
+    "count": 47,
     "rank": 12
   },
   {
     "topic": "Scene Understanding",
-    "count": 53,
+    "count": 46,
     "rank": 13
   },
   {
-    "topic": "Depth Estimation",
-    "count": 43,
+    "topic": "Object Tracking",
+    "count": 45,
     "rank": 14
   },
   {
-    "topic": "Object Tracking",
-    "count": 41,
+    "topic": "Pose Estimation",
+    "count": 44,
     "rank": 15
   },
   {
@@ -80,23 +80,23 @@
     "rank": 16
   },
   {
-    "topic": "Video Understanding",
-    "count": 40,
+    "topic": "Depth Estimation",
+    "count": 35,
     "rank": 17
   },
   {
-    "topic": "Action Recognition",
-    "count": 31,
+    "topic": "Neural Rendering",
+    "count": 35,
     "rank": 18
   },
   {
-    "topic": "Multimodal",
-    "count": 30,
+    "topic": "Action Recognition",
+    "count": 32,
     "rank": 19
   },
   {
-    "topic": "Neural Rendering",
-    "count": 28,
+    "topic": "Multimodal",
+    "count": 20,
     "rank": 20
   }
 ]

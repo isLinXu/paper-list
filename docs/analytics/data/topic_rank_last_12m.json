@@ -1,101 +1,101 @@
 [
   {
     "topic": "LLM",
-    "count": 5854,
+    "count": 5814,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 4128,
+    "count": 4101,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 3443,
+    "count": 3403,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 1902,
+    "count": 1885,
     "rank": 4
   },
   {
     "topic": "Classification",
-    "count": 1456,
+    "count": 1438,
     "rank": 5
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 1371,
+    "count": 1349,
     "rank": 6
   },
   {
     "topic": "Anomaly Detection",
-    "count": 1271,
+    "count": 1252,
     "rank": 7
   },
   {
     "topic": "Object Detection",
-    "count": 1261,
+    "count": 1243,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 1037,
+    "count": 1028,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 954,
+    "count": 946,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 885,
+    "count": 877,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 735,
+    "count": 739,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 581,
+    "count": 571,
     "rank": 13
   },
   {
     "topic": "Multimodal",
-    "count": 549,
+    "count": 543,
     "rank": 14
   },
   {
     "topic": "Action Recognition",
-    "count": 487,
+    "count": 486,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 407,
+    "count": 408,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 399,
+    "count": 398,
     "rank": 17
   },
   {
     "topic": "Diffusion Models",
-    "count": 61,
+    "count": 86,
     "rank": 18
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Video Understanding",
+    "count": 52,
     "rank": 19
   },
   {
-    "topic": "Video Understanding",
+    "topic": "Latent Space LLM",
     "count": 40,
     "rank": 20
   }

@@ -184,7 +184,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-04",
-    "total": 18,
+    "total": 25,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 35,
+    "total": 38,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -940,7 +940,7 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-04",
-    "total": 61,
+    "total": 86,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1311,7 +1311,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 92,
+    "total": 105,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1703,7 +1703,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-04",
-    "total": 28,
+    "total": 35,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1885,7 +1885,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 42,
+    "total": 50,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2074,7 +2074,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 33,
+    "total": 39,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2263,7 +2263,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04",
-    "total": 12,
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2452,7 +2452,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "total": 25,
+    "total": 29,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2823,7 +2823,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "total": 25,
+    "total": 31,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2998,7 +2998,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 58,
+    "total": 63,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3187,7 +3187,7 @@
   {
     "topic": "Video Understanding",
     "date": "2026-04",
-    "total": 40,
+    "total": 52,
     "code_covered": 0,
     "code_coverage": 0.0
   }
