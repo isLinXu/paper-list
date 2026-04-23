@@ -6,7 +6,7 @@
   },
   {
     "topic": "Transfer Learning",
-    "count": 4101,
+    "count": 4100,
     "rank": 2
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 1885,
+    "count": 1895,
     "rank": 4
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "topic": "Anomaly Detection",
-    "count": 1252,
+    "count": 1248,
     "rank": 7
   },
   {
     "topic": "Object Detection",
-    "count": 1243,
+    "count": 1244,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 1028,
+    "count": 1034,
     "rank": 9
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 877,
+    "count": 878,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 739,
+    "count": 746,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 571,
+    "count": 572,
     "rank": 13
   },
   {
@@ -71,32 +71,32 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 486,
+    "count": 487,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 408,
+    "count": 409,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 398,
+    "count": 399,
     "rank": 17
   },
   {
     "topic": "Diffusion Models",
-    "count": 86,
+    "count": 102,
     "rank": 18
   },
   {
     "topic": "Video Understanding",
-    "count": 52,
+    "count": 65,
     "rank": 19
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Neural Rendering",
+    "count": 42,
     "rank": 20
   }
 ]
