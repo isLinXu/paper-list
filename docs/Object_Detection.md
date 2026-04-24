@@ -1,10 +1,10 @@
 ## Object Detection
 
-Total papers: **3234**
+Total papers: **3238**
 
 ## Monthly Archives
 
-- [2026-04](Object_Detection/2026-04.md) (52 papers)
+- [2026-04](Object_Detection/2026-04.md) (56 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
 - [2026-02](Object_Detection/2026-02.md) (103 papers)
 - [2026-01](Object_Detection/2026-01.md) (99 papers)
