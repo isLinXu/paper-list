@@ -1,27 +1,27 @@
 [
   {
     "topic": "LLM",
-    "count": 884,
+    "count": 764,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 434,
+    "count": 385,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 306,
+    "count": 272,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 177,
+    "count": 173,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 118,
+    "count": 134,
     "rank": 5
   },
   {
@@ -30,73 +30,73 @@
     "rank": 6
   },
   {
-    "topic": "Object Detection",
-    "count": 82,
+    "topic": "Video Understanding",
+    "count": 88,
     "rank": 7
   },
   {
-    "topic": "Video Understanding",
-    "count": 76,
+    "topic": "Object Detection",
+    "count": 77,
     "rank": 8
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 63,
+    "topic": "Classification",
+    "count": 57,
     "rank": 9
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 63,
+    "topic": "Scene Understanding",
+    "count": 56,
     "rank": 10
   },
   {
-    "topic": "Classification",
-    "count": 61,
+    "topic": "Graph Neural Networks",
+    "count": 55,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 53,
+    "topic": "Object Tracking",
+    "count": 49,
     "rank": 12
   },
   {
-    "topic": "Object Tracking",
-    "count": 46,
+    "topic": "Neural Rendering",
+    "count": 48,
     "rank": 13
   },
   {
-    "topic": "Pose Estimation",
-    "count": 43,
+    "topic": "Anomaly Detection",
+    "count": 46,
     "rank": 14
-  },
-  {
-    "topic": "Neural Rendering",
-    "count": 43,
-    "rank": 15
   },
   {
     "topic": "Latent Space LLM",
     "count": 40,
-    "rank": 16
+    "rank": 15
   },
   {
-    "topic": "Audio Processing",
-    "count": 38,
-    "rank": 17
+    "topic": "Pose Estimation",
+    "count": 37,
+    "rank": 16
   },
   {
     "topic": "Depth Estimation",
     "count": 35,
-    "rank": 18
+    "rank": 17
   },
   {
     "topic": "Action Recognition",
-    "count": 33,
+    "count": 32,
+    "rank": 18
+  },
+  {
+    "topic": "Audio Processing",
+    "count": 31,
     "rank": 19
   },
   {
     "topic": "Optical Flow",
-    "count": 20,
+    "count": 18,
     "rank": 20
   }
 ]

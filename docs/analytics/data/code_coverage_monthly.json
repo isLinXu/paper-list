@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 43,
+    "total": 45,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -933,14 +933,14 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "total": 29,
+    "total": 32,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Diffusion Models",
     "date": "2026-04",
-    "total": 118,
+    "total": 134,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1311,7 +1311,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 128,
+    "total": 138,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1703,7 +1703,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-04",
-    "total": 43,
+    "total": 48,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1885,7 +1885,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 56,
+    "total": 62,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2074,7 +2074,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 44,
+    "total": 48,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2823,7 +2823,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "total": 41,
+    "total": 45,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2998,7 +2998,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 74,
+    "total": 75,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3187,7 +3187,7 @@
   {
     "topic": "Video Understanding",
     "date": "2026-04",
-    "total": 76,
+    "total": 88,
     "code_covered": 0,
     "code_coverage": 0.0
   }
