@@ -15,87 +15,87 @@
     "rank": 3
   },
   {
-    "author": "Yu Li",
+    "author": "Yu Wang",
     "count": 6,
     "rank": 4
   },
   {
-    "author": "Yu Wang",
+    "author": "Wei Zhu",
     "count": 6,
     "rank": 5
   },
   {
-    "author": "Wei Zhu",
+    "author": "Jie Cao",
     "count": 6,
     "rank": 6
   },
   {
-    "author": "Jie Cao",
-    "count": 6,
-    "rank": 7
-  },
-  {
     "author": "Markus Gross",
     "count": 5,
-    "rank": 8
+    "rank": 7
   },
   {
     "author": "Xiaojie Gu",
     "count": 5,
-    "rank": 9
+    "rank": 8
   },
   {
     "author": "Tao Liu",
     "count": 5,
-    "rank": 10
-  },
-  {
-    "author": "John J. Han",
-    "count": 5,
-    "rank": 11
+    "rank": 9
   },
   {
     "author": "Hao Wang",
     "count": 5,
-    "rank": 12
-  },
-  {
-    "author": "Yida Lin",
-    "count": 5,
-    "rank": 13
+    "rank": 10
   },
   {
     "author": "Abdullah Al Masud",
     "count": 5,
-    "rank": 14
+    "rank": 11
+  },
+  {
+    "author": "Yu Li",
+    "count": 5,
+    "rank": 12
   },
   {
     "author": "Kyeonghun Kim",
     "count": 5,
-    "rank": 15
+    "rank": 13
   },
   {
     "author": "Haoyu Wang",
     "count": 5,
-    "rank": 16
+    "rank": 14
   },
   {
     "author": "Sergio Burdisso",
     "count": 5,
-    "rank": 17
-  },
-  {
-    "author": "Mingyang Song",
-    "count": 5,
-    "rank": 18
+    "rank": 15
   },
   {
     "author": "Haobo Zhang",
     "count": 5,
-    "rank": 19
+    "rank": 16
   },
   {
     "author": "Shohei Enomoto",
+    "count": 4,
+    "rank": 17
+  },
+  {
+    "author": "Prakhar Kaushik",
+    "count": 4,
+    "rank": 18
+  },
+  {
+    "author": "Wenjie Wei",
+    "count": 4,
+    "rank": 19
+  },
+  {
+    "author": "Nishat Raihan",
     "count": 4,
     "rank": 20
   }

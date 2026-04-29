@@ -744,7 +744,7 @@
   {
     "topic": "Classification",
     "date": "2026-04",
-    "total": 45,
+    "total": 48,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -933,14 +933,14 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-04",
-    "total": 32,
+    "total": 33,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Diffusion Models",
     "date": "2026-04",
-    "total": 134,
+    "total": 141,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1311,7 +1311,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-04",
-    "total": 138,
+    "total": 148,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1703,7 +1703,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-04",
-    "total": 48,
+    "total": 51,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1885,7 +1885,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-04",
-    "total": 62,
+    "total": 66,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2074,7 +2074,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-04",
-    "total": 48,
+    "total": 57,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2263,7 +2263,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04",
-    "total": 15,
+    "total": 17,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2452,7 +2452,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-04",
-    "total": 32,
+    "total": 35,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2823,7 +2823,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-04",
-    "total": 45,
+    "total": 48,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2998,7 +2998,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04",
-    "total": 75,
+    "total": 83,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3187,7 +3187,7 @@
   {
     "topic": "Video Understanding",
     "date": "2026-04",
-    "total": 88,
+    "total": 90,
     "code_covered": 0,
     "code_coverage": 0.0
   }

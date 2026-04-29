@@ -1,10 +1,10 @@
 ## Object Tracking
 
-Total papers: **853**
+Total papers: **862**
 
 ## Monthly Archives
 
-- [2026-04](Object_Tracking/2026-04.md) (48 papers)
+- [2026-04](Object_Tracking/2026-04.md) (57 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
 - [2026-02](Object_Tracking/2026-02.md) (16 papers)
 - [2026-01](Object_Tracking/2026-01.md) (14 papers)
