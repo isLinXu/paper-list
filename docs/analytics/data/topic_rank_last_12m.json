@@ -6,7 +6,7 @@
   },
   {
     "topic": "Transfer Learning",
-    "count": 4058,
+    "count": 4055,
     "rank": 2
   },
   {
@@ -16,42 +16,42 @@
   },
   {
     "topic": "Image Generation",
-    "count": 1899,
+    "count": 1904,
     "rank": 4
   },
   {
     "topic": "Classification",
-    "count": 1436,
+    "count": 1442,
     "rank": 5
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 1308,
+    "count": 1304,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 1234,
+    "count": 1237,
     "rank": 7
   },
   {
     "topic": "Anomaly Detection",
-    "count": 1213,
+    "count": 1210,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 1026,
+    "count": 1030,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 936,
+    "count": 934,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 864,
+    "count": 865,
     "rank": 11
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "topic": "Depth Estimation",
-    "count": 570,
+    "count": 571,
     "rank": 13
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 484,
+    "count": 486,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 421,
+    "count": 426,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 397,
+    "count": 396,
     "rank": 17
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "topic": "Video Understanding",
-    "count": 101,
+    "count": 108,
     "rank": 19
   },
   {
     "topic": "Neural Rendering",
-    "count": 54,
+    "count": 60,
     "rank": 20
   }
 ]
