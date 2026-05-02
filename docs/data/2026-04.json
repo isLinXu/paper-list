@@ -619,6 +619,66 @@
             "translate_url": "https://papers.cool/arxiv/2604.26184",
             "read_url": "https://hjfy.top/arxiv/2604.26184",
             "code_url": null
+        },
+        "2604.28176": {
+            "date": "2026-04-30",
+            "title": "Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
+            "authors": "Emma Andrews et.al.",
+            "arxiv_id": "2604.28176",
+            "pdf_url": "https://arxiv.org/abs/2604.28176",
+            "translate_url": "https://papers.cool/arxiv/2604.28176",
+            "read_url": "https://hjfy.top/arxiv/2604.28176",
+            "code_url": null
+        },
+        "2604.27968": {
+            "date": "2026-04-30",
+            "title": "ClimateVID -- Social Media Videos Analysis and Challenges Involved",
+            "authors": "Shiqi Xu et.al.",
+            "arxiv_id": "2604.27968",
+            "pdf_url": "https://arxiv.org/abs/2604.27968",
+            "translate_url": "https://papers.cool/arxiv/2604.27968",
+            "read_url": "https://hjfy.top/arxiv/2604.27968",
+            "code_url": null
+        },
+        "2604.27911": {
+            "date": "2026-04-30",
+            "title": "Physical Foundation Models: Fixed hardware implementations of large-scale neural networks",
+            "authors": "Logan G Wright et.al.",
+            "arxiv_id": "2604.27911",
+            "pdf_url": "https://arxiv.org/abs/2604.27911",
+            "translate_url": "https://papers.cool/arxiv/2604.27911",
+            "read_url": "https://hjfy.top/arxiv/2604.27911",
+            "code_url": null
+        },
+        "2604.27723": {
+            "date": "2026-04-30",
+            "title": "Optimized Deferral for Imbalanced Settings",
+            "authors": "Corinna Cortes et.al.",
+            "arxiv_id": "2604.27723",
+            "pdf_url": "https://arxiv.org/abs/2604.27723",
+            "translate_url": "https://papers.cool/arxiv/2604.27723",
+            "read_url": "https://hjfy.top/arxiv/2604.27723",
+            "code_url": null
+        },
+        "2604.27364": {
+            "date": "2026-04-30",
+            "title": "Hyperspectral Image Classification via Efficient Global Spectral Supertoken Clustering",
+            "authors": "Peifu Liu et.al.",
+            "arxiv_id": "2604.27364",
+            "pdf_url": "https://arxiv.org/abs/2604.27364",
+            "translate_url": "https://papers.cool/arxiv/2604.27364",
+            "read_url": "https://hjfy.top/arxiv/2604.27364",
+            "code_url": null
+        },
+        "2604.27323": {
+            "date": "2026-04-30",
+            "title": "Representative Spectral Correlation Network for Multi-source Remote Sensing Image Classification",
+            "authors": "Chuanzheng Gong et.al.",
+            "arxiv_id": "2604.27323",
+            "pdf_url": "https://arxiv.org/abs/2604.27323",
+            "translate_url": "https://papers.cool/arxiv/2604.27323",
+            "read_url": "https://hjfy.top/arxiv/2604.27323",
+            "code_url": null
         }
     },
     "Object Detection": {
@@ -1400,6 +1460,26 @@
             "pdf_url": "https://arxiv.org/abs/2604.26404",
             "translate_url": "https://papers.cool/arxiv/2604.26404",
             "read_url": "https://hjfy.top/arxiv/2604.26404",
+            "code_url": null
+        },
+        "2604.27906": {
+            "date": "2026-04-30",
+            "title": "From Unstructured Recall to Schema-Grounded Memory: Reliable AI Memory via Iterative, Schema-Aware Extraction",
+            "authors": "Alex Petrov et.al.",
+            "arxiv_id": "2604.27906",
+            "pdf_url": "https://arxiv.org/abs/2604.27906",
+            "translate_url": "https://papers.cool/arxiv/2604.27906",
+            "read_url": "https://hjfy.top/arxiv/2604.27906",
+            "code_url": null
+        },
+        "2604.27653": {
+            "date": "2026-04-30",
+            "title": "FUN: A Focal U-Net Combining Reconstruction and Object Detection for Snapshot Spectral Imaging",
+            "authors": "Dahua Gao et.al.",
+            "arxiv_id": "2604.27653",
+            "pdf_url": "https://arxiv.org/abs/2604.27653",
+            "translate_url": "https://papers.cool/arxiv/2604.27653",
+            "read_url": "https://hjfy.top/arxiv/2604.27653",
             "code_url": null
         }
     },
@@ -2343,6 +2423,56 @@
             "translate_url": "https://papers.cool/arxiv/2604.26221",
             "read_url": "https://hjfy.top/arxiv/2604.26221",
             "code_url": null
+        },
+        "2604.28193": {
+            "date": "2026-04-30",
+            "title": "Generalizable Sparse-View 3D Reconstruction from Unconstrained Images",
+            "authors": "Vinayak Gupta et.al.",
+            "arxiv_id": "2604.28193",
+            "pdf_url": "https://arxiv.org/abs/2604.28193",
+            "translate_url": "https://papers.cool/arxiv/2604.28193",
+            "read_url": "https://hjfy.top/arxiv/2604.28193",
+            "code_url": null
+        },
+        "2604.28173": {
+            "date": "2026-04-30",
+            "title": "Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements",
+            "authors": "Genki Kinoshita et.al.",
+            "arxiv_id": "2604.28173",
+            "pdf_url": "https://arxiv.org/abs/2604.28173",
+            "translate_url": "https://papers.cool/arxiv/2604.28173",
+            "read_url": "https://hjfy.top/arxiv/2604.28173",
+            "code_url": null
+        },
+        "2604.28095": {
+            "date": "2026-04-30",
+            "title": "UHR-Net: An Uncertainty-Aware Hypergraph Refinement Network for Medical Image Segmentation",
+            "authors": "Shuokun Cheng et.al.",
+            "arxiv_id": "2604.28095",
+            "pdf_url": "https://arxiv.org/abs/2604.28095",
+            "translate_url": "https://papers.cool/arxiv/2604.28095",
+            "read_url": "https://hjfy.top/arxiv/2604.28095",
+            "code_url": null
+        },
+        "2604.27889": {
+            "date": "2026-04-30",
+            "title": "Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection",
+            "authors": "Ali Shibli et.al.",
+            "arxiv_id": "2604.27889",
+            "pdf_url": "https://arxiv.org/abs/2604.27889",
+            "translate_url": "https://papers.cool/arxiv/2604.27889",
+            "read_url": "https://hjfy.top/arxiv/2604.27889",
+            "code_url": null
+        },
+        "2604.27704": {
+            "date": "2026-04-30",
+            "title": "A generalised pre-training strategy for deep learning networks in semantic segmentation of remotely sensed images",
+            "authors": "Yuan Fang et.al.",
+            "arxiv_id": "2604.27704",
+            "pdf_url": "https://arxiv.org/abs/2604.27704",
+            "translate_url": "https://papers.cool/arxiv/2604.27704",
+            "read_url": "https://hjfy.top/arxiv/2604.27704",
+            "code_url": null
         }
     },
     "Object Tracking": {
@@ -3015,6 +3145,56 @@
             "translate_url": "https://papers.cool/arxiv/2604.26321",
             "read_url": "https://hjfy.top/arxiv/2604.26321",
             "code_url": null
+        },
+        "2604.27819": {
+            "date": "2026-04-30",
+            "title": "MCPHunt: An Evaluation Framework for Cross-Boundary Data Propagation in Multi-Server MCP Agents",
+            "authors": "Haonan Li et.al.",
+            "arxiv_id": "2604.27819",
+            "pdf_url": "https://arxiv.org/abs/2604.27819",
+            "translate_url": "https://papers.cool/arxiv/2604.27819",
+            "read_url": "https://hjfy.top/arxiv/2604.27819",
+            "code_url": null
+        },
+        "2604.27617": {
+            "date": "2026-04-30",
+            "title": "Robust Lightweight Crack Classification for Real-Time UAV Bridge Inspection",
+            "authors": "Wei Li et.al.",
+            "arxiv_id": "2604.27617",
+            "pdf_url": "https://arxiv.org/abs/2604.27617",
+            "translate_url": "https://papers.cool/arxiv/2604.27617",
+            "read_url": "https://hjfy.top/arxiv/2604.27617",
+            "code_url": null
+        },
+        "2604.27497": {
+            "date": "2026-04-30",
+            "title": "SST-Guard: Detecting and Characterizing Server-Side Google Analytics in the Wild",
+            "authors": "Muhammad Jazlan et.al.",
+            "arxiv_id": "2604.27497",
+            "pdf_url": "https://arxiv.org/abs/2604.27497",
+            "translate_url": "https://papers.cool/arxiv/2604.27497",
+            "read_url": "https://hjfy.top/arxiv/2604.27497",
+            "code_url": null
+        },
+        "2604.27479": {
+            "date": "2026-04-30",
+            "title": "Gender Bias in YouTube Exposure: Allocative and Structural Inequalities in Political Information Environments",
+            "authors": "Jipeng Tan et.al.",
+            "arxiv_id": "2604.27479",
+            "pdf_url": "https://arxiv.org/abs/2604.27479",
+            "translate_url": "https://papers.cool/arxiv/2604.27479",
+            "read_url": "https://hjfy.top/arxiv/2604.27479",
+            "code_url": null
+        },
+        "2604.27316": {
+            "date": "2026-04-30",
+            "title": "Multiresonant Membrane Metasurfaces for Multifunctional Fingerprint Recognition and Real-time Biochemical Tracking",
+            "authors": "Quanlong Yang et.al.",
+            "arxiv_id": "2604.27316",
+            "pdf_url": "https://arxiv.org/abs/2604.27316",
+            "translate_url": "https://papers.cool/arxiv/2604.27316",
+            "read_url": "https://hjfy.top/arxiv/2604.27316",
+            "code_url": null
         }
     },
     "Action Recognition": {
@@ -3346,6 +3526,66 @@
             "pdf_url": "https://arxiv.org/abs/2604.26461",
             "translate_url": "https://papers.cool/arxiv/2604.26461",
             "read_url": "https://hjfy.top/arxiv/2604.26461",
+            "code_url": null
+        },
+        "2604.28173": {
+            "date": "2026-04-30",
+            "title": "Action Motifs: Self-Supervised Hierarchical Representation of Human Body Movements",
+            "authors": "Genki Kinoshita et.al.",
+            "arxiv_id": "2604.28173",
+            "pdf_url": "https://arxiv.org/abs/2604.28173",
+            "translate_url": "https://papers.cool/arxiv/2604.28173",
+            "read_url": "https://hjfy.top/arxiv/2604.28173",
+            "code_url": null
+        },
+        "2604.27957": {
+            "date": "2026-04-30",
+            "title": "Real-Time Control of a Virtual Orchestra by Recognition of Conducting Gestures",
+            "authors": "Mert Mermerci et.al.",
+            "arxiv_id": "2604.27957",
+            "pdf_url": "https://arxiv.org/abs/2604.27957",
+            "translate_url": "https://papers.cool/arxiv/2604.27957",
+            "read_url": "https://hjfy.top/arxiv/2604.27957",
+            "code_url": null
+        },
+        "2604.27792": {
+            "date": "2026-04-30",
+            "title": "MotuBrain: An Advanced World Action Model for Robot Control",
+            "authors": "MotuBrain Team et.al.",
+            "arxiv_id": "2604.27792",
+            "pdf_url": "https://arxiv.org/abs/2604.27792",
+            "translate_url": "https://papers.cool/arxiv/2604.27792",
+            "read_url": "https://hjfy.top/arxiv/2604.27792",
+            "code_url": null
+        },
+        "2604.27564": {
+            "date": "2026-04-30",
+            "title": "Learning from a single labeled face and a stream of unlabeled data",
+            "authors": "Branislav Kveton et.al.",
+            "arxiv_id": "2604.27564",
+            "pdf_url": "https://arxiv.org/abs/2604.27564",
+            "translate_url": "https://papers.cool/arxiv/2604.27564",
+            "read_url": "https://hjfy.top/arxiv/2604.27564",
+            "code_url": null
+        },
+        "2604.27508": {
+            "date": "2026-04-30",
+            "title": "SASI: Leveraging Sub-Action Semantics for Robust Early Action Recognition in Human-Robot Interaction",
+            "authors": "Yongpeng Cao et.al.",
+            "arxiv_id": "2604.27508",
+            "pdf_url": "https://arxiv.org/abs/2604.27508",
+            "translate_url": "https://papers.cool/arxiv/2604.27508",
+            "read_url": "https://hjfy.top/arxiv/2604.27508",
+            "code_url": null
+        },
+        "2604.27472": {
+            "date": "2026-04-30",
+            "title": "PRTS: A Primitive Reasoning and Tasking System via Contrastive Representations",
+            "authors": "Yang Zhang et.al.",
+            "arxiv_id": "2604.27472",
+            "pdf_url": "https://arxiv.org/abs/2604.27472",
+            "translate_url": "https://papers.cool/arxiv/2604.27472",
+            "read_url": "https://hjfy.top/arxiv/2604.27472",
             "code_url": null
         }
     },
@@ -3728,6 +3968,16 @@
             "pdf_url": "https://arxiv.org/abs/2604.26404",
             "translate_url": "https://papers.cool/arxiv/2604.26404",
             "read_url": "https://hjfy.top/arxiv/2604.26404",
+            "code_url": null
+        },
+        "2604.27448": {
+            "date": "2026-04-30",
+            "title": "LA-Pose: Latent Action Pretraining Meets Pose Estimation",
+            "authors": "Zhengqing Wang et.al.",
+            "arxiv_id": "2604.27448",
+            "pdf_url": "https://arxiv.org/abs/2604.27448",
+            "translate_url": "https://papers.cool/arxiv/2604.27448",
+            "read_url": "https://hjfy.top/arxiv/2604.27448",
             "code_url": null
         }
     },
@@ -5390,6 +5640,36 @@
             "pdf_url": "https://arxiv.org/abs/2604.26244",
             "translate_url": "https://papers.cool/arxiv/2604.26244",
             "read_url": "https://hjfy.top/arxiv/2604.26244",
+            "code_url": null
+        },
+        "2604.27804": {
+            "date": "2026-04-30",
+            "title": "Machine Unlearning for Class Removal through SISA-based Deep Neural Network Architectures",
+            "authors": "Ishrak Hamim Mahi et.al.",
+            "arxiv_id": "2604.27804",
+            "pdf_url": "https://arxiv.org/abs/2604.27804",
+            "translate_url": "https://papers.cool/arxiv/2604.27804",
+            "read_url": "https://hjfy.top/arxiv/2604.27804",
+            "code_url": null
+        },
+        "2604.27505": {
+            "date": "2026-04-30",
+            "title": "Leveraging Verifier-Based Reinforcement Learning in Image Editing",
+            "authors": "Hanzhong Guo et.al.",
+            "arxiv_id": "2604.27505",
+            "pdf_url": "https://arxiv.org/abs/2604.27505",
+            "translate_url": "https://papers.cool/arxiv/2604.27505",
+            "read_url": "https://hjfy.top/arxiv/2604.27505",
+            "code_url": null
+        },
+        "2604.27326": {
+            "date": "2026-04-30",
+            "title": "Spectral Dynamic Attention Network for Hyperspectral Image Super-Resolution",
+            "authors": "Tengya Zhang et.al.",
+            "arxiv_id": "2604.27326",
+            "pdf_url": "https://arxiv.org/abs/2604.27326",
+            "translate_url": "https://papers.cool/arxiv/2604.27326",
+            "read_url": "https://hjfy.top/arxiv/2604.27326",
             "code_url": null
         }
     },
@@ -11405,6 +11685,26 @@
             "translate_url": "https://papers.cool/arxiv/2604.26893",
             "read_url": "https://hjfy.top/arxiv/2604.26893",
             "code_url": null
+        },
+        "2604.28196": {
+            "date": "2026-04-30",
+            "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
+            "authors": "Xin Zhou et.al.",
+            "arxiv_id": "2604.28196",
+            "pdf_url": "https://arxiv.org/abs/2604.28196",
+            "translate_url": "https://papers.cool/arxiv/2604.28196",
+            "read_url": "https://hjfy.top/arxiv/2604.28196",
+            "code_url": null
+        },
+        "2604.28185": {
+            "date": "2026-04-30",
+            "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
+            "authors": "Keming Wu et.al.",
+            "arxiv_id": "2604.28185",
+            "pdf_url": "https://arxiv.org/abs/2604.28185",
+            "translate_url": "https://papers.cool/arxiv/2604.28185",
+            "read_url": "https://hjfy.top/arxiv/2604.28185",
+            "code_url": null
         }
     },
     "Depth Estimation": {
@@ -11766,6 +12066,16 @@
             "pdf_url": "https://arxiv.org/abs/2604.26454",
             "translate_url": "https://papers.cool/arxiv/2604.26454",
             "read_url": "https://hjfy.top/arxiv/2604.26454",
+            "code_url": null
+        },
+        "2604.28122": {
+            "date": "2026-04-30",
+            "title": "Beyond Gaussian Bottlenecks: Topologically Aligned Encoding of Vision-Transformer Feature Spaces",
+            "authors": "Andrew Bond et.al.",
+            "arxiv_id": "2604.28122",
+            "pdf_url": "https://arxiv.org/abs/2604.28122",
+            "translate_url": "https://papers.cool/arxiv/2604.28122",
+            "read_url": "https://hjfy.top/arxiv/2604.28122",
             "code_url": null
         }
     },
@@ -15046,6 +15356,16 @@
             "pdf_url": "https://arxiv.org/abs/2604.24193",
             "translate_url": "https://papers.cool/arxiv/2604.24193",
             "read_url": "https://hjfy.top/arxiv/2604.24193",
+            "code_url": null
+        },
+        "2604.27975": {
+            "date": "2026-04-30",
+            "title": "TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions",
+            "authors": "Ce Chen et.al.",
+            "arxiv_id": "2604.27975",
+            "pdf_url": "https://arxiv.org/abs/2604.27975",
+            "translate_url": "https://papers.cool/arxiv/2604.27975",
+            "read_url": "https://hjfy.top/arxiv/2604.27975",
             "code_url": null
         }
     },
@@ -19145,6 +19465,156 @@
             "translate_url": "https://papers.cool/arxiv/2604.25128",
             "read_url": "https://hjfy.top/arxiv/2604.25128",
             "code_url": null
+        },
+        "2604.28185": {
+            "date": "2026-04-30",
+            "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
+            "authors": "Keming Wu et.al.",
+            "arxiv_id": "2604.28185",
+            "pdf_url": "https://arxiv.org/abs/2604.28185",
+            "translate_url": "https://papers.cool/arxiv/2604.28185",
+            "read_url": "https://hjfy.top/arxiv/2604.28185",
+            "code_url": null
+        },
+        "2604.28169": {
+            "date": "2026-04-30",
+            "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
+            "authors": "Sriram Narayanan et.al.",
+            "arxiv_id": "2604.28169",
+            "pdf_url": "https://arxiv.org/abs/2604.28169",
+            "translate_url": "https://papers.cool/arxiv/2604.28169",
+            "read_url": "https://hjfy.top/arxiv/2604.28169",
+            "code_url": null
+        },
+        "2604.28111": {
+            "date": "2026-04-30",
+            "title": "GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment",
+            "authors": "Ziang Guo et.al.",
+            "arxiv_id": "2604.28111",
+            "pdf_url": "https://arxiv.org/abs/2604.28111",
+            "translate_url": "https://papers.cool/arxiv/2604.28111",
+            "read_url": "https://hjfy.top/arxiv/2604.28111",
+            "code_url": null
+        },
+        "2604.27978": {
+            "date": "2026-04-30",
+            "title": "On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type",
+            "authors": "Miroslav Bul\u00ed\u010dek et.al.",
+            "arxiv_id": "2604.27978",
+            "pdf_url": "https://arxiv.org/abs/2604.27978",
+            "translate_url": "https://papers.cool/arxiv/2604.27978",
+            "read_url": "https://hjfy.top/arxiv/2604.27978",
+            "code_url": null
+        },
+        "2604.27972": {
+            "date": "2026-04-30",
+            "title": "From LLM-Driven Trading Card Generation to Procedural Relatedness: A Pok\u00e9mon Case Study",
+            "authors": "Johannes Pfau et.al.",
+            "arxiv_id": "2604.27972",
+            "pdf_url": "https://arxiv.org/abs/2604.27972",
+            "translate_url": "https://papers.cool/arxiv/2604.27972",
+            "read_url": "https://hjfy.top/arxiv/2604.27972",
+            "code_url": null
+        },
+        "2604.27958": {
+            "date": "2026-04-30",
+            "title": "TripVVT: A Large-Scale Triplet Dataset and a Coarse-Mask Baseline for In-the-Wild Video Virtual Try-On",
+            "authors": "Dingbao Shao et.al.",
+            "arxiv_id": "2604.27958",
+            "pdf_url": "https://arxiv.org/abs/2604.27958",
+            "translate_url": "https://papers.cool/arxiv/2604.27958",
+            "read_url": "https://hjfy.top/arxiv/2604.27958",
+            "code_url": null
+        },
+        "2604.27952": {
+            "date": "2026-04-30",
+            "title": "Diffusion-OAMP for Joint Image Compression and Wireless Transmission",
+            "authors": "Wentao Hou et.al.",
+            "arxiv_id": "2604.27952",
+            "pdf_url": "https://arxiv.org/abs/2604.27952",
+            "translate_url": "https://papers.cool/arxiv/2604.27952",
+            "read_url": "https://hjfy.top/arxiv/2604.27952",
+            "code_url": null
+        },
+        "2604.27889": {
+            "date": "2026-04-30",
+            "title": "Noise2Map: End-to-End Diffusion Model for Semantic Segmentation and Change Detection",
+            "authors": "Ali Shibli et.al.",
+            "arxiv_id": "2604.27889",
+            "pdf_url": "https://arxiv.org/abs/2604.27889",
+            "translate_url": "https://papers.cool/arxiv/2604.27889",
+            "read_url": "https://hjfy.top/arxiv/2604.27889",
+            "code_url": null
+        },
+        "2604.27871": {
+            "date": "2026-04-30",
+            "title": "D-Rex : Diffusion Rendering for Relightable Expressive Avatars",
+            "authors": "Timo Teufel et.al.",
+            "arxiv_id": "2604.27871",
+            "pdf_url": "https://arxiv.org/abs/2604.27871",
+            "translate_url": "https://papers.cool/arxiv/2604.27871",
+            "read_url": "https://hjfy.top/arxiv/2604.27871",
+            "code_url": null
+        },
+        "2604.27581": {
+            "date": "2026-04-30",
+            "title": "Thermal instability and rocky planetesimal formation in the inner regions of protoplanetary disks",
+            "authors": "Ryo Kato et.al.",
+            "arxiv_id": "2604.27581",
+            "pdf_url": "https://arxiv.org/abs/2604.27581",
+            "translate_url": "https://papers.cool/arxiv/2604.27581",
+            "read_url": "https://hjfy.top/arxiv/2604.27581",
+            "code_url": null
+        },
+        "2604.27444": {
+            "date": "2026-04-30",
+            "title": "Electrothermal Dynamics of Cold Front in Impure Tokamak Plasmas",
+            "authors": "S. Oshiro et.al.",
+            "arxiv_id": "2604.27444",
+            "pdf_url": "https://arxiv.org/abs/2604.27444",
+            "translate_url": "https://papers.cool/arxiv/2604.27444",
+            "read_url": "https://hjfy.top/arxiv/2604.27444",
+            "code_url": null
+        },
+        "2604.27443": {
+            "date": "2026-04-30",
+            "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
+            "authors": "Gabe Guo et.al.",
+            "arxiv_id": "2604.27443",
+            "pdf_url": "https://arxiv.org/abs/2604.27443",
+            "translate_url": "https://papers.cool/arxiv/2604.27443",
+            "read_url": "https://hjfy.top/arxiv/2604.27443",
+            "code_url": null
+        },
+        "2604.27422": {
+            "date": "2026-04-30",
+            "title": "Sparse-View 3D Gaussian Splatting in the Wild",
+            "authors": "Wongi Park et.al.",
+            "arxiv_id": "2604.27422",
+            "pdf_url": "https://arxiv.org/abs/2604.27422",
+            "translate_url": "https://papers.cool/arxiv/2604.27422",
+            "read_url": "https://hjfy.top/arxiv/2604.27422",
+            "code_url": null
+        },
+        "2604.27395": {
+            "date": "2026-04-30",
+            "title": "Self-consistent modelling and qualitative comparison of mildly relativistic runaway electron dynamics with a closed flux surface formation model during tokamak startup",
+            "authors": "Y. Lee et.al.",
+            "arxiv_id": "2604.27395",
+            "pdf_url": "https://arxiv.org/abs/2604.27395",
+            "translate_url": "https://papers.cool/arxiv/2604.27395",
+            "read_url": "https://hjfy.top/arxiv/2604.27395",
+            "code_url": null
+        },
+        "2604.27322": {
+            "date": "2026-04-30",
+            "title": "YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal",
+            "authors": "Chenyang Wu et.al.",
+            "arxiv_id": "2604.27322",
+            "pdf_url": "https://arxiv.org/abs/2604.27322",
+            "translate_url": "https://papers.cool/arxiv/2604.27322",
+            "read_url": "https://hjfy.top/arxiv/2604.27322",
+            "code_url": null
         }
     },
     "Video Understanding": {
@@ -20227,6 +20697,106 @@
             "translate_url": "https://papers.cool/arxiv/2604.26232",
             "read_url": "https://hjfy.top/arxiv/2604.26232",
             "code_url": null
+        },
+        "2604.28169": {
+            "date": "2026-04-30",
+            "title": "PhyCo: Learning Controllable Physical Priors for Generative Motion",
+            "authors": "Sriram Narayanan et.al.",
+            "arxiv_id": "2604.28169",
+            "pdf_url": "https://arxiv.org/abs/2604.28169",
+            "translate_url": "https://papers.cool/arxiv/2604.28169",
+            "read_url": "https://hjfy.top/arxiv/2604.28169",
+            "code_url": null
+        },
+        "2604.28078": {
+            "date": "2026-04-30",
+            "title": "AesRM: Improving Video Aesthetics with Expert-Level Feedback",
+            "authors": "Yujin Han et.al.",
+            "arxiv_id": "2604.28078",
+            "pdf_url": "https://arxiv.org/abs/2604.28078",
+            "translate_url": "https://papers.cool/arxiv/2604.28078",
+            "read_url": "https://hjfy.top/arxiv/2604.28078",
+            "code_url": null
+        },
+        "2604.27945": {
+            "date": "2026-04-30",
+            "title": "CRS-LLM: Cooperative Beam Prediction with a GPT-Style Backbone and Switch-Gated Fusion",
+            "authors": "Fangzhi Li et.al.",
+            "arxiv_id": "2604.27945",
+            "pdf_url": "https://arxiv.org/abs/2604.27945",
+            "translate_url": "https://papers.cool/arxiv/2604.27945",
+            "read_url": "https://hjfy.top/arxiv/2604.27945",
+            "code_url": null
+        },
+        "2604.27792": {
+            "date": "2026-04-30",
+            "title": "MotuBrain: An Advanced World Action Model for Robot Control",
+            "authors": "MotuBrain Team et.al.",
+            "arxiv_id": "2604.27792",
+            "pdf_url": "https://arxiv.org/abs/2604.27792",
+            "translate_url": "https://papers.cool/arxiv/2604.27792",
+            "read_url": "https://hjfy.top/arxiv/2604.27792",
+            "code_url": null
+        },
+        "2604.27711": {
+            "date": "2026-04-30",
+            "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
+            "authors": "Yanghao Zhou et.al.",
+            "arxiv_id": "2604.27711",
+            "pdf_url": "https://arxiv.org/abs/2604.27711",
+            "translate_url": "https://papers.cool/arxiv/2604.27711",
+            "read_url": "https://hjfy.top/arxiv/2604.27711",
+            "code_url": null
+        },
+        "2604.27621": {
+            "date": "2026-04-30",
+            "title": "Robot Learning from Human Videos: A Survey",
+            "authors": "Junyi Ma et.al.",
+            "arxiv_id": "2604.27621",
+            "pdf_url": "https://arxiv.org/abs/2604.27621",
+            "translate_url": "https://papers.cool/arxiv/2604.27621",
+            "read_url": "https://hjfy.top/arxiv/2604.27621",
+            "code_url": null
+        },
+        "2604.27591": {
+            "date": "2026-04-30",
+            "title": "ClipTBP: Clip-Pair based Temporal Boundary Prediction with Boundary-Aware Learning for Moment Retrieval",
+            "authors": "Ji-Hyeon Kim et.al.",
+            "arxiv_id": "2604.27591",
+            "pdf_url": "https://arxiv.org/abs/2604.27591",
+            "translate_url": "https://papers.cool/arxiv/2604.27591",
+            "read_url": "https://hjfy.top/arxiv/2604.27591",
+            "code_url": null
+        },
+        "2604.27468": {
+            "date": "2026-04-30",
+            "title": "Syntactically-guided Information Maintenance in Sentence Comprehension",
+            "authors": "Shinnosuke Isono et.al.",
+            "arxiv_id": "2604.27468",
+            "pdf_url": "https://arxiv.org/abs/2604.27468",
+            "translate_url": "https://papers.cool/arxiv/2604.27468",
+            "read_url": "https://hjfy.top/arxiv/2604.27468",
+            "code_url": null
+        },
+        "2604.27443": {
+            "date": "2026-04-30",
+            "title": "ABC: Any-Subset Autoregression via Non-Markovian Diffusion Bridges in Continuous Time and Space",
+            "authors": "Gabe Guo et.al.",
+            "arxiv_id": "2604.27443",
+            "pdf_url": "https://arxiv.org/abs/2604.27443",
+            "translate_url": "https://papers.cool/arxiv/2604.27443",
+            "read_url": "https://hjfy.top/arxiv/2604.27443",
+            "code_url": null
+        },
+        "2604.27322": {
+            "date": "2026-04-30",
+            "title": "YOSE: You Only Select Essential Tokens for Efficient DiT-based Video Object Removal",
+            "authors": "Chenyang Wu et.al.",
+            "arxiv_id": "2604.27322",
+            "pdf_url": "https://arxiv.org/abs/2604.27322",
+            "translate_url": "https://papers.cool/arxiv/2604.27322",
+            "read_url": "https://hjfy.top/arxiv/2604.27322",
+            "code_url": null
         }
     },
     "Neural Rendering": {
@@ -20828,6 +21398,96 @@
             "pdf_url": "https://arxiv.org/abs/2604.26238",
             "translate_url": "https://papers.cool/arxiv/2604.26238",
             "read_url": "https://hjfy.top/arxiv/2604.26238",
+            "code_url": null
+        },
+        "2604.28179": {
+            "date": "2026-04-30",
+            "title": "Stop Holding Your Breath: CT-Informed Gaussian Splatting for Dynamic Bronchoscopy",
+            "authors": "Andrea Dunn Beltran et.al.",
+            "arxiv_id": "2604.28179",
+            "pdf_url": "https://arxiv.org/abs/2604.28179",
+            "translate_url": "https://papers.cool/arxiv/2604.28179",
+            "read_url": "https://hjfy.top/arxiv/2604.28179",
+            "code_url": null
+        },
+        "2604.28111": {
+            "date": "2026-04-30",
+            "title": "GSDrive: Reinforcing Driving Policies by Multi-mode Trajectory Probing with 3D Gaussian Splatting Environment",
+            "authors": "Ziang Guo et.al.",
+            "arxiv_id": "2604.28111",
+            "pdf_url": "https://arxiv.org/abs/2604.28111",
+            "translate_url": "https://papers.cool/arxiv/2604.28111",
+            "read_url": "https://hjfy.top/arxiv/2604.28111",
+            "code_url": null
+        },
+        "2604.28016": {
+            "date": "2026-04-30",
+            "title": "Faster 3D Gaussian Splatting Convergence via Structure-Aware Densification",
+            "authors": "Linjie Lyu et.al.",
+            "arxiv_id": "2604.28016",
+            "pdf_url": "https://arxiv.org/abs/2604.28016",
+            "translate_url": "https://papers.cool/arxiv/2604.28016",
+            "read_url": "https://hjfy.top/arxiv/2604.28016",
+            "code_url": null
+        },
+        "2604.27702": {
+            "date": "2026-04-30",
+            "title": "RayFormer: Modeling Inter- and Intra-Ray Similarity for NeRF-Based Video Snapshot Compressive Imaging",
+            "authors": "Yubo Dong et.al.",
+            "arxiv_id": "2604.27702",
+            "pdf_url": "https://arxiv.org/abs/2604.27702",
+            "translate_url": "https://papers.cool/arxiv/2604.27702",
+            "read_url": "https://hjfy.top/arxiv/2604.27702",
+            "code_url": null
+        },
+        "2604.27590": {
+            "date": "2026-04-30",
+            "title": "Fake3DGS: A Benchmark for 3D Manipulation Detection in Neural Rendering",
+            "authors": "Davide Di Nucci et.al.",
+            "arxiv_id": "2604.27590",
+            "pdf_url": "https://arxiv.org/abs/2604.27590",
+            "translate_url": "https://papers.cool/arxiv/2604.27590",
+            "read_url": "https://hjfy.top/arxiv/2604.27590",
+            "code_url": null
+        },
+        "2604.27572": {
+            "date": "2026-04-30",
+            "title": "SandSim: Curve-Guided Gaussian Splatting for Reconstructing Sand Painting Processes",
+            "authors": "Yilin Wang et.al.",
+            "arxiv_id": "2604.27572",
+            "pdf_url": "https://arxiv.org/abs/2604.27572",
+            "translate_url": "https://papers.cool/arxiv/2604.27572",
+            "read_url": "https://hjfy.top/arxiv/2604.27572",
+            "code_url": null
+        },
+        "2604.27552": {
+            "date": "2026-04-30",
+            "title": "Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction",
+            "authors": "Jian Lin et.al.",
+            "arxiv_id": "2604.27552",
+            "pdf_url": "https://arxiv.org/abs/2604.27552",
+            "translate_url": "https://papers.cool/arxiv/2604.27552",
+            "read_url": "https://hjfy.top/arxiv/2604.27552",
+            "code_url": null
+        },
+        "2604.27437": {
+            "date": "2026-04-30",
+            "title": "Softmax-GS: Generalized Gaussians Learning When to Blend or Bound",
+            "authors": "Chen Ziwen et.al.",
+            "arxiv_id": "2604.27437",
+            "pdf_url": "https://arxiv.org/abs/2604.27437",
+            "translate_url": "https://papers.cool/arxiv/2604.27437",
+            "read_url": "https://hjfy.top/arxiv/2604.27437",
+            "code_url": null
+        },
+        "2604.27422": {
+            "date": "2026-04-30",
+            "title": "Sparse-View 3D Gaussian Splatting in the Wild",
+            "authors": "Wongi Park et.al.",
+            "arxiv_id": "2604.27422",
+            "pdf_url": "https://arxiv.org/abs/2604.27422",
+            "translate_url": "https://papers.cool/arxiv/2604.27422",
+            "read_url": "https://hjfy.top/arxiv/2604.27422",
             "code_url": null
         }
     }
