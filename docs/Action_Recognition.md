@@ -1,10 +1,10 @@
 ## Action Recognition
 
-Total papers: **1151**
+Total papers: **1155**
 
 ## Monthly Archives
 
-- [2026-05](Action_Recognition/2026-05.md) (2 papers)
+- [2026-05](Action_Recognition/2026-05.md) (6 papers)
 - [2026-04](Action_Recognition/2026-04.md) (39 papers)
 - [2026-03](Action_Recognition/2026-03.md) (36 papers)
 - [2026-02](Action_Recognition/2026-02.md) (16 papers)
