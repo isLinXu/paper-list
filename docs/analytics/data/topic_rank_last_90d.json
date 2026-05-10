@@ -1,12 +1,12 @@
 [
   {
     "topic": "LLM",
-    "count": 2109,
+    "count": 2509,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 1249,
+    "count": 1626,
     "rank": 2
   },
   {
@@ -16,86 +16,86 @@
   },
   {
     "topic": "Image Generation",
-    "count": 653,
+    "count": 742,
     "rank": 4
   },
   {
     "topic": "Object Detection",
-    "count": 303,
+    "count": 332,
     "rank": 5
+  },
+  {
+    "topic": "Anomaly Detection",
+    "count": 308,
+    "rank": 6
   },
   {
     "topic": "Graph Neural Networks",
     "count": 299,
-    "rank": 6
-  },
-  {
-    "topic": "Semantic Segmentation",
-    "count": 276,
     "rank": 7
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 272,
+    "topic": "Semantic Segmentation",
+    "count": 295,
     "rank": 8
   },
   {
     "topic": "Classification",
-    "count": 265,
+    "count": 287,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 182,
+    "count": 204,
     "rank": 10
+  },
+  {
+    "topic": "Pose Estimation",
+    "count": 182,
+    "rank": 11
   },
   {
     "topic": "Diffusion Models",
     "count": 166,
-    "rank": 11
-  },
-  {
-    "topic": "Pose Estimation",
-    "count": 162,
     "rank": 12
   },
   {
     "topic": "Scene Understanding",
-    "count": 145,
+    "count": 148,
     "rank": 13
   },
   {
     "topic": "Video Understanding",
-    "count": 132,
+    "count": 118,
     "rank": 14
+  },
+  {
+    "topic": "Depth Estimation",
+    "count": 116,
+    "rank": 15
   },
   {
     "topic": "Object Tracking",
     "count": 115,
-    "rank": 15
-  },
-  {
-    "topic": "Depth Estimation",
-    "count": 107,
     "rank": 16
   },
   {
     "topic": "Action Recognition",
-    "count": 86,
+    "count": 91,
     "rank": 17
   },
   {
-    "topic": "Neural Rendering",
+    "topic": "Multimodal",
     "count": 69,
     "rank": 18
   },
   {
-    "topic": "Optical Flow",
-    "count": 65,
+    "topic": "Neural Rendering",
+    "count": 69,
     "rank": 19
   },
   {
-    "topic": "Multimodal",
+    "topic": "Optical Flow",
     "count": 62,
     "rank": 20
   }
