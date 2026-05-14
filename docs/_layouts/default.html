@@ -56,7 +56,9 @@
 
       <main class="page-shell">
         {% if page.url == "/" %}
-          {{ content }}
+          <article class="page-home page-content page-content--document">
+            {{ content }}
+          </article>
         {% else %}
           <article class="page-content page-content--document">
             {{ content }}

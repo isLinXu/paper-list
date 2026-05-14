@@ -8,6 +8,182 @@ from .paper_links import ensure_paper_record, render_paper_row
 from .storage import load_paper_store
 
 
+TOPIC_GROUPS = [
+    (
+        "Perception Core",
+        "Vision Systems",
+        "theme-card--vision",
+        ["Classification", "Object Detection", "Semantic Segmentation", "Anomaly Detection"],
+    ),
+    (
+        "3D and Motion",
+        "Geometry Stack",
+        "theme-card--motion",
+        ["Object Tracking", "Action Recognition", "Pose Estimation", "Depth Estimation", "Optical Flow"],
+    ),
+    (
+        "Foundation Models",
+        "Generative Layer",
+        "theme-card--foundation",
+        ["Image Generation", "Diffusion Models", "LLM", "Latent Space LLM", "Multimodal"],
+    ),
+    (
+        "Systems Frontier",
+        "Research Surface",
+        "theme-card--systems",
+        [
+            "Scene Understanding",
+            "Video Understanding",
+            "Neural Rendering",
+            "Transfer Learning",
+            "Reinforcement Learning",
+            "Graph Neural Networks",
+            "Audio Processing",
+        ],
+    ),
+]
+
+
+def compute_library_stats(data: dict) -> dict:
+    topic_counts = []
+    dates = []
+    total_papers = 0
+
+    for keyword, papers in data.items():
+        if not papers:
+            continue
+        total_papers += len(papers)
+        topic_counts.append((keyword, len(papers)))
+        for paper_id, entry in papers.items():
+            record = ensure_paper_record(entry, paper_id=paper_id)
+            if record.get("date"):
+                dates.append(record["date"])
+
+    topic_counts.sort(key=lambda item: (-item[1], item[0]))
+    dates.sort()
+    return {
+        "topic_total": len(topic_counts),
+        "paper_total": total_papers,
+        "first_date": dates[0] if dates else "",
+        "last_date": dates[-1] if dates else "",
+        "top_topics": topic_counts[:3],
+    }
+
+
+def topic_href(keyword: str, *, to_web: bool, split_to_docs: bool) -> str:
+    slug = keyword.replace(" ", "_")
+    if split_to_docs:
+        return f"{slug}.md" if to_web else f"docs/{slug}.md"
+    return f"#{keyword.replace(' ', '-').lower()}"
+
+
+def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool) -> None:
+    handle.write("## 📚 Paper List\n\n")
+    if split_to_docs:
+        handle.write("Click any topic below to browse papers organized by month:\n\n")
+    else:
+        handle.write("Use the topic index below to jump straight into the full paper tables:\n\n")
+    handle.write("<ul class=\"topic-index\">\n")
+    topic_num = 1
+    for keyword, day_content in data.items():
+        if not day_content:
+            continue
+        href = topic_href(keyword, to_web=to_web, split_to_docs=split_to_docs)
+        handle.write(
+            f"  <li><a href=\"{href}\"><span class=\"topic-index__label\"><span class=\"topic-index__number\">{topic_num}</span><span>{keyword}</span></span></a></li>\n"
+        )
+        topic_num += 1
+    handle.write("</ul>\n\n")
+
+
+def write_home_hero(handle, stats: dict, date_now: str) -> None:
+    date_range = f"{stats['first_date']} to {stats['last_date']}" if stats["first_date"] and stats["last_date"] else "Daily refresh window"
+    top_topics = ", ".join(topic for topic, _ in stats["top_topics"]) or "Classification, Detection, LLM"
+
+    handle.write("<section class=\"hero hero--editorial\">\n")
+    handle.write("  <div class=\"hero__grid\">\n")
+    handle.write("    <div>\n")
+    handle.write("      <span class=\"eyebrow\">Research Radar</span>\n")
+    handle.write("      <h1>Track the latest arXiv papers without losing the map.</h1>\n")
+    handle.write("      <p>Paper-List-DAILY turns raw daily paper updates into a topic-structured research surface: browse monthly archives, jump straight to analytics, or scan the full feed when you want the dense version.</p>\n")
+    handle.write("      <div class=\"hero__actions\">\n")
+    handle.write("        <a class=\"button button--primary\" href=\"paper_list.html\">Open full paper list</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"analytics/\">View analytics</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"https://github.com/isLinXu/paper-list\">GitHub repo</a>\n")
+    handle.write("      </div>\n")
+    handle.write("      <div class=\"page-meta\">\n")
+    handle.write(f"        <span class=\"pill\">Updated {date_now}</span>\n")
+    handle.write(f"        <span class=\"pill\">{stats['topic_total']} tracked topics</span>\n")
+    handle.write(f"        <span class=\"pill\">{stats['paper_total']} indexed papers</span>\n")
+    handle.write(f"        <span class=\"pill\">{date_range}</span>\n")
+    handle.write("      </div>\n")
+    handle.write("    </div>\n")
+    handle.write("    <aside class=\"hero-panel\">\n")
+    handle.write("      <span class=\"hero-panel__label\">Snapshot</span>\n")
+    handle.write(f"      <div class=\"hero-panel__stat\"><strong>{stats['paper_total']}</strong><span>papers currently split into monthly archive pages that are easier to browse than one giant feed.</span></div>\n")
+    handle.write("      <div class=\"hero-panel__rail\">\n")
+    handle.write(f"        <div class=\"hero-panel__rail-item\"><span>{stats['topic_total']}</span><p>research tracks currently covered across vision, multimodal, and learning systems.</p></div>\n")
+    handle.write("        <div class=\"hero-panel__rail-item\"><span>Every 8h</span><p>GitHub Actions refresh cadence for data, docs, and analytics artifacts.</p></div>\n")
+    handle.write(f"        <div class=\"hero-panel__rail-item\"><span>Top lanes</span><p>{top_topics}</p></div>\n")
+    handle.write("      </div>\n")
+    handle.write("    </aside>\n")
+    handle.write("  </div>\n")
+    handle.write("</section>\n\n")
+
+    handle.write("<section class=\"theme-grid theme-grid--compact\">\n")
+    for eyebrow, title, card_class, topics in TOPIC_GROUPS:
+        links = []
+        for topic in topics:
+            href = topic_href(topic, to_web=True, split_to_docs=True)
+            links.append(f"<a href=\"{href}\">{topic}</a>")
+        handle.write(f"  <article class=\"theme-card {card_class}\">\n")
+        handle.write(f"    <span class=\"theme-card__tag\">{eyebrow}</span>\n")
+        handle.write(f"    <h3>{title}</h3>\n")
+        handle.write(f"    <div class=\"theme-card__links\">{''.join(links)}</div>\n")
+        handle.write("  </article>\n")
+    handle.write("</section>\n\n")
+
+    handle.write("<section class=\"timeline-grid timeline-grid--compact timeline-grid--editorial\">\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 01</span><h3>Pick a lane</h3><p>Start with the grouped research surfaces above when you want a fast orientation instead of a giant alphabetized list.</p></article>\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 02</span><h3>Open monthly archives</h3><p>Each topic now breaks into month-level pages so the paper tables stay readable on both desktop and mobile.</p></article>\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 03</span><h3>Dive into evidence</h3><p>Use the analytics dashboard for trend context, then jump into PDF, translation, read, and code links directly from each paper row.</p></article>\n")
+    handle.write("</section>\n\n")
+    handle.write("<div class=\"section-divider\"><span>Raw Research Feed</span></div>\n\n")
+
+
+def write_catalog_intro(handle, stats: dict, date_now: str) -> None:
+    date_range = f"{stats['first_date']} to {stats['last_date']}" if stats["first_date"] and stats["last_date"] else "Daily refresh window"
+    handle.write("<section class=\"hero hero--editorial hero--compact\">\n")
+    handle.write("  <div class=\"hero__grid\">\n")
+    handle.write("    <div>\n")
+    handle.write("      <span class=\"eyebrow\">Full Feed</span>\n")
+    handle.write("      <h1>All tracked papers in one dense index.</h1>\n")
+    handle.write("      <p>This page is the raw scanning surface: topic anchors first, then full paper tables for researchers who prefer one continuous archive over topic landing pages.</p>\n")
+    handle.write("      <div class=\"hero__actions\">\n")
+    handle.write("        <a class=\"button button--primary\" href=\"#paper-list\">Jump to topics</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"index.html\">Back to homepage</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"analytics/\">Analytics</a>\n")
+    handle.write("      </div>\n")
+    handle.write("      <div class=\"page-meta\">\n")
+    handle.write(f"        <span class=\"pill\">Updated {date_now}</span>\n")
+    handle.write(f"        <span class=\"pill\">{stats['paper_total']} papers</span>\n")
+    handle.write(f"        <span class=\"pill\">{date_range}</span>\n")
+    handle.write("      </div>\n")
+    handle.write("    </div>\n")
+    handle.write("    <aside class=\"hero-panel\">\n")
+    handle.write("      <span class=\"hero-panel__label\">How to use it</span>\n")
+    handle.write("      <div class=\"hero-panel__stat\"><strong>Dense mode</strong><span>Stay on this page when you want to search the whole stream quickly with browser find, then pivot out only when a topic deserves deeper browsing.</span></div>\n")
+    handle.write("      <div class=\"hero-panel__rail\">\n")
+    handle.write(f"        <div class=\"hero-panel__rail-item\"><span>{stats['topic_total']}</span><p>topic anchors are listed below for quick movement.</p></div>\n")
+    handle.write("        <div class=\"hero-panel__rail-item\"><span>PDF + code</span><p>direct action links stay embedded in every row for minimal friction.</p></div>\n")
+    handle.write("        <div class=\"hero-panel__rail-item\"><span>Monthly pages</span><p>home topic pages remain the better option when you want smaller, calmer reading chunks.</p></div>\n")
+    handle.write("      </div>\n")
+    handle.write("    </aside>\n")
+    handle.write("  </div>\n")
+    handle.write("</section>\n\n")
+    handle.write("<div class=\"section-divider\"><span>Topic Index</span></div>\n\n")
+
+
 def sort_papers(papers: dict) -> dict:
     """Sort papers by key in reverse order (newest first)."""
     output = {}
@@ -25,7 +201,8 @@ def json_to_md(filename, md_filename,
                show_badge=True,
                use_b2t=True,
                split_to_docs=False,
-               selected_topics=None):
+               selected_topics=None,
+               page_variant="standard"):
     """
     @param filename: str
     @param md_filename: str
@@ -52,6 +229,7 @@ def json_to_md(filename, md_filename,
 
     data = load_paper_store(filename)
     selected_topics = set(selected_topics or [])
+    stats = compute_library_stats(data)
 
     def group_papers_by_month(papers: dict) -> dict:
         grouped = defaultdict(dict)
@@ -70,97 +248,141 @@ def json_to_md(filename, md_filename,
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
-        if show_badge == True:
-            f.write("![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e)")
-            f.write("![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list)")
-            f.write("![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list)")
-            f.write("![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list)") 
-            f.write("[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat)](https://github.com/isLinXu/paper-list)")  
-            f.write("![img](https://badgen.net/badge/icon/learning?icon=deepscan&label)") 
-            f.write("![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square)")  
-            f.write("![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list)")   
-            f.write("![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list)")  
-            f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square)") 
-            f.write("![img](https://hits.dwyl.com/isLinXu/paper-list.svg)")
+        is_web_landing = to_web and page_variant in {"home", "catalog"}
 
-        if use_title == True:
-            f.write('<p align="center"><h1 align="center"><br><ins>Paper-List-DAILY'
-                     '</ins><br>Automatically Update Papers Daily in list</h1></p>\n')
-            f.write("## Updated on " + DateNow + "\n")
+        if show_badge == True and not is_web_landing:
+            # Row 1: Project identity + GitHub stats
+            f.write("![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e) ")
+            f.write("![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list?style=flat-square&color=ffd700) ")
+            f.write("![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list?style=flat-square&color=4ecdc4) ")
+            f.write("![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list?style=flat-square&color=ff6b6b)\n")
+            # Row 2: Build + quality + repo metrics
+            f.write("[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat-square)](https://github.com/isLinXu/paper-list) ")
+            f.write("![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list?style=flat-square&color=a8e6cf) ")
+            f.write("![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square&color=ffd3b6) ")
+            f.write("![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list?style=flat-square&color=ffaaa5)\n")
+            # Row 3: License + hits
+            f.write("![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square&color=c7ceea) ")
+            f.write("![Hits](https://hits.dwyl.com/isLinXu/paper-list.svg?style=flat-square&color=95e1d3)\n")
+
+        if use_title == True and not is_web_landing:
+            f.write('\n<h1 align="center">📜 Paper-List-DAILY</h1>\n')
+            f.write('<p align="center"><strong>Automatically track & organize the latest arXiv papers by topic — updated daily via GitHub Actions</strong></p>\n')
+            f.write('\n<p align="center">')
+            f.write('<a href="https://islinxu.github.io/paper-list/"><img alt="Website" src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-0f4c5c?style=for-the-badge"></a> ')
+            f.write('<a href="https://github.com/isLinXu/paper-list/stargazers"><img alt="Stargazers" src="https://img.shields.io/badge/⭐_Star_Us-ff6b6b?style=for-the-badge"></a>')
+            f.write('</p>\n')
+            f.write('\n---\n')
+            f.write('\n> **📅 Last Updated:** `' + DateNow + '` · **🤖 Auto-generated by GitHub Actions**\n')
+        elif not is_web_landing:
+            f.write("> **📅 Last Updated:** `" + DateNow + "`\n")
+
+        if to_web and use_title and page_variant == "home":
+            write_home_hero(f, stats, DateNow)
+        elif to_web and use_title and page_variant == "catalog":
+            write_catalog_intro(f, stats, DateNow)
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write(f"\n")
+            f.write("![paper_list_banner](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)\n")
 
-        f.write(f"\n")
-        f.write("![paper_list](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)")
-        
-        # Add Introduction
-        f.write("\n\n## Introduction\n\n")
-        f.write("This repository provides a daily-updated list of computer vision papers from arXiv, organized by topic. ")
-        f.write("The updates are automated using GitHub Actions to ensure you stay current with the latest research.\n\n")
-        f.write("Online documentation: [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
+            # Add Introduction
+            f.write("\n## 📖 Introduction\n\n")
+            f.write("**Paper-List-DAILY** is an automated arXiv paper tracking system that fetches, categorizes, and organizes the latest research papers across **20+ computer vision & AI topics** — from classic tasks like Object Detection and Segmentation to cutting-edge fields like Diffusion Models, LLMs, and Embodied AI.\n\n")
+            f.write("Every day, GitHub Actions automatically polls the [Papers with Code API](https://paperswithcode.com/), enriches paper metadata with arXiv links, translation services, and code repositories, then generates beautifully formatted Markdown lists for both GitHub README and GitHub Pages.\n\n")
+            f.write("🌐 **Online Documentation:** [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)\n\n")
 
-        # Add Analytics入口（静态图 + 交互页）
-        if to_web:
-            analytics_href = "analytics/"
-            charts_prefix = "analytics/charts/"
-        else:
-            analytics_href = "docs/analytics/"
-            charts_prefix = "docs/analytics/charts/"
+            # Add Features
+            f.write("## ✨ Features\n\n")
+            f.write("| Feature | Description |\n")
+            f.write("|---------|-------------|\n")
+            f.write("| 🔄 **Daily Auto-Update** | Runs every 8 hours via GitHub Actions — zero manual intervention |\n")
+            f.write("| 📂 **20+ Research Topics** | From Classification to Embodied AI, covering the full CV/AI spectrum |\n")
+            f.write("| 📊 **Rich Analytics Dashboard** | Trend charts, topic rankings, top authors, and code coverage metrics |\n")
+            f.write("| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation (papers.cool), reading (hjfy), and code links |\n")
+            f.write("| 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |\n")
+            f.write("| 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable on the site |\n")
+            f.write("| 🔍 **Configurable Keywords** | Fully customizable search filters via `config.yaml` |\n")
+            f.write("| 📈 **Monthly Archives** | Papers organized by month for easy historical browsing |\n")
+            f.write("| 🌐 **Multi-language Support** | Integrated paper translation links for non-English readers |\n\n")
 
-        f.write("## Analytics\n\n")
-        f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
-        f.write("\n")
-        f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
-        f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
-        f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
-        f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
-        
-        # Add Usage Instructions
-        f.write("## Usage\n\n")
-        f.write("To generate the paper list locally, follow these steps:\n\n")
-        f.write("1. **Install Dependencies**\n")
-        f.write("   ```bash\n")
-        f.write("   pip install -r requirements.txt\n")
-        f.write("   ```\n\n")
-        f.write("2. **Run the Script**\n")
-        f.write("   ```bash\n")
-        f.write("   python get_paper.py\n")
-        f.write("   ```\n\n")
-        f.write("3. **Configuration**\n")
-        f.write("   You can customize the search keywords and other settings in `config.yaml`.\n\n")
-        
-        # Add Advanced Usage
-        f.write("### Advanced Usage\n\n")
-        f.write("You can also use the scripts in the `scripts/` directory for additional tasks:\n\n")
-        f.write("- **Count Papers in Range**: Count the number of papers within a specific date range.\n")
-        f.write("  ```bash\n")
-        f.write("  python scripts/count_range.py 2024-01-01 2024-12-31\n")
-        f.write("  ```\n\n")
+            # Add Workflow
+            f.write("## 🏗️ How It Works\n\n")
+            f.write("```\n┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐\n")
+            f.write("│  Papers with    │────▶│  GitHub Actions │────▶│  Enriched MD    │\n")
+            f.write("│  Code API       │     │  (every 8h)     │     │  + Analytics    │\n")
+            f.write("└─────────────────┘     └─────────────────┘     └─────────────────┘\n")
+            f.write("         │                       │                       │\n")
+            f.write("         ▼                       ▼                       ▼\n")
+            f.write("   📥 Fetch Papers        🔗 Enrich Links         📝 Generate\n")
+            f.write("   🔍 Filter by Topic     📊 Build Analytics      🌐 GitHub Pages\n")
+            f.write("   📅 Sort by Date        💾 Store JSON           📄 README.md\n")
+            f.write("```\n\n")
+
+            # Add Analytics入口（静态图 + 交互页）
+            if to_web:
+                analytics_href = "analytics/"
+                charts_prefix = "analytics/charts/"
+            else:
+                analytics_href = "docs/analytics/"
+                charts_prefix = "docs/analytics/charts/"
+
+            f.write("## Analytics\n\n")
+            f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
+            f.write("\n")
+            f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
+            f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
+            f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
+            f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
+
+            # Add Usage Instructions
+            f.write("## 🚀 Quick Start\n\n")
+            f.write("### Prerequisites\n\n")
+            f.write("- Python 3.10+\n")
+            f.write("- pip\n\n")
+            f.write("### Installation\n\n")
+            f.write("1. **Clone the repository**\n")
+            f.write("   ```bash\n")
+            f.write("   git clone https://github.com/isLinXu/paper-list.git\n")
+            f.write("   cd paper-list\n")
+            f.write("   ```\n\n")
+            f.write("2. **Install Dependencies**\n")
+            f.write("   ```bash\n")
+            f.write("   pip install -r requirements.txt\n")
+            f.write("   ```\n\n")
+            f.write("3. **Run the Script**\n")
+            f.write("   ```bash\n")
+            f.write("   # Fetch papers from the last 2 days\n")
+            f.write("   python get_paper.py\n\n")
+            f.write("   # Or specify a date range\n")
+            f.write("   python get_paper.py --start_date 2024-01-01 --end_date 2024-12-31\n")
+            f.write("   ```\n\n")
+            f.write("4. **Configuration**\n")
+            f.write("   Customize search keywords, output paths, and more in [`config.yaml`](config.yaml):\n")
+            f.write("   ```yaml\n")
+            f.write("   keywords:\n")
+            f.write("     \"Object Detection\":\n")
+            f.write("       filters: [\"Object Detection\", \"2D Object Detection\", \"3D Object Detection\"]\n")
+            f.write("     \"Diffusion Models\":\n")
+            f.write("       filters: [\"Diffusion Model\", \"Stable Diffusion\", \"DALL-E\"]\n")
+            f.write("   ```\n\n")
+
+            # Add Advanced Usage
+            f.write("### 🔧 Advanced Usage\n\n")
+            f.write("| Command | Description |\n")
+            f.write("|---------|-------------|\n")
+            f.write("| `python get_paper.py --update_paper_links` | Enrich existing papers with code links |\n")
+            f.write("| `python scripts/count_range.py 2024-01-01 2024-12-31` | Count papers in a date range |\n")
+            f.write("| `python scripts/build_analytics.py --store docs/data --out docs/analytics` | Build analytics dashboard |\n")
+            f.write("| `./scripts/serve_pages.sh` | Install local Jekyll deps and preview GitHub Pages at `127.0.0.1:4000` |\n")
+            f.write("| `python regenerate_readme.py` | Regenerate README from existing JSON data |\n\n")
 
         # Add: table of contents
         if use_tc == True:
-            f.write("## Paper List\n\n")
-            # f.write("<details>\n")
-            # f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
-            for keyword in data.keys():
-                day_content = data[keyword]
-                if not day_content:
-                    continue
-                if split_to_docs:
-                    kw = keyword.replace(' ', '_')
-                    href = f"{kw}.md" if to_web else f"docs/{kw}.md"
-                    f.write(f"    <li><a href={href}>{keyword}</a></li>\n")
-                else:
-                    kw = keyword.replace(' ', '-')
-                    f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            # f.write("</details>\n\n")
+            write_topic_index(f, data, to_web=to_web, split_to_docs=split_to_docs)
 
-        for keyword in data.keys():
-            day_content = data[keyword]
-            if not day_content:
-                continue
+        non_empty_topics = [(keyword, day_content) for keyword, day_content in data.items() if day_content]
+
+        for topic_index, (keyword, day_content) in enumerate(non_empty_topics):
 
             if split_to_docs:
                 if not os.path.exists('docs'):
@@ -217,12 +439,80 @@ def json_to_md(filename, md_filename,
                         line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
                         f.write(pretty_math(line))  # make latex pretty
 
-                f.write(f"\n")
+                if topic_index < len(non_empty_topics) - 1:
+                    f.write("\n")
 
                 # Add: back to top
                 if use_b2t:
                     top_info = f"#Updated on {DateNow}"
                     top_info = top_info.replace(' ', '-').replace('.', '')
                     f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+
+        # Add footer sections (only for main index/README, not sub-pages)
+        if use_title == True and split_to_docs:
+            # Add Analytics section
+            if to_web:
+                analytics_href = "analytics/"
+                charts_prefix = "analytics/charts/"
+            else:
+                analytics_href = "docs/analytics/"
+                charts_prefix = "docs/analytics/charts/"
+
+            f.write("\n---\n\n")
+            f.write("## 📊 Analytics Dashboard\n\n")
+            f.write("Track research trends, topic popularity, and top contributing authors.\n\n")
+            f.write(f"- **Interactive Dashboard:** [{analytics_href}]({analytics_href})\n")
+            f.write("- **Daily Trend:** Papers published per day\n")
+            f.write("- **Topic Ranking:** Most active research areas\n")
+            f.write("- **Top Authors:** Most prolific researchers\n")
+            f.write("- **Code Coverage:** Ratio of papers with open-source code\n\n")
+            f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
+            f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
+
+            # Add Star History
+            f.write("\n---\n\n")
+            f.write("## ⭐ Star History\n\n")
+            f.write("[![Star History Chart](https://api.star-history.com/svg?repos=isLinXu/paper-list&type=Date)](https://star-history.com/#isLinXu/paper-list&Date)\n\n")
+            f.write("> If you find this project helpful, please consider giving it a ⭐ — it helps others discover the project!\n\n")
+
+            # Add Contributing
+            f.write("\n---\n\n")
+            f.write("## 🤝 Contributing\n\n")
+            f.write("We welcome contributions! Here are some ways you can help:\n\n")
+            f.write("- **🐛 Report Issues:** Found a bug or missing paper? [Open an issue](https://github.com/isLinXu/paper-list/issues)\n")
+            f.write("- **💡 Suggest Topics:** Want a new research category? Propose it in the issues\n")
+            f.write("- **🔧 Improve Code:** Submit a PR to enhance the scraper, analytics, or UI\n")
+            f.write("- **📖 Improve Docs:** Help us write better documentation\n\n")
+            f.write("### Development Setup\n\n")
+            f.write("```bash\n")
+            f.write("# Fork and clone\n")
+            f.write("git clone https://github.com/<your-username>/paper-list.git\n")
+            f.write("cd paper-list\n\n")
+            f.write("# Install dependencies\n")
+            f.write("pip install -r requirements.txt\n\n")
+            f.write("# Run tests\n")
+            f.write("python -m pytest tests/\n")
+            f.write("```\n\n")
+
+            # Add License
+            f.write("\n---\n\n")
+            f.write("## 📄 License\n\n")
+            f.write("This project is licensed under the [Apache License 2.0](LICENSE).\n\n")
+            f.write("The paper data is sourced from [arXiv](https://arxiv.org/) and [Papers with Code](https://paperswithcode.com/), ")
+            f.write("and remains subject to their respective terms of use.\n\n")
+
+            # Add Acknowledgements
+            f.write("\n---\n\n")
+            f.write("## 🙏 Acknowledgements\n\n")
+            f.write("- [arXiv](https://arxiv.org/) — for providing open access to research papers\n")
+            f.write("- [Papers with Code](https://paperswithcode.com/) — for the comprehensive paper API\n")
+            f.write("- [papers.cool](https://papers.cool/) — for paper translation services\n")
+            f.write("- [hjfy.top](https://hjfy.top/) — for enhanced paper reading experience\n\n")
+
+            # Final footer
+            f.write("\n---\n\n")
+            f.write("<p align=\"center\">\n")
+            f.write("  <sub>Built with ❤️ by <a href=\"https://github.com/isLinXu\">@isLinXu</a> · Powered by GitHub Actions</sub>\n")
+            f.write("</p>\n")
 
     logging.info(f"{task} finished")

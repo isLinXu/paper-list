@@ -2095,6 +2095,78 @@ html[data-theme="lab"] .page-content .hero-banner {
   }
 }
 
+/* Enhanced table styles for Features section */
+.page-content table:first-of-type td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.page-content table:first-of-type td:nth-child(2) {
+  color: var(--muted);
+}
+
+/* ASCII workflow diagram styling */
+.page-content pre:has(┌) {
+  background: linear-gradient(135deg, var(--hero-c1) 0%, var(--hero-c2) 100%);
+  border: 1px solid var(--hero-panel-border);
+  color: var(--text);
+  font-family: "IBM Plex Mono", "SF Mono", Monaco, "Cascadia Code", monospace;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  padding: 20px 24px;
+}
+
+html[data-theme="atlas"] .page-content pre:has(┌) {
+  background: linear-gradient(135deg, rgba(18, 30, 43, 0.94), rgba(13, 22, 32, 0.88));
+  border-color: rgba(126, 208, 216, 0.12);
+  color: var(--text);
+}
+
+html[data-theme="lab"] .page-content pre:has(┌) {
+  background: linear-gradient(135deg, rgba(252, 254, 255, 0.98), rgba(239, 244, 251, 0.98));
+}
+
+/* Star History image styling */
+.page-content img[src*="star-history"] {
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+}
+
+/* Blockquote for update notice */
+.page-content blockquote {
+  margin: 20px 0;
+  padding: 12px 16px;
+  border-left: 3px solid var(--teal);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  background: var(--hero-panel-bg);
+  color: var(--muted);
+}
+
+html[data-theme="atlas"] .page-content blockquote {
+  background: linear-gradient(180deg, rgba(18, 30, 43, 0.94), rgba(13, 22, 32, 0.88));
+}
+
+html[data-theme="lab"] .page-content blockquote {
+  background: linear-gradient(180deg, rgba(245, 249, 255, 0.98), rgba(238, 244, 252, 0.94));
+}
+
+/* Center-aligned h1 styling */
+.page-content h1[align="center"] {
+  text-align: center;
+  margin: 0 0 8px;
+}
+
+/* Footer link styling */
+.page-content p[align="center"] sub a {
+  color: var(--teal);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.page-content p[align="center"] sub a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 760px) {
   .site-controls {
     width: 100%;

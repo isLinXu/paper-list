@@ -70,6 +70,8 @@ function enhanceTopicIndex() {
     Array.from(nextList.querySelectorAll("li")).forEach((item, index) => {
       const link = item.querySelector("a")
       if (!link) return
+      // Skip if already enhanced (has topic-index__number inside)
+      if (link.querySelector(".topic-index__number")) return
       const original = link.textContent.trim()
       link.innerHTML = `<span class="topic-index__label"><span class="topic-index__number">${index + 1}</span><span>${original}</span></span>`
     })

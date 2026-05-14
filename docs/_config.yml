@@ -1,15 +1,20 @@
-title: Paper Arxiv Daily
-description: Automatically Update Papers Daily using Github Actions (Update Every 8th hours)
+# Site settings
+title: "Paper-List-DAILY"
+description: "Automatically track & organize the latest arXiv papers by topic — updated daily via GitHub Actions. Covering 20+ AI research areas from Computer Vision to LLMs."
 show_downloads: true
 
+# GitHub settings
 github:
-  zip_url: https://github.com/isLinXu/paper-list
+  repository_url: https://github.com/isLinXu/paper-list
+  zip_url: https://github.com/isLinXu/paper-list/archive/refs/heads/main.zip
   another_url: https://github.com/isLinXu/paper-list
 
+# Social links
 social_links:
   twitter:
   github: isLinXu
 
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -17,7 +22,35 @@ defaults:
     values:
       layout: default
 
+# Plugins
 plugins:
- - jekyll-remote-theme # add this line to the plugins list if you already have one
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO & Metadata
+author:
+  name: "isLinXu"
+  github: "isLinXu"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
+
+# Sass settings
+sass:
+  style: compressed
+
+# Analytics (optional - can integrate with Google Analytics or similar)
+# google_analytics: UA-XXXXXXXX-X
