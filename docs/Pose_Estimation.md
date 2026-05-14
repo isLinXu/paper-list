@@ -1,10 +1,10 @@
 ## Pose Estimation
 
-Total papers: **1851**
+Total papers: **1853**
 
 ## Monthly Archives
 
-- [2026-05](Pose_Estimation/2026-05.md) (2 papers)
+- [2026-05](Pose_Estimation/2026-05.md) (4 papers)
 - [2026-04](Pose_Estimation/2026-04.md) (39 papers)
 - [2026-03](Pose_Estimation/2026-03.md) (83 papers)
 - [2026-02](Pose_Estimation/2026-02.md) (59 papers)

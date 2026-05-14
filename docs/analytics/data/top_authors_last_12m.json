@@ -5,22 +5,22 @@
     "rank": 1
   },
   {
-    "author": "Hao Wang",
+    "author": "Hao Li",
     "count": 13,
     "rank": 2
   },
   {
-    "author": "Hao Li",
-    "count": 13,
+    "author": "Yu Li",
+    "count": 12,
     "rank": 3
   },
   {
-    "author": "Yu Li",
-    "count": 12,
+    "author": "Yu Zhang",
+    "count": 11,
     "rank": 4
   },
   {
-    "author": "Yu Zhang",
+    "author": "Hao Wang",
     "count": 11,
     "rank": 5
   },
@@ -40,62 +40,62 @@
     "rank": 8
   },
   {
-    "author": "Chang Liu",
+    "author": "Yi Zhang",
     "count": 9,
     "rank": 9
   },
   {
-    "author": "Yi Zhang",
+    "author": "Lei Wang",
     "count": 9,
     "rank": 10
   },
   {
-    "author": "Lei Wang",
+    "author": "Yida Lin",
     "count": 9,
     "rank": 11
   },
   {
-    "author": "Yida Lin",
-    "count": 9,
-    "rank": 12
-  },
-  {
     "author": "Qihang Fan",
     "count": 8,
-    "rank": 13
+    "rank": 12
   },
   {
     "author": "Jun Wang",
     "count": 8,
-    "rank": 14
+    "rank": 13
   },
   {
     "author": "Teerapong Panboonyuen",
     "count": 8,
-    "rank": 15
+    "rank": 14
   },
   {
     "author": "Yizhan Feng",
     "count": 8,
-    "rank": 16
+    "rank": 15
   },
   {
     "author": "Yuxuan Li",
     "count": 8,
-    "rank": 17
+    "rank": 16
   },
   {
     "author": "Jiahao Li",
     "count": 8,
-    "rank": 18
+    "rank": 17
   },
   {
     "author": "Haoyu Wang",
     "count": 8,
-    "rank": 19
+    "rank": 18
   },
   {
     "author": "Yuan Gao",
+    "count": 8,
+    "rank": 19
+  },
+  {
+    "author": "Sijia Chen",
     "count": 8,
     "rank": 20
   }
