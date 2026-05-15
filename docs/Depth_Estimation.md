@@ -1,9 +1,10 @@
 ## Depth Estimation
 
-Total papers: **1190**
+Total papers: **1192**
 
 ## Monthly Archives
 
+- [2026-05](Depth_Estimation/2026-05.md) (2 papers)
 - [2026-04](Depth_Estimation/2026-04.md) (37 papers)
 - [2026-03](Depth_Estimation/2026-03.md) (53 papers)
 - [2026-02](Depth_Estimation/2026-02.md) (26 papers)

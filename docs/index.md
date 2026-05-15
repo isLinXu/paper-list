@@ -2,66 +2,117 @@
 layout: default
 ---
 
-<section class="hero hero--editorial">
-  <div class="hero__grid">
-    <div>
-      <span class="eyebrow">Research Radar</span>
-      <h1>Track the latest arXiv papers without losing the map.</h1>
-      <p>Paper-List-DAILY turns raw daily paper updates into a topic-structured research surface: browse monthly archives, jump straight to analytics, or scan the full feed when you want the dense version.</p>
-      <div class="hero__actions">
-        <a class="button button--primary" href="paper_list.html">Open full paper list</a>
-        <a class="button button--ghost" href="analytics/">View analytics</a>
-        <a class="button button--ghost" href="https://github.com/isLinXu/paper-list">GitHub repo</a>
-      </div>
-      <div class="page-meta">
-        <span class="pill">Updated 2026.05.14</span>
-        <span class="pill">21 tracked topics</span>
-        <span class="pill">52161 indexed papers</span>
-        <span class="pill">2024-02-09 to 2026-04-30</span>
-      </div>
-    </div>
-    <aside class="hero-panel">
-      <span class="hero-panel__label">Snapshot</span>
-      <div class="hero-panel__stat"><strong>52161</strong><span>papers currently split into monthly archive pages that are easier to browse than one giant feed.</span></div>
-      <div class="hero-panel__rail">
-        <div class="hero-panel__rail-item"><span>21</span><p>research tracks currently covered across vision, multimodal, and learning systems.</p></div>
-        <div class="hero-panel__rail-item"><span>Every 8h</span><p>GitHub Actions refresh cadence for data, docs, and analytics artifacts.</p></div>
-        <div class="hero-panel__rail-item"><span>Top lanes</span><p>LLM, Transfer Learning, Reinforcement Learning</p></div>
-      </div>
-    </aside>
-  </div>
-</section>
+![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list?style=flat-square&color=ffd700) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list?style=flat-square&color=4ecdc4) ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list?style=flat-square&color=ff6b6b)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat-square)](https://github.com/isLinXu/paper-list) ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list?style=flat-square&color=a8e6cf) ![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square&color=ffd3b6) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list?style=flat-square&color=ffaaa5)
+![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square&color=c7ceea) ![Hits](https://hits.dwyl.com/isLinXu/paper-list.svg?style=flat-square&color=95e1d3)
 
-<section class="theme-grid theme-grid--compact">
-  <article class="theme-card theme-card--vision">
-    <span class="theme-card__tag">Perception Core</span>
-    <h3>Vision Systems</h3>
-    <div class="theme-card__links"><a href="Classification.md">Classification</a><a href="Object_Detection.md">Object Detection</a><a href="Semantic_Segmentation.md">Semantic Segmentation</a><a href="Anomaly_Detection.md">Anomaly Detection</a></div>
-  </article>
-  <article class="theme-card theme-card--motion">
-    <span class="theme-card__tag">3D and Motion</span>
-    <h3>Geometry Stack</h3>
-    <div class="theme-card__links"><a href="Object_Tracking.md">Object Tracking</a><a href="Action_Recognition.md">Action Recognition</a><a href="Pose_Estimation.md">Pose Estimation</a><a href="Depth_Estimation.md">Depth Estimation</a><a href="Optical_Flow.md">Optical Flow</a></div>
-  </article>
-  <article class="theme-card theme-card--foundation">
-    <span class="theme-card__tag">Foundation Models</span>
-    <h3>Generative Layer</h3>
-    <div class="theme-card__links"><a href="Image_Generation.md">Image Generation</a><a href="Diffusion_Models.md">Diffusion Models</a><a href="LLM.md">LLM</a><a href="Latent_Space_LLM.md">Latent Space LLM</a><a href="Multimodal.md">Multimodal</a></div>
-  </article>
-  <article class="theme-card theme-card--systems">
-    <span class="theme-card__tag">Systems Frontier</span>
-    <h3>Research Surface</h3>
-    <div class="theme-card__links"><a href="Scene_Understanding.md">Scene Understanding</a><a href="Video_Understanding.md">Video Understanding</a><a href="Neural_Rendering.md">Neural Rendering</a><a href="Transfer_Learning.md">Transfer Learning</a><a href="Reinforcement_Learning.md">Reinforcement Learning</a><a href="Graph_Neural_Networks.md">Graph Neural Networks</a><a href="Audio_Processing.md">Audio Processing</a></div>
-  </article>
-</section>
+<h1 align="center">📜 Paper-List-DAILY</h1>
+<p align="center"><strong>Automatically track & organize the latest arXiv papers by topic — updated daily via GitHub Actions</strong></p>
 
-<section class="timeline-grid timeline-grid--compact timeline-grid--editorial">
-  <article class="timeline-card"><span class="timeline-card__year">Phase 01</span><h3>Pick a lane</h3><p>Start with the grouped research surfaces above when you want a fast orientation instead of a giant alphabetized list.</p></article>
-  <article class="timeline-card"><span class="timeline-card__year">Phase 02</span><h3>Open monthly archives</h3><p>Each topic now breaks into month-level pages so the paper tables stay readable on both desktop and mobile.</p></article>
-  <article class="timeline-card"><span class="timeline-card__year">Phase 03</span><h3>Dive into evidence</h3><p>Use the analytics dashboard for trend context, then jump into PDF, translation, read, and code links directly from each paper row.</p></article>
-</section>
+<p align="center"><a href="https://islinxu.github.io/paper-list/"><img alt="Website" src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-0f4c5c?style=for-the-badge"></a> <a href="https://github.com/isLinXu/paper-list/stargazers"><img alt="Stargazers" src="https://img.shields.io/badge/⭐_Star_Us-ff6b6b?style=for-the-badge"></a></p>
 
-<div class="section-divider"><span>Raw Research Feed</span></div>
+---
+
+> **📅 Last Updated:** `2026.05.15` · **🤖 Auto-generated by GitHub Actions**
+
+![paper_list_banner](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)
+
+## 📖 Introduction
+
+**Paper-List-DAILY** is an automated arXiv paper tracking system that fetches, categorizes, and organizes the latest research papers across **20+ computer vision & AI topics** — from classic tasks like Object Detection and Segmentation to cutting-edge fields like Diffusion Models, LLMs, and Embodied AI.
+
+Every day, GitHub Actions automatically polls the [Papers with Code API](https://paperswithcode.com/), enriches paper metadata with arXiv links, translation services, and code repositories, then generates beautifully formatted Markdown lists for both GitHub README and GitHub Pages.
+
+🌐 **Online Documentation:** [https://islinxu.github.io/paper-list/](https://islinxu.github.io/paper-list/)
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔄 **Daily Auto-Update** | Runs every 8 hours via GitHub Actions — zero manual intervention |
+| 📂 **20+ Research Topics** | From Classification to Embodied AI, covering the full CV/AI spectrum |
+| 📊 **Rich Analytics Dashboard** | Trend charts, topic rankings, top authors, and code coverage metrics |
+| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation (papers.cool), reading (hjfy), and code links |
+| 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |
+| 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable on the site |
+| 🔍 **Configurable Keywords** | Fully customizable search filters via `config.yaml` |
+| 📈 **Monthly Archives** | Papers organized by month for easy historical browsing |
+| 🌐 **Multi-language Support** | Integrated paper translation links for non-English readers |
+
+## 🏗️ How It Works
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│  Papers with    │────▶│  GitHub Actions │────▶│  Enriched MD    │
+│  Code API       │     │  (every 8h)     │     │  + Analytics    │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+         │                       │                       │
+         ▼                       ▼                       ▼
+   📥 Fetch Papers        🔗 Enrich Links         📝 Generate
+   🔍 Filter by Topic     📊 Build Analytics      🌐 GitHub Pages
+   📅 Sort by Date        💾 Store JSON           📄 README.md
+```
+
+## Analytics
+
+- Dashboard: [analytics/](analytics/)
+
+![trend_daily](analytics/charts/trend_daily.png)
+
+![topic_rank](analytics/charts/topic_rank.png)
+
+![code_coverage](analytics/charts/code_coverage_trend.png)
+
+![top_authors](analytics/charts/top_authors.png)
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Python 3.10+
+- pip
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/isLinXu/paper-list.git
+   cd paper-list
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Script**
+   ```bash
+   # Fetch papers from the last 2 days
+   python get_paper.py
+
+   # Or specify a date range
+   python get_paper.py --start_date 2024-01-01 --end_date 2024-12-31
+   ```
+
+4. **Configuration**
+   Customize search keywords, output paths, and more in [`config.yaml`](config.yaml):
+   ```yaml
+   keywords:
+     "Object Detection":
+       filters: ["Object Detection", "2D Object Detection", "3D Object Detection"]
+     "Diffusion Models":
+       filters: ["Diffusion Model", "Stable Diffusion", "DALL-E"]
+   ```
+
+### 🔧 Advanced Usage
+
+| Command | Description |
+|---------|-------------|
+| `python get_paper.py --update_paper_links` | Enrich existing papers with code links |
+| `python scripts/count_range.py 2024-01-01 2024-12-31` | Count papers in a date range |
+| `python scripts/build_analytics.py --store docs/data --out docs/analytics` | Build analytics dashboard |
+| `./scripts/serve_pages.sh` | Install local Jekyll deps and preview GitHub Pages at `127.0.0.1:4000` |
+| `python regenerate_readme.py` | Regenerate README from existing JSON data |
 
 ## 📚 Paper List
 
