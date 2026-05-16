@@ -359,6 +359,7 @@ def json_to_md(filename, md_filename,
             f.write("| 📊 **Research Insights Entry** | Trend charts, topic rankings, top authors, and code coverage in a separate analytics section |\n")
             f.write("| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation (papers.cool), reading (hjfy), and code links |\n")
             f.write("| 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |\n")
+            f.write("| 🤖 **Dual Reading Modes** | GitHub Pages supports both a human-facing view and a compact `?view=agent` mode |\n")
             f.write("| 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable on the site |\n")
             f.write("| 🔍 **Configurable Keywords** | Fully customizable search filters via `config.yaml` |\n")
             f.write("| 📈 **Monthly Archives** | Papers organized by month for easy historical browsing |\n")

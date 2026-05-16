@@ -12,6 +12,31 @@ function initThemeSwitcher() {
   })
 }
 
+function initViewSwitcher() {
+  const select = document.getElementById("view-switcher")
+  if (!select) return
+
+  const params = new URLSearchParams(window.location.search)
+  const current = params.get("view") || document.documentElement.getAttribute("data-view") || "human"
+  select.value = current
+
+  select.addEventListener("change", () => {
+    const view = select.value
+    document.documentElement.setAttribute("data-view", view)
+    localStorage.setItem("paper-list-view", view)
+
+    const nextParams = new URLSearchParams(window.location.search)
+    if (view === "agent") {
+      nextParams.set("view", "agent")
+    } else {
+      nextParams.delete("view")
+    }
+    const nextQuery = nextParams.toString()
+    const nextUrl = `${window.location.pathname}${nextQuery ? `?${nextQuery}` : ""}${window.location.hash}`
+    window.history.replaceState({}, "", nextUrl)
+  })
+}
+
 function wrapTables() {
   const tables = document.querySelectorAll(".page-content table")
   tables.forEach((table) => {
@@ -295,6 +320,7 @@ function decorateContent() {
 
 document.addEventListener("DOMContentLoaded", () => {
   initThemeSwitcher()
+  initViewSwitcher()
   wrapTables()
   enhanceArchiveLists()
   enhanceTopicIndex()

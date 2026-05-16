@@ -30,6 +30,7 @@ Every day, GitHub Actions automatically polls the [Papers with Code API](https:/
 | 📊 **Research Insights Entry** | Trend charts, topic rankings, top authors, and code coverage in a separate analytics section |
 | 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation (papers.cool), reading (hjfy), and code links |
 | 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |
+| 🤖 **Dual Reading Modes** | GitHub Pages supports both a human-facing view and a compact `?view=agent` mode |
 | 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable on the site |
 | 🔍 **Configurable Keywords** | Fully customizable search filters via `config.yaml` |
 | 📈 **Monthly Archives** | Papers organized by month for easy historical browsing |

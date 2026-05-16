@@ -18,6 +18,9 @@
       (function () {
         var theme = localStorage.getItem("paper-list-theme") || "editorial";
         document.documentElement.setAttribute("data-theme", theme);
+        var params = new URLSearchParams(window.location.search);
+        var view = params.get("view") || localStorage.getItem("paper-list-view") || "human";
+        document.documentElement.setAttribute("data-view", view);
       })();
     </script>
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}" />
@@ -48,6 +51,14 @@
                 <option value="editorial">Editorial</option>
                 <option value="atlas">Atlas</option>
                 <option value="lab">Lab</option>
+              </select>
+            </label>
+
+            <label class="view-switcher" for="view-switcher">
+              <span>View</span>
+              <select id="view-switcher" aria-label="Reading mode switcher">
+                <option value="human">Human</option>
+                <option value="agent">Agent</option>
               </select>
             </label>
           </div>

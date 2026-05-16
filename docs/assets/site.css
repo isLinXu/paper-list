@@ -285,12 +285,24 @@ html[data-theme="lab"] .site-header__inner {
   font-weight: 700;
 }
 
+.view-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding-left: 10px;
+  border-left: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
 .theme-switcher span {
   text-transform: uppercase;
   letter-spacing: 0.12em;
 }
 
-.theme-switcher select {
+.theme-switcher select,
+.view-switcher select {
   min-height: 32px;
   padding: 0 10px;
   border-radius: 999px;
@@ -303,6 +315,7 @@ html[data-theme="lab"] .site-header__inner {
 }
 
 html[data-theme="atlas"] .theme-switcher select,
+html[data-theme="atlas"] .view-switcher select,
 html[data-theme="atlas"] .button,
 html[data-theme="atlas"] .pill,
 html[data-theme="atlas"] .theme-card__links a,
@@ -331,6 +344,7 @@ html[data-theme="atlas"] .page-content tbody td.is-code a {
 }
 
 html[data-theme="lab"] .theme-switcher select,
+html[data-theme="lab"] .view-switcher select,
 html[data-theme="lab"] .button,
 html[data-theme="lab"] .pill,
 html[data-theme="lab"] .theme-card__links a,
@@ -2145,6 +2159,87 @@ html[data-theme="lab"] .page-content .hero-banner {
 .page-home > section,
 .page-content > * {
   animation: fadeUp 420ms ease both;
+}
+
+html[data-view="agent"] body {
+  font-size: 14px;
+}
+
+html[data-view="agent"] .site-noise,
+html[data-view="agent"] .hero::after,
+html[data-view="agent"] .theme-card::after,
+html[data-view="agent"] .timeline-grid--editorial::before,
+html[data-view="agent"] .timeline-card::after,
+html[data-view="agent"] .timeline-card::before {
+  display: none;
+}
+
+html[data-view="agent"] .page-home > section,
+html[data-view="agent"] .page-content > * {
+  animation: none;
+}
+
+html[data-view="agent"] .site-header__inner,
+html[data-view="agent"] .hero,
+html[data-view="agent"] .theme-card,
+html[data-view="agent"] .timeline-card,
+html[data-view="agent"] .explorer-card,
+html[data-view="agent"] .page-content .hero-banner,
+html[data-view="agent"] .table-shell,
+html[data-view="agent"] .page-content,
+html[data-view="agent"] .archive-record,
+html[data-view="agent"] .process-card {
+  box-shadow: none;
+  background: var(--surface-strong);
+  border-color: var(--line-strong);
+}
+
+html[data-view="agent"] .hero,
+html[data-view="agent"] .theme-card,
+html[data-view="agent"] .timeline-card,
+html[data-view="agent"] .explorer-card,
+html[data-view="agent"] .page-content .hero-banner {
+  border-radius: 12px;
+}
+
+html[data-view="agent"] .hero h1,
+html[data-view="agent"] .page-content h2,
+html[data-view="agent"] .theme-card h3,
+html[data-view="agent"] .timeline-card h3,
+html[data-view="agent"] .explorer-card h3,
+html[data-view="agent"] .explorer-card strong {
+  letter-spacing: 0;
+}
+
+html[data-view="agent"] .theme-card__links,
+html[data-view="agent"] .topic-index,
+html[data-view="agent"] .archive-grid,
+html[data-view="agent"] .explorer-strip,
+html[data-view="agent"] .timeline-grid,
+html[data-view="agent"] .theme-grid {
+  gap: 8px;
+}
+
+html[data-view="agent"] .topic-index a,
+html[data-view="agent"] .archive-grid a,
+html[data-view="agent"] .theme-card__links a,
+html[data-view="agent"] .banner-links a,
+html[data-view="agent"] .quick-section-nav a,
+html[data-view="agent"] .sibling-nav a,
+html[data-view="agent"] .button,
+html[data-view="agent"] .pill {
+  min-height: 30px;
+  border-radius: 8px;
+  background: var(--surface-accent);
+}
+
+html[data-view="agent"] .page-content table {
+  min-width: 720px;
+  font-size: 0.84rem;
+}
+
+html[data-view="agent"] .page-content thead th {
+  font-size: 0.72rem;
 }
 
 .page-home > section:nth-child(2),
