@@ -1,6 +1,16 @@
 ## Diffusion Models
 
+Lane: **Generative Layer**
+
 Total papers: **166**
+
+Latest archive month: **2026-04** (166 papers)
+
+Topic neighbors: [← Image Generation](Image_Generation.md) · [LLM →](LLM.md)
+
+### Foundation Models
+
+This page is the monthly archive hub for **Diffusion Models**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

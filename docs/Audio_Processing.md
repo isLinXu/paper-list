@@ -1,6 +1,16 @@
 ## Audio Processing
 
+Lane: **Research Surface**
+
 Total papers: **2250**
+
+Latest archive month: **2026-04** (15 papers)
+
+Topic neighbors: [← Graph Neural Networks](Graph_Neural_Networks.md)
+
+### Systems Frontier
+
+This page is the monthly archive hub for **Audio Processing**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

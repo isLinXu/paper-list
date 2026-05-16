@@ -1,6 +1,16 @@
 ## Anomaly Detection
 
+Lane: **Vision Systems**
+
 Total papers: **2900**
+
+Latest archive month: **2026-04** (33 papers)
+
+Topic neighbors: [← Semantic Segmentation](Semantic_Segmentation.md) · [Object Tracking →](Object_Tracking.md)
+
+### Perception Core
+
+This page is the monthly archive hub for **Anomaly Detection**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

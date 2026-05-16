@@ -1,6 +1,16 @@
 ## Multimodal
 
+Lane: **Generative Layer**
+
 Total papers: **949**
+
+Latest archive month: **2026-04** (7 papers)
+
+Topic neighbors: [← Latent Space LLM](Latent_Space_LLM.md) · [Scene Understanding →](Scene_Understanding.md)
+
+### Foundation Models
+
+This page is the monthly archive hub for **Multimodal**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

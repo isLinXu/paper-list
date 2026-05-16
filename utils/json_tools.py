@@ -53,6 +53,31 @@ def flatten_topic_groups() -> list[str]:
     return ordered
 
 
+def build_topic_metadata(data: dict) -> dict:
+    ordered_topics = [topic for topic in flatten_topic_groups() if data.get(topic)]
+    fallback_topics = [topic for topic, papers in data.items() if papers and topic not in ordered_topics]
+    full_order = ordered_topics + fallback_topics
+    meta = {}
+
+    for index, topic in enumerate(full_order):
+        prev_topic = full_order[index - 1] if index > 0 else None
+        next_topic = full_order[index + 1] if index + 1 < len(full_order) else None
+        lane_title = "Research Track"
+        lane_eyebrow = "Topic Lane"
+        for eyebrow, title, _, topics in TOPIC_GROUPS:
+            if topic in topics:
+                lane_title = title
+                lane_eyebrow = eyebrow
+                break
+        meta[topic] = {
+            "prev": prev_topic,
+            "next": next_topic,
+            "lane_title": lane_title,
+            "lane_eyebrow": lane_eyebrow,
+        }
+    return meta
+
+
 def compute_library_stats(data: dict) -> dict:
     topic_counts = []
     dates = []
@@ -263,6 +288,7 @@ def json_to_md(filename, md_filename,
     data = load_paper_store(filename)
     selected_topics = set(selected_topics or [])
     stats = compute_library_stats(data)
+    topic_meta = build_topic_metadata(data)
 
     def group_papers_by_month(papers: dict) -> dict:
         grouped = defaultdict(dict)
@@ -415,10 +441,33 @@ def json_to_md(filename, md_filename,
                 kw = keyword.replace(' ', '_')
                 if (not selected_topics) or (keyword in selected_topics):
                     with open(f"docs/{kw}.md", "w+") as f_sub:
-                        f_sub.write(f"## {keyword}\n\n")
                         grouped = group_papers_by_month(day_content)
                         total_papers = sum(len(month_items) for month_items in grouped.values())
+                        months_sorted = sorted(grouped.items(), reverse=True)
+                        latest_month, latest_items = months_sorted[0]
+                        oldest_month, oldest_items = months_sorted[-1]
+                        latest_count = len(latest_items)
+                        prev_topic = topic_meta.get(keyword, {}).get("prev")
+                        next_topic = topic_meta.get(keyword, {}).get("next")
+                        lane_title = topic_meta.get(keyword, {}).get("lane_title", "Research Track")
+                        lane_eyebrow = topic_meta.get(keyword, {}).get("lane_eyebrow", "Topic Lane")
+
+                        f_sub.write(f"## {keyword}\n\n")
+                        f_sub.write(f"Lane: **{lane_title}**\n\n")
                         f_sub.write(f"Total papers: **{total_papers}**\n\n")
+                        f_sub.write(f"Latest archive month: **{latest_month}** ({latest_count} papers)\n\n")
+                        if prev_topic or next_topic:
+                            f_sub.write("Topic neighbors: ")
+                            parts = []
+                            if prev_topic:
+                                prev_href = prev_topic.replace(' ', '_') + ".md"
+                                parts.append(f"[← {prev_topic}]({prev_href})")
+                            if next_topic:
+                                next_href = next_topic.replace(' ', '_') + ".md"
+                                parts.append(f"[{next_topic} →]({next_href})")
+                            f_sub.write(" · ".join(parts) + "\n\n")
+                        f_sub.write(f"### {lane_eyebrow}\n\n")
+                        f_sub.write(f"This page is the monthly archive hub for **{keyword}**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.\n\n")
                         f_sub.write("## Monthly Archives\n\n")
                         for month, month_items in sorted(grouped.items(), reverse=True):
                             month_dir = os.path.join("docs", kw)
@@ -429,6 +478,12 @@ def json_to_md(filename, md_filename,
 
                             with open(month_file, "w+") as month_sub:
                                 month_sub.write(f"## {keyword} - {month}\n\n")
+                                month_sub.write(f"Topic lane: **{lane_title}**\n\n")
+                                month_sub.write(f"Monthly papers: **{len(month_items)}**\n\n")
+                                if month == latest_month:
+                                    month_sub.write("This is the latest archive slice for this topic.\n\n")
+                                else:
+                                    month_sub.write(f"Latest available archive for this topic: **{latest_month}**\n\n")
                                 if use_title == True:
                                     if to_web == False:
                                         month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n" + "|---|---|---|---|---|---|---|\n")

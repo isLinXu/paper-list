@@ -1,6 +1,16 @@
 ## LLM
 
+Lane: **Generative Layer**
+
 Total papers: **8598**
+
+Latest archive month: **2026-04** (551 papers)
+
+Topic neighbors: [← Diffusion Models](Diffusion_Models.md) · [Latent Space LLM →](Latent_Space_LLM.md)
+
+### Foundation Models
+
+This page is the monthly archive hub for **LLM**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

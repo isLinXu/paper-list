@@ -1,6 +1,16 @@
 ## Latent Space LLM
 
+Lane: **Generative Layer**
+
 Total papers: **40**
+
+Latest archive month: **2026-04** (40 papers)
+
+Topic neighbors: [← LLM](LLM.md) · [Multimodal →](Multimodal.md)
+
+### Foundation Models
+
+This page is the monthly archive hub for **Latent Space LLM**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 

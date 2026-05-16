@@ -1,10 +1,19 @@
 ## Object Tracking
 
-Total papers: **882**
+Lane: **Geometry Stack**
+
+Total papers: **877**
+
+Latest archive month: **2026-04** (72 papers)
+
+Topic neighbors: [← Anomaly Detection](Anomaly_Detection.md) · [Action Recognition →](Action_Recognition.md)
+
+### 3D and Motion
+
+This page is the monthly archive hub for **Object Tracking**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 
-- [2026-05](Object_Tracking/2026-05.md) (5 papers)
 - [2026-04](Object_Tracking/2026-04.md) (72 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
 - [2026-02](Object_Tracking/2026-02.md) (16 papers)

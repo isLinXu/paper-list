@@ -1,10 +1,19 @@
 ## Pose Estimation
 
-Total papers: **1854**
+Lane: **Geometry Stack**
+
+Total papers: **1849**
+
+Latest archive month: **2026-04** (39 papers)
+
+Topic neighbors: [← Action Recognition](Action_Recognition.md) · [Depth Estimation →](Depth_Estimation.md)
+
+### 3D and Motion
+
+This page is the monthly archive hub for **Pose Estimation**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 
-- [2026-05](Pose_Estimation/2026-05.md) (5 papers)
 - [2026-04](Pose_Estimation/2026-04.md) (39 papers)
 - [2026-03](Pose_Estimation/2026-03.md) (83 papers)
 - [2026-02](Pose_Estimation/2026-02.md) (59 papers)

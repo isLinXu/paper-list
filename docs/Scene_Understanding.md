@@ -1,10 +1,19 @@
 ## Scene Understanding
 
-Total papers: **1429**
+Lane: **Research Surface**
+
+Total papers: **1423**
+
+Latest archive month: **2026-04** (52 papers)
+
+Topic neighbors: [← Multimodal](Multimodal.md) · [Video Understanding →](Video_Understanding.md)
+
+### Systems Frontier
+
+This page is the monthly archive hub for **Scene Understanding**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 
-- [2026-05](Scene_Understanding/2026-05.md) (6 papers)
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)

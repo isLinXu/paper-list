@@ -106,6 +106,15 @@ function enhanceTopicPage(pageContent, heading) {
   const totalParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
     p.textContent.includes("Total papers:")
   )
+  const laneParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Lane:")
+  )
+  const latestParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Latest archive month:")
+  )
+  const neighborsParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Topic neighbors:")
+  )
   const archiveHeading = Array.from(pageContent.querySelectorAll("h2, h3")).find(
     (node) => node.textContent.trim().toLowerCase() === "monthly archives"
   )
@@ -113,6 +122,8 @@ function enhanceTopicPage(pageContent, heading) {
   if (!totalParagraph || !archiveHeading) return false
 
   const totalText = totalParagraph.textContent.trim()
+  const laneText = laneParagraph?.textContent.replace("Lane:", "").trim()
+  const latestText = latestParagraph?.textContent.replace("Latest archive month:", "").trim()
   const banner = document.createElement("section")
   banner.className = "hero-banner"
   banner.innerHTML = `
@@ -126,7 +137,25 @@ function enhanceTopicPage(pageContent, heading) {
   totalPill.className = "pill"
   totalPill.textContent = totalText
   metaStrip.appendChild(totalPill)
+  if (laneText) {
+    const lanePill = document.createElement("span")
+    lanePill.className = "pill"
+    lanePill.textContent = laneText
+    metaStrip.appendChild(lanePill)
+  }
+  if (latestText) {
+    const latestPill = document.createElement("span")
+    latestPill.className = "pill"
+    latestPill.textContent = latestText
+    metaStrip.appendChild(latestPill)
+  }
   banner.appendChild(metaStrip)
+  if (neighborsParagraph?.innerHTML) {
+    const siblingNav = document.createElement("div")
+    siblingNav.className = "sibling-nav"
+    siblingNav.innerHTML = neighborsParagraph.innerHTML.replace("Topic neighbors:", "").trim()
+    banner.appendChild(siblingNav)
+  }
   banner.appendChild(
     createQuickSectionNav([
       { href: "#monthly-archives", label: "Monthly Archives" },
@@ -142,7 +171,10 @@ function enhanceTopicPage(pageContent, heading) {
 
   pageContent.insertBefore(banner, heading)
   heading.remove()
+  laneParagraph?.remove()
   totalParagraph.remove()
+  latestParagraph?.remove()
+  neighborsParagraph?.remove()
   archiveHeading.id = "monthly-archives"
   return true
 }
@@ -150,6 +182,15 @@ function enhanceTopicPage(pageContent, heading) {
 function enhanceMonthlyPage(pageContent, heading) {
   if (!pageContent.querySelector("table")) return false
   const title = heading.textContent.trim()
+  const laneParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Topic lane:")
+  )
+  const monthlyParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Monthly papers:")
+  )
+  const latestParagraph = Array.from(pageContent.querySelectorAll("p")).find((p) =>
+    p.textContent.includes("Latest available archive for this topic:") || p.textContent.includes("This is the latest archive slice for this topic.")
+  )
   const parentDir = window.location.pathname.replace(/[^/]+$/, "")
   const parentIndex = parentDir.endsWith("/") ? "../" : "./"
   const banner = document.createElement("section")
@@ -158,6 +199,18 @@ function enhanceMonthlyPage(pageContent, heading) {
     <h2>${title}</h2>
     <p class="lede">Daily paper entries for this monthly archive, optimized for desktop scanning and mobile reading.</p>
   `
+  const metaStrip = document.createElement("div")
+  metaStrip.className = "meta-strip"
+  ;[laneParagraph, monthlyParagraph, latestParagraph].forEach((paragraph) => {
+    if (!paragraph) return
+    const pill = document.createElement("span")
+    pill.className = "pill"
+    pill.textContent = paragraph.textContent.trim()
+    metaStrip.appendChild(pill)
+  })
+  if (metaStrip.children.length) {
+    banner.appendChild(metaStrip)
+  }
   const table = pageContent.querySelector("table")
   if (table) {
     table.id = "paper-table"
@@ -176,6 +229,9 @@ function enhanceMonthlyPage(pageContent, heading) {
   )
   pageContent.insertBefore(banner, heading)
   heading.remove()
+  laneParagraph?.remove()
+  monthlyParagraph?.remove()
+  latestParagraph?.remove()
   return true
 }
 

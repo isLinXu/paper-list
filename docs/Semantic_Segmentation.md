@@ -1,10 +1,19 @@
 ## Semantic Segmentation
 
-Total papers: **2673**
+Lane: **Vision Systems**
+
+Total papers: **2668**
+
+Latest archive month: **2026-04** (99 papers)
+
+Topic neighbors: [← Object Detection](Object_Detection.md) · [Anomaly Detection →](Anomaly_Detection.md)
+
+### Perception Core
+
+This page is the monthly archive hub for **Semantic Segmentation**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 
-- [2026-05](Semantic_Segmentation/2026-05.md) (5 papers)
 - [2026-04](Semantic_Segmentation/2026-04.md) (99 papers)
 - [2026-03](Semantic_Segmentation/2026-03.md) (112 papers)
 - [2026-02](Semantic_Segmentation/2026-02.md) (81 papers)

@@ -1,10 +1,19 @@
 ## Action Recognition
 
-Total papers: **1153**
+Lane: **Geometry Stack**
+
+Total papers: **1149**
+
+Latest archive month: **2026-04** (39 papers)
+
+Topic neighbors: [← Object Tracking](Object_Tracking.md) · [Pose Estimation →](Pose_Estimation.md)
+
+### 3D and Motion
+
+This page is the monthly archive hub for **Action Recognition**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
 ## Monthly Archives
 
-- [2026-05](Action_Recognition/2026-05.md) (4 papers)
 - [2026-04](Action_Recognition/2026-04.md) (39 papers)
 - [2026-03](Action_Recognition/2026-03.md) (36 papers)
 - [2026-02](Action_Recognition/2026-02.md) (16 papers)
