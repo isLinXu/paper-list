@@ -37,6 +37,27 @@ function initViewSwitcher() {
   })
 }
 
+function focusFinderFromShortcut(event) {
+  if (event.defaultPrevented) return
+  if (event.key !== "/") return
+
+  const active = document.activeElement
+  const isTyping =
+    active &&
+    (active.tagName === "INPUT" ||
+      active.tagName === "TEXTAREA" ||
+      active.tagName === "SELECT" ||
+      active.isContentEditable)
+  if (isTyping) return
+
+  const finder = document.querySelector(".finder-panel input")
+  if (!finder) return
+
+  event.preventDefault()
+  finder.focus()
+  finder.select()
+}
+
 function wrapTables() {
   const tables = document.querySelectorAll(".page-content table")
   tables.forEach((table) => {
@@ -101,6 +122,131 @@ function enhanceTopicIndex() {
       link.innerHTML = `<span class="topic-index__label"><span class="topic-index__number">${index + 1}</span><span>${original}</span></span>`
     })
   }
+}
+
+function buildFinderPanel({ title, hint, placeholder, filter }) {
+  const shell = document.createElement("section")
+  shell.className = "finder-panel"
+
+  const intro = document.createElement("div")
+  intro.className = "finder-panel__intro"
+  intro.innerHTML = `<span class="finder-panel__eyebrow">${hint}</span><h3>${title}</h3>`
+
+  const controls = document.createElement("div")
+  controls.className = "finder-panel__controls"
+
+  const input = document.createElement("input")
+  input.type = "search"
+  input.className = "finder-panel__input"
+  input.placeholder = placeholder
+  input.setAttribute("aria-label", title)
+
+  const status = document.createElement("p")
+  status.className = "finder-panel__status"
+
+  controls.appendChild(input)
+  shell.appendChild(intro)
+  shell.appendChild(controls)
+  shell.appendChild(status)
+
+  const update = () => {
+    const visibleCount = filter(input.value.trim().toLowerCase())
+    status.textContent = input.value.trim()
+      ? `${visibleCount} matching entries`
+      : "Showing all entries"
+  }
+
+  input.addEventListener("input", update)
+  update()
+  return shell
+}
+
+function initTopicFinder() {
+  const topicIndex = document.querySelector(".topic-index")
+  if (!topicIndex || topicIndex.dataset.finderReady === "true") return
+
+  const items = Array.from(topicIndex.querySelectorAll("li"))
+  if (!items.length) return
+
+  const themeCards = Array.from(document.querySelectorAll(".theme-card"))
+  const themeLinks = themeCards.flatMap((card) => Array.from(card.querySelectorAll(".theme-card__links a")))
+  const explorerCards = Array.from(document.querySelectorAll(".explorer-card--link"))
+
+  const panel = buildFinderPanel({
+    title: "Find a topic fast",
+    hint: "Quick finder",
+    placeholder: "Filter topics like detection, multimodal, llm, rendering...",
+    filter: (query) => {
+      let visibleCount = 0
+
+      items.forEach((item) => {
+        const text = item.textContent.toLowerCase()
+        const visible = !query || text.includes(query)
+        item.hidden = !visible
+        if (visible) visibleCount += 1
+      })
+
+      themeLinks.forEach((link) => {
+        const visible = !query || link.textContent.toLowerCase().includes(query)
+        link.hidden = !visible
+      })
+
+      themeCards.forEach((card) => {
+        const visibleLinks = card.querySelectorAll(".theme-card__links a:not([hidden])").length
+        card.hidden = !!query && visibleLinks === 0
+      })
+
+      explorerCards.forEach((card) => {
+        card.hidden = false
+      })
+
+      return visibleCount
+    },
+  })
+
+  topicIndex.parentNode.insertBefore(panel, topicIndex)
+  topicIndex.dataset.finderReady = "true"
+}
+
+function initArchiveFinder() {
+  const archiveGrid = document.querySelector(".archive-grid")
+  if (!archiveGrid || archiveGrid.dataset.finderReady === "true") return
+
+  const items = Array.from(archiveGrid.querySelectorAll("li"))
+  if (!items.length) return
+
+  const panel = buildFinderPanel({
+    title: "Jump to a month",
+    hint: "Archive filter",
+    placeholder: "Filter archive months like 2026-04 or 2025-12...",
+    filter: (query) => {
+      let visibleCount = 0
+      items.forEach((item) => {
+        const visible = !query || item.textContent.toLowerCase().includes(query)
+        item.hidden = !visible
+        if (visible) visibleCount += 1
+      })
+      return visibleCount
+    },
+  })
+
+  archiveGrid.parentNode.insertBefore(panel, archiveGrid)
+  archiveGrid.dataset.finderReady = "true"
+}
+
+function applyPageKind() {
+  const pageContent = document.querySelector(".page-content")
+  if (!pageContent) return
+
+  let kind = "document"
+  if (pageContent.classList.contains("page-home")) {
+    kind = "home"
+  } else if (document.querySelector(".archive-grid")) {
+    kind = "topic"
+  } else if (document.querySelector("table")) {
+    kind = "monthly"
+  }
+  document.documentElement.setAttribute("data-page-kind", kind)
 }
 
 function createLinks(links) {
@@ -325,4 +471,8 @@ document.addEventListener("DOMContentLoaded", () => {
   enhanceArchiveLists()
   enhanceTopicIndex()
   decorateContent()
+  applyPageKind()
+  initTopicFinder()
+  initArchiveFinder()
+  document.addEventListener("keydown", focusFinderFromShortcut)
 })

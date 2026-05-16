@@ -66,6 +66,13 @@
       </header>
 
       <main class="page-shell">
+        <div class="view-hint" aria-live="polite">
+          <span class="view-hint__label">Reading mode</span>
+          <strong class="view-hint__title view-hint__title--human">Human</strong>
+          <strong class="view-hint__title view-hint__title--agent">Agent</strong>
+          <p class="view-hint__copy view-hint__copy--human">Browse by topic lanes, monthly archives, and richer visual cues.</p>
+          <p class="view-hint__copy view-hint__copy--agent">Use denser navigation, lower-noise cards, and quick filtering for research scanning.</p>
+        </div>
         {% if page.url == "/" %}
           <article class="page-home page-content page-content--document">
             {{ content }}

@@ -382,6 +382,44 @@ html[data-theme="atlas"] .site-nav a {
   padding: 24px 0 48px;
 }
 
+.view-hint {
+  display: grid;
+  gap: 6px;
+  margin: 0 0 18px;
+  padding: 14px 18px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: color-mix(in srgb, var(--surface-strong) 88%, white 12%);
+}
+
+.view-hint__label {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.view-hint__title,
+.view-hint__copy {
+  margin: 0;
+}
+
+.view-hint__title--agent,
+.view-hint__copy--agent {
+  display: none;
+}
+
+html[data-view="agent"] .view-hint__title--human,
+html[data-view="agent"] .view-hint__copy--human {
+  display: none;
+}
+
+html[data-view="agent"] .view-hint__title--agent,
+html[data-view="agent"] .view-hint__copy--agent {
+  display: block;
+}
+
 .page-home {
   display: grid;
   gap: 24px;
@@ -2156,6 +2194,67 @@ html[data-theme="lab"] .page-content .hero-banner {
   color: var(--teal);
 }
 
+.finder-panel {
+  display: grid;
+  gap: 12px;
+  margin: 0 0 18px;
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--surface-strong) 90%, white 10%), var(--surface-strong));
+  box-shadow: var(--shadow-soft);
+}
+
+.finder-panel__intro {
+  display: grid;
+  gap: 4px;
+}
+
+.finder-panel__eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+.finder-panel__intro h3,
+.finder-panel__status {
+  margin: 0;
+}
+
+.finder-panel__controls {
+  display: flex;
+  gap: 10px;
+}
+
+.finder-panel__input {
+  width: min(100%, 540px);
+  min-height: 42px;
+  padding: 0 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface-accent);
+  color: var(--text);
+  font: inherit;
+  font-size: 0.94rem;
+}
+
+.finder-panel__input:focus {
+  outline: 2px solid color-mix(in srgb, var(--teal) 45%, white 55%);
+  outline-offset: 2px;
+}
+
+.finder-panel__status {
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+[hidden] {
+  display: none !important;
+}
+
 .page-home > section,
 .page-content > * {
   animation: fadeUp 420ms ease both;
@@ -2177,6 +2276,21 @@ html[data-view="agent"] .timeline-card::before {
 html[data-view="agent"] .page-home > section,
 html[data-view="agent"] .page-content > * {
   animation: none;
+}
+
+html[data-view="agent"] .site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(10px);
+}
+
+html[data-view="agent"] .view-hint,
+html[data-view="agent"] .finder-panel {
+  border-radius: 12px;
+  box-shadow: none;
+  background: var(--surface-strong);
+  border-color: var(--line-strong);
 }
 
 html[data-view="agent"] .site-header__inner,
@@ -2220,6 +2334,13 @@ html[data-view="agent"] .theme-grid {
   gap: 8px;
 }
 
+html[data-view="agent"] .hero,
+html[data-view="agent"] .hero-banner,
+html[data-view="agent"] .finder-panel,
+html[data-view="agent"] .view-hint {
+  padding: 14px 16px;
+}
+
 html[data-view="agent"] .topic-index a,
 html[data-view="agent"] .archive-grid a,
 html[data-view="agent"] .theme-card__links a,
@@ -2233,6 +2354,28 @@ html[data-view="agent"] .pill {
   background: var(--surface-accent);
 }
 
+html[data-view="agent"] .theme-card p,
+html[data-view="agent"] .timeline-card p,
+html[data-view="agent"] .explorer-card p,
+html[data-view="agent"] .hero p,
+html[data-view="agent"] .hero-banner .lede,
+html[data-view="agent"] .view-hint__copy,
+html[data-view="agent"] .finder-panel__status {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+html[data-view="agent"][data-page-kind="monthly"] .table-shell {
+  max-height: calc(100vh - 220px);
+  overflow: auto;
+}
+
+html[data-view="agent"] .finder-panel__input {
+  min-height: 36px;
+  border-radius: 8px;
+  background: var(--surface);
+}
+
 html[data-view="agent"] .page-content table {
   min-width: 720px;
   font-size: 0.84rem;
@@ -2240,6 +2383,18 @@ html[data-view="agent"] .page-content table {
 
 html[data-view="agent"] .page-content thead th {
   font-size: 0.72rem;
+}
+
+@media (max-width: 760px) {
+  .view-hint,
+  .finder-panel {
+    padding: 14px;
+    border-radius: 14px;
+  }
+
+  .finder-panel__input {
+    width: 100%;
+  }
 }
 
 .page-home > section:nth-child(2),

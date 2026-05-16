@@ -50,6 +50,13 @@ Every day, GitHub Actions automatically polls the [Papers with Code API](https:/
    📅 Sort by Date        💾 Store JSON           📄 README.md
 ```
 
+## 🧭 Reading Paths
+
+- **Topic-first path:** Start from the live site homepage, choose a topic lane, enter a topic hub, then open a monthly archive.
+- **Dense scan path:** Open `paper_list.html` when you want one continuous all-topics stream and prefer browser search.
+- **Analytics path:** Open the separate insights dashboard only when you specifically want charts, rankings, and code coverage.
+- **Agent path:** Add `?view=agent` on GitHub Pages for a denser, lower-noise reading mode with faster scanning.
+
 ## 🚀 Quick Start
 
 ### Prerequisites

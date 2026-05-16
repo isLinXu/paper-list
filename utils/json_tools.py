@@ -377,6 +377,11 @@ def json_to_md(filename, md_filename,
             f.write("   🔍 Filter by Topic     📊 Build Analytics      🌐 GitHub Pages\n")
             f.write("   📅 Sort by Date        💾 Store JSON           📄 README.md\n")
             f.write("```\n\n")
+            f.write("## 🧭 Reading Paths\n\n")
+            f.write("- **Topic-first path:** Start from the live site homepage, choose a topic lane, enter a topic hub, then open a monthly archive.\n")
+            f.write("- **Dense scan path:** Open `paper_list.html` when you want one continuous all-topics stream and prefer browser search.\n")
+            f.write("- **Analytics path:** Open the separate insights dashboard only when you specifically want charts, rankings, and code coverage.\n")
+            f.write("- **Agent path:** Add `?view=agent` on GitHub Pages for a denser, lower-noise reading mode with faster scanning.\n\n")
 
             # Add Analytics入口（静态图 + 交互页）
             if to_web:
