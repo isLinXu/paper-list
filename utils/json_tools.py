@@ -44,6 +44,15 @@ TOPIC_GROUPS = [
 ]
 
 
+def flatten_topic_groups() -> list[str]:
+    ordered = []
+    for _, _, _, topics in TOPIC_GROUPS:
+        for topic in topics:
+            if topic not in ordered:
+                ordered.append(topic)
+    return ordered
+
+
 def compute_library_stats(data: dict) -> dict:
     topic_counts = []
     dates = []
@@ -80,13 +89,25 @@ def topic_href(keyword: str, *, to_web: bool, split_to_docs: bool) -> str:
 def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool) -> None:
     handle.write("## 📚 Paper List\n\n")
     if split_to_docs:
-        handle.write("Click any topic below to browse papers organized by month:\n\n")
+        handle.write("Browse topics by research lane first, then jump into each monthly archive.\n\n")
     else:
         handle.write("Use the topic index below to jump straight into the full paper tables:\n\n")
     handle.write("<ul class=\"topic-index\">\n")
     topic_num = 1
-    for keyword, day_content in data.items():
+    seen = set()
+    for keyword in flatten_topic_groups():
+        day_content = data.get(keyword)
         if not day_content:
+            continue
+        href = topic_href(keyword, to_web=to_web, split_to_docs=split_to_docs)
+        handle.write(
+            f"  <li><a href=\"{href}\"><span class=\"topic-index__label\"><span class=\"topic-index__number\">{topic_num}</span><span>{keyword}</span></span></a></li>\n"
+        )
+        topic_num += 1
+        seen.add(keyword)
+
+    for keyword, day_content in data.items():
+        if not day_content or keyword in seen:
             continue
         href = topic_href(keyword, to_web=to_web, split_to_docs=split_to_docs)
         handle.write(
@@ -105,10 +126,10 @@ def write_home_hero(handle, stats: dict, date_now: str) -> None:
     handle.write("    <div>\n")
     handle.write("      <span class=\"eyebrow\">Research Radar</span>\n")
     handle.write("      <h1>Track the latest arXiv papers without losing the map.</h1>\n")
-    handle.write("      <p>Paper-List-DAILY turns raw daily paper updates into a topic-structured research surface: browse monthly archives, jump straight to analytics, or scan the full feed when you want the dense version.</p>\n")
+    handle.write("      <p>Paper-List-DAILY turns raw daily paper updates into a cleaner topic-structured research surface: enter through grouped themes, open monthly archives, or fall back to the full feed when you want the dense version.</p>\n")
     handle.write("      <div class=\"hero__actions\">\n")
-    handle.write("        <a class=\"button button--primary\" href=\"paper_list.html\">Open full paper list</a>\n")
-    handle.write("        <a class=\"button button--ghost\" href=\"analytics/\">View analytics</a>\n")
+    handle.write("        <a class=\"button button--primary\" href=\"#topic-lanes\">Browse topic lanes</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"paper_list.html\">Open full paper list</a>\n")
     handle.write("        <a class=\"button button--ghost\" href=\"https://github.com/isLinXu/paper-list\">GitHub repo</a>\n")
     handle.write("      </div>\n")
     handle.write("      <div class=\"page-meta\">\n")
@@ -130,7 +151,8 @@ def write_home_hero(handle, stats: dict, date_now: str) -> None:
     handle.write("  </div>\n")
     handle.write("</section>\n\n")
 
-    handle.write("<section class=\"theme-grid theme-grid--compact\">\n")
+    handle.write("<div class=\"section-divider\"><span>Topic Lanes</span></div>\n\n")
+    handle.write("<section id=\"topic-lanes\" class=\"theme-grid theme-grid--compact\">\n")
     for eyebrow, title, card_class, topics in TOPIC_GROUPS:
         links = []
         for topic in topics:
@@ -139,16 +161,27 @@ def write_home_hero(handle, stats: dict, date_now: str) -> None:
         handle.write(f"  <article class=\"theme-card {card_class}\">\n")
         handle.write(f"    <span class=\"theme-card__tag\">{eyebrow}</span>\n")
         handle.write(f"    <h3>{title}</h3>\n")
+        handle.write("    <p>Use this lane when you want a tighter set of related research problems instead of one giant alphabetical directory.</p>\n")
         handle.write(f"    <div class=\"theme-card__links\">{''.join(links)}</div>\n")
         handle.write("  </article>\n")
     handle.write("</section>\n\n")
 
     handle.write("<section class=\"timeline-grid timeline-grid--compact timeline-grid--editorial\">\n")
-    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 01</span><h3>Pick a lane</h3><p>Start with the grouped research surfaces above when you want a fast orientation instead of a giant alphabetized list.</p></article>\n")
-    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 02</span><h3>Open monthly archives</h3><p>Each topic now breaks into month-level pages so the paper tables stay readable on both desktop and mobile.</p></article>\n")
-    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Phase 03</span><h3>Dive into evidence</h3><p>Use the analytics dashboard for trend context, then jump into PDF, translation, read, and code links directly from each paper row.</p></article>\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Step 01</span><h3>Pick a lane</h3><p>Start with grouped research surfaces above when you want fast orientation instead of a long flat directory.</p></article>\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Step 02</span><h3>Open a topic</h3><p>Each topic page acts like a compact hub with month-level entries, which is better for repeat browsing.</p></article>\n")
+    handle.write("  <article class=\"timeline-card\"><span class=\"timeline-card__year\">Step 03</span><h3>Read or scan</h3><p>Use monthly archives for focused reading, or switch to the full feed only when you need the dense raw stream.</p></article>\n")
     handle.write("</section>\n\n")
-    handle.write("<div class=\"section-divider\"><span>Raw Research Feed</span></div>\n\n")
+    handle.write("<div class=\"section-divider\"><span>Topic Directory</span></div>\n\n")
+
+    handle.write("<section class=\"explorer-strip\">\n")
+    handle.write("  <article class=\"explorer-card explorer-card--primary\">\n")
+    handle.write("    <span class=\"explorer-card__eyebrow\">Main entry</span>\n")
+    handle.write("    <h3>Topic-first browsing</h3>\n")
+    handle.write("    <p>Best for most visits: open a theme, choose a topic, then browse month by month.</p>\n")
+    handle.write("  </article>\n")
+    handle.write("  <a class=\"explorer-card explorer-card--link\" href=\"paper_list.html\"><span class=\"explorer-card__icon\">01</span><strong>Full Paper List</strong><p>Open the dense all-topics index when you want one continuous searchable stream.</p></a>\n")
+    handle.write("  <a class=\"explorer-card explorer-card--link\" href=\"analytics/\"><span class=\"explorer-card__icon\">02</span><strong>Research Insights</strong><p>Open trend charts and metrics only when you specifically want analytics.</p></a>\n")
+    handle.write("</section>\n\n")
 
 
 def write_catalog_intro(handle, stats: dict, date_now: str) -> None:
@@ -162,7 +195,7 @@ def write_catalog_intro(handle, stats: dict, date_now: str) -> None:
     handle.write("      <div class=\"hero__actions\">\n")
     handle.write("        <a class=\"button button--primary\" href=\"#paper-list\">Jump to topics</a>\n")
     handle.write("        <a class=\"button button--ghost\" href=\"index.html\">Back to homepage</a>\n")
-    handle.write("        <a class=\"button button--ghost\" href=\"analytics/\">Analytics</a>\n")
+    handle.write("        <a class=\"button button--ghost\" href=\"analytics/\">Research insights</a>\n")
     handle.write("      </div>\n")
     handle.write("      <div class=\"page-meta\">\n")
     handle.write(f"        <span class=\"pill\">Updated {date_now}</span>\n")
@@ -297,7 +330,7 @@ def json_to_md(filename, md_filename,
             f.write("|---------|-------------|\n")
             f.write("| 🔄 **Daily Auto-Update** | Runs every 8 hours via GitHub Actions — zero manual intervention |\n")
             f.write("| 📂 **20+ Research Topics** | From Classification to Embodied AI, covering the full CV/AI spectrum |\n")
-            f.write("| 📊 **Rich Analytics Dashboard** | Trend charts, topic rankings, top authors, and code coverage metrics |\n")
+            f.write("| 📊 **Research Insights Entry** | Trend charts, topic rankings, top authors, and code coverage in a separate analytics section |\n")
             f.write("| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation (papers.cool), reading (hjfy), and code links |\n")
             f.write("| 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |\n")
             f.write("| 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable on the site |\n")
@@ -325,14 +358,6 @@ def json_to_md(filename, md_filename,
             else:
                 analytics_href = "docs/analytics/"
                 charts_prefix = "docs/analytics/charts/"
-
-            f.write("## Analytics\n\n")
-            f.write(f"- Dashboard: [{analytics_href}]({analytics_href})\n")
-            f.write("\n")
-            f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
-            f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
-            f.write(f"![code_coverage]({charts_prefix}code_coverage_trend.png)\n\n")
-            f.write(f"![top_authors]({charts_prefix}top_authors.png)\n\n")
 
             # Add Usage Instructions
             f.write("## 🚀 Quick Start\n\n")
@@ -372,7 +397,7 @@ def json_to_md(filename, md_filename,
             f.write("|---------|-------------|\n")
             f.write("| `python get_paper.py --update_paper_links` | Enrich existing papers with code links |\n")
             f.write("| `python scripts/count_range.py 2024-01-01 2024-12-31` | Count papers in a date range |\n")
-            f.write("| `python scripts/build_analytics.py --store docs/data --out docs/analytics` | Build analytics dashboard |\n")
+            f.write("| `python scripts/build_analytics.py --store docs/data --out docs/analytics` | Build the separate research insights dashboard |\n")
             f.write("| `./scripts/serve_pages.sh` | Install local Jekyll deps and preview GitHub Pages at `127.0.0.1:4000` |\n")
             f.write("| `python regenerate_readme.py` | Regenerate README from existing JSON data |\n\n")
 
@@ -450,7 +475,7 @@ def json_to_md(filename, md_filename,
 
         # Add footer sections (only for main index/README, not sub-pages)
         if use_title == True and split_to_docs:
-            # Add Analytics section
+            # Add Insights section
             if to_web:
                 analytics_href = "analytics/"
                 charts_prefix = "analytics/charts/"
@@ -459,15 +484,18 @@ def json_to_md(filename, md_filename,
                 charts_prefix = "docs/analytics/charts/"
 
             f.write("\n---\n\n")
-            f.write("## 📊 Analytics Dashboard\n\n")
-            f.write("Track research trends, topic popularity, and top contributing authors.\n\n")
-            f.write(f"- **Interactive Dashboard:** [{analytics_href}]({analytics_href})\n")
+            f.write("## 📊 Research Insights\n\n")
+            f.write("Analytics is available as a separate entrance so the main reading flow stays topic-first.\n\n")
+            f.write(f"- **Insights Dashboard:** [{analytics_href}]({analytics_href})\n")
             f.write("- **Daily Trend:** Papers published per day\n")
             f.write("- **Topic Ranking:** Most active research areas\n")
             f.write("- **Top Authors:** Most prolific researchers\n")
             f.write("- **Code Coverage:** Ratio of papers with open-source code\n\n")
+            f.write("<details>\n")
+            f.write("<summary>Preview charts</summary>\n\n")
             f.write(f"![trend_daily]({charts_prefix}trend_daily.png)\n\n")
             f.write(f"![topic_rank]({charts_prefix}topic_rank.png)\n\n")
+            f.write("</details>\n\n")
 
             # Add Star History
             f.write("\n---\n\n")

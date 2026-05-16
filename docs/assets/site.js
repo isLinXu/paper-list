@@ -135,8 +135,8 @@ function enhanceTopicPage(pageContent, heading) {
   banner.appendChild(
     createLinks([
       { href: "./index.html", label: "Back to Home" },
-      { href: "./paper_list.html", label: "Open Full Paper List" },
-      { href: "./analytics/", label: "View Analytics" },
+      { href: "./paper_list.html", label: "Topics A-Z" },
+      { href: "./analytics/", label: "Research Insights" },
     ])
   )
 
@@ -170,8 +170,8 @@ function enhanceMonthlyPage(pageContent, heading) {
   banner.appendChild(
     createLinks([
       { href: parentIndex, label: "Back to Topic Overview" },
-      { href: `${parentIndex}../paper_list.html`, label: "Open Full Paper List" },
-      { href: `${parentIndex}../analytics/`, label: "View Analytics" },
+      { href: `${parentIndex}../paper_list.html`, label: "Topics A-Z" },
+      { href: `${parentIndex}../analytics/`, label: "Research Insights" },
     ])
   )
   pageContent.insertBefore(banner, heading)
@@ -191,7 +191,7 @@ function refineBannerCopy() {
     const lede = heroBanner.querySelector(".lede")
     if (lede) {
       lede.textContent =
-        "A topic-organized research index tuned for scanning: compact navigation above, denser paper tables below, and direct paths into analytics or monthly archives."
+        "A dense research index tuned for scanning: compact navigation above, denser paper tables below, and quick paths back into the calmer topic-first archive."
     }
   }
 }

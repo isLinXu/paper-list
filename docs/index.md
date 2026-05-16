@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<<<<<<< HEAD
 ![paper-list](https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e) ![GitHub stars](https://img.shields.io/github/stars/isLinXu/paper-list?style=flat-square&color=ffd700) ![GitHub forks](https://img.shields.io/github/forks/isLinXu/paper-list?style=flat-square&color=4ecdc4) ![GitHub watchers](https://img.shields.io/github/watchers/isLinXu/paper-list?style=flat-square&color=ff6b6b)
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fatrox%2Fsync-dotenv%2Fbadge&style=flat-square)](https://github.com/isLinXu/paper-list) ![GitHub last commit](https://img.shields.io/github/last-commit/isLinXu/paper-list?style=flat-square&color=a8e6cf) ![GitHub repo size](https://img.shields.io/github/repo-size/isLinXu/paper-list.svg?style=flat-square&color=ffd3b6) ![GitHub language count](https://img.shields.io/github/languages/count/isLinXu/paper-list?style=flat-square&color=ffaaa5)
 ![GitHub](https://img.shields.io/github/license/isLinXu/paper-list.svg?style=flat-square&color=c7ceea) ![Hits](https://hits.dwyl.com/isLinXu/paper-list.svg?style=flat-square&color=95e1d3)
@@ -113,51 +114,134 @@ Every day, GitHub Actions automatically polls the [Papers with Code API](https:/
 | `python scripts/build_analytics.py --store docs/data --out docs/analytics` | Build analytics dashboard |
 | `./scripts/serve_pages.sh` | Install local Jekyll deps and preview GitHub Pages at `127.0.0.1:4000` |
 | `python regenerate_readme.py` | Regenerate README from existing JSON data |
+=======
+<section class="hero hero--editorial">
+  <div class="hero__grid">
+    <div>
+      <span class="eyebrow">Research Radar</span>
+      <h1>Track the latest arXiv papers without losing the map.</h1>
+      <p>Paper-List-DAILY turns raw daily paper updates into a cleaner topic-structured research surface: enter through grouped themes, open monthly archives, or fall back to the full feed when you want the dense version.</p>
+      <div class="hero__actions">
+        <a class="button button--primary" href="#topic-lanes">Browse topic lanes</a>
+        <a class="button button--ghost" href="paper_list.html">Open full paper list</a>
+        <a class="button button--ghost" href="https://github.com/isLinXu/paper-list">GitHub repo</a>
+      </div>
+      <div class="page-meta">
+        <span class="pill">Updated 2026.05.16</span>
+        <span class="pill">21 tracked topics</span>
+        <span class="pill">52161 indexed papers</span>
+        <span class="pill">2024-02-09 to 2026-04-30</span>
+      </div>
+    </div>
+    <aside class="hero-panel">
+      <span class="hero-panel__label">Snapshot</span>
+      <div class="hero-panel__stat"><strong>52161</strong><span>papers currently split into monthly archive pages that are easier to browse than one giant feed.</span></div>
+      <div class="hero-panel__rail">
+        <div class="hero-panel__rail-item"><span>21</span><p>research tracks currently covered across vision, multimodal, and learning systems.</p></div>
+        <div class="hero-panel__rail-item"><span>Every 8h</span><p>GitHub Actions refresh cadence for data, docs, and analytics artifacts.</p></div>
+        <div class="hero-panel__rail-item"><span>Top lanes</span><p>LLM, Transfer Learning, Reinforcement Learning</p></div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<div class="section-divider"><span>Topic Lanes</span></div>
+
+<section id="topic-lanes" class="theme-grid theme-grid--compact">
+  <article class="theme-card theme-card--vision">
+    <span class="theme-card__tag">Perception Core</span>
+    <h3>Vision Systems</h3>
+    <p>Use this lane when you want a tighter set of related research problems instead of one giant alphabetical directory.</p>
+    <div class="theme-card__links"><a href="Classification.md">Classification</a><a href="Object_Detection.md">Object Detection</a><a href="Semantic_Segmentation.md">Semantic Segmentation</a><a href="Anomaly_Detection.md">Anomaly Detection</a></div>
+  </article>
+  <article class="theme-card theme-card--motion">
+    <span class="theme-card__tag">3D and Motion</span>
+    <h3>Geometry Stack</h3>
+    <p>Use this lane when you want a tighter set of related research problems instead of one giant alphabetical directory.</p>
+    <div class="theme-card__links"><a href="Object_Tracking.md">Object Tracking</a><a href="Action_Recognition.md">Action Recognition</a><a href="Pose_Estimation.md">Pose Estimation</a><a href="Depth_Estimation.md">Depth Estimation</a><a href="Optical_Flow.md">Optical Flow</a></div>
+  </article>
+  <article class="theme-card theme-card--foundation">
+    <span class="theme-card__tag">Foundation Models</span>
+    <h3>Generative Layer</h3>
+    <p>Use this lane when you want a tighter set of related research problems instead of one giant alphabetical directory.</p>
+    <div class="theme-card__links"><a href="Image_Generation.md">Image Generation</a><a href="Diffusion_Models.md">Diffusion Models</a><a href="LLM.md">LLM</a><a href="Latent_Space_LLM.md">Latent Space LLM</a><a href="Multimodal.md">Multimodal</a></div>
+  </article>
+  <article class="theme-card theme-card--systems">
+    <span class="theme-card__tag">Systems Frontier</span>
+    <h3>Research Surface</h3>
+    <p>Use this lane when you want a tighter set of related research problems instead of one giant alphabetical directory.</p>
+    <div class="theme-card__links"><a href="Scene_Understanding.md">Scene Understanding</a><a href="Video_Understanding.md">Video Understanding</a><a href="Neural_Rendering.md">Neural Rendering</a><a href="Transfer_Learning.md">Transfer Learning</a><a href="Reinforcement_Learning.md">Reinforcement Learning</a><a href="Graph_Neural_Networks.md">Graph Neural Networks</a><a href="Audio_Processing.md">Audio Processing</a></div>
+  </article>
+</section>
+
+<section class="timeline-grid timeline-grid--compact timeline-grid--editorial">
+  <article class="timeline-card"><span class="timeline-card__year">Step 01</span><h3>Pick a lane</h3><p>Start with grouped research surfaces above when you want fast orientation instead of a long flat directory.</p></article>
+  <article class="timeline-card"><span class="timeline-card__year">Step 02</span><h3>Open a topic</h3><p>Each topic page acts like a compact hub with month-level entries, which is better for repeat browsing.</p></article>
+  <article class="timeline-card"><span class="timeline-card__year">Step 03</span><h3>Read or scan</h3><p>Use monthly archives for focused reading, or switch to the full feed only when you need the dense raw stream.</p></article>
+</section>
+
+<div class="section-divider"><span>Topic Directory</span></div>
+
+<section class="explorer-strip">
+  <article class="explorer-card explorer-card--primary">
+    <span class="explorer-card__eyebrow">Main entry</span>
+    <h3>Topic-first browsing</h3>
+    <p>Best for most visits: open a theme, choose a topic, then browse month by month.</p>
+  </article>
+  <a class="explorer-card explorer-card--link" href="paper_list.html"><span class="explorer-card__icon">01</span><strong>Full Paper List</strong><p>Open the dense all-topics index when you want one continuous searchable stream.</p></a>
+  <a class="explorer-card explorer-card--link" href="analytics/"><span class="explorer-card__icon">02</span><strong>Research Insights</strong><p>Open trend charts and metrics only when you specifically want analytics.</p></a>
+</section>
+>>>>>>> 8e8f4cb (feat: streamline topic navigation and separate insights entry)
 
 ## 📚 Paper List
 
-Click any topic below to browse papers organized by month:
+Browse topics by research lane first, then jump into each monthly archive.
 
 <ul class="topic-index">
   <li><a href="Classification.md"><span class="topic-index__label"><span class="topic-index__number">1</span><span>Classification</span></span></a></li>
   <li><a href="Object_Detection.md"><span class="topic-index__label"><span class="topic-index__number">2</span><span>Object Detection</span></span></a></li>
   <li><a href="Semantic_Segmentation.md"><span class="topic-index__label"><span class="topic-index__number">3</span><span>Semantic Segmentation</span></span></a></li>
-  <li><a href="Object_Tracking.md"><span class="topic-index__label"><span class="topic-index__number">4</span><span>Object Tracking</span></span></a></li>
-  <li><a href="Action_Recognition.md"><span class="topic-index__label"><span class="topic-index__number">5</span><span>Action Recognition</span></span></a></li>
-  <li><a href="Pose_Estimation.md"><span class="topic-index__label"><span class="topic-index__number">6</span><span>Pose Estimation</span></span></a></li>
-  <li><a href="Image_Generation.md"><span class="topic-index__label"><span class="topic-index__number">7</span><span>Image Generation</span></span></a></li>
-  <li><a href="LLM.md"><span class="topic-index__label"><span class="topic-index__number">8</span><span>LLM</span></span></a></li>
-  <li><a href="Scene_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">9</span><span>Scene Understanding</span></span></a></li>
-  <li><a href="Depth_Estimation.md"><span class="topic-index__label"><span class="topic-index__number">10</span><span>Depth Estimation</span></span></a></li>
-  <li><a href="Audio_Processing.md"><span class="topic-index__label"><span class="topic-index__number">11</span><span>Audio Processing</span></span></a></li>
-  <li><a href="Multimodal.md"><span class="topic-index__label"><span class="topic-index__number">12</span><span>Multimodal</span></span></a></li>
-  <li><a href="Anomaly_Detection.md"><span class="topic-index__label"><span class="topic-index__number">13</span><span>Anomaly Detection</span></span></a></li>
-  <li><a href="Transfer_Learning.md"><span class="topic-index__label"><span class="topic-index__number">14</span><span>Transfer Learning</span></span></a></li>
-  <li><a href="Optical_Flow.md"><span class="topic-index__label"><span class="topic-index__number">15</span><span>Optical Flow</span></span></a></li>
-  <li><a href="Reinforcement_Learning.md"><span class="topic-index__label"><span class="topic-index__number">16</span><span>Reinforcement Learning</span></span></a></li>
-  <li><a href="Graph_Neural_Networks.md"><span class="topic-index__label"><span class="topic-index__number">17</span><span>Graph Neural Networks</span></span></a></li>
-  <li><a href="Latent_Space_LLM.md"><span class="topic-index__label"><span class="topic-index__number">18</span><span>Latent Space LLM</span></span></a></li>
-  <li><a href="Diffusion_Models.md"><span class="topic-index__label"><span class="topic-index__number">19</span><span>Diffusion Models</span></span></a></li>
-  <li><a href="Video_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">20</span><span>Video Understanding</span></span></a></li>
-  <li><a href="Neural_Rendering.md"><span class="topic-index__label"><span class="topic-index__number">21</span><span>Neural Rendering</span></span></a></li>
+  <li><a href="Anomaly_Detection.md"><span class="topic-index__label"><span class="topic-index__number">4</span><span>Anomaly Detection</span></span></a></li>
+  <li><a href="Object_Tracking.md"><span class="topic-index__label"><span class="topic-index__number">5</span><span>Object Tracking</span></span></a></li>
+  <li><a href="Action_Recognition.md"><span class="topic-index__label"><span class="topic-index__number">6</span><span>Action Recognition</span></span></a></li>
+  <li><a href="Pose_Estimation.md"><span class="topic-index__label"><span class="topic-index__number">7</span><span>Pose Estimation</span></span></a></li>
+  <li><a href="Depth_Estimation.md"><span class="topic-index__label"><span class="topic-index__number">8</span><span>Depth Estimation</span></span></a></li>
+  <li><a href="Optical_Flow.md"><span class="topic-index__label"><span class="topic-index__number">9</span><span>Optical Flow</span></span></a></li>
+  <li><a href="Image_Generation.md"><span class="topic-index__label"><span class="topic-index__number">10</span><span>Image Generation</span></span></a></li>
+  <li><a href="Diffusion_Models.md"><span class="topic-index__label"><span class="topic-index__number">11</span><span>Diffusion Models</span></span></a></li>
+  <li><a href="LLM.md"><span class="topic-index__label"><span class="topic-index__number">12</span><span>LLM</span></span></a></li>
+  <li><a href="Latent_Space_LLM.md"><span class="topic-index__label"><span class="topic-index__number">13</span><span>Latent Space LLM</span></span></a></li>
+  <li><a href="Multimodal.md"><span class="topic-index__label"><span class="topic-index__number">14</span><span>Multimodal</span></span></a></li>
+  <li><a href="Scene_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">15</span><span>Scene Understanding</span></span></a></li>
+  <li><a href="Video_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">16</span><span>Video Understanding</span></span></a></li>
+  <li><a href="Neural_Rendering.md"><span class="topic-index__label"><span class="topic-index__number">17</span><span>Neural Rendering</span></span></a></li>
+  <li><a href="Transfer_Learning.md"><span class="topic-index__label"><span class="topic-index__number">18</span><span>Transfer Learning</span></span></a></li>
+  <li><a href="Reinforcement_Learning.md"><span class="topic-index__label"><span class="topic-index__number">19</span><span>Reinforcement Learning</span></span></a></li>
+  <li><a href="Graph_Neural_Networks.md"><span class="topic-index__label"><span class="topic-index__number">20</span><span>Graph Neural Networks</span></span></a></li>
+  <li><a href="Audio_Processing.md"><span class="topic-index__label"><span class="topic-index__number">21</span><span>Audio Processing</span></span></a></li>
 </ul>
 
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Research Insights
 
-Track research trends, topic popularity, and top contributing authors.
+Analytics is available as a separate entrance so the main reading flow stays topic-first.
 
-- **Interactive Dashboard:** [analytics/](analytics/)
+- **Insights Dashboard:** [analytics/](analytics/)
 - **Daily Trend:** Papers published per day
 - **Topic Ranking:** Most active research areas
 - **Top Authors:** Most prolific researchers
 - **Code Coverage:** Ratio of papers with open-source code
 
+<details>
+<summary>Preview charts</summary>
+
 ![trend_daily](analytics/charts/trend_daily.png)
 
 ![topic_rank](analytics/charts/topic_rank.png)
+
+</details>
 
 
 ---

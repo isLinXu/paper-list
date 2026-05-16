@@ -349,6 +349,10 @@ html[data-theme="lab"] .page-content tbody td.is-code a {
   transition: color 160ms ease, transform 160ms ease;
 }
 
+.site-nav a[href$="/analytics/"] {
+  opacity: 0.78;
+}
+
 .site-nav a:hover {
   color: var(--teal);
   transform: translateY(-1px);
@@ -1079,6 +1083,11 @@ html[data-theme="lab"] .theme-card::after {
   font-weight: 700;
 }
 
+.theme-card__links a:hover {
+  transform: translateY(-1px);
+  background: rgba(255, 255, 255, 0.74);
+}
+
 .timeline-grid {
   position: relative;
   display: grid;
@@ -1088,6 +1097,81 @@ html[data-theme="lab"] .theme-card::after {
 
 .timeline-grid--compact {
   margin: 0 0 20px;
+}
+
+.explorer-strip {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 0 0 20px;
+}
+
+.explorer-card {
+  position: relative;
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.64);
+  background: rgba(255, 252, 247, 0.84);
+  box-shadow: var(--shadow);
+}
+
+.explorer-card--primary {
+  background:
+    radial-gradient(circle at top right, rgba(15, 76, 92, 0.08), transparent 38%),
+    linear-gradient(180deg, rgba(255, 252, 247, 0.92), rgba(247, 241, 231, 0.94));
+}
+
+.explorer-card--link {
+  text-decoration: none;
+  color: inherit;
+  transition:
+    transform 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.explorer-card--link:hover {
+  transform: translateY(-2px);
+  border-color: rgba(15, 76, 92, 0.18);
+  box-shadow: 0 20px 34px rgba(15, 76, 92, 0.08);
+}
+
+.explorer-card__eyebrow {
+  color: var(--copper);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.explorer-card__icon {
+  width: 34px;
+  height: 34px;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 999px;
+  background: rgba(15, 76, 92, 0.08);
+  color: var(--teal);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.explorer-card h3,
+.explorer-card strong {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: 1.12rem;
+  line-height: 1.1;
+}
+
+.explorer-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.58;
 }
 
 .timeline-grid--editorial {
@@ -2072,6 +2156,7 @@ html[data-theme="lab"] .page-content .hero-banner {
   .process-grid,
   .archive-signal-grid,
   .archive-index-grid,
+  .explorer-strip,
   .theme-grid,
   .timeline-grid,
   .archive-record-grid,
