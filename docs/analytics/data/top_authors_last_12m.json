@@ -10,92 +10,92 @@
     "rank": 2
   },
   {
-    "author": "Yu Zhang",
+    "author": "Yu Li",
     "count": 12,
     "rank": 3
   },
   {
-    "author": "Yu Li",
-    "count": 12,
-    "rank": 4
-  },
-  {
     "author": "Hao Wang",
     "count": 11,
-    "rank": 5
-  },
-  {
-    "author": "Yuan Gao",
-    "count": 11,
-    "rank": 6
+    "rank": 4
   },
   {
     "author": "Saeid Jamshidi",
     "count": 11,
-    "rank": 7
+    "rank": 5
   },
   {
     "author": "Xiang Li",
     "count": 10,
-    "rank": 8
+    "rank": 6
   },
   {
-    "author": "Yi Zhang",
+    "author": "Yu Zhang",
     "count": 10,
-    "rank": 9
+    "rank": 7
   },
   {
     "author": "Yu Wang",
     "count": 10,
-    "rank": 10
+    "rank": 8
   },
   {
     "author": "Lei Wang",
     "count": 9,
-    "rank": 11
+    "rank": 9
   },
   {
     "author": "Yida Lin",
     "count": 9,
-    "rank": 12
-  },
-  {
-    "author": "Jiahao Li",
-    "count": 9,
-    "rank": 13
+    "rank": 10
   },
   {
     "author": "Qihang Fan",
     "count": 8,
-    "rank": 14
+    "rank": 11
   },
   {
     "author": "Jun Wang",
     "count": 8,
-    "rank": 15
+    "rank": 12
   },
   {
     "author": "Teerapong Panboonyuen",
     "count": 8,
-    "rank": 16
+    "rank": 13
   },
   {
-    "author": "Bin-Bin Gao",
+    "author": "Yi Zhang",
     "count": 8,
-    "rank": 17
+    "rank": 14
   },
   {
     "author": "Yizhan Feng",
     "count": 8,
-    "rank": 18
+    "rank": 15
   },
   {
     "author": "Yuxuan Li",
     "count": 8,
-    "rank": 19
+    "rank": 16
+  },
+  {
+    "author": "Jiahao Li",
+    "count": 8,
+    "rank": 17
   },
   {
     "author": "Haoyu Wang",
+    "count": 8,
+    "rank": 18
+  },
+  {
+    "author": "Yuan Gao",
+    "count": 8,
+    "rank": 19
+  },
+  {
+    "author": "Sijia Chen",
     "count": 8,
     "rank": 20
   }
