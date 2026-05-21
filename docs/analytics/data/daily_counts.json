@@ -2866,8 +2866,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-05-18",
-    "count": 1
+    "date": "2026-05-19",
+    "count": 3
   },
   {
     "topic": "Anomaly Detection",
@@ -12565,6 +12565,11 @@
     "count": 6
   },
   {
+    "topic": "Classification",
+    "date": "2026-05-19",
+    "count": 6
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "count": 2
@@ -15441,8 +15446,8 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-05-18",
-    "count": 1
+    "date": "2026-05-19",
+    "count": 2
   },
   {
     "topic": "Diffusion Models",
@@ -21131,8 +21136,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-05-18",
-    "count": 17
+    "date": "2026-05-19",
+    "count": 14
   },
   {
     "topic": "LLM",
@@ -28891,8 +28896,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-05-18",
-    "count": 8
+    "date": "2026-05-19",
+    "count": 3
   },
   {
     "topic": "Object Tracking",
@@ -31251,8 +31256,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-05-18",
-    "count": 5
+    "date": "2026-05-19",
+    "count": 6
   },
   {
     "topic": "Optical Flow",
@@ -33633,11 +33638,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-05-18",
-    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -37001,8 +37001,8 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-05-18",
-    "count": 3
+    "date": "2026-05-19",
+    "count": 4
   },
   {
     "topic": "Reinforcement Learning",
@@ -42141,8 +42141,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-05-18",
-    "count": 13
+    "date": "2026-05-19",
+    "count": 7
   },
   {
     "topic": "Semantic Segmentation",
@@ -45346,8 +45346,8 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-05-18",
-    "count": 10
+    "date": "2026-05-19",
+    "count": 5
   },
   {
     "topic": "Transfer Learning",
@@ -48093,10 +48093,5 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
-  },
-  {
-    "topic": "Video Understanding",
-    "date": "2026-05-18",
-    "count": 22
   }
 ]
