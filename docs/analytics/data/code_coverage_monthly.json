@@ -758,7 +758,7 @@
   {
     "topic": "Classification",
     "date": "2026-05",
-    "total": 6,
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -948,13 +948,6 @@
     "topic": "Depth Estimation",
     "date": "2026-04",
     "total": 37,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Depth Estimation",
-    "date": "2026-05",
-    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1339,7 +1332,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-05",
-    "total": 14,
+    "total": 11,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1920,7 +1913,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-05",
-    "total": 3,
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2310,6 +2303,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Optical Flow",
+    "date": "2026-05",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Pose Estimation",
     "date": "2024-02",
     "total": 11,
@@ -2501,7 +2501,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-05",
-    "total": 4,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2879,7 +2879,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-05",
-    "total": 7,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3251,6 +3251,13 @@
     "topic": "Video Understanding",
     "date": "2026-04",
     "total": 118,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-05",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   }

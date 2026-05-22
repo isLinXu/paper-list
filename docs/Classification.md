@@ -2,9 +2,9 @@
 
 Lane: **Vision Systems**
 
-Total papers: **3323**
+Total papers: **3320**
 
-Latest archive month: **2026-05** (6 papers)
+Latest archive month: **2026-05** (3 papers)
 
 Topic neighbors: [Object Detection →](Object_Detection.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Classification**. Start with the late
 
 ## Monthly Archives
 
-- [2026-05](Classification/2026-05.md) (6 papers)
+- [2026-05](Classification/2026-05.md) (3 papers)
 - [2026-04](Classification/2026-04.md) (68 papers)
 - [2026-03](Classification/2026-03.md) (123 papers)
 - [2026-02](Classification/2026-02.md) (95 papers)
