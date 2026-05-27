@@ -26,6 +26,7 @@ Action Recognition,2026-01,43
 Action Recognition,2026-02,16
 Action Recognition,2026-03,36
 Action Recognition,2026-04,39
+Action Recognition,2026-05,1
 Anomaly Detection,2024-02,16
 Anomaly Detection,2024-03,111
 Anomaly Detection,2024-04,103
@@ -187,6 +188,7 @@ Image Generation,2026-01,247
 Image Generation,2026-02,273
 Image Generation,2026-03,288
 Image Generation,2026-04,169
+Image Generation,2026-05,14
 LLM,2024-02,20
 LLM,2024-03,193
 LLM,2024-04,211
@@ -323,6 +325,7 @@ Optical Flow,2026-01,16
 Optical Flow,2026-02,12
 Optical Flow,2026-03,32
 Optical Flow,2026-04,18
+Optical Flow,2026-05,2
 Pose Estimation,2024-02,11
 Pose Estimation,2024-03,95
 Pose Estimation,2024-04,64
@@ -350,6 +353,7 @@ Pose Estimation,2026-01,44
 Pose Estimation,2026-02,59
 Pose Estimation,2026-03,83
 Pose Estimation,2026-04,39
+Pose Estimation,2026-05,2
 Reinforcement Learning,2024-02,20
 Reinforcement Learning,2024-03,191
 Reinforcement Learning,2024-04,205
@@ -403,6 +407,7 @@ Scene Understanding,2026-01,39
 Scene Understanding,2026-02,8
 Scene Understanding,2026-03,87
 Scene Understanding,2026-04,52
+Scene Understanding,2026-05,4
 Semantic Segmentation,2024-02,14
 Semantic Segmentation,2024-03,132
 Semantic Segmentation,2024-04,141

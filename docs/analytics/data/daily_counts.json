@@ -2865,6 +2865,11 @@
     "count": 6
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-05-25",
+    "count": 1
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "count": 1
@@ -21118,6 +21123,11 @@
     "topic": "Image Generation",
     "date": "2026-04-30",
     "count": 3
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-05-25",
+    "count": 14
   },
   {
     "topic": "LLM",
@@ -33610,6 +33620,11 @@
     "count": 1
   },
   {
+    "topic": "Optical Flow",
+    "date": "2026-05-25",
+    "count": 2
+  },
+  {
     "topic": "Pose Estimation",
     "date": "2024-02-25",
     "count": 1
@@ -36968,6 +36983,11 @@
     "topic": "Pose Estimation",
     "date": "2026-04-30",
     "count": 1
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-05-25",
+    "count": 2
   },
   {
     "topic": "Reinforcement Learning",
@@ -42103,6 +42123,11 @@
     "topic": "Scene Understanding",
     "date": "2026-04-30",
     "count": 2
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-05-25",
+    "count": 4
   },
   {
     "topic": "Semantic Segmentation",

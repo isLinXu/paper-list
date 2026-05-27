@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 977,
+    "count": 991,
     "rank": 4
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 225,
+    "count": 227,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 186,
+    "count": 190,
     "rank": 12
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 134,
+    "count": 135,
     "rank": 15
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 78,
+    "count": 80,
     "rank": 19
   },
   {

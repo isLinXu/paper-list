@@ -1,12 +1,12 @@
 [
   {
     "topic": "LLM",
-    "count": 2509,
+    "count": 1904,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 1626,
+    "count": 1249,
     "rank": 2
   },
   {
@@ -16,52 +16,52 @@
   },
   {
     "topic": "Image Generation",
-    "count": 742,
+    "count": 502,
     "rank": 4
   },
   {
     "topic": "Object Detection",
-    "count": 332,
+    "count": 242,
     "rank": 5
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 308,
+    "topic": "Semantic Segmentation",
+    "count": 223,
     "rank": 6
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 299,
+    "count": 217,
     "rank": 7
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 295,
+    "topic": "Anomaly Detection",
+    "count": 211,
     "rank": 8
   },
   {
     "topic": "Classification",
-    "count": 287,
+    "count": 200,
     "rank": 9
-  },
-  {
-    "topic": "Audio Processing",
-    "count": 204,
-    "rank": 10
-  },
-  {
-    "topic": "Pose Estimation",
-    "count": 182,
-    "rank": 11
   },
   {
     "topic": "Diffusion Models",
     "count": 166,
-    "rank": 12
+    "rank": 10
   },
   {
     "topic": "Scene Understanding",
-    "count": 148,
+    "count": 145,
+    "rank": 11
+  },
+  {
+    "topic": "Audio Processing",
+    "count": 145,
+    "rank": 12
+  },
+  {
+    "topic": "Pose Estimation",
+    "count": 131,
     "rank": 13
   },
   {
@@ -70,33 +70,33 @@
     "rank": 14
   },
   {
-    "topic": "Depth Estimation",
-    "count": 116,
+    "topic": "Object Tracking",
+    "count": 101,
     "rank": 15
   },
   {
-    "topic": "Object Tracking",
-    "count": 115,
+    "topic": "Depth Estimation",
+    "count": 92,
     "rank": 16
   },
   {
     "topic": "Action Recognition",
-    "count": 91,
+    "count": 76,
     "rank": 17
-  },
-  {
-    "topic": "Multimodal",
-    "count": 69,
-    "rank": 18
   },
   {
     "topic": "Neural Rendering",
     "count": 69,
+    "rank": 18
+  },
+  {
+    "topic": "Multimodal",
+    "count": 62,
     "rank": 19
   },
   {
     "topic": "Optical Flow",
-    "count": 62,
+    "count": 57,
     "rank": 20
   }
 ]
