@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 1904,
+    "count": 1802,
     "rank": 1
   },
   {
@@ -16,27 +16,27 @@
   },
   {
     "topic": "Image Generation",
-    "count": 502,
+    "count": 488,
     "rank": 4
   },
   {
     "topic": "Object Detection",
-    "count": 242,
+    "count": 247,
     "rank": 5
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 223,
+    "count": 224,
     "rank": 6
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 217,
+    "count": 211,
     "rank": 7
   },
   {
     "topic": "Anomaly Detection",
-    "count": 211,
+    "count": 208,
     "rank": 8
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "topic": "Audio Processing",
-    "count": 145,
+    "count": 141,
     "rank": 12
   },
   {
     "topic": "Pose Estimation",
-    "count": 131,
+    "count": 126,
     "rank": 13
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "topic": "Object Tracking",
-    "count": 101,
+    "count": 108,
     "rank": 15
   },
   {
     "topic": "Depth Estimation",
-    "count": 92,
+    "count": 90,
     "rank": 16
   },
   {
     "topic": "Action Recognition",
-    "count": 76,
+    "count": 77,
     "rank": 17
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 57,
+    "count": 53,
     "rank": 20
   }
 ]

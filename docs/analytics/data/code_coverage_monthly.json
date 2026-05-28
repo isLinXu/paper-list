@@ -191,7 +191,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-05",
-    "total": 1,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -752,6 +752,13 @@
     "topic": "Classification",
     "date": "2026-04",
     "total": 68,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-05",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1325,7 +1332,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-05",
-    "total": 14,
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1904,6 +1911,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-05",
+    "total": 6,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02",
     "total": 10,
@@ -2089,6 +2103,13 @@
     "topic": "Object Tracking",
     "date": "2026-04",
     "total": 72,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-05",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2282,13 +2303,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Optical Flow",
-    "date": "2026-05",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Pose Estimation",
     "date": "2024-02",
     "total": 11,
@@ -2474,13 +2488,6 @@
     "topic": "Pose Estimation",
     "date": "2026-04",
     "total": 39,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-05",
-    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3034,6 +3041,13 @@
     "topic": "Semantic Segmentation",
     "date": "2026-04",
     "total": 99,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-05",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },

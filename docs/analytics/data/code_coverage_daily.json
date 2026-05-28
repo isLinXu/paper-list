@@ -4012,8 +4012,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-05-25",
-    "total": 1,
+    "date": "2026-05-26",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -17587,6 +17587,13 @@
     "topic": "Classification",
     "date": "2026-04-30",
     "total": 6,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-05-26",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -29576,8 +29583,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-05-25",
-    "total": 14,
+    "date": "2026-05-26",
+    "total": 13,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -40439,6 +40446,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-05-26",
+    "total": 6,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "total": 2,
@@ -43732,6 +43746,13 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-05-26",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -47064,13 +47085,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-05-25",
-    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -51775,13 +51789,6 @@
     "topic": "Pose Estimation",
     "date": "2026-04-30",
     "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Pose Estimation",
-    "date": "2026-05-25",
-    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -58976,7 +58983,7 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-05-25",
+    "date": "2026-05-26",
     "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -63457,6 +63464,13 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-04-30",
+    "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-05-26",
     "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
