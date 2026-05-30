@@ -2,9 +2,9 @@
 
 Lane: **Research Surface**
 
-Total papers: **1429**
+Total papers: **1434**
 
-Latest archive month: **2026-05** (6 papers)
+Latest archive month: **2026-05** (11 papers)
 
 Topic neighbors: [← Multimodal](Multimodal.md) · [Video Understanding →](Video_Understanding.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Scene Understanding**. Start with the
 
 ## Monthly Archives
 
-- [2026-05](Scene_Understanding/2026-05.md) (6 papers)
+- [2026-05](Scene_Understanding/2026-05.md) (11 papers)
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)
