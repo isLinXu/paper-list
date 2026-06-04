@@ -12,6 +12,7 @@ from .markdown_renderer import (
     write_monthly_archive,
     write_footer_sections,
 )
+from .paper_links import ensure_paper_record
 from .storage import load_paper_store
 
 
