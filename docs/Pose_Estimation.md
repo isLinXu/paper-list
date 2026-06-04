@@ -2,9 +2,9 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **1856**
+Total papers: **1852**
 
-Latest archive month: **2026-06** (7 papers)
+Latest archive month: **2026-06** (3 papers)
 
 Topic neighbors: [← Action Recognition](Action_Recognition.md) · [Depth Estimation →](Depth_Estimation.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Pose Estimation**. Start with the lat
 
 ## Monthly Archives
 
-- [2026-06](Pose_Estimation/2026-06.md) (7 papers)
+- [2026-06](Pose_Estimation/2026-06.md) (3 papers)
 - [2026-04](Pose_Estimation/2026-04.md) (39 papers)
 - [2026-03](Pose_Estimation/2026-03.md) (83 papers)
 - [2026-02](Pose_Estimation/2026-02.md) (59 papers)

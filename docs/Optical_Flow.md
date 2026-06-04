@@ -2,9 +2,9 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **837**
+Total papers: **835**
 
-Latest archive month: **2026-06** (2 papers)
+Latest archive month: **2026-04** (18 papers)
 
 Topic neighbors: [← Depth Estimation](Depth_Estimation.md) · [Image Generation →](Image_Generation.md)
 
@@ -14,7 +14,6 @@ This page is the monthly archive hub for **Optical Flow**. Start with the latest
 
 ## Monthly Archives
 
-- [2026-06](Optical_Flow/2026-06.md) (2 papers)
 - [2026-04](Optical_Flow/2026-04.md) (18 papers)
 - [2026-03](Optical_Flow/2026-03.md) (32 papers)
 - [2026-02](Optical_Flow/2026-02.md) (12 papers)
