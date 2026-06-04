@@ -35,6 +35,7 @@ def _get_db() -> sqlite3.Connection:
         _DB_PATH.parent.mkdir(parents=True, exist_ok=True)
         _CON = sqlite3.connect(str(_DB_PATH), check_same_thread=False)
         _CON.execute("PRAGMA journal_mode=WAL")
+        _CON.execute("PRAGMA busy_timeout=5000")
         _CON.execute("PRAGMA foreign_keys=ON")
         _init_schema(_CON)
     return _CON
@@ -87,6 +88,12 @@ def _init_schema(con: sqlite3.Connection) -> None:
 
 
 def con() -> sqlite3.Connection:
+    """Return the shared SQLite connection.
+
+    All callers should use the _LOCK when performing write operations
+    to ensure thread safety. Read operations are safe without the lock
+    due to WAL journal mode.
+    """
     with _LOCK:
         return _get_db()
 
@@ -115,8 +122,8 @@ def upsert_fetch_row(
     """Insert or update a fetch log row."""
     row_id = _stable_id(archive_url)
     now = time.time()
-    with con() as c:
-        c.execute(
+    with _LOCK:
+        con().execute(
             """
             INSERT INTO archive_fetch_log
                 (id, archive_url, entity_type, fetch_status, raw_html_path,
@@ -158,8 +165,8 @@ def update_fetch_status(
     """Update only the status fields of an existing row."""
     row_id = _stable_id(archive_url)
     now = time.time()
-    with con() as c:
-        c.execute(
+    with _LOCK:
+        con().execute(
             """
             UPDATE archive_fetch_log
             SET fetch_status   = :status,
@@ -185,7 +192,8 @@ def update_fetch_status(
 def increment_retry(archive_url: str) -> int:
     """Increment retry_count and return the new value. Returns -1 if row not found."""
     row_id = _stable_id(archive_url)
-    with con() as c:
+    with _LOCK:
+        c = con()
         c.execute(
             "UPDATE archive_fetch_log SET retry_count = retry_count + 1 WHERE id = :id",
             dict(id=str(row_id)),
@@ -255,8 +263,8 @@ def cache_openalex(cache_key: str, response_json: str, request_url: str, ttl_day
     """Store an OpenAlex API response."""
     now = time.time()
     expires_at = now + ttl_days * 86400
-    with con() as c:
-        c.execute(
+    with _LOCK:
+        con().execute(
             """
             INSERT INTO openalex_cache
                 (cache_key, response_json, request_url, created_at, expires_at)
@@ -274,8 +282,8 @@ def cache_openalex(cache_key: str, response_json: str, request_url: str, ttl_day
 def get_cached_openalex(cache_key: str) -> dict | None:
     """Retrieve a cached OpenAlex response, or None if expired/missing."""
     now = time.time()
-    with con() as c:
-        row = c.execute(
+    with _LOCK:
+        row = con().execute(
             """
             SELECT response_json, expires_at FROM openalex_cache
             WHERE cache_key = :key AND expires_at > :now
@@ -285,8 +293,8 @@ def get_cached_openalex(cache_key: str) -> dict | None:
     if row:
         # Increment hit count (best-effort, non-blocking)
         try:
-            with con() as c:
-                c.execute(
+            with _LOCK:
+                con().execute(
                     "UPDATE openalex_cache SET hit_count = hit_count + 1, last_hit_at = :now WHERE cache_key = :key",
                     dict(key=cache_key, now=time.time()),
                 )
@@ -335,8 +343,8 @@ def get_cache_stats() -> dict[str, Any]:
 def cleanup_expired_cache() -> int:
     """Delete expired cache entries. Returns count of deleted rows."""
     now = time.time()
-    with con() as c:
-        cur = c.execute(
+    with _LOCK:
+        cur = con().execute(
             "DELETE FROM openalex_cache WHERE expires_at < :now",
             dict(now=now),
         )
@@ -356,8 +364,8 @@ def upsert_checkpoint(
     metadata: dict | None = None,
 ) -> None:
     """Create or update a pipeline checkpoint."""
-    with con() as c:
-        c.execute(
+    with _LOCK:
+        con().execute(
             """
             INSERT INTO pipeline_checkpoint
                 (pipeline_name, run_id, checkpoint_at, total_rows, processed_rows, failed_rows, metadata_json)

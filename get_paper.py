@@ -22,8 +22,31 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "https://arxiv.org/"
 
+
+def _update_source(json_file, data_collector, config, changed_cache):
+    """Update a JSON data source, avoiding duplicate update_paper_links calls.
+
+    Caches results by json_file path so that the same source is only
+    updated once even when multiple outputs (README, GitPage, Wechat)
+    share the same JSON file.
+    """
+    if json_file in changed_cache:
+        return changed_cache[json_file]
+
+    if config['update_paper_links']:
+        changed = update_paper_links(
+            json_file,
+            start_date=config.get('start_date'),
+            end_date=config.get('end_date'),
+        )
+    else:
+        changed = update_json_file(json_file, data_collector)
+
+    changed_cache[json_file] = changed
+    return changed
+
+
 def run(**config):
-    # TODO: use config
     data_collector = []
     data_collector_web = []
 
@@ -34,13 +57,10 @@ def run(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
-    b_update = config['update_paper_links']
-    logging.info(f'Update Paper Link = {b_update}')
-    changed_readme_topics = set()
-    changed_gitpage_topics = set()
-    changed_wechat_topics = set()
-    if config['update_paper_links'] == False:
-        logging.info(f"GET daily papers begin")
+    logging.info(f'Update Paper Link = {config["update_paper_links"]}')
+
+    if not config['update_paper_links']:
+        logging.info("GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results,
@@ -48,23 +68,16 @@ def run(**config):
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
-        logging.info(f"GET daily papers end")
+        logging.info("GET daily papers end")
+
+    # Cache changed topics per JSON file to avoid duplicate updates
+    changed_cache = {}
 
     # 1. update README.md file
     if publish_readme:
         json_file = config['json_readme_path']
         md_file = config['md_readme_path']
-        # update paper links
-        if config['update_paper_links']:
-            changed_readme_topics = update_paper_links(
-                json_file,
-                start_date=config.get('start_date'),
-                end_date=config.get('end_date'),
-            )
-        else:
-            # update json data
-            changed_readme_topics = update_json_file(json_file, data_collector)
-        # json data to markdown
+        changed_readme_topics = _update_source(json_file, data_collector, config, changed_cache)
         json_to_md(json_file, md_file, task='Update Readme',
                    show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics)
 
@@ -72,18 +85,7 @@ def run(**config):
     if publish_gitpage:
         json_file = config['json_gitpage_path']
         md_file = config['md_gitpage_path']
-        same_json_source = json_file == config['json_readme_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links'] and not same_json_source:
-            changed_gitpage_topics = update_paper_links(
-                json_file,
-                start_date=config.get('start_date'),
-                end_date=config.get('end_date'),
-            )
-        elif not config['update_paper_links'] and not same_json_source:
-            changed_gitpage_topics = update_json_file(json_file, data_collector)
-        elif same_json_source:
-            changed_gitpage_topics = changed_readme_topics
+        changed_gitpage_topics = _update_source(json_file, data_collector, config, changed_cache)
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
                    use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
@@ -92,15 +94,7 @@ def run(**config):
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            changed_wechat_topics = update_paper_links(
-                json_file,
-                start_date=config.get('start_date'),
-                end_date=config.get('end_date'),
-            )
-        else:
-            changed_wechat_topics = update_json_file(json_file, data_collector_web)
+        changed_wechat_topics = _update_source(json_file, data_collector_web, config, changed_cache)
         json_to_md(json_file, md_file, task='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
 
 
