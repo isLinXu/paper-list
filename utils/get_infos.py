@@ -49,28 +49,12 @@ def get_authors(authors, first_author=False):
 
 
 def try_hf_repo(arxiv_id: str) -> str | None:
-    """Attempt to extract a GitHub repo URL from Hugging Face papers page."""
-    # Hugging Face connection is unstable and causes timeouts in GitHub Actions.
-    # Disabling it to ensure daily updates succeed.
-    return None
-    url = HF_PAPER_PAGE + arxiv_id
-    try:
-        r = requests.get(url, timeout=4, headers={'User-Agent': 'paper-list/1.0'})
-        if not r.ok:
-            logging.info(f"HF page non-200 for {arxiv_id}: {r.status_code}")
-            return None
-        ct = r.headers.get('Content-Type') or ''
-        if 'text/html' not in ct:
-            logging.info(f"HF page non-HTML for {arxiv_id}: ct={ct}")
-            return None
-        # find first GitHub repository link
-        m = re.search(r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", r.text)
-        if m:
-            return m.group(0)
-    except requests.exceptions.RequestException as e:
-        logging.info(f"HF request error for {arxiv_id}: {e}")
-    except Exception as e:
-        logging.info(f"HF unexpected error for {arxiv_id}: {e}")
+    """Attempt to extract a GitHub repo URL from Hugging Face papers page.
+
+    NOTE: HuggingFace connection is unstable and causes timeouts in
+    GitHub Actions. This function is disabled until a reliable
+    alternative (e.g. async with retry + timeout) is implemented.
+    """
     return None
 
 
@@ -181,12 +165,7 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
                     ARXIV_ABS_PREFIX + paper_key,
                     ARXIV_ABS_PREFIX + paper_key)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+            # NOTE: dead code removed — comments field is no longer used
 
     try:
         iterate_results(client, search_engine)

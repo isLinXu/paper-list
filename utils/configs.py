@@ -32,7 +32,6 @@ def load_config(config_file: str) -> dict:
 
     with open(config_file, 'r') as f:
         config = yaml.load(f, Loader=yaml.FullLoader)
-        print(f'config = {config}')
         config['kv'] = pretty_filters(**config)
-        logging.info(f'config = {config}')
+        logging.info(f'config loaded: topics={list(config.get("keywords", {}).keys())}')
     return config
