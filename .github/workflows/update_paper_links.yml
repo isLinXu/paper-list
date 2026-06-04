@@ -6,20 +6,18 @@ name: Run Update Paper Links Weekly
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+    inputs:
+      days_back:
+        description: 'How many days back to refresh links (default: 30)'
+        required: false
+        default: '30'
   schedule:
-    - cron:  "0 8 * * 1"  #Run At 08:00 on Monday
-  # Triggers the workflow on push or pull request events but only for the main branch
-#   push:
-#     branches:
-#     - main
+    - cron:  "0 8 * * 1"  # Run At 08:00 on Monday
 
 permissions:
   contents: write
 
 env:
-
-  GITHUB_USER_NAME: isLinXu
-  GITHUB_USER_EMAIL: 2267379130@qq.com
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   
@@ -42,7 +40,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          #architecture: 'x64' # optional x64 or x86. Defaults to x64 if not specified
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -50,8 +47,10 @@ jobs:
           
       - name: Refresh recent paper links
         run: |
-          START_DATE=$(date -u -d "30 days ago" +%Y-%m-%d)
+          DAYS_BACK="${{ github.event.inputs.days_back || '30' }}"
+          START_DATE=$(date -u -d "${DAYS_BACK} days ago" +%Y-%m-%d)
           END_DATE=$(date -u +%Y-%m-%d)
+          echo "Refreshing paper links from: $START_DATE to $END_DATE"
           python get_paper.py --update_paper_links --start_date "$START_DATE" --end_date "$END_DATE"
 
       - name: Build analytics artifacts
@@ -60,14 +59,15 @@ jobs:
 
       - name: Commit and push updates
         run: |
-          git config user.name "${GITHUB_USER_NAME}"
-          git config user.email "${GITHUB_USER_EMAIL}"
+          # Use the GitHub Actions bot identity — works correctly for all forks
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           # Stage README + entire docs tree (includes docs/data shards and analytics outputs)
           git add README.md docs
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "ci: build and commit analytics artifacts"
+          git commit -m "ci: weekly paper links refresh $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
           git push origin HEAD:main

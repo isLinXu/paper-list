@@ -1,21 +1,40 @@
-# TODO: add papers by configuration file
-start_date: "2026-02-28"
+# ============================================================
+# FORK SETUP — Fork 后仅需修改此段，其余配置通常不需要改动
+# ============================================================
+# Step 1: 修改下面两行为你自己的 GitHub 用户名和仓库名
+user_name: "YOUR_GITHUB_USERNAME"    # CHANGE_ME: 你的 GitHub 用户名
+repo_name: "paper-list"              # CHANGE_ME: 你的仓库名（通常不需要改）
+
+# Step 2: 如需自定义研究领域，修改下方 keywords 段（保持 YAML 缩进）
+# Step 3: Fork 后在 GitHub Actions 页面手动 Enable 两个 workflow
+# Step 4: 可选 — 设置 GITHUB_TOKEN secret（仓库 Settings > Secrets）以提高 GitHub API 限速
+# ============================================================
+
+# 抓取日期范围
+# null 表示"不限制"，workflow 运行时会通过 --start_date/--end_date 参数动态覆盖
+# 本地调试时建议手动指定：python get_paper.py --start_date 2026-05-01 --end_date 2026-05-07
+start_date: null
 end_date: null
+
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "isLinXu"
-repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 400
+
+# 每个 topic 最多抓取的论文数量
+# 建议范围 50-200；首次运行可设为 50 快速验证，稳定后再调大
+max_results: 100
+
 filename: "output.json"
 filename_web: "output_web.json"
 md_filename: "output.md"
 md_filename_web: "output_web.md"
+
+# 输出渠道开关
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
-task: "My Task"
+publish_wechat: False   # 若需微信推送，改为 True 并配置 wechat 路径
+
 json_readme_path: './docs/data'
 json_gitpage_path: './docs/data'
 json_wechat_path: './docs/paper_list_wechat.json'
