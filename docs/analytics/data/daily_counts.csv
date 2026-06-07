@@ -2511,7 +2511,6 @@ Classification,2026-04-27,3
 Classification,2026-04-28,8
 Classification,2026-04-29,6
 Classification,2026-04-30,6
-Classification,2026-06-04,1
 Depth Estimation,2024-02-19,2
 Depth Estimation,2024-02-21,1
 Depth Estimation,2024-02-22,2
@@ -3097,7 +3096,6 @@ Diffusion Models,2026-04-23,16
 Diffusion Models,2026-04-27,7
 Diffusion Models,2026-04-28,10
 Diffusion Models,2026-04-30,15
-Diffusion Models,2026-06-04,33
 Graph Neural Networks,2024-02-27,2
 Graph Neural Networks,2024-02-28,9
 Graph Neural Networks,2024-02-29,8
@@ -4225,7 +4223,6 @@ Image Generation,2026-04-27,10
 Image Generation,2026-04-28,10
 Image Generation,2026-04-29,8
 Image Generation,2026-04-30,3
-Image Generation,2026-06-04,14
 LLM,2024-02-28,10
 LLM,2024-02-29,10
 LLM,2024-03-02,10
@@ -5151,7 +5148,6 @@ Neural Rendering,2026-04-27,3
 Neural Rendering,2026-04-28,3
 Neural Rendering,2026-04-29,6
 Neural Rendering,2026-04-30,9
-Neural Rendering,2026-06-04,1
 Object Detection,2024-02-27,3
 Object Detection,2024-02-28,8
 Object Detection,2024-02-29,9
@@ -5778,7 +5774,6 @@ Object Detection,2026-04-27,4
 Object Detection,2026-04-28,7
 Object Detection,2026-04-29,5
 Object Detection,2026-04-30,2
-Object Detection,2026-06-04,5
 Object Tracking,2024-02-24,2
 Object Tracking,2024-02-26,3
 Object Tracking,2024-02-27,2
@@ -6250,7 +6245,6 @@ Object Tracking,2026-04-27,9
 Object Tracking,2026-04-28,5
 Object Tracking,2026-04-29,5
 Object Tracking,2026-04-30,5
-Object Tracking,2026-06-04,6
 Optical Flow,2024-02-09,1
 Optical Flow,2024-02-12,1
 Optical Flow,2024-02-14,1
@@ -6727,7 +6721,6 @@ Optical Flow,2026-04-20,2
 Optical Flow,2026-04-21,1
 Optical Flow,2026-04-27,2
 Optical Flow,2026-04-30,1
-Optical Flow,2026-06-04,1
 Pose Estimation,2024-02-25,1
 Pose Estimation,2024-02-26,4
 Pose Estimation,2024-02-27,1
@@ -8427,7 +8420,6 @@ Scene Understanding,2026-04-23,4
 Scene Understanding,2026-04-27,3
 Scene Understanding,2026-04-29,2
 Scene Understanding,2026-04-30,2
-Scene Understanding,2026-06-04,8
 Semantic Segmentation,2024-02-27,3
 Semantic Segmentation,2024-02-28,6
 Semantic Segmentation,2024-02-29,5
@@ -9068,7 +9060,6 @@ Semantic Segmentation,2026-04-27,8
 Semantic Segmentation,2026-04-28,5
 Semantic Segmentation,2026-04-29,6
 Semantic Segmentation,2026-04-30,5
-Semantic Segmentation,2026-06-04,3
 Transfer Learning,2024-02-28,9
 Transfer Learning,2024-02-29,5
 Transfer Learning,2024-03-01,5
@@ -9618,4 +9609,3 @@ Video Understanding,2026-04-27,2
 Video Understanding,2026-04-28,11
 Video Understanding,2026-04-29,7
 Video Understanding,2026-04-30,10
-Video Understanding,2026-06-04,15
