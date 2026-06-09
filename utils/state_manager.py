@@ -79,12 +79,21 @@ def _init_schema(con: sqlite3.Connection) -> None:
         metadata_json  TEXT
     );
 
+    CREATE TABLE IF NOT EXISTS github_code_cache (
+        arxiv_id    TEXT PRIMARY KEY,
+        code_url    TEXT,
+        fetched_at  REAL NOT NULL DEFAULT (unixepoch()),
+        expires_at  REAL NOT NULL
+    );
+
     CREATE INDEX IF NOT EXISTS idx_fetch_status
         ON archive_fetch_log(fetch_status);
     CREATE INDEX IF NOT EXISTS idx_fetch_entity
         ON archive_fetch_log(entity_type);
     CREATE INDEX IF NOT EXISTS idx_cache_expires
         ON openalex_cache(expires_at);
+    CREATE INDEX IF NOT EXISTS idx_ghcode_expires
+        ON github_code_cache(expires_at);
     """)
 
 
@@ -439,3 +448,57 @@ def dump_json(file_path: Path | str, data: Any) -> None:
     """Alias for backward compatibility."""
     from utils.pwc_archive import dump_json as _orig
     return _orig(file_path, data)
+
+
+# ---------------------------------------------------------------------------
+# GitHub code cache
+# ---------------------------------------------------------------------------
+
+_DEFAULT_GHCODE_TTL_DAYS = 7
+
+
+def cache_github_code(arxiv_id: str, code_url: str | None,
+                      ttl_days: int = _DEFAULT_GHCODE_TTL_DAYS) -> None:
+    """Store a GitHub code URL (or None = not found) for an arXiv paper."""
+    now = time.time()
+    expires_at = now + ttl_days * 86400
+    with _LOCK:
+        con().execute(
+            """
+            INSERT INTO github_code_cache (arxiv_id, code_url, fetched_at, expires_at)
+            VALUES (:id, :url, :now, :exp)
+            ON CONFLICT(arxiv_id) DO UPDATE SET
+                code_url   = excluded.code_url,
+                fetched_at = excluded.fetched_at,
+                expires_at = excluded.expires_at
+            """,
+            dict(id=arxiv_id, url=code_url, now=now, exp=expires_at),
+        )
+
+
+def get_cached_github_code(arxiv_id: str) -> tuple[bool, str | None]:
+    """Return (found_in_cache, code_url).
+
+    found_in_cache=True means we have a valid (non-expired) cache entry.
+    code_url may be None meaning the paper has no public code repo.
+    """
+    now = time.time()
+    with _LOCK:
+        row = con().execute(
+            "SELECT code_url FROM github_code_cache WHERE arxiv_id = :id AND expires_at > :now",
+            dict(id=arxiv_id, now=now),
+        ).fetchone()
+    if row is None:
+        return False, None
+    return True, row[0]
+
+
+def cleanup_expired_github_cache() -> int:
+    """Delete expired GitHub code cache entries. Returns count of deleted rows."""
+    now = time.time()
+    with _LOCK:
+        cur = con().execute(
+            "DELETE FROM github_code_cache WHERE expires_at < :now",
+            dict(now=now),
+        )
+    return cur.rowcount
