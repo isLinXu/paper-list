@@ -257,6 +257,70 @@ def validate_config(config_path: str, strict: bool = False) -> list[str]:
             "Add a 'site:' section for automatic URL management."
         )
 
+    # 13. Check docs/_config.yml for stale upstream references
+    jekyll_config_path = Path(config_path).resolve().parent / "docs" / "_config.yml"
+    if jekyll_config_path.exists():
+        jekyll_content = jekyll_config_path.read_text(encoding="utf-8")
+        stale_refs = []
+        if "isLinXu" in jekyll_content:
+            stale_refs.append("isLinXu (upstream owner)")
+        if "github.com/isLinXu/paper-list" in jekyll_content:
+            stale_refs.append("upstream repository URL")
+        if stale_refs:
+            warnings.append(
+                f"[WARN]  docs/_config.yml still contains upstream references: "
+                f"{', '.join(stale_refs)}. "
+                "Run 'python scripts/setup_fork.py' to auto-fix, "
+                "or manually update the URLs to match your fork."
+            )
+
+    # 14. Check for .env file existence
+    dot_env_path = Path(config_path).resolve().parent / ".env"
+    dot_env_example = Path(config_path).resolve().parent / ".env.example"
+    if dot_env_example.exists() and not dot_env_path.exists():
+        infos.append(
+            "[INFO] No .env file found. Create one from .env.example: "
+            "cp .env.example .env  (then fill in your values)"
+        )
+
+    # 15. Check profile consistency (profile keywords vs config keywords)
+    profile_name = config.get("profile")
+    if profile_name:
+        profiles_dir = Path(__file__).resolve().parent.parent / "profiles"
+        profile_path = profiles_dir / f"{profile_name}.yaml"
+        if profile_path.exists():
+            with open(profile_path, "r", encoding="utf-8") as pf:
+                profile_config = yaml.safe_load(pf)
+            profile_topics = set((profile_config or {}).get("keywords", {}).keys())
+            config_topics = set(keywords.keys())
+            # Topics in profile but not in config (removed by user intentionally — OK)
+            # Topics in config but not in profile (added by user — OK, just note it)
+            new_topics = config_topics - profile_topics
+            if new_topics:
+                infos.append(
+                    f"[INFO] Profile '{profile_name}' has been extended with "
+                    f"{len(new_topics)} extra topic(s): {sorted(new_topics)}"
+                )
+
+    # 16. Check concurrent_fetch consistency
+    concurrent = config.get("concurrent_fetch", True)
+    workers = config.get("max_workers", 3)
+    if not concurrent and workers > 1:
+        warnings.append(
+            "[WARN]  concurrent_fetch is disabled but max_workers > 1. "
+            "Set concurrent_fetch: true or reduce max_workers to 1."
+        )
+
+    # 17. Check publish flags — at least one output channel should be enabled
+    pub_readme = config.get("publish_readme", True)
+    pub_gitpage = config.get("publish_gitpage", True)
+    pub_wechat = config.get("publish_wechat", False)
+    if not any([pub_readme, pub_gitpage, pub_wechat]):
+        errors.append(
+            "[ERROR] All publish channels are disabled (publish_readme, publish_gitpage, "
+            "publish_wechat are all false). Enable at least one output channel."
+        )
+
     all_issues = infos + errors + warnings
 
     if strict:

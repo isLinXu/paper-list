@@ -8,10 +8,13 @@
 #   make validate      Validate config.yaml
 #   make audit         Show filter efficiency report
 #   make setup         Run the fork setup wizard
+#   make health-check  One-stop pre-flight diagnostic
+#   make doctor        Health check with auto-fix
+#   make init-fork     Non-interactive fork initialization
 #   make serve         Serve GitHub Pages locally
 #   make regenerate    Regenerate markdown from existing JSON data
 
-.PHONY: help dry-run fetch fetch-week validate audit setup serve regenerate clean
+.PHONY: help dry-run fetch fetch-week validate audit setup health-check doctor init-fork serve regenerate clean
 
 PYTHON ?= python3
 CONFIG ?= config.yaml
@@ -43,6 +46,15 @@ audit-zombie: ## Show only zero-hit (zombie) filters
 
 setup: ## Run the fork setup wizard
 	$(PYTHON) scripts/setup_fork.py
+
+health-check: ## One-stop pre-flight diagnostic (API, config, data, env)
+	$(PYTHON) scripts/health_check.py --config $(CONFIG)
+
+doctor: ## Health check with auto-fix where possible
+	$(PYTHON) scripts/health_check.py --config $(CONFIG) --fix --verbose
+
+init-fork: ## Non-interactive fork initialization (auto-detect from git)
+	$(PYTHON) scripts/setup_fork.py --non-interactive
 
 serve: ## Serve GitHub Pages locally
 	cd docs && bundle exec jekyll serve --livereload || \
