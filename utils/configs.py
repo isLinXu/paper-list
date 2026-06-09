@@ -8,19 +8,76 @@ import yaml
 # Default values that can be overridden via environment variables.
 # This allows fork owners to configure without editing config.yaml.
 _ENV_OVERRIDES = {
-    "user_name":       "PAPER_LIST_USER",
-    "repo_name":       "PAPER_LIST_REPO",
-    "max_results":     "PAPER_LIST_MAX_RESULTS",
-    "publish_readme":  "PAPER_LIST_PUBLISH_README",
-    "publish_gitpage": "PAPER_LIST_PUBLISH_GITPAGE",
-    "publish_wechat":  "PAPER_LIST_PUBLISH_WECHAT",
-    "show_badge":      "PAPER_LIST_SHOW_BADGE",
-    "start_date":      "PAPER_LIST_START_DATE",
-    "end_date":        "PAPER_LIST_END_DATE",
+    "user_name":          "PAPER_LIST_USER",
+    "repo_name":          "PAPER_LIST_REPO",
+    "max_results":        "PAPER_LIST_MAX_RESULTS",
+    "publish_readme":     "PAPER_LIST_PUBLISH_README",
+    "publish_gitpage":    "PAPER_LIST_PUBLISH_GITPAGE",
+    "publish_wechat":     "PAPER_LIST_PUBLISH_WECHAT",
+    "show_badge":         "PAPER_LIST_SHOW_BADGE",
+    "start_date":         "PAPER_LIST_START_DATE",
+    "end_date":           "PAPER_LIST_END_DATE",
+    "concurrent_fetch":   "PAPER_LIST_CONCURRENT_FETCH",
+    "max_workers":        "PAPER_LIST_MAX_WORKERS",
+    "deduplicate":        "PAPER_LIST_DEDUPLICATE",
+    "enrich_tldr":        "PAPER_LIST_ENRICH_TLDR",
+    "enrich_citations":   "PAPER_LIST_ENRICH_CITATIONS",
+    "sort_mode":          "PAPER_LIST_SORT_MODE",
 }
 
 # Built-in profile directory
 PROFILES_DIR = Path(__file__).resolve().parent.parent / "profiles"
+
+# Track whether .env has been loaded to avoid duplicate loading
+_env_loaded = False
+
+
+def _load_dotenv() -> None:
+    """Load .env file from project root into os.environ (if not already loaded).
+
+    This is a minimal dotenv loader — it does NOT override existing env vars,
+    matching the standard dotenv convention. It also supports:
+    - Comments (lines starting with #)
+    - Empty lines
+    - Quoted values (single or double)
+    - Inline comments after values
+
+    Requires no external dependency (no python-dotenv needed).
+    """
+    global _env_loaded
+    if _env_loaded:
+        return
+
+    project_root = Path(__file__).resolve().parent.parent
+    dotenv_path = project_root / ".env"
+
+    if not dotenv_path.exists():
+        _env_loaded = True
+        return
+
+    with open(dotenv_path, "r", encoding="utf-8") as f:
+        for line_num, line in enumerate(f, 1):
+            stripped = line.strip()
+            # Skip empty lines and comments
+            if not stripped or stripped.startswith("#"):
+                continue
+            # Parse KEY=VALUE
+            if "=" not in stripped:
+                continue
+            key, _, value = stripped.partition("=")
+            key = key.strip()
+            value = value.strip()
+            # Remove surrounding quotes
+            if len(value) >= 2 and value[0] == value[-1] and value[0] in ('"', "'"):
+                value = value[1:-1]
+            # Strip inline comments (only if not quoted)
+            if "#" in value and not value.startswith('"'):
+                value = value.split("#")[0].strip()
+            # Don't override existing env vars (standard dotenv convention)
+            if key and key not in os.environ:
+                os.environ[key] = value
+
+    _env_loaded = True
 
 
 def _apply_env_overrides(config: dict) -> dict:
@@ -169,6 +226,9 @@ def load_config(config_file: str) -> dict:
                     merged["keywords"] = merged_keywords
                 config = merged
                 logging.info(f"Loaded profile '{profile_name}' as base config")
+
+        # Load .env file before applying env overrides
+        _load_dotenv()
 
         config = _apply_env_overrides(config)
         config = _filter_disabled_topics(config)
