@@ -9,7 +9,7 @@ import arxiv
 import requests
 
 from .paper_links import ARXIV_ABS_PREFIX, make_paper_record
-HF_PAPER_PAGE = "https://huggingface.co/papers/"
+
 github_url = "https://api.github.com/search/repositories"
 
 
@@ -59,14 +59,19 @@ def try_hf_repo(arxiv_id: str) -> str | None:
 
 
 def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_date=None):
-    print(f"start_date = {start_date}, end_date = {end_date}")
-    """
+    """Fetch papers from arXiv for a given topic and date range.
+
+    GitHub code-link lookup is intentionally NOT performed here.
+    Code URLs are enriched separately by ``update_paper_links`` (weekly job)
+    to avoid blocking the fast daily-fetch path.
+
     @param topic: str
     @param query: str
-    @param start_date: datetime.date
-    @param end_date: datetime.date
-    @return paper_with_code: dict
+    @param start_date: str YYYY-MM-DD or None
+    @param end_date: str YYYY-MM-DD or None
+    @return (data, data_web): dicts keyed by topic
     """
+    logging.debug(f"get_daily_papers: topic={topic!r} start_date={start_date} end_date={end_date}")
     # output
     content = dict()
     content_to_web = dict()
@@ -114,58 +119,29 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
 
             paper_id = result.get_short_id()
             paper_title = sanitize_table_cell(result.title)
-            paper_abstract = result.summary.replace("\n", " ")
             paper_authors = get_authors(result.authors)
             paper_first_author = sanitize_table_cell(get_authors(result.authors, first_author=True))
-            primary_category = result.primary_category
             update_time = result.updated.date()
-            comments = result.comment
 
             logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
             # eg: 2108.09112v1 -> 2108.09112
             ver_pos = paper_id.find('v')
-            if ver_pos == -1:
-                paper_key = paper_id
-            else:
-                paper_key = paper_id[0:ver_pos]
-            # Try Hugging Face papers page -> GitHub fallback
-            repo_url = try_hf_repo(paper_key)
-            if repo_url is None:
-                # fallback to GitHub search
-                qword = f"arxiv:{paper_key} {paper_title}"
-                try:
-                    repo_url = get_code_link(qword, github_url)
-                    if repo_url:
-                        logging.info(f"GitHub fallback found repo for {paper_key}: {repo_url}")
-                except Exception as e:
-                    logging.info(f"GitHub fallback no result for id {paper_key}: {e}")
+            paper_key = paper_id[0:ver_pos] if ver_pos != -1 else paper_id
 
-            if repo_url is not None:
-                content[paper_key] = make_paper_record(
-                    publish_time,
-                    paper_title,
-                    f"{paper_first_author} et.al.",
-                    paper_key,
-                    repo_url,
-                )
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                    publish_time, paper_title, paper_first_author, ARXIV_ABS_PREFIX + paper_key,
-                    ARXIV_ABS_PREFIX + paper_key, repo_url, repo_url)
-            else:
-                content[paper_key] = make_paper_record(
-                    publish_time,
-                    paper_title,
-                    f"{paper_first_author} et.al.",
-                    paper_key,
-                    "null",
-                )
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                    publish_time, paper_title, paper_first_author,
-                    ARXIV_ABS_PREFIX + paper_key,
-                    ARXIV_ABS_PREFIX + paper_key)
-
-            # NOTE: dead code removed — comments field is no longer used
+            # code_url is left as None here; it will be filled later by
+            # update_paper_links (weekly job) using cached GitHub API results.
+            content[paper_key] = make_paper_record(
+                publish_time,
+                paper_title,
+                f"{paper_first_author} et.al.",
+                paper_key,
+                "null",
+            )
+            content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                publish_time, paper_title, paper_first_author,
+                ARXIV_ABS_PREFIX + paper_key,
+                ARXIV_ABS_PREFIX + paper_key)
 
     try:
         iterate_results(client, search_engine)
@@ -194,17 +170,26 @@ def get_daily_papers(topic, query="slam", max_results=2, start_date=None, end_da
 
 
 def get_papers_in_date_range(topic, query="slam", max_results=2, start_date=None, end_date=None):
+    """Fetch papers within a date range using a single arXiv API call.
+
+    Unlike the previous day-by-day loop, this issues one request with an
+    expanded max_results budget and filters by date on the Python side,
+    which is significantly more efficient.
+    """
     if start_date is None or end_date is None:
         raise ValueError("Start date and end date must be provided")
 
-    start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
-    end_date = datetime.datetime.strptime(end_date, "%Y-%m-%d").date()
+    start_dt = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
+    end_dt = datetime.datetime.strptime(end_date, "%Y-%m-%d").date()
+    date_span = (end_dt - start_dt).days + 1
 
-    current_date = start_date
-    all_papers = []
-    while current_date <= end_date:
-        daily_papers, _ = get_daily_papers(topic, query=query, max_results=max_results, start_date=current_date, end_date=current_date)
-        all_papers.append(daily_papers)
-        current_date += datetime.timedelta(days=1)
+    # Scale max_results by the date span so we don't under-fetch
+    scaled_max = max_results * max(date_span, 1)
 
-    return all_papers
+    data, data_web = get_daily_papers(
+        topic, query=query,
+        max_results=scaled_max,
+        start_date=start_date,
+        end_date=end_date,
+    )
+    return [data]
