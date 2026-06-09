@@ -43,6 +43,30 @@ md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
+# Topic groups for GitHub Pages layout.
+# Each group defines: [eyebrow_label, card_title, css_class, [topic_names]]
+# Topic names must match keys in the 'keywords' section below.
+# Fork owners: reorder, add, or remove groups to customize the homepage layout.
+topic_groups:
+  - ["Perception Core", "Vision Systems", "theme-card--vision",
+     ["Classification", "Object Detection", "Semantic Segmentation", "Anomaly Detection"]]
+  - ["3D and Motion", "Geometry Stack", "theme-card--motion",
+     ["Object Tracking", "Action Recognition", "Pose Estimation", "Depth Estimation", "Optical Flow"]]
+  - ["Foundation Models", "Generative Layer", "theme-card--foundation",
+     ["Image Generation", "Diffusion Models", "LLM", "Latent Space LLM", "Multimodal"]]
+  - ["3D Vision", "Spatial AI", "theme-card--3d",
+     ["3D Vision", "Neural Rendering"]]
+  - ["Autonomy", "Agent & Driving", "theme-card--autonomy",
+     ["AI Agent", "Autonomous Driving", "Robotics", "Embodied AI", "World Models"]]
+  - ["Reasoning", "Intelligence Stack", "theme-card--reasoning",
+     ["Reasoning", "Reinforcement Learning", "Transfer Learning"]]
+  - ["Science & Safety", "Frontier Guard", "theme-card--science",
+     ["AI for Science", "AI Safety", "Efficient AI"]]
+  - ["Signal & Graph", "Data Sciences", "theme-card--signal",
+     ["Audio Processing", "Graph Neural Networks", "Time Series & Anomaly"]]
+  - ["Systems Frontier", "Research Surface", "theme-card--systems",
+     ["Scene Understanding", "Video Understanding"]]
+
 # keywords to search
 keywords:
   # ============================================================

@@ -12,7 +12,7 @@ if PROJECT_ROOT not in sys.path:
 
 from utils.configs import load_config
 from utils.get_infos import get_daily_papers
-from utils.json_tools import json_to_md
+from utils.json_tools import json_to_md, load_topic_groups_from_config
 from utils.updates import update_json_file
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
@@ -39,6 +39,7 @@ def split_month_ranges(start_date_str: str, end_date_str: str):
 def run_monthly(config_path: str):
     config = load_config(config_path)
 
+    topic_groups = load_topic_groups_from_config(config)
     keywords = config['kv']
     max_results = int(config.get('max_results', 100))
 
@@ -92,13 +93,13 @@ def run_monthly(config_path: str):
     # Render markdown once at the end
     if publish_readme:
         json_to_md(json_readme_path, md_readme_path, task='Update Readme',
-                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics)
+                   to_web=False, show_badge=show_badge, selected_topics=changed_readme_topics, topic_groups=topic_groups)
     if publish_gitpage:
         json_to_md(json_gitpage_path, md_gitpage_path, task='Update GitPage',
-                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
+                   to_web=True, show_badge=show_badge, use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics, topic_groups=topic_groups)
     if publish_wechat and json_wechat_path and md_wechat_path:
         json_to_md(json_wechat_path, md_wechat_path, task='Update Wechat',
-                   to_web=False, use_title=False, show_badge=show_badge, selected_topics=changed_wechat_topics)
+                   to_web=False, use_title=False, show_badge=show_badge, selected_topics=changed_wechat_topics, topic_groups=topic_groups)
 
 
 if __name__ == "__main__":

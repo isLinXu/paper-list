@@ -11,7 +11,7 @@ if PROJECT_ROOT not in sys.path:
 
 from utils.configs import load_config
 from utils.get_infos import get_daily_papers
-from utils.json_tools import json_to_md
+from utils.json_tools import json_to_md, load_topic_groups_from_config
 from utils.updates import update_paper_links, update_json_file
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
@@ -56,6 +56,7 @@ def run(**config):
     publish_gitpage = config['publish_gitpage']
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
+    topic_groups = config.get('topic_groups')
 
     logging.info(f'Update Paper Link = {config["update_paper_links"]}')
 
@@ -79,7 +80,9 @@ def run(**config):
         md_file = config['md_readme_path']
         changed_readme_topics = _update_source(json_file, data_collector, config, changed_cache)
         json_to_md(json_file, md_file, task='Update Readme',
-                   show_badge=show_badge, split_to_docs=True, selected_topics=changed_readme_topics)
+                   show_badge=show_badge, split_to_docs=True,
+                   selected_topics=changed_readme_topics,
+                   topic_groups=topic_groups)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -88,14 +91,18 @@ def run(**config):
         changed_gitpage_topics = _update_source(json_file, data_collector, config, changed_cache)
         json_to_md(json_file, md_file, task='Update GitPage',
                    to_web=True, show_badge=show_badge,
-                   use_tc=True, use_b2t=False, split_to_docs=True, selected_topics=changed_gitpage_topics)
+                   use_tc=True, use_b2t=False, split_to_docs=True,
+                   selected_topics=changed_gitpage_topics,
+                   topic_groups=topic_groups)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
         json_file = config['json_wechat_path']
         md_file = config['md_wechat_path']
         changed_wechat_topics = _update_source(json_file, data_collector_web, config, changed_cache)
-        json_to_md(json_file, md_file, task='Update Wechat', to_web=False, use_title=False, show_badge=show_badge)
+        json_to_md(json_file, md_file, task='Update Wechat', to_web=False,
+                   use_title=False, show_badge=show_badge,
+                   topic_groups=topic_groups)
 
 
 if __name__ == "__main__":
@@ -110,9 +117,12 @@ if __name__ == "__main__":
                         help='end date for fetching papers (YYYY-MM-DD)')
     args = parser.parse_args()
     config = load_config(args.config_path)
-    config = {**config, 'update_paper_links': args.update_paper_links}
+    config = {**config, "update_paper_links": args.update_paper_links}
     if args.start_date:
-        config['start_date'] = args.start_date
+        config["start_date"] = args.start_date
     if args.end_date:
-        config['end_date'] = args.end_date
+        config["end_date"] = args.end_date
+    # Extract topic_groups from config (or use defaults)
+    topic_groups = load_topic_groups_from_config(config)
+    config["topic_groups"] = topic_groups
     run(**config)

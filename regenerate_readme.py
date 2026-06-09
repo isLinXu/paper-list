@@ -4,10 +4,18 @@ import os
 # Add project root to path
 sys.path.append(os.getcwd())
 
-from utils.json_tools import json_to_md
+from utils.configs import load_config
+from utils.json_tools import json_to_md, load_topic_groups_from_config
 
 json_file = './docs/data'
 show_badge = True
+
+# Load topic_groups from config if available
+try:
+    config = load_config('config.yaml')
+    topic_groups = load_topic_groups_from_config(config)
+except Exception:
+    topic_groups = None
 
 if os.path.exists(json_file):
     # Generate README.md
@@ -18,6 +26,7 @@ if os.path.exists(json_file):
         show_badge=show_badge,
         split_to_docs=True,
         page_variant='readme',
+        topic_groups=topic_groups,
     )
     # Generate docs/index.md for GitHub Pages
     json_to_md(
@@ -30,6 +39,7 @@ if os.path.exists(json_file):
         use_b2t=False,
         split_to_docs=True,
         page_variant='home',
+        topic_groups=topic_groups,
     )
     # Generate docs/paper_list.md for the dense GitHub Pages catalog view
     json_to_md(
@@ -42,6 +52,7 @@ if os.path.exists(json_file):
         use_b2t=False,
         split_to_docs=False,
         page_variant='catalog',
+        topic_groups=topic_groups,
     )
     print("Regenerated README.md, docs/index.md, docs/paper_list.md, and split docs.")
 else:

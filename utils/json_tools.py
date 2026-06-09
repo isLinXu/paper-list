@@ -16,7 +16,10 @@ from .paper_links import ensure_paper_record
 from .storage import load_paper_store
 
 
-TOPIC_GROUPS = [
+# Default topic groups used when config.yaml does not define topic_groups.
+# Each tuple: (eyebrow, title, css_class, [topic_names])
+# Fork owners should define topic_groups in config.yaml instead of editing this.
+DEFAULT_TOPIC_GROUPS = [
     (
         "Perception Core",
         "Vision Systems",
@@ -52,17 +55,41 @@ TOPIC_GROUPS = [
 ]
 
 
-def flatten_topic_groups() -> list[str]:
+def load_topic_groups_from_config(config: dict) -> list[tuple]:
+    """Load topic groups from config.yaml, falling back to DEFAULT_TOPIC_GROUPS.
+
+    Config format (in config.yaml):
+        topic_groups:
+          - ["Perception Core", "Vision Systems", "theme-card--vision",
+             ["Classification", "Object Detection"]]
+    """
+    raw_groups = config.get("topic_groups")
+    if not raw_groups:
+        return DEFAULT_TOPIC_GROUPS
+
+    groups = []
+    for item in raw_groups:
+        if isinstance(item, (list, tuple)) and len(item) == 4:
+            eyebrow, title, css_class, topics = item
+            groups.append((eyebrow, title, css_class, topics))
+    return groups if groups else DEFAULT_TOPIC_GROUPS
+
+
+def flatten_topic_groups(topic_groups: list[tuple] | None = None) -> list[str]:
+    if topic_groups is None:
+        topic_groups = DEFAULT_TOPIC_GROUPS
     ordered = []
-    for _, _, _, topics in TOPIC_GROUPS:
+    for _, _, _, topics in topic_groups:
         for topic in topics:
             if topic not in ordered:
                 ordered.append(topic)
     return ordered
 
 
-def build_topic_metadata(data: dict) -> dict:
-    ordered_topics = [topic for topic in flatten_topic_groups() if data.get(topic)]
+def build_topic_metadata(data: dict, topic_groups: list[tuple] | None = None) -> dict:
+    if topic_groups is None:
+        topic_groups = DEFAULT_TOPIC_GROUPS
+    ordered_topics = [topic for topic in flatten_topic_groups(topic_groups) if data.get(topic)]
     fallback_topics = [topic for topic, papers in data.items() if papers and topic not in ordered_topics]
     full_order = ordered_topics + fallback_topics
     meta = {}
@@ -72,7 +99,7 @@ def build_topic_metadata(data: dict) -> dict:
         next_topic = full_order[index + 1] if index + 1 < len(full_order) else None
         lane_title = "Research Track"
         lane_eyebrow = "Topic Lane"
-        for eyebrow, title, _, topics in TOPIC_GROUPS:
+        for eyebrow, title, _, topics in topic_groups:
             if topic in topics:
                 lane_title = title
                 lane_eyebrow = eyebrow
@@ -119,7 +146,10 @@ def topic_href(keyword: str, *, to_web: bool, split_to_docs: bool) -> str:
     return f"#{keyword.replace(' ', '-').lower()}"
 
 
-def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool) -> None:
+def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool,
+                     topic_groups: list[tuple] | None = None) -> None:
+    if topic_groups is None:
+        topic_groups = DEFAULT_TOPIC_GROUPS
     handle.write("## 📚 Paper List\n\n")
     if split_to_docs:
         handle.write("Browse topics by research lane first, then jump into each monthly archive.\n\n")
@@ -128,7 +158,7 @@ def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool) 
     handle.write("<ul class=\"topic-index\">\n")
     topic_num = 1
     seen = set()
-    for keyword in flatten_topic_groups():
+    for keyword in flatten_topic_groups(topic_groups):
         day_content = data.get(keyword)
         if not day_content:
             continue
@@ -150,7 +180,10 @@ def write_topic_index(handle, data: dict, *, to_web: bool, split_to_docs: bool) 
     handle.write("</ul>\n\n")
 
 
-def write_home_hero(handle, stats: dict, date_now: str) -> None:
+def write_home_hero(handle, stats: dict, date_now: str,
+                    topic_groups: list[tuple] | None = None) -> None:
+    if topic_groups is None:
+        topic_groups = DEFAULT_TOPIC_GROUPS
     date_range = f"{stats['first_date']} to {stats['last_date']}" if stats["first_date"] and stats["last_date"] else "Daily refresh window"
     top_topics = ", ".join(topic for topic, _ in stats["top_topics"]) or "Classification, Detection, LLM"
 
@@ -186,7 +219,7 @@ def write_home_hero(handle, stats: dict, date_now: str) -> None:
 
     handle.write("<div class=\"section-divider\"><span>Topic Lanes</span></div>\n\n")
     handle.write("<section id=\"topic-lanes\" class=\"theme-grid theme-grid--compact\">\n")
-    for eyebrow, title, card_class, topics in TOPIC_GROUPS:
+    for eyebrow, title, card_class, topics in topic_groups:
         links = []
         for topic in topics:
             href = topic_href(topic, to_web=True, split_to_docs=True)
@@ -259,18 +292,21 @@ def json_to_md(filename, md_filename,
                use_b2t=True,
                split_to_docs=False,
                selected_topics=None,
-               page_variant="standard"):
+               page_variant="standard",
+               topic_groups=None):
     """Convert JSON paper store to Markdown file.
 
     Orchestrates the rendering pipeline by delegating to focused
     helper functions in markdown_renderer.
     """
+    if topic_groups is None:
+        topic_groups = DEFAULT_TOPIC_GROUPS
     DateNow = str(datetime.date.today()).replace('-', '.')
 
     data = load_paper_store(filename)
     selected_topics = set(selected_topics or [])
     stats = compute_library_stats(data)
-    topic_meta = build_topic_metadata(data)
+    topic_meta = build_topic_metadata(data, topic_groups=topic_groups)
 
     # Clean/create the output file
     with open(md_filename, "w+") as f:
@@ -297,7 +333,7 @@ def json_to_md(filename, md_filename,
 
         # --- Hero / landing page variants ---
         if to_web and use_title and page_variant == "home":
-            write_home_hero(f, stats, DateNow)
+            write_home_hero(f, stats, DateNow, topic_groups=topic_groups)
         elif to_web and use_title and page_variant == "catalog":
             write_catalog_intro(f, stats, DateNow)
         else:
@@ -310,7 +346,8 @@ def json_to_md(filename, md_filename,
 
         # --- Table of contents ---
         if use_tc:
-            write_topic_index(f, data, to_web=to_web, split_to_docs=split_to_docs)
+            write_topic_index(f, data, to_web=to_web, split_to_docs=split_to_docs,
+                              topic_groups=topic_groups)
 
         # --- Paper content (topics) ---
         non_empty_topics = [(keyword, day_content) for keyword, day_content in data.items() if day_content]
