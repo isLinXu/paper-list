@@ -7,15 +7,21 @@ Checks:
 2. All topics in TOPIC_GROUPS exist in config keywords
 3. No duplicate filter terms within a topic
 4. start_date format is valid (if set)
+5. Cross-topic filter overlap detection
+6. Orphan topics (in keywords but not in TOPIC_GROUPS)
+7. Environment variable overrides are valid
+8. Output paths are writable
 
 Usage:
     python scripts/validate_config.py
     python scripts/validate_config.py --config path/to/config.yaml
+    python scripts/validate_config.py --strict   # treat warnings as errors
 """
 
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 from pathlib import Path
 
@@ -25,8 +31,8 @@ if str(PROJECT_ROOT) not in sys.path:
 
 import yaml
 
-# These topic names are hardcoded in utils/json_tools.py TOPIC_GROUPS
-# Keep this in sync with that list (or move TOPIC_GROUPS to config.yaml)
+# These topic names are the default when config.yaml does not define topic_groups.
+# Now that topic_groups can be configured in config.yaml, this is only a fallback.
 BUILTIN_TOPIC_GROUPS = [
     ["Classification", "Object Detection", "Semantic Segmentation", "Anomaly Detection"],
     ["Object Tracking", "Action Recognition", "Pose Estimation", "Depth Estimation", "Optical Flow"],
@@ -37,13 +43,40 @@ BUILTIN_TOPIC_GROUPS = [
     ],
 ]
 
+
+def _get_effective_topic_groups(config: dict) -> list[list[str]]:
+    """Get topic groups from config, falling back to BUILTIN_TOPIC_GROUPS."""
+    raw_groups = config.get("topic_groups")
+    if raw_groups:
+        groups = []
+        for item in raw_groups:
+            if isinstance(item, (list, tuple)) and len(item) == 4:
+                groups.append(item[3])  # 4th element is the topic list
+        if groups:
+            return groups
+    return BUILTIN_TOPIC_GROUPS
+
 PLACEHOLDER_USERNAMES = {"YOUR_GITHUB_USERNAME", "isLinXu", "CHANGE_ME"}
 PLACEHOLDER_REPONAMES = {"YOUR_REPO_NAME", "cv-arxiv-daily", "CHANGE_ME"}
 
+# Environment variable override mapping (must match utils/configs.py)
+ENV_OVERRIDES = {
+    "user_name":       "PAPER_LIST_USER",
+    "repo_name":       "PAPER_LIST_REPO",
+    "max_results":     "PAPER_LIST_MAX_RESULTS",
+    "publish_readme":  "PAPER_LIST_PUBLISH_README",
+    "publish_gitpage": "PAPER_LIST_PUBLISH_GITPAGE",
+    "publish_wechat":  "PAPER_LIST_PUBLISH_WECHAT",
+    "show_badge":      "PAPER_LIST_SHOW_BADGE",
+    "start_date":      "PAPER_LIST_START_DATE",
+    "end_date":        "PAPER_LIST_END_DATE",
+}
 
-def validate_config(config_path: str) -> list[str]:
+
+def validate_config(config_path: str, strict: bool = False) -> list[str]:
     warnings: list[str] = []
     errors: list[str] = []
+    infos: list[str] = []
 
     with open(config_path, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
@@ -51,29 +84,55 @@ def validate_config(config_path: str) -> list[str]:
     # 1. Check user_name / repo_name
     user_name = config.get("user_name", "")
     repo_name = config.get("repo_name", "")
-    if user_name in PLACEHOLDER_USERNAMES:
+
+    # Check env override first
+    env_user = os.environ.get("PAPER_LIST_USER")
+    env_repo = os.environ.get("PAPER_LIST_REPO")
+
+    effective_user = env_user or user_name
+    effective_repo = env_repo or repo_name
+
+    if env_user:
+        infos.append(f"[INFO] user_name overridden by PAPER_LIST_USER={env_user}")
+    if env_repo:
+        infos.append(f"[INFO] repo_name overridden by PAPER_LIST_REPO={env_repo}")
+
+    if effective_user in PLACEHOLDER_USERNAMES:
         errors.append(
-            f"[ERROR] config.yaml: user_name='{user_name}' looks like a placeholder. "
-            "Please set it to your actual GitHub username."
+            f"[ERROR] config.yaml: user_name='{effective_user}' looks like a placeholder. "
+            "Please set it to your actual GitHub username "
+            "(edit config.yaml or set PAPER_LIST_USER env var)."
         )
-    if repo_name in PLACEHOLDER_REPONAMES:
+    if effective_repo in PLACEHOLDER_REPONAMES:
         warnings.append(
-            f"[WARN]  config.yaml: repo_name='{repo_name}' looks like a placeholder. "
-            "Please set it to your actual repository name."
+            f"[WARN]  config.yaml: repo_name='{effective_repo}' looks like a placeholder. "
+            "Please set it to your actual repository name "
+            "(edit config.yaml or set PAPER_LIST_REPO env var)."
         )
 
     keywords: dict = config.get("keywords") or {}
 
     # 2. Check TOPIC_GROUPS topics exist in keywords
-    all_grouped = [topic for group in BUILTIN_TOPIC_GROUPS for topic in group]
+    effective_groups = _get_effective_topic_groups(config)
+    all_grouped = [topic for group in effective_groups for topic in group]
     for topic in all_grouped:
         if topic not in keywords:
             warnings.append(
-                f"[WARN]  TOPIC_GROUPS references topic '{topic}' which is NOT in config.yaml keywords. "
+                f"[WARN]  topic_groups references topic '{topic}' which is NOT in config.yaml keywords. "
                 "It will be silently skipped in GitHub Pages topic lanes."
             )
 
-    # 3. Check for duplicate filters within a topic
+    # 3. Check for orphan topics (in keywords but not in topic_groups)
+    grouped_set = set(all_grouped)
+    for topic in keywords:
+        if topic not in grouped_set:
+            infos.append(
+                f"[INFO] Topic '{topic}' is in keywords but NOT in topic_groups. "
+                "It will appear after grouped topics in the output. "
+                "Add it to topic_groups in config.yaml if you want it in a lane."
+            )
+
+    # 4. Check for duplicate filters within a topic
     for topic, spec in keywords.items():
         filters = spec.get("filters", []) if isinstance(spec, dict) else []
         seen: set[str] = set()
@@ -81,12 +140,27 @@ def validate_config(config_path: str) -> list[str]:
             normalized = f.strip().lower()
             if normalized in seen:
                 warnings.append(
-                    f"[WARN]  keywords['{topic}']: duplicate filter '{f}' — "
+                    f"[WARN]  keywords['{topic}']: duplicate filter '{f}' - "
                     "remove one to avoid redundant API queries."
                 )
             seen.add(normalized)
 
-    # 4. Check start_date format
+    # 5. Cross-topic filter overlap detection
+    filter_to_topics: dict[str, list[str]] = {}
+    for topic, spec in keywords.items():
+        filters = spec.get("filters", []) if isinstance(spec, dict) else []
+        for f in filters:
+            normalized = f.strip().lower()
+            filter_to_topics.setdefault(normalized, []).append(topic)
+
+    overlapping = {f: topics for f, topics in filter_to_topics.items() if len(topics) > 1}
+    if overlapping:
+        infos.append(f"[INFO] {len(overlapping)} filter terms appear in multiple topics:")
+        for f, topics in sorted(overlapping.items()):
+            infos.append(f"       '{f}' -> {', '.join(topics)}")
+        infos.append("       This is normal for broad terms but may cause duplicate papers.")
+
+    # 6. Check start_date format
     start_date = config.get("start_date")
     if start_date is not None:
         try:
@@ -99,7 +173,7 @@ def validate_config(config_path: str) -> list[str]:
         except (ValueError, TypeError):
             errors.append(f"[ERROR] config.yaml: start_date='{start_date}' is not a valid YYYY-MM-DD date.")
 
-    # 5. Check max_results sanity
+    # 7. Check max_results sanity
     max_results = config.get("max_results", 100)
     if isinstance(max_results, int) and max_results > 500:
         warnings.append(
@@ -107,12 +181,65 @@ def validate_config(config_path: str) -> list[str]:
             "This may cause slow runs and API rate limits. Consider 100-200."
         )
 
-    return errors + warnings
+    # 8. Check environment variable overrides are valid
+    for config_key, env_var in ENV_OVERRIDES.items():
+        env_val = os.environ.get(env_var)
+        if env_val is not None:
+            original = config.get(config_key)
+            if isinstance(original, bool):
+                if env_val.lower() not in ("true", "false", "1", "0", "yes", "no"):
+                    errors.append(
+                        f"[ERROR] Environment variable {env_var}='{env_val}' is not a valid boolean. "
+                        "Use true/false, 1/0, or yes/no."
+                    )
+            elif isinstance(original, int):
+                try:
+                    int(env_val)
+                except ValueError:
+                    errors.append(
+                        f"[ERROR] Environment variable {env_var}='{env_val}' is not a valid integer."
+                    )
+
+    # 9. Check output paths are writable
+    for path_key in ("json_readme_path", "md_readme_path", "json_gitpage_path", "md_gitpage_path"):
+        path_val = config.get(path_key)
+        if path_val:
+            parent = Path(path_val).parent
+            if parent and not parent.exists():
+                infos.append(
+                    f"[INFO] Output directory for {path_key}='{path_val}' does not exist yet. "
+                    "It will be created automatically."
+                )
+
+    # 10. Check keyword count and estimate runtime
+    topic_count = len(keywords)
+    total_filters = sum(
+        len(spec.get("filters", [])) if isinstance(spec, dict) else 0
+        for spec in keywords.values()
+    )
+    infos.append(f"[INFO] Configuration summary: {topic_count} topics, {total_filters} total filter terms")
+    if topic_count > 25:
+        warnings.append(
+            f"[WARN]  {topic_count} topics is a lot. Each topic requires a separate arXiv API call. "
+            "Consider reducing topics for faster runs."
+        )
+
+    all_issues = infos + errors + warnings
+
+    if strict:
+        # In strict mode, treat warnings as errors
+        all_issues = [
+            msg.replace("[WARN]", "[ERROR]") if "[WARN]" in msg else msg
+            for msg in all_issues
+        ]
+
+    return all_issues
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Validate paper-list config.yaml")
     parser.add_argument("--config", default="config.yaml", help="Path to config.yaml")
+    parser.add_argument("--strict", action="store_true", help="Treat warnings as errors")
     args = parser.parse_args()
 
     config_path = Path(args.config)
@@ -120,19 +247,20 @@ def main() -> None:
         print(f"[ERROR] Config file not found: {config_path}")
         sys.exit(1)
 
-    issues = validate_config(str(config_path))
+    issues = validate_config(str(config_path), strict=args.strict)
 
     if not issues:
-        print("[OK] Config validation passed — no issues found.")
+        print("[OK] Config validation passed - no issues found.")
         sys.exit(0)
 
     errors = [i for i in issues if i.startswith("[ERROR]")]
     warnings = [i for i in issues if i.startswith("[WARN]")]
+    infos = [i for i in issues if i.startswith("[INFO]")]
 
     for msg in issues:
         print(msg)
 
-    print(f"\nSummary: {len(errors)} error(s), {len(warnings)} warning(s)")
+    print(f"\nSummary: {len(errors)} error(s), {len(warnings)} warning(s), {len(infos)} info")
 
     if errors:
         print("\nFix errors before running the pipeline.")
