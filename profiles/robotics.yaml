@@ -1,0 +1,85 @@
+# Robotics Profile — Robotics, Autonomous Driving, Embodied AI (9 topics)
+# Ideal for researchers focused on embodied intelligence and robotics.
+#
+# Usage: python scripts/setup_fork.py --profile robotics
+
+user_name: "YOUR_GITHUB_USERNAME"
+repo_name: "paper-list"
+
+start_date: null
+end_date: null
+
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 100
+
+filename: "output.json"
+filename_web: "output_web.json"
+md_filename: "output.md"
+md_filename_web: "output_web.md"
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+json_readme_path: './docs/data'
+json_gitpage_path: './docs/data'
+json_wechat_path: './docs/paper_list_wechat.json'
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+concurrent_fetch: True
+max_workers: 3
+deduplicate: True
+
+topic_groups:
+  - ["3D Perception", "Spatial Intelligence", "theme-card--3d",
+     ["3D Vision", "Depth Estimation", "Neural Rendering"]]
+  - ["Autonomy", "Self-Driving Stack", "theme-card--autonomy",
+     ["Autonomous Driving", "Object Tracking", "Scene Understanding"]]
+  - ["Embodiment", "Physical AI", "theme-card--embodiment",
+     ["Robotics", "Embodied AI", "World Models", "Reinforcement Learning"]]
+
+keywords:
+  "3D Vision":
+    enabled: true
+    filters: ["3D Vision", "Point Cloud", "3D Reconstruction", "3D Object Detection"]
+
+  "Depth Estimation":
+    enabled: true
+    filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Matching"]
+
+  "Neural Rendering":
+    enabled: true
+    filters: ["Neural Rendering", "NeRF", "Gaussian Splatting", "3D Reconstruction"]
+
+  "Autonomous Driving":
+    enabled: true
+    filters: ["Autonomous Driving", "Self-Driving", "End-to-End Driving", "BEV Perception"]
+
+  "Object Tracking":
+    enabled: true
+    filters: ["Object Tracking", "Multi-Object Tracking", "MOT", "3D Tracking"]
+
+  "Scene Understanding":
+    enabled: true
+    filters: ["Scene Understanding", "Scene Graph", "Scene Parsing"]
+
+  "Robotics":
+    enabled: true
+    filters: ["Robotics", "Manipulation", "Grasping", "Locomotion", "Sim-to-Real"]
+
+  "Embodied AI":
+    enabled: true
+    filters: ["Embodied AI", "Embodied Intelligence", "Navigation", "Interactive Perception"]
+
+  "World Models":
+    enabled: true
+    filters: ["World Model", "Video Prediction", "Dynamics Model"]
+
+  "Reinforcement Learning":
+    enabled: true
+    filters: ["Reinforcement Learning", "Deep Reinforcement Learning", "Offline RL", "Reward Shaping"]

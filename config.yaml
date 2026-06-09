@@ -6,9 +6,16 @@ user_name: "YOUR_GITHUB_USERNAME"    # CHANGE_ME: 你的 GitHub 用户名
 repo_name: "paper-list"              # CHANGE_ME: 你的仓库名（通常不需要改）
 
 # Step 2: 如需自定义研究领域，修改下方 keywords 段（保持 YAML 缩进）
+#   提示：给不想跑的 topic 加 enabled: false 即可临时禁用
 # Step 3: Fork 后在 GitHub Actions 页面手动 Enable 两个 workflow
 # Step 4: 可选 — 设置 GITHUB_TOKEN secret（仓库 Settings > Secrets）以提高 GitHub API 限速
+# Step 5: 可选 — 使用预设 profile 快速开始：
+#   python scripts/setup_fork.py --profile minimal
+#   可选值: minimal, vision, nlp_llm, robotics, full
 # ============================================================
+
+# 预设 profile（可选，留空或不设则使用下方完整 keywords）
+# profile: minimal
 
 # 抓取日期范围
 # null 表示"不限制"，workflow 运行时会通过 --start_date/--end_date 参数动态覆盖
@@ -24,6 +31,19 @@ show_badge: True
 # 每个 topic 最多抓取的论文数量
 # 建议范围 50-200；首次运行可设为 50 快速验证，稳定后再调大
 max_results: 100
+
+# 并发抓取配置
+concurrent_fetch: True    # 是否启用并发抓取（推荐开启，显著加速多 topic 场景）
+max_workers: 3            # 最大并发线程数（建议 2-4，arXiv API 有速率限制）
+deduplicate: True         # 是否去除跨 topic 重复论文
+
+# Site 配置（用于自动生成 badge 和链接，替代硬编码 URL）
+# 如果设置了 user_name/repo_name，以下值会自动推导
+# site:
+#   github_owner: "YOUR_GITHUB_USERNAME"
+#   github_repo: "paper-list"
+#   pages_url: "https://YOUR_GITHUB_USERNAME.github.io/paper-list/"
+#   banner_image: "https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e"
 
 filename: "output.json"
 filename_web: "output_web.json"

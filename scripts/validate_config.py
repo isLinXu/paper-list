@@ -217,11 +217,44 @@ def validate_config(config_path: str, strict: bool = False) -> list[str]:
         len(spec.get("filters", [])) if isinstance(spec, dict) else 0
         for spec in keywords.values()
     )
-    infos.append(f"[INFO] Configuration summary: {topic_count} topics, {total_filters} total filter terms")
+
+    # Count disabled topics
+    disabled_count = 0
+    for topic, spec in keywords.items():
+        if isinstance(spec, dict) and not spec.get("enabled", True):
+            disabled_count += 1
+
+    enabled_count = topic_count - disabled_count
+    infos.append(
+        f"[INFO] Configuration summary: {enabled_count} active topics, "
+        f"{disabled_count} disabled, {total_filters} total filter terms"
+    )
     if topic_count > 25:
         warnings.append(
             f"[WARN]  {topic_count} topics is a lot. Each topic requires a separate arXiv API call. "
-            "Consider reducing topics for faster runs."
+            "Consider reducing topics or disabling some with 'enabled: false'."
+        )
+
+    # 11. Check profile validity
+    profile_name = config.get("profile")
+    if profile_name:
+        profiles_dir = Path(__file__).resolve().parent.parent / "profiles"
+        profile_path = profiles_dir / f"{profile_name}.yaml"
+        if not profile_path.exists():
+            errors.append(
+                f"[ERROR] Profile '{profile_name}' not found at {profile_path}. "
+                "Available profiles: minimal, vision, nlp_llm, robotics, full"
+            )
+        else:
+            infos.append(f"[INFO] Using profile: {profile_name}")
+
+    # 12. Check site config completeness
+    site = config.get("site", {})
+    if not site:
+        infos.append(
+            "[INFO] No 'site' section in config.yaml. "
+            "Badge URLs will use hardcoded defaults. "
+            "Add a 'site:' section for automatic URL management."
         )
 
     all_issues = infos + errors + warnings

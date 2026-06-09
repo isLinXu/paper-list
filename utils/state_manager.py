@@ -13,6 +13,7 @@ pipeline_checkpoint — incremental checkpoint per pipeline run
 from __future__ import annotations
 
 import json
+import os
 import sqlite3
 import threading
 import time
@@ -20,7 +21,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
-_DB_PATH = Path("data/pwc_archive/staging/paper_list.db")
+_DB_PATH = Path(os.environ.get("PAPER_LIST_DB_PATH", "data/pwc_archive/staging/paper_list.db"))
 _CON: sqlite3.Connection | None = None
 _LOCK = threading.RLock()
 

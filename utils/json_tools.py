@@ -293,7 +293,8 @@ def json_to_md(filename, md_filename,
                split_to_docs=False,
                selected_topics=None,
                page_variant="standard",
-               topic_groups=None):
+               topic_groups=None,
+               site=None):
     """Convert JSON paper store to Markdown file.
 
     Orchestrates the rendering pipeline by delegating to focused
@@ -323,11 +324,11 @@ def json_to_md(filename, md_filename,
 
         # --- Badge section ---
         if show_badge and not is_web_landing:
-            write_badge_section(f)
+            write_badge_section(f, site=site)
 
         # --- Title header ---
         if use_title and not is_web_landing:
-            write_title_header(f, DateNow)
+            write_title_header(f, DateNow, site=site)
         elif not is_web_landing:
             f.write(f"> **📅 Last Updated:** `{DateNow}`\n")
 
@@ -339,10 +340,10 @@ def json_to_md(filename, md_filename,
         else:
             # Standard README body
             f.write("\n![paper_list_banner](https://github.com/isLinXu/issues/assets/59380685/0ab31126-9ef4-4c49-bf80-8dae2a3acaa8)\n")
-            write_introduction_section(f)
+            write_introduction_section(f, site=site)
             write_features_section(f)
             write_workflow_section(f)
-            write_quickstart_section(f)
+            write_quickstart_section(f, site=site)
 
         # --- Table of contents ---
         if use_tc:
@@ -372,6 +373,6 @@ def json_to_md(filename, md_filename,
 
         # --- Footer sections (only for main index/README, not sub-pages) ---
         if use_title and split_to_docs:
-            write_footer_sections(f, to_web)
+            write_footer_sections(f, to_web, site=site)
 
     logging.info(f"{task} finished")

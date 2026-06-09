@@ -13,6 +13,7 @@ from utils.configs import load_config
 from utils.get_infos import get_daily_papers
 from utils.json_tools import json_to_md, load_topic_groups_from_config
 from utils.updates import update_paper_links, update_json_file
+from utils.concurrent_fetch import fetch_all_topics
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -57,18 +58,51 @@ def run(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
     topic_groups = config.get('topic_groups')
+    site = config.get('site')
 
     logging.info(f'Update Paper Link = {config["update_paper_links"]}')
 
+    # --- Dry-run mode: preview only, no file writes ---
+    if config.get('dry_run'):
+        total_papers = 0
+        for topic, keyword in keywords.items():
+            logging.info(f"[DRY-RUN] Fetching topic: {topic}")
+            data, _ = get_daily_papers(topic, query=keyword, max_results=max_results,
+                                       start_date=config['start_date'], end_date=config['end_date'])
+            count = len(data.get(topic, {}))
+            total_papers += count
+            print(f"  [DRY-RUN] {topic}: {count} papers")
+        print(f"\n[DRY-RUN] Total: {total_papers} papers across {len(keywords)} topics")
+        print("[DRY-RUN] No files were written. Remove --dry-run to actually fetch.")
+        return
+
     if not config['update_paper_links']:
         logging.info("GET daily papers begin")
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results,
-                                              start_date=config['start_date'], end_date=config['end_date'])
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
+
+        # Use concurrent fetching with deduplication
+        use_concurrent = config.get('concurrent_fetch', True)
+        if use_concurrent and len(keywords) > 1:
+            logging.info(f"Using concurrent fetch (workers={config.get('max_workers', 3)})")
+            data_collector, data_collector_web, dup_map = fetch_all_topics(
+                keywords=keywords,
+                keywords_config=config.get('keywords'),
+                max_results=max_results,
+                start_date=config['start_date'],
+                end_date=config['end_date'],
+                max_workers=config.get('max_workers', 3),
+                deduplicate=config.get('deduplicate', True),
+            )
+            if dup_map:
+                logging.info(f"Cross-topic duplicates: {len(dup_map)} papers appeared in multiple topics")
+        else:
+            # Sequential fallback (original behavior)
+            for topic, keyword in keywords.items():
+                logging.info(f"Keyword: {topic}")
+                data, data_web = get_daily_papers(topic, query=keyword, max_results=max_results,
+                                                  start_date=config['start_date'], end_date=config['end_date'])
+                data_collector.append(data)
+                data_collector_web.append(data_web)
+                print("\n")
         logging.info("GET daily papers end")
 
     # Cache changed topics per JSON file to avoid duplicate updates
@@ -82,7 +116,7 @@ def run(**config):
         json_to_md(json_file, md_file, task='Update Readme',
                    show_badge=show_badge, split_to_docs=True,
                    selected_topics=changed_readme_topics,
-                   topic_groups=topic_groups)
+                   topic_groups=topic_groups, site=site)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -93,7 +127,7 @@ def run(**config):
                    to_web=True, show_badge=show_badge,
                    use_tc=True, use_b2t=False, split_to_docs=True,
                    selected_topics=changed_gitpage_topics,
-                   topic_groups=topic_groups)
+                   topic_groups=topic_groups, site=site)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -102,7 +136,7 @@ def run(**config):
         changed_wechat_topics = _update_source(json_file, data_collector_web, config, changed_cache)
         json_to_md(json_file, md_file, task='Update Wechat', to_web=False,
                    use_title=False, show_badge=show_badge,
-                   topic_groups=topic_groups)
+                   topic_groups=topic_groups, site=site)
 
 
 if __name__ == "__main__":
@@ -115,6 +149,10 @@ if __name__ == "__main__":
                         help='start date for fetching papers (YYYY-MM-DD)')
     parser.add_argument('--end_date', type=str, default=None,
                         help='end date for fetching papers (YYYY-MM-DD)')
+    parser.add_argument('--dry-run', action='store_true',
+                        help='Preview what would be fetched without writing files')
+    parser.add_argument('--topic', type=str, default=None,
+                        help='Only fetch a single topic (exact name match)')
     args = parser.parse_args()
     config = load_config(args.config_path)
     config = {**config, "update_paper_links": args.update_paper_links}
@@ -122,6 +160,19 @@ if __name__ == "__main__":
         config["start_date"] = args.start_date
     if args.end_date:
         config["end_date"] = args.end_date
+    config["dry_run"] = args.dry_run
+
+    # Filter to a single topic if requested
+    if args.topic:
+        if args.topic in config.get("kv", {}):
+            config["kv"] = {args.topic: config["kv"][args.topic]}
+            config["keywords"] = {args.topic: config["keywords"][args.topic]}
+            logging.info(f"Filtered to single topic: {args.topic}")
+        else:
+            available = list(config.get("kv", {}).keys())
+            logging.error(f"Topic '{args.topic}' not found. Available: {available}")
+            sys.exit(1)
+
     # Extract topic_groups from config (or use defaults)
     topic_groups = load_topic_groups_from_config(config)
     config["topic_groups"] = topic_groups
