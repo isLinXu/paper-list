@@ -104,7 +104,7 @@ def write_features_section(f) -> None:
     f.write("| 🔄 **Daily Auto-Update** | Runs every 8 hours via GitHub Actions — zero manual intervention |\n")
     f.write("| 📂 **20+ Research Topics** | From Classification to Embodied AI, covering the full CV/AI spectrum |\n")
     f.write("| 📊 **Research Insights** | Trend charts, topic rankings, top authors, and code coverage |\n")
-    f.write("| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation, reading, and code links |\n")
+    f.write("| 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation, reading, alphaXiv discussion, and code links |\n")
     f.write("| 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |\n")
     f.write("| 🤖 **Dual Reading Modes** | Human-facing view + compact `?view=agent` mode |\n")
     f.write("| 🎨 **Three Visual Themes** | Editorial (warm), Atlas (dark), Lab (clean) — switchable |\n")
@@ -177,10 +177,10 @@ def write_paper_table(f, day_content: dict, to_web: bool, use_title: bool) -> No
     """Write a paper table for a single topic."""
     if use_title:
         if not to_web:
-            f.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n|---|---|---|---|---|---|---|\n")
+            f.write("|Publish Date|Title|Authors|PDF|Translate|Read|alphaXiv|Code|\n|---|---|---|---|---|---|---|---|\n")
         else:
-            f.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
-            f.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
+            f.write("| Publish Date | Title | Authors | PDF | Translate | Read | alphaXiv | Code |\n")
+            f.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|:------|\n")
 
     for _, v in sort_papers(day_content).items():
         if v is not None:
@@ -243,10 +243,10 @@ def write_monthly_archive(topic: str, day_content: dict, topic_meta: dict,
                     month_sub.write(f"Latest available archive for this topic: **{latest_month}**\n\n")
                 if use_title:
                     if not to_web:
-                        month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|Code|\n|---|---|---|---|---|---|---|\n")
+                        month_sub.write("|Publish Date|Title|Authors|PDF|Translate|Read|alphaXiv|Code|\n|---|---|---|---|---|---|---|---|\n")
                     else:
-                        month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | Code |\n")
-                        month_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|\n")
+                        month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | alphaXiv | Code |\n")
+                        month_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|:------|\n")
 
                 for _, v in sort_papers(month_items).items():
                     if v is not None:
@@ -320,7 +320,8 @@ def write_footer_sections(f, to_web: bool) -> None:
     f.write("| [arXiv](https://arxiv.org/) | Open access to research papers |\n")
     f.write("| [Papers with Code](https://paperswithcode.com/) | Comprehensive paper API |\n")
     f.write("| [papers.cool](https://papers.cool/) | Paper translation services |\n")
-    f.write("| [hjfy.top](https://hjfy.top/) | Enhanced paper reading experience |\n\n")
+    f.write("| [hjfy.top](https://hjfy.top/) | Enhanced paper reading experience |\n")
+    f.write("| [alphaXiv](https://www.alphaxiv.org/) | Interactive paper discussion and annotation |\n\n")
 
     f.write("---\n\n")
     f.write('<p align="center">\n')

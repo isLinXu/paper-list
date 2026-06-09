@@ -4,6 +4,7 @@ from typing import Any
 ARXIV_ABS_PREFIX = "https://arxiv.org/abs/"
 PAPERS_COOL_PREFIX = "https://papers.cool/arxiv/"
 HJFY_PREFIX = "https://hjfy.top/arxiv/"
+ALPHAXIV_PREFIX = "https://www.alphaxiv.org/abs/"
 
 
 def normalize_arxiv_id(arxiv_id_or_link: str) -> str:
@@ -29,6 +30,10 @@ def read_markdown(arxiv_id: str) -> str:
     return f"[read]({HJFY_PREFIX}{arxiv_id})"
 
 
+def alphaxiv_markdown(arxiv_id: str) -> str:
+    return f"[alphaXiv]({ALPHAXIV_PREFIX}{arxiv_id})"
+
+
 def make_paper_record(date: str, title: str, authors: str, arxiv_id: str, code: str) -> dict[str, Any]:
     return {
         "date": str(date).replace("**", "").strip(),
@@ -38,6 +43,7 @@ def make_paper_record(date: str, title: str, authors: str, arxiv_id: str, code: 
         "pdf_url": f"{ARXIV_ABS_PREFIX}{normalize_arxiv_id(arxiv_id)}",
         "translate_url": f"{PAPERS_COOL_PREFIX}{normalize_arxiv_id(arxiv_id)}",
         "read_url": f"{HJFY_PREFIX}{normalize_arxiv_id(arxiv_id)}",
+        "alphaxiv_url": f"{ALPHAXIV_PREFIX}{normalize_arxiv_id(arxiv_id)}",
         "code_url": None if str(code).strip() == "null" else extract_link_target(str(code)),
     }
 
@@ -94,6 +100,7 @@ def ensure_paper_record(entry: Any, paper_id: str | None = None) -> dict[str, An
             "pdf_url": entry.get("pdf_url") or f"{ARXIV_ABS_PREFIX}{arxiv_id}",
             "translate_url": entry.get("translate_url") or f"{PAPERS_COOL_PREFIX}{arxiv_id}",
             "read_url": entry.get("read_url") or f"{HJFY_PREFIX}{arxiv_id}",
+            "alphaxiv_url": entry.get("alphaxiv_url") or f"{ALPHAXIV_PREFIX}{arxiv_id}",
             "code_url": entry.get("code_url"),
         }
         return record
@@ -107,10 +114,13 @@ def render_paper_row(entry: Any, paper_id: str | None = None, emphasize: bool = 
     code = "null"
     if record.get("code_url"):
         code = f"**[link]({record['code_url']})**" if emphasize else f"[link]({record['code_url']})"
+    alphaxiv_id = record.get("arxiv_id", "")
+    alphaxiv_url = record.get("alphaxiv_url") or f"{ALPHAXIV_PREFIX}{alphaxiv_id}"
     return (
         f"|{date}|{title}|{record['authors']}|"
         f"[{record['arxiv_id']}]({record['pdf_url']})|"
         f"[translate]({record['translate_url']})|"
         f"[read]({record['read_url']})|"
+        f"[alphaXiv]({alphaxiv_url})|"
         f"{code}|\n"
     )
