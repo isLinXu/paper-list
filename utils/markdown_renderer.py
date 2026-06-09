@@ -10,21 +10,28 @@ owners see their own badges and links automatically.
 
 import os
 import re
+import math
+import datetime
 from collections import defaultdict
 
 from .paper_links import ensure_paper_record, render_paper_row
 
 # Default site config — used when caller does not supply one.
+# banner_image is intentionally omitted here; fork owners should set it
+# via config.yaml → site.banner_image so their own image appears.
 _DEFAULT_SITE = {
     "github_owner": "isLinXu",
     "github_repo": "paper-list",
     "pages_url": "https://islinxu.github.io/paper-list/",
-    "banner_image": "https://github.com/isLinXu/issues/assets/59380685/dbd27f25-e7d7-4a0f-bdc2-d9b06fc03a2e",
 }
 
 
 def _site(site: dict | None = None) -> dict:
-    """Merge caller-provided site config with defaults."""
+    """Merge caller-provided site config with defaults.
+
+    banner_image is optional — only rendered when explicitly set in config.yaml
+    under the ``site`` key. Fork owners should set their own image URL there.
+    """
     if site is None:
         return dict(_DEFAULT_SITE)
     merged = dict(_DEFAULT_SITE)
@@ -58,13 +65,39 @@ def pretty_math(s: str) -> str:
     return result if result else s
 
 
-def sort_papers(papers: dict) -> dict:
-    """Sort papers by key in reverse order (newest first)."""
-    output = {}
-    keys = sorted(papers.keys(), reverse=True)
-    for key in keys:
-        output[key] = papers[key]
-    return output
+def hotness_score(record: dict) -> float:
+    """Compute a hotness score blending citation count and recency.
+
+    Formula:
+        score = citations * 0.6 + freshness * 100
+    where freshness = exp(-days_old / 30) decays with a 30-day half-life.
+    Papers with no citation data are ranked purely on recency.
+    """
+    citations = record.get("citation_count") or 0
+    try:
+        days_old = (datetime.date.today() - datetime.date.fromisoformat(record.get("date", "1970-01-01"))).days
+    except ValueError:
+        days_old = 9999
+    freshness = math.exp(-max(days_old, 0) / 30.0)
+    return citations * 0.6 + freshness * 100.0
+
+
+def sort_papers(papers: dict, mode: str = "date") -> dict:
+    """Sort papers dict.
+
+    Args:
+        papers: {paper_id: record_dict}
+        mode: "date" (newest first, default) | "hot" (hotness score, desc)
+    """
+    if mode == "hot":
+        keys = sorted(
+            papers.keys(),
+            key=lambda k: hotness_score(papers[k]) if isinstance(papers[k], dict) else 0,
+            reverse=True,
+        )
+    else:
+        keys = sorted(papers.keys(), reverse=True)
+    return {k: papers[k] for k in keys}
 
 
 def group_papers_by_month(papers: dict) -> dict:
@@ -77,12 +110,18 @@ def group_papers_by_month(papers: dict) -> dict:
 
 
 def write_badge_section(f, site: dict | None = None) -> None:
-    """Write the GitHub badge rows."""
+    """Write the GitHub badge rows.
+
+    banner_image is optional. If set in config.yaml → site.banner_image,
+    it will be rendered; otherwise the banner line is skipped entirely.
+    """
     s = _site(site)
     owner = s["github_owner"]
     repo = s["github_repo"]
     slug = f"{owner}/{repo}"
-    f.write(f"![paper-list]({s.get('banner_image', '')})\n\n")
+    banner = s.get("banner_image", "")
+    if banner:
+        f.write(f"![paper-list]({banner})\n\n")
     f.write(f"[![Stars](https://img.shields.io/github/stars/{slug}?style=social)](https://github.com/{slug}/stargazers) ")
     f.write(f"[![Forks](https://img.shields.io/github/forks/{slug}?style=social)](https://github.com/{slug}/network/members) ")
     f.write(f"[![Watchers](https://img.shields.io/github/watchers/{slug}?style=social)](https://github.com/{slug}/watchers)\n")
@@ -215,8 +254,13 @@ def write_quickstart_section(f, site: dict | None = None) -> None:
     f.write("| `make fetch` | Shortcut: fetch today's papers |\n\n")
 
 
-def write_paper_table(f, day_content: dict, to_web: bool, use_title: bool) -> None:
-    """Write a paper table for a single topic."""
+def write_paper_table(f, day_content: dict, to_web: bool, use_title: bool,
+                      sort_mode: str = "date") -> None:
+    """Write a paper table for a single topic.
+
+    Args:
+        sort_mode: "date" (newest first) | "hot" (hotness score)
+    """
     if use_title:
         if not to_web:
             f.write("|Publish Date|Title|Authors|PDF|Translate|Read|alphaXiv|Code|\n|---|---|---|---|---|---|---|---|\n")
@@ -224,17 +268,21 @@ def write_paper_table(f, day_content: dict, to_web: bool, use_title: bool) -> No
             f.write("| Publish Date | Title | Authors | PDF | Translate | Read | alphaXiv | Code |\n")
             f.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|:------|\n")
 
-    for _, v in sort_papers(day_content).items():
+    for _, v in sort_papers(day_content, mode=sort_mode).items():
         if v is not None:
             line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
             f.write(pretty_math(line))
 
 
 def write_monthly_archive(topic: str, day_content: dict, topic_meta: dict,
-                          to_web: bool, use_title: bool) -> None:
-    """Write per-topic monthly archive files under docs/."""
-    if not os.path.exists("docs"):
-        os.makedirs("docs")
+                          to_web: bool, use_title: bool,
+                          sort_mode: str = "date") -> None:
+    """Write per-topic monthly archive files under docs/.
+
+    Args:
+        sort_mode: "date" (newest first) | "hot" (hotness score)
+    """
+    os.makedirs("docs", exist_ok=True)
 
     kw = topic.replace(" ", "_")
     grouped = group_papers_by_month(day_content)
@@ -290,7 +338,7 @@ def write_monthly_archive(topic: str, day_content: dict, topic_meta: dict,
                         month_sub.write("| Publish Date | Title | Authors | PDF | Translate | Read | alphaXiv | Code |\n")
                         month_sub.write("|:---------|:-----------------------|:---------|:------|:------|:------|:------|:------|\n")
 
-                for _, v in sort_papers(month_items).items():
+                for _, v in sort_papers(month_items, mode=sort_mode).items():
                     if v is not None:
                         line = render_paper_row(v, emphasize=False) if isinstance(v, dict) else str(v)
                         month_sub.write(pretty_math(line))

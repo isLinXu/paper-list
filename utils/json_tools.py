@@ -294,11 +294,17 @@ def json_to_md(filename, md_filename,
                selected_topics=None,
                page_variant="standard",
                topic_groups=None,
-               site=None):
+               site=None,
+               sort_mode="date"):
     """Convert JSON paper store to Markdown file.
 
     Orchestrates the rendering pipeline by delegating to focused
     helper functions in markdown_renderer.
+
+    Args:
+        sort_mode: "date" (newest first, default) | "hot" (hotness score).
+                   "hot" requires citation_count to be populated via
+                   update_paper_links with enrich_citations=True.
     """
     if topic_groups is None:
         topic_groups = DEFAULT_TOPIC_GROUPS
@@ -357,11 +363,11 @@ def json_to_md(filename, md_filename,
 
             if split_to_docs:
                 if (not selected_topics) or (keyword in selected_topics):
-                    write_monthly_archive(keyword, day_content, topic_meta, to_web, use_title)
+                    write_monthly_archive(keyword, day_content, topic_meta, to_web, use_title, sort_mode=sort_mode)
             else:
                 # Inline topic section (single-file mode)
                 f.write(f"## {keyword}\n\n")
-                write_paper_table(f, day_content, to_web, use_title)
+                write_paper_table(f, day_content, to_web, use_title, sort_mode=sort_mode)
 
                 if topic_index < len(non_empty_topics) - 1:
                     f.write("\n")

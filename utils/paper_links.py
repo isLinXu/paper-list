@@ -103,6 +103,10 @@ def ensure_paper_record(entry: Any, paper_id: str | None = None) -> dict[str, An
             "alphaxiv_url": entry.get("alphaxiv_url") or f"{ALPHAXIV_PREFIX}{arxiv_id}",
             "code_url": entry.get("code_url"),
         }
+        # Preserve enrichment fields if present
+        for _extra in ("tldr", "citation_count", "influential_citation_count"):
+            if _extra in entry:
+                record[_extra] = entry[_extra]
         return record
     return parse_legacy_paper_row(str(entry))
 
@@ -111,6 +115,14 @@ def render_paper_row(entry: Any, paper_id: str | None = None, emphasize: bool = 
     record = ensure_paper_record(entry, paper_id=paper_id)
     date = f"**{record['date']}**" if emphasize else record["date"]
     title = f"**{record['title']}**" if emphasize else record["title"]
+
+    # Append TLDR as a collapsed footnote in the title cell (GitHub Markdown supports <details>)
+    tldr = record.get("tldr", "")
+    if tldr:
+        # Truncate very long TLDRs to keep table readable
+        tldr_text = tldr[:200] + "…" if len(tldr) > 200 else tldr
+        title = f"{title} <details><summary>tldr</summary>{tldr_text}</details>"
+
     code = "null"
     if record.get("code_url"):
         code = f"**[link]({record['code_url']})**" if emphasize else f"[link]({record['code_url']})"

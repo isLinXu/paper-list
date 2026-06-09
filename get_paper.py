@@ -39,6 +39,8 @@ def _update_source(json_file, data_collector, config, changed_cache):
             json_file,
             start_date=config.get('start_date'),
             end_date=config.get('end_date'),
+            enrich_tldr=config.get('enrich_tldr', False),
+            enrich_citations=config.get('enrich_citations', False),
         )
     else:
         changed = update_json_file(json_file, data_collector)
@@ -107,6 +109,7 @@ def run(**config):
 
     # Cache changed topics per JSON file to avoid duplicate updates
     changed_cache = {}
+    sort_mode = config.get('sort_mode', 'date')
 
     # 1. update README.md file
     if publish_readme:
@@ -116,7 +119,8 @@ def run(**config):
         json_to_md(json_file, md_file, task='Update Readme',
                    show_badge=show_badge, split_to_docs=True,
                    selected_topics=changed_readme_topics,
-                   topic_groups=topic_groups, site=site)
+                   topic_groups=topic_groups, site=site,
+                   sort_mode=sort_mode)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -127,7 +131,8 @@ def run(**config):
                    to_web=True, show_badge=show_badge,
                    use_tc=True, use_b2t=False, split_to_docs=True,
                    selected_topics=changed_gitpage_topics,
-                   topic_groups=topic_groups, site=site)
+                   topic_groups=topic_groups, site=site,
+                   sort_mode=sort_mode)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -136,7 +141,8 @@ def run(**config):
         changed_wechat_topics = _update_source(json_file, data_collector_web, config, changed_cache)
         json_to_md(json_file, md_file, task='Update Wechat', to_web=False,
                    use_title=False, show_badge=show_badge,
-                   topic_groups=topic_groups, site=site)
+                   topic_groups=topic_groups, site=site,
+                   sort_mode=sort_mode)
 
 
 if __name__ == "__main__":
