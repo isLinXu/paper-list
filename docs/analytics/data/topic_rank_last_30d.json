@@ -1,102 +1,77 @@
 [
   {
     "topic": "LLM",
-    "count": 551,
+    "count": 88,
     "rank": 1
   },
   {
-    "topic": "Transfer Learning",
-    "count": 255,
+    "topic": "AI Agent",
+    "count": 25,
     "rank": 2
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 185,
+    "topic": "World Models",
+    "count": 20,
     "rank": 3
   },
   {
-    "topic": "Image Generation",
-    "count": 169,
+    "topic": "Diffusion Models",
+    "count": 16,
     "rank": 4
   },
   {
-    "topic": "Diffusion Models",
-    "count": 166,
+    "topic": "Multimodal",
+    "count": 15,
     "rank": 5
   },
   {
-    "topic": "Video Understanding",
-    "count": 118,
+    "topic": "Scene Understanding",
+    "count": 11,
     "rank": 6
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 99,
+    "topic": "Video Understanding",
+    "count": 9,
     "rank": 7
   },
   {
-    "topic": "Object Detection",
-    "count": 80,
+    "topic": "Object Tracking",
+    "count": 7,
     "rank": 8
   },
   {
-    "topic": "Object Tracking",
-    "count": 72,
+    "topic": "Object Detection",
+    "count": 5,
     "rank": 9
   },
   {
-    "topic": "Neural Rendering",
-    "count": 69,
+    "topic": "Image Generation",
+    "count": 4,
     "rank": 10
   },
   {
-    "topic": "Classification",
-    "count": 68,
+    "topic": "Neural Rendering",
+    "count": 4,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 52,
+    "topic": "Action Recognition",
+    "count": 3,
     "rank": 12
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Pose Estimation",
+    "count": 3,
     "rank": 13
   },
   {
-    "topic": "Action Recognition",
-    "count": 39,
+    "topic": "Semantic Segmentation",
+    "count": 2,
     "rank": 14
   },
   {
-    "topic": "Pose Estimation",
-    "count": 39,
-    "rank": 15
-  },
-  {
     "topic": "Depth Estimation",
-    "count": 37,
-    "rank": 16
-  },
-  {
-    "topic": "Anomaly Detection",
-    "count": 33,
-    "rank": 17
-  },
-  {
-    "topic": "Graph Neural Networks",
-    "count": 33,
-    "rank": 18
-  },
-  {
-    "topic": "Optical Flow",
-    "count": 18,
-    "rank": 19
-  },
-  {
-    "topic": "Audio Processing",
-    "count": 15,
-    "rank": 20
+    "count": 2,
+    "rank": 15
   }
 ]

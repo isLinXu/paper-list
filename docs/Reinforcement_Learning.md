@@ -1,14 +1,14 @@
 ## Reinforcement Learning
 
-Lane: **Research Surface**
+Lane: **Intelligence Stack**
 
 Total papers: **6141**
 
 Latest archive month: **2026-04** (185 papers)
 
-Topic neighbors: [← Transfer Learning](Transfer_Learning.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
+Topic neighbors: [← World Models](World_Models.md) · [Transfer Learning →](Transfer_Learning.md)
 
-### Systems Frontier
+### Reasoning
 
 This page is the monthly archive hub for **Reinforcement Learning**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 

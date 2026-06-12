@@ -5,98 +5,98 @@
     "rank": 1
   },
   {
-    "author": "Li Sun",
-    "count": 7,
-    "rank": 2
-  },
-  {
-    "author": "Yu Wang",
-    "count": 6,
-    "rank": 3
-  },
-  {
-    "author": "Jie Cao",
-    "count": 6,
-    "rank": 4
-  },
-  {
-    "author": "Markus Gross",
-    "count": 5,
-    "rank": 5
-  },
-  {
-    "author": "Xiaojie Gu",
-    "count": 5,
-    "rank": 6
-  },
-  {
-    "author": "Tao Liu",
-    "count": 5,
-    "rank": 7
-  },
-  {
-    "author": "Hao Wang",
-    "count": 5,
-    "rank": 8
-  },
-  {
-    "author": "Abdullah Al Masud",
-    "count": 5,
-    "rank": 9
-  },
-  {
-    "author": "Yu Li",
-    "count": 5,
-    "rank": 10
-  },
-  {
     "author": "Kyeonghun Kim",
     "count": 5,
-    "rank": 11
-  },
-  {
-    "author": "Haobo Zhang",
-    "count": 5,
-    "rank": 12
-  },
-  {
-    "author": "Prakhar Kaushik",
-    "count": 4,
-    "rank": 13
-  },
-  {
-    "author": "Wenjie Wei",
-    "count": 4,
-    "rank": 14
-  },
-  {
-    "author": "Nishat Raihan",
-    "count": 4,
-    "rank": 15
-  },
-  {
-    "author": "Xiaokang Zhang",
-    "count": 4,
-    "rank": 16
+    "rank": 2
   },
   {
     "author": "Kabilan Elangovan",
     "count": 4,
-    "rank": 17
-  },
-  {
-    "author": "Qihang Fan",
-    "count": 4,
-    "rank": 18
+    "rank": 3
   },
   {
     "author": "Svetlana Pavlitska",
     "count": 4,
-    "rank": 19
+    "rank": 4
   },
   {
     "author": "Yun Li",
     "count": 4,
+    "rank": 5
+  },
+  {
+    "author": "Yixin Chen",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "author": "Qiang He",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "author": "Yuheng Jiang",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "author": "Carlos Schmidt",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "author": "Shuo Wang",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "author": "Xiucheng Wang",
+    "count": 4,
+    "rank": 11
+  },
+  {
+    "author": "Jiaming Su",
+    "count": 4,
+    "rank": 12
+  },
+  {
+    "author": "Yicai Xing",
+    "count": 4,
+    "rank": 13
+  },
+  {
+    "author": "Zhongyi Li",
+    "count": 4,
+    "rank": 14
+  },
+  {
+    "author": "Shuai Wang",
+    "count": 4,
+    "rank": 15
+  },
+  {
+    "author": "Alkis Sygkounas",
+    "count": 4,
+    "rank": 16
+  },
+  {
+    "author": "Jie Cao",
+    "count": 4,
+    "rank": 17
+  },
+  {
+    "author": "Devashish Chaudhary",
+    "count": 4,
+    "rank": 18
+  },
+  {
+    "author": "Tao Liu",
+    "count": 3,
+    "rank": 19
+  },
+  {
+    "author": "Nikolay Kormushev",
+    "count": 3,
     "rank": 20
   }
 ]

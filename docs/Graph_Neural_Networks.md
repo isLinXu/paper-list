@@ -1,14 +1,14 @@
 ## Graph Neural Networks
 
-Lane: **Research Surface**
+Lane: **Data Sciences**
 
 Total papers: **3605**
 
 Latest archive month: **2026-04** (33 papers)
 
-Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [Audio Processing →](Audio_Processing.md)
+Topic neighbors: [← Audio Processing](Audio_Processing.md) · [Scene Understanding →](Scene_Understanding.md)
 
-### Systems Frontier
+### Signal & Graph
 
 This page is the monthly archive hub for **Graph Neural Networks**. Start with the latest month if you want the freshest papers, or move down the list when you are tracing the topic over time.
 
