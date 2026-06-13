@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 1180,
+    "count": 1183,
     "rank": 1
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "topic": "Image Generation",
-    "count": 321,
+    "count": 328,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 182,
+    "count": 190,
     "rank": 5
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "topic": "Object Detection",
-    "count": 158,
+    "count": 157,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 131,
+    "count": 135,
     "rank": 8
   },
   {
-    "topic": "Video Understanding",
-    "count": 127,
+    "topic": "Anomaly Detection",
+    "count": 124,
     "rank": 9
   },
   {
-    "topic": "Anomaly Detection",
+    "topic": "Video Understanding",
     "count": 124,
     "rank": 10
   },
@@ -56,7 +56,7 @@
   },
   {
     "topic": "Scene Understanding",
-    "count": 109,
+    "count": 102,
     "rank": 12
   },
   {
@@ -66,37 +66,37 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 83,
+    "count": 81,
     "rank": 14
   },
   {
-    "topic": "Neural Rendering",
-    "count": 73,
+    "topic": "Depth Estimation",
+    "count": 72,
     "rank": 15
   },
   {
-    "topic": "Depth Estimation",
+    "topic": "Audio Processing",
     "count": 70,
     "rank": 16
   },
   {
-    "topic": "Audio Processing",
+    "topic": "Neural Rendering",
     "count": 70,
     "rank": 17
   },
   {
     "topic": "Action Recognition",
-    "count": 61,
+    "count": 62,
     "rank": 18
   },
   {
-    "topic": "Multimodal",
-    "count": 53,
+    "topic": "Reasoning",
+    "count": 58,
     "rank": 19
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Autonomous Driving",
+    "count": 56,
     "rank": 20
   }
 ]

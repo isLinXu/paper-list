@@ -1,77 +1,92 @@
 [
   {
     "topic": "LLM",
-    "count": 88,
+    "count": 91,
     "rank": 1
   },
   {
-    "topic": "AI Agent",
-    "count": 25,
+    "topic": "Reasoning",
+    "count": 58,
     "rank": 2
   },
   {
-    "topic": "World Models",
-    "count": 20,
+    "topic": "Autonomous Driving",
+    "count": 56,
     "rank": 3
   },
   {
-    "topic": "Diffusion Models",
-    "count": 16,
+    "topic": "World Models",
+    "count": 33,
     "rank": 4
   },
   {
-    "topic": "Multimodal",
-    "count": 15,
+    "topic": "Diffusion Models",
+    "count": 24,
     "rank": 5
   },
   {
-    "topic": "Scene Understanding",
-    "count": 11,
+    "topic": "Multimodal",
+    "count": 16,
     "rank": 6
   },
   {
-    "topic": "Video Understanding",
-    "count": 9,
+    "topic": "AI Agent",
+    "count": 15,
     "rank": 7
+  },
+  {
+    "topic": "Image Generation",
+    "count": 11,
+    "rank": 8
   },
   {
     "topic": "Object Tracking",
     "count": 7,
-    "rank": 8
-  },
-  {
-    "topic": "Object Detection",
-    "count": 5,
     "rank": 9
   },
   {
-    "topic": "Image Generation",
-    "count": 4,
+    "topic": "Video Understanding",
+    "count": 6,
     "rank": 10
   },
   {
-    "topic": "Neural Rendering",
+    "topic": "Classification",
     "count": 4,
     "rank": 11
   },
   {
-    "topic": "Action Recognition",
-    "count": 3,
+    "topic": "Object Detection",
+    "count": 4,
     "rank": 12
   },
   {
-    "topic": "Pose Estimation",
-    "count": 3,
+    "topic": "Action Recognition",
+    "count": 4,
     "rank": 13
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 2,
+    "topic": "Scene Understanding",
+    "count": 4,
     "rank": 14
   },
   {
     "topic": "Depth Estimation",
-    "count": 2,
+    "count": 4,
     "rank": 15
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "topic": "Pose Estimation",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "topic": "Neural Rendering",
+    "count": 1,
+    "rank": 18
   }
 ]
