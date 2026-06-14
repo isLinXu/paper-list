@@ -5,7 +5,7 @@
 # Usage: python scripts/setup_fork.py --profile full
 #   Or add to config.yaml:  profile: full
 
-user_name: "YOUR_GITHUB_USERNAME"
+user_name: "isLinXu"
 repo_name: "paper-list"
 
 start_date: null

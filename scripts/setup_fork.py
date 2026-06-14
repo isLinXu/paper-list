@@ -223,7 +223,7 @@ def _check_stale_profile() -> str | None:
 
         # Check for upstream owner still present
         user_name = config.get("user_name", "")
-        if user_name in (UPSTREAM_OWNER, "YOUR_GITHUB_USERNAME", "CHANGE_ME"):
+        if user_name in (UPSTREAM_OWNER, "isLinXu", "CHANGE_ME"):
             return f"user_name is still '{user_name}'. Please set your own GitHub username."
 
         return None
@@ -278,7 +278,7 @@ def run_interactive(git_user: str, git_repo: str) -> None:
         print(f"   Auto-detected from git remote: {git_user}")
     user_input = input(f"   Enter your GitHub username [{default_user}]: ").strip()
     user_name = user_input or default_user
-    if user_name and user_name not in ("YOUR_GITHUB_USERNAME", "CHANGE_ME"):
+    if user_name and user_name not in ("isLinXu", "CHANGE_ME"):
         content = _update_yaml_value(content, "user_name", current_user, user_name)
         print(f"   Set user_name = {user_name}\n")
     else:

@@ -3,7 +3,7 @@
 #
 # Usage: python scripts/setup_fork.py --profile robotics
 
-user_name: "YOUR_GITHUB_USERNAME"
+user_name: "isLinXu"
 repo_name: "paper-list"
 
 start_date: null

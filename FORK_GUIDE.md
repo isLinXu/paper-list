@@ -87,7 +87,7 @@ python regenerate_readme.py
 
 | Key | Type | Default | Description |
 |:----|:-----|:--------|:------------|
-| `user_name` | string | `"YOUR_GITHUB_USERNAME"` | Your GitHub username |
+| `user_name` | string | `"isLinXu"` | Your GitHub username |
 | `repo_name` | string | `"YOUR_REPO_NAME"` | Your repository name |
 | `profile` | string | `null` | Preset profile name (minimal/vision/nlp_llm/robotics/full) |
 | `keywords` | dict | *(see below)* | Topic definitions with search filters |
