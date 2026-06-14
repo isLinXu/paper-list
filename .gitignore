@@ -12,3 +12,18 @@ output.md
 output_web.md
 docs/.jekyll-cache/
 docs/_site/
+
+# Downloaded PDF directories (local only)
+Audio Processing/
+Classification/
+Depth Estimation/
+Graph Neural Networks/
+Image Generation/
+LLM/
+Multimodal/
+Object Detection/
+Pose Estimation/
+Reinforcement Learning/
+Scene Understanding/
+Semantic Segmentation/
+paper_downloader.log
