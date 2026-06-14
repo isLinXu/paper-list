@@ -2,7 +2,7 @@
 # FORK SETUP — Fork 后仅需修改此段，其余配置通常不需要改动
 # ============================================================
 # Step 1: 修改下面两行为你自己的 GitHub 用户名和仓库名
-user_name: "YOUR_GITHUB_USERNAME"    # CHANGE_ME: 你的 GitHub 用户名
+user_name: "isLinXu"    # 你的 GitHub 用户名
 repo_name: "paper-list"              # CHANGE_ME: 你的仓库名（通常不需要改）
 
 # Step 2: 如需自定义研究领域，修改下方 keywords 段（保持 YAML 缩进）
@@ -47,9 +47,9 @@ deduplicate: True         # 是否去除跨 topic 重复论文
 # banner_image 是可选项：填写你自己的图片 URL 后，README 顶部会显示该图片
 # 留空或不设置则不显示 banner（fork 后推荐替换为自己的图）
 # site:
-#   github_owner: "YOUR_GITHUB_USERNAME"
+#   github_owner: "isLinXu"
 #   github_repo: "paper-list"
-#   pages_url: "https://YOUR_GITHUB_USERNAME.github.io/paper-list/"
+#   pages_url: "https://isLinXu.github.io/paper-list/"
 #   banner_image: ""   # CHANGE_ME: 替换为你自己的 banner 图片 URL（可选）
 
 filename: "output.json"

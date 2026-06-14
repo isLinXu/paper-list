@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/paper-list?style=social)](https://github.com/YOUR_GITHUB_USERNAME/paper-list/stargazers) [![Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/paper-list?style=social)](https://github.com/YOUR_GITHUB_USERNAME/paper-list/network/members) [![Watchers](https://img.shields.io/github/watchers/YOUR_GITHUB_USERNAME/paper-list?style=social)](https://github.com/YOUR_GITHUB_USERNAME/paper-list/watchers)
-[![CI](https://img.shields.io/github/actions/workflow/status/YOUR_GITHUB_USERNAME/paper-list/Run%20Arxiv%20Papers%20Daily?style=flat-square&label=CI)](https://github.com/YOUR_GITHUB_USERNAME/paper-list/actions) [![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/paper-list?style=flat-square&color=a8e6cf)](https://github.com/YOUR_GITHUB_USERNAME/paper-list/commits/main) [![License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/paper-list?style=flat-square&color=c7ceea)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/isLinXu/paper-list?style=social)](https://github.com/isLinXu/paper-list/stargazers) [![Forks](https://img.shields.io/github/forks/isLinXu/paper-list?style=social)](https://github.com/isLinXu/paper-list/network/members) [![Watchers](https://img.shields.io/github/watchers/isLinXu/paper-list?style=social)](https://github.com/isLinXu/paper-list/watchers)
+[![CI](https://img.shields.io/github/actions/workflow/status/isLinXu/paper-list/Run%20Arxiv%20Papers%20Daily?style=flat-square&label=CI)](https://github.com/isLinXu/paper-list/actions) [![Last Commit](https://img.shields.io/github/last-commit/isLinXu/paper-list?style=flat-square&color=a8e6cf)](https://github.com/isLinXu/paper-list/commits/main) [![License](https://img.shields.io/github/license/isLinXu/paper-list?style=flat-square&color=c7ceea)](LICENSE)
 
 <h1 align="center">📜 Paper-List-DAILY</h1>
 <p align="center"><strong>Automatically track & organize the latest arXiv papers by topic — updated daily via GitHub Actions</strong></p>
 
-<p align="center"><a href="https://YOUR_GITHUB_USERNAME.github.io/paper-list/"><img alt="Website" src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-0f4c5c?style=for-the-badge"></a> <a href="https://github.com/YOUR_GITHUB_USERNAME/paper-list/stargazers"><img alt="Stargazers" src="https://img.shields.io/badge/⭐_Star_Us-ff6b6b?style=for-the-badge"></a></p>
+<p align="center"><a href="https://isLinXu.github.io/paper-list/"><img alt="Website" src="https://img.shields.io/badge/🌐_Live_Site-Visit_Now-0f4c5c?style=for-the-badge"></a> <a href="https://github.com/isLinXu/paper-list/stargazers"><img alt="Stargazers" src="https://img.shields.io/badge/⭐_Star_Us-ff6b6b?style=for-the-badge"></a></p>
 
 ---
 
@@ -22,7 +22,7 @@ layout: default
 
 Every day, GitHub Actions automatically polls the [Papers with Code API](https://paperswithcode.com/), enriches paper metadata with arXiv links, translation services, and code repositories, then generates beautifully formatted Markdown lists for both GitHub README and GitHub Pages.
 
-🌐 **Online Documentation:** [https://YOUR_GITHUB_USERNAME.github.io/paper-list/](https://YOUR_GITHUB_USERNAME.github.io/paper-list/)
+🌐 **Online Documentation:** [https://isLinXu.github.io/paper-list/](https://isLinXu.github.io/paper-list/)
 
 <details>
 <summary>🗺️ Topic Coverage</summary>
@@ -43,7 +43,7 @@ Every day, GitHub Actions automatically polls the [Papers with Code API](https:/
 | Feature | Description |
 |:--------|:------------|
 | 🔄 **Daily Auto-Update** | Runs every 8 hours via GitHub Actions — zero manual intervention |
-| 📂 **20+ Research Topics** | From Classification to Embodied AI, covering the full CV/AI spectrum |
+| 📂 **25 Research Topics** | From Classification to Autonomous Driving, covering the full CV/AI spectrum |
 | 📊 **Research Insights** | Trend charts, topic rankings, top authors, and code coverage |
 | 🔗 **Smart Link Enrichment** | Auto-attaches arXiv PDF, translation, reading, alphaXiv discussion, and code links |
 | 📱 **Dual Output** | Generates both GitHub README and Jekyll-powered GitHub Pages |
@@ -87,7 +87,7 @@ Every day, GitHub Actions automatically polls the [Papers with Code API](https:/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/paper-list.git
+git clone https://github.com/isLinXu/paper-list.git
 cd paper-list
 
 # 2. Install dependencies
@@ -161,6 +161,10 @@ Browse topics by research lane first, then jump into each monthly archive.
   <li><a href="Graph_Neural_Networks.md"><span class="topic-index__label"><span class="topic-index__number">19</span><span>Graph Neural Networks</span></span></a></li>
   <li><a href="Scene_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">20</span><span>Scene Understanding</span></span></a></li>
   <li><a href="Video_Understanding.md"><span class="topic-index__label"><span class="topic-index__number">21</span><span>Video Understanding</span></span></a></li>
+  <li><a href="AI_Agent.md"><span class="topic-index__label"><span class="topic-index__number">22</span><span>AI Agent</span></span></a></li>
+  <li><a href="Reasoning.md"><span class="topic-index__label"><span class="topic-index__number">23</span><span>Reasoning</span></span></a></li>
+  <li><a href="World_Models.md"><span class="topic-index__label"><span class="topic-index__number">24</span><span>World Models</span></span></a></li>
+  <li><a href="Autonomous_Driving.md"><span class="topic-index__label"><span class="topic-index__number">25</span><span>Autonomous Driving</span></span></a></li>
 </ul>
 
 
@@ -189,7 +193,7 @@ Analytics is available as a separate entrance so the main reading flow stays top
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_GITHUB_USERNAME/paper-list&type=Date)](https://star-history.com/#YOUR_GITHUB_USERNAME/paper-list&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=isLinXu/paper-list&type=Date)](https://star-history.com/#isLinXu/paper-list&Date)
 
 > If you find this project helpful, please consider giving it a ⭐ — it helps others discover the project!
 
@@ -201,7 +205,7 @@ We welcome contributions! Here are some ways you can help:
 
 | Type | How |
 |:-----|:----|
-| 🐛 **Report Issues** | [Open an issue](https://github.com/YOUR_GITHUB_USERNAME/paper-list/issues) for bugs or missing papers |
+| 🐛 **Report Issues** | [Open an issue](https://github.com/isLinXu/paper-list/issues) for bugs or missing papers |
 | 💡 **Suggest Topics** | Propose new research categories in the issues |
 | 🔧 **Improve Code** | Submit a PR to enhance the scraper, analytics, or UI |
 | 📖 **Improve Docs** | Help us write better documentation |
@@ -210,7 +214,7 @@ We welcome contributions! Here are some ways you can help:
 
 ```bash
 # Fork and clone
-git clone https://github.com/YOUR_GITHUB_USERNAME/paper-list.git
+git clone https://github.com/isLinXu/paper-list.git
 cd paper-list
 
 # Install dependencies
@@ -246,5 +250,5 @@ The paper data is sourced from [arXiv](https://arxiv.org/) and [Papers with Code
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/YOUR_GITHUB_USERNAME">@YOUR_GITHUB_USERNAME</a> · Powered by GitHub Actions</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/isLinXu">@isLinXu</a> · Powered by GitHub Actions</sub>
 </p>
