@@ -1,55 +1,49 @@
-# Minimal Profile — 3 core topics for quick start
-# Ideal for fork owners who want to verify everything works before expanding.
-#
-# Usage: python scripts/setup_fork.py --profile minimal
-#   Or add to config.yaml:  profile: minimal
-
-user_name: "isLinXu"
-repo_name: "paper-list"
-
+user_name: isLinXu
+repo_name: paper-list
 start_date: null
 end_date: null
-
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-show_authors: True
-show_links: True
-show_badge: True
+base_url: https://arxiv.paperswithcode.com/api/v0/papers/
+show_authors: true
+show_links: true
+show_badge: true
 max_results: 50
-
-filename: "output.json"
-filename_web: "output_web.json"
-md_filename: "output.md"
-md_filename_web: "output_web.md"
-
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
-
-json_readme_path: './docs/data'
-json_gitpage_path: './docs/data'
-json_wechat_path: './docs/paper_list_wechat.json'
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-# Concurrent fetching (recommended)
-concurrent_fetch: True
+filename: output.json
+filename_web: output_web.json
+md_filename: output.md
+md_filename_web: output_web.md
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+json_readme_path: ./docs/data
+json_gitpage_path: ./docs/data
+json_wechat_path: ./docs/paper_list_wechat.json
+md_readme_path: README.md
+md_gitpage_path: ./docs/index.md
+md_wechat_path: ./docs/wechat.md
+concurrent_fetch: true
 max_workers: 2
-deduplicate: True
-
+deduplicate: true
 topic_groups:
-  - ["Core", "Essential Topics", "theme-card--core",
-     ["Object Detection", "LLM", "Diffusion Models"]]
-
+- - Core
+  - Essential Topics
+  - theme-card--core
+  - - Object Detection
+    - LLM
+    - Diffusion Models
 keywords:
-  "Object Detection":
+  Object Detection:
     enabled: true
-    filters: ["Object Detection", "2D Object Detection", "3D Object Detection", "Face Detection"]
-
-  "LLM":
+    filters:
+    - Object Detection
+    - 2D Object Detection
+    - 3D Object Detection
+    - Face Detection
+  LLM:
     enabled: true
-    filters: ["Large Language Model", "LLM", "Language Model"]
-
-  "Diffusion Models":
+    filters:
+    - Large Language Model
+  Diffusion Models:
     enabled: true
-    filters: ["Diffusion Model", "Stable Diffusion", "Image Generation"]
+    filters:
+    - Diffusion Model
+    - Stable Diffusion

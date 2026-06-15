@@ -1,77 +1,92 @@
-# NLP/LLM Profile — Natural Language Processing & Large Language Models (8 topics)
-# Ideal for researchers focused on language models and reasoning.
-#
-# Usage: python scripts/setup_fork.py --profile nlp_llm
-
-user_name: "isLinXu"
-repo_name: "paper-list"
-
+user_name: isLinXu
+repo_name: paper-list
 start_date: null
 end_date: null
-
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-show_authors: True
-show_links: True
-show_badge: True
+base_url: https://arxiv.paperswithcode.com/api/v0/papers/
+show_authors: true
+show_links: true
+show_badge: true
 max_results: 100
-
-filename: "output.json"
-filename_web: "output_web.json"
-md_filename: "output.md"
-md_filename_web: "output_web.md"
-
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
-
-json_readme_path: './docs/data'
-json_gitpage_path: './docs/data'
-json_wechat_path: './docs/paper_list_wechat.json'
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-concurrent_fetch: True
+filename: output.json
+filename_web: output_web.json
+md_filename: output.md
+md_filename_web: output_web.md
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+json_readme_path: ./docs/data
+json_gitpage_path: ./docs/data
+json_wechat_path: ./docs/paper_list_wechat.json
+md_readme_path: README.md
+md_gitpage_path: ./docs/index.md
+md_wechat_path: ./docs/wechat.md
+concurrent_fetch: true
 max_workers: 3
-deduplicate: True
-
+deduplicate: true
 topic_groups:
-  - ["Language Models", "LLM Suite", "theme-card--llm",
-     ["LLM", "Latent Space LLM", "Reasoning"]]
-  - ["Multimodal", "Cross-Modal AI", "theme-card--multimodal",
-     ["Multimodal", "AI Agent", "Audio Processing"]]
-  - ["Safety & Efficiency", "Responsible AI", "theme-card--safety",
-     ["AI Safety", "Efficient AI", "Transfer Learning"]]
-
+- - Language Models
+  - LLM Suite
+  - theme-card--llm
+  - - LLM
+    - Latent Space LLM
+    - Reasoning
+- - Multimodal
+  - Cross-Modal AI
+  - theme-card--multimodal
+  - - Multimodal
+    - AI Agent
+    - Audio Processing
+- - Safety & Efficiency
+  - Responsible AI
+  - theme-card--safety
+  - - AI Safety
+    - Efficient AI
+    - Transfer Learning
 keywords:
-  "LLM":
+  LLM:
     enabled: true
-    filters: ["Large Language Model", "LLM", "Language Model", "Instruction Tuning", "In-context Learning"]
-
-  "Latent Space LLM":
+    filters:
+    - Large Language Model
+    - Instruction Tuning
+    - In-context Learning
+  Latent Space LLM:
     enabled: true
-    filters: ["Latent Language Model", "Latent Space", "Vector Quantized Language Model"]
-
-  "Reasoning":
+    filters:
+    - Latent Language Model
+    - Latent Space
+  Reasoning:
     enabled: true
-    filters: ["Reasoning", "Chain-of-Thought", "Mathematical Reasoning", "Logical Reasoning"]
-
-  "Multimodal":
+    filters:
+    - Reasoning
+    - Chain-of-Thought
+    - Mathematical Reasoning
+    - Logical Reasoning
+  Multimodal:
     enabled: true
-    filters: ["Multimodal", "Vision-Language", "Visual Question Answering", "Image Captioning"]
-
-  "AI Agent":
+    filters: []
+  AI Agent:
     enabled: true
-    filters: ["AI Agent", "Autonomous Agent", "Tool Use", "Planning"]
-
-  "Audio Processing":
+    filters:
+    - AI Agent
+    - Autonomous Agent
+    - Tool Use
+  Audio Processing:
     enabled: true
-    filters: ["Speech Recognition", "Text-to-Speech", "Audio Generation", "Sound Source Separation"]
-
-  "AI Safety":
+    filters:
+    - Speech Recognition
+    - Text-to-Speech
+    - Audio Generation
+  AI Safety:
     enabled: true
-    filters: ["AI Safety", "Alignment", "Red Teaming", "Jailbreak Defense"]
-
-  "Efficient AI":
+    filters:
+    - AI Safety
+    - Alignment
+    - Red Teaming
+  Efficient AI:
     enabled: true
-    filters: ["Model Compression", "Quantization", "Pruning", "Knowledge Distillation", "Efficient Inference"]
+    filters:
+    - Model Compression
+    - Quantization
+    - Pruning
+    - Knowledge Distillation
+    - Efficient Inference

@@ -1,93 +1,118 @@
-# Vision Profile — Full Computer Vision suite (12 topics)
-# Ideal for researchers focused on traditional CV tasks.
-#
-# Usage: python scripts/setup_fork.py --profile vision
-
-user_name: "isLinXu"
-repo_name: "paper-list"
-
+user_name: isLinXu
+repo_name: paper-list
 start_date: null
 end_date: null
-
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-show_authors: True
-show_links: True
-show_badge: True
+base_url: https://arxiv.paperswithcode.com/api/v0/papers/
+show_authors: true
+show_links: true
+show_badge: true
 max_results: 100
-
-filename: "output.json"
-filename_web: "output_web.json"
-md_filename: "output.md"
-md_filename_web: "output_web.md"
-
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
-
-json_readme_path: './docs/data'
-json_gitpage_path: './docs/data'
-json_wechat_path: './docs/paper_list_wechat.json'
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-concurrent_fetch: True
+filename: output.json
+filename_web: output_web.json
+md_filename: output.md
+md_filename_web: output_web.md
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+json_readme_path: ./docs/data
+json_gitpage_path: ./docs/data
+json_wechat_path: ./docs/paper_list_wechat.json
+md_readme_path: README.md
+md_gitpage_path: ./docs/index.md
+md_wechat_path: ./docs/wechat.md
+concurrent_fetch: true
 max_workers: 3
-deduplicate: True
-
+deduplicate: true
 topic_groups:
-  - ["Perception Core", "Vision Systems", "theme-card--vision",
-     ["Classification", "Object Detection", "Semantic Segmentation", "Anomaly Detection"]]
-  - ["3D and Motion", "Geometry Stack", "theme-card--motion",
-     ["Object Tracking", "Action Recognition", "Pose Estimation", "Depth Estimation", "Optical Flow"]]
-  - ["Generation", "Creative AI", "theme-card--generation",
-     ["Image Generation", "Diffusion Models", "Neural Rendering"]]
-
+- - Perception Core
+  - Vision Systems
+  - theme-card--vision
+  - - Classification
+    - Object Detection
+    - Semantic Segmentation
+    - Anomaly Detection
+- - 3D and Motion
+  - Geometry Stack
+  - theme-card--motion
+  - - Object Tracking
+    - Action Recognition
+    - Pose Estimation
+    - Depth Estimation
+    - Optical Flow
+- - Generation
+  - Creative AI
+  - theme-card--generation
+  - - Image Generation
+    - Diffusion Models
+    - Neural Rendering
 keywords:
-  "Classification":
+  Classification:
     enabled: true
-    filters: ["Image Classification", "Video Classification", "Scene Classification"]
-
-  "Object Detection":
+    filters:
+    - Image Classification
+    - Video Classification
+    - Scene Classification
+  Object Detection:
     enabled: true
-    filters: ["Object Detection", "2D Object Detection", "3D Object Detection", "Face Detection", "Pedestrian Detection"]
-
-  "Semantic Segmentation":
+    filters:
+    - Object Detection
+    - 2D Object Detection
+    - 3D Object Detection
+    - Face Detection
+    - Pedestrian Detection
+  Semantic Segmentation:
     enabled: true
-    filters: ["Semantic Segmentation", "Instance Segmentation", "Panoptic Segmentation", "Medical Image Segmentation"]
-
-  "Anomaly Detection":
+    filters:
+    - Semantic Segmentation
+    - Instance Segmentation
+    - Panoptic Segmentation
+    - Medical Image Segmentation
+  Anomaly Detection:
     enabled: true
-    filters: ["Anomaly Detection", "Out-of-Distribution Detection"]
-
-  "Object Tracking":
+    filters:
+    - Anomaly Detection
+    - Out-of-Distribution Detection
+  Object Tracking:
     enabled: true
-    filters: ["Object Tracking", "Multi-Object Tracking", "Visual Object Tracking"]
-
-  "Action Recognition":
+    filters:
+    - Object Tracking
+    - Multi-Object Tracking
+    - Visual Object Tracking
+  Action Recognition:
     enabled: true
-    filters: ["Action Recognition", "Temporal Action Localization", "Gesture Recognition"]
-
-  "Pose Estimation":
+    filters:
+    - Action Recognition
+    - Temporal Action Localization
+    - Gesture Recognition
+  Pose Estimation:
     enabled: true
-    filters: ["Pose Estimation", "2D Pose Estimation", "3D Pose Estimation", "Hand Pose Estimation"]
-
-  "Depth Estimation":
+    filters:
+    - Pose Estimation
+    - 2D Pose Estimation
+    - 3D Pose Estimation
+    - Hand Pose Estimation
+  Depth Estimation:
     enabled: true
-    filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Depth Estimation"]
-
-  "Optical Flow":
+    filters:
+    - Depth Estimation
+    - Monocular Depth Estimation
+    - Stereo Depth Estimation
+  Optical Flow:
     enabled: true
-    filters: ["Optical Flow", "Scene Flow"]
-
-  "Image Generation":
+    filters:
+    - Optical Flow
+    - Scene Flow
+  Image Generation:
     enabled: true
-    filters: ["Image Generation", "Text-to-Image", "Image-to-Image"]
-
-  "Diffusion Models":
+    filters:
+    - Image Generation
+  Diffusion Models:
     enabled: true
-    filters: ["Diffusion Model", "Stable Diffusion", "Score-Based Generative Model"]
-
-  "Neural Rendering":
+    filters:
+    - Diffusion Model
+    - Stable Diffusion
+  Neural Rendering:
     enabled: true
-    filters: ["Neural Rendering", "NeRF", "3D Reconstruction"]
+    filters:
+    - Neural Rendering
+    - NeRF

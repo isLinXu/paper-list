@@ -1,85 +1,99 @@
-# Robotics Profile — Robotics, Autonomous Driving, Embodied AI (9 topics)
-# Ideal for researchers focused on embodied intelligence and robotics.
-#
-# Usage: python scripts/setup_fork.py --profile robotics
-
-user_name: "isLinXu"
-repo_name: "paper-list"
-
+user_name: isLinXu
+repo_name: paper-list
 start_date: null
 end_date: null
-
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-show_authors: True
-show_links: True
-show_badge: True
+base_url: https://arxiv.paperswithcode.com/api/v0/papers/
+show_authors: true
+show_links: true
+show_badge: true
 max_results: 100
-
-filename: "output.json"
-filename_web: "output_web.json"
-md_filename: "output.md"
-md_filename_web: "output_web.md"
-
-publish_readme: True
-publish_gitpage: True
-publish_wechat: False
-
-json_readme_path: './docs/data'
-json_gitpage_path: './docs/data'
-json_wechat_path: './docs/paper_list_wechat.json'
-md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
-md_wechat_path: './docs/wechat.md'
-
-concurrent_fetch: True
+filename: output.json
+filename_web: output_web.json
+md_filename: output.md
+md_filename_web: output_web.md
+publish_readme: true
+publish_gitpage: true
+publish_wechat: false
+json_readme_path: ./docs/data
+json_gitpage_path: ./docs/data
+json_wechat_path: ./docs/paper_list_wechat.json
+md_readme_path: README.md
+md_gitpage_path: ./docs/index.md
+md_wechat_path: ./docs/wechat.md
+concurrent_fetch: true
 max_workers: 3
-deduplicate: True
-
+deduplicate: true
 topic_groups:
-  - ["3D Perception", "Spatial Intelligence", "theme-card--3d",
-     ["3D Vision", "Depth Estimation", "Neural Rendering"]]
-  - ["Autonomy", "Self-Driving Stack", "theme-card--autonomy",
-     ["Autonomous Driving", "Object Tracking", "Scene Understanding"]]
-  - ["Embodiment", "Physical AI", "theme-card--embodiment",
-     ["Robotics", "Embodied AI", "World Models", "Reinforcement Learning"]]
-
+- - 3D Perception
+  - Spatial Intelligence
+  - theme-card--3d
+  - - 3D Vision
+    - Depth Estimation
+    - Neural Rendering
+- - Autonomy
+  - Self-Driving Stack
+  - theme-card--autonomy
+  - - Autonomous Driving
+    - Object Tracking
+    - Scene Understanding
+- - Embodiment
+  - Physical AI
+  - theme-card--embodiment
+  - - Robotics
+    - Embodied AI
+    - World Models
+    - Reinforcement Learning
 keywords:
-  "3D Vision":
+  3D Vision:
     enabled: true
-    filters: ["3D Vision", "Point Cloud", "3D Reconstruction", "3D Object Detection"]
-
-  "Depth Estimation":
+    filters:
+    - 3D Vision
+    - 3D Reconstruction
+    - 3D Object Detection
+  Depth Estimation:
     enabled: true
-    filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Matching"]
-
-  "Neural Rendering":
+    filters:
+    - Depth Estimation
+    - Monocular Depth Estimation
+  Neural Rendering:
     enabled: true
-    filters: ["Neural Rendering", "NeRF", "Gaussian Splatting", "3D Reconstruction"]
-
-  "Autonomous Driving":
+    filters:
+    - Neural Rendering
+    - NeRF
+    - Gaussian Splatting
+  Autonomous Driving:
     enabled: true
-    filters: ["Autonomous Driving", "Self-Driving", "End-to-End Driving", "BEV Perception"]
-
-  "Object Tracking":
+    filters:
+    - Autonomous Driving
+    - End-to-End Driving
+  Object Tracking:
     enabled: true
-    filters: ["Object Tracking", "Multi-Object Tracking", "MOT", "3D Tracking"]
-
-  "Scene Understanding":
+    filters:
+    - Object Tracking
+    - Multi-Object Tracking
+  Scene Understanding:
     enabled: true
-    filters: ["Scene Understanding", "Scene Graph", "Scene Parsing"]
-
-  "Robotics":
+    filters:
+    - Scene Understanding
+    - Scene Parsing
+  Robotics:
     enabled: true
-    filters: ["Robotics", "Manipulation", "Grasping", "Locomotion", "Sim-to-Real"]
-
-  "Embodied AI":
+    filters:
+    - Robotics
+    - Locomotion
+  Embodied AI:
     enabled: true
-    filters: ["Embodied AI", "Embodied Intelligence", "Navigation", "Interactive Perception"]
-
-  "World Models":
+    filters:
+    - Embodied AI
+    - Embodied Intelligence
+  World Models:
     enabled: true
-    filters: ["World Model", "Video Prediction", "Dynamics Model"]
-
-  "Reinforcement Learning":
+    filters:
+    - World Model
+    - Dynamics Model
+  Reinforcement Learning:
     enabled: true
-    filters: ["Reinforcement Learning", "Deep Reinforcement Learning", "Offline RL", "Reward Shaping"]
+    filters:
+    - Reinforcement Learning
+    - Deep Reinforcement Learning
+    - Reward Shaping
