@@ -175,6 +175,57 @@ def _ensure_site_config(config: dict) -> dict:
     return config
 
 
+# Maximum query string length before splitting into buckets.
+# arXiv API works best with URLs under ~2000 chars; we use a
+# conservative limit to stay safe across HTTP stacks.
+_MAX_QUERY_LENGTH = int(os.environ.get("PAPER_LIST_MAX_QUERY_LENGTH", "1800"))
+
+
+def _split_filters_into_buckets(filters: list[str], max_length: int = _MAX_QUERY_LENGTH) -> list[str]:
+    """Split a filter list into multiple OR-query buckets if the combined
+    query would exceed *max_length* characters.
+
+    Returns a list of query strings.  If the filters fit in a single
+    query, the list has exactly one element.
+
+    The splitting is greedy: each bucket is filled with as many filters
+    as possible without exceeding *max_length*.
+    """
+    OR = " OR "
+    terms = []
+    for f in filters:
+        if " " in f:
+            terms.append(f'"{f}"')
+        else:
+            terms.append(f)
+
+    # Fast path: everything fits in one query
+    single = OR.join(terms)
+    if len(single) <= max_length:
+        return [single]
+
+    # Slow path: greedy bucket packing
+    buckets: list[str] = []
+    current_terms: list[str] = []
+    current_len = 0
+
+    for term in terms:
+        # Length if we add this term (with OR separator if not first)
+        added_len = len(term) + (len(OR) if current_terms else 0)
+        if current_len + added_len > max_length and current_terms:
+            # Flush current bucket
+            buckets.append(OR.join(current_terms))
+            current_terms = []
+            current_len = 0
+        current_terms.append(term)
+        current_len += added_len
+
+    if current_terms:
+        buckets.append(OR.join(current_terms))
+
+    return buckets
+
+
 def load_config(config_file: str) -> dict:
     '''Load configuration with profile support, topic filtering, and site defaults.
 
@@ -188,25 +239,21 @@ def load_config(config_file: str) -> dict:
     return: a dict of configuration
     '''
 
-    # make filters pretty
+    # make filters pretty — with automatic bucket splitting for long queries
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '"'
-        OR = ' OR '
-
-        def parse_filters(filters: list):
-            # build arXiv query like: "Image Classification" OR "Video Classification" OR ...
-            terms = []
-            for filter in filters:
-                if len(filter.split()) > 1:
-                    terms.append(EXCAPE + filter + EXCAPE)
-                else:
-                    terms.append(filter)
-            # remove outer parentheses to avoid extra bracket at end of URL
-            return OR.join(terms)
 
         for k, v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+            buckets = _split_filters_into_buckets(v['filters'])
+            if len(buckets) == 1:
+                keywords[k] = buckets[0]
+            else:
+                # Store as list of buckets; concurrent_fetch will handle multi-bucket topics
+                keywords[k] = buckets
+                logging.info(
+                    f"Topic '{k}' split into {len(buckets)} query buckets "
+                    f"(total filters: {len(v['filters'])}, query_len > {_MAX_QUERY_LENGTH})"
+                )
         return keywords
 
     with open(config_file, 'r') as f:

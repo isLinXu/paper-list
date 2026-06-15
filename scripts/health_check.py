@@ -293,7 +293,7 @@ def check_github_pages(report: HealthReport, config: dict | None, fix: bool = Fa
             import re
             user_name = (config or {}).get("user_name", "")
             repo_name = (config or {}).get("repo_name", "paper-list")
-            if user_name and user_name not in ("isLinXu", "CHANGE_ME"):
+            if user_name and user_name not in ("CHANGE_ME"):
                 content = content.replace("isLinXu/paper-list", f"{user_name}/{repo_name}")
                 content = re.sub(r'(^\s+github:\s*)isLinXu', rf'\1{user_name}', content, flags=re.MULTILINE)
                 content = re.sub(r'(^\s+name:\s*)"isLinXu"', rf'\1"{user_name}"', content, flags=re.MULTILINE)

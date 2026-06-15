@@ -68,12 +68,26 @@ def run(**config):
     if config.get('dry_run'):
         total_papers = 0
         for topic, keyword in keywords.items():
-            logging.info(f"[DRY-RUN] Fetching topic: {topic}")
-            data, _ = get_daily_papers(topic, query=keyword, max_results=max_results,
-                                       start_date=config['start_date'], end_date=config['end_date'])
-            count = len(data.get(topic, {}))
-            total_papers += count
-            print(f"  [DRY-RUN] {topic}: {count} papers")
+            if isinstance(keyword, list):
+                # Multi-bucket topic
+                bucket_total = 0
+                for i, bucket_query in enumerate(keyword):
+                    logging.info(f"[DRY-RUN] Fetching topic: {topic}[bucket{i}]")
+                    data, _ = get_daily_papers(f"{topic}[bucket{i}]", query=bucket_query,
+                                               max_results=max_results,
+                                               start_date=config['start_date'], end_date=config['end_date'])
+                    count = len(data.get(f"{topic}[bucket{i}]", data.get(topic, {})))
+                    bucket_total += count
+                    print(f"  [DRY-RUN] {topic}[bucket{i}]: {count} papers")
+                total_papers += bucket_total
+                print(f"  [DRY-RUN] {topic} total: {bucket_total} papers (from {len(keyword)} buckets)")
+            else:
+                logging.info(f"[DRY-RUN] Fetching topic: {topic}")
+                data, _ = get_daily_papers(topic, query=keyword, max_results=max_results,
+                                           start_date=config['start_date'], end_date=config['end_date'])
+                count = len(data.get(topic, {}))
+                total_papers += count
+                print(f"  [DRY-RUN] {topic}: {count} papers")
         print(f"\n[DRY-RUN] Total: {total_papers} papers across {len(keywords)} topics")
         print("[DRY-RUN] No files were written. Remove --dry-run to actually fetch.")
         return

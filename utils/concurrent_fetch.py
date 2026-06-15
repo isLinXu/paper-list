@@ -95,7 +95,36 @@ def _deduplicate_cross_topic(results: list[tuple[dict, dict]]
     return deduped, deduped_web, dup_map
 
 
-def fetch_all_topics(keywords: dict[str, str],
+def _merge_bucket_results(
+    topic: str,
+    bucket_results: list[tuple[dict, dict]],
+) -> tuple[dict, dict]:
+    """Merge results from multiple query buckets for the same topic.
+
+    Deduplicates by paper_id within the topic (first occurrence wins).
+    """
+    merged_data: dict[str, dict] = {}
+    merged_web: dict[str, dict] = {}
+
+    for data, data_web in bucket_results:
+        for t, papers in data.items():
+            if t not in merged_data:
+                merged_data[t] = {}
+            for pid, entry in papers.items():
+                if pid not in merged_data[t]:
+                    merged_data[t][pid] = entry
+
+        for t, papers in data_web.items():
+            if t not in merged_web:
+                merged_web[t] = {}
+            for pid, entry in papers.items():
+                if pid not in merged_web[t]:
+                    merged_web[t][pid] = entry
+
+    return merged_data, merged_web
+
+
+def fetch_all_topics(keywords: dict[str, str | list[str]],
                      keywords_config: dict | None = None,
                      max_results: int = 100,
                      start_date: str | None = None,
@@ -106,7 +135,9 @@ def fetch_all_topics(keywords: dict[str, str],
     """Fetch all topics concurrently with rate limiting and deduplication.
 
     Args:
-        keywords: {topic: query_string} from config['kv']
+        keywords: {topic: query_string} or {topic: [bucket1, bucket2, ...]}
+                  from config['kv']. Multi-bucket topics are split into
+                  separate API calls and merged.
         keywords_config: Full keywords config (for future use)
         max_results: Max papers per topic
         start_date: Optional start date filter
@@ -117,31 +148,84 @@ def fetch_all_topics(keywords: dict[str, str],
     Returns:
         (data_list, data_web_list, dup_map)
     """
-    topics = list(keywords.keys())
-    logging.info(f"Fetching {len(topics)} topics concurrently (workers={max_workers})")
+    # Expand multi-bucket topics into individual fetch tasks
+    fetch_tasks: list[tuple[str, str, int]] = []  # (topic, query, bucket_index)
+    topic_bucket_map: dict[str, list[int]] = {}  # topic -> [task indices]
 
-    results = []
+    for topic, query in keywords.items():
+        if isinstance(query, list):
+            # Multi-bucket topic: each bucket is a separate query
+            for i, bucket_query in enumerate(query):
+                idx = len(fetch_tasks)
+                fetch_tasks.append((topic, bucket_query, i))
+                topic_bucket_map.setdefault(topic, []).append(idx)
+        else:
+            idx = len(fetch_tasks)
+            fetch_tasks.append((topic, query, -1))
+            topic_bucket_map.setdefault(topic, []).append(idx)
+
+    logging.info(
+        f"Fetching {len(keywords)} topics ({len(fetch_tasks)} API calls, "
+        f"workers={max_workers})"
+    )
+
+    raw_results: dict[int, tuple[dict, dict]] = {}
     futures = {}
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        for topic, query in keywords.items():
+        for task_idx, (topic, query, bucket_idx) in enumerate(fetch_tasks):
+            # For multi-bucket topics, use a sub-label for logging
+            label = f"{topic}[bucket{bucket_idx}]" if bucket_idx >= 0 else topic
             future = executor.submit(
                 _rate_limited_fetch,
-                topic, query, max_results, start_date, end_date,
+                label, query, max_results, start_date, end_date,
             )
-            futures[future] = topic
+            futures[future] = task_idx
 
         for future in as_completed(futures):
-            topic = futures[future]
+            task_idx = futures[future]
+            topic, query, bucket_idx = fetch_tasks[task_idx]
+            label = f"{topic}[bucket{bucket_idx}]" if bucket_idx >= 0 else topic
             try:
                 result = future.result()
-                results.append(result)
-                paper_count = len(result[0].get(topic, {}))
-                logging.info(f"Fetched '{topic}': {paper_count} papers")
+                raw_results[task_idx] = result
+                paper_count = len(result[0].get(label, result[0].get(topic, {})))
+                logging.info(f"Fetched '{label}': {paper_count} papers")
             except Exception as e:
-                logging.error(f"Failed to fetch '{topic}': {e}")
-                # Insert empty result so downstream logic doesn't break
-                results.append(({topic: {}}, {topic: {}}))
+                logging.error(f"Failed to fetch '{label}': {e}")
+                raw_results[task_idx] = ({topic: {}}, {topic: {}})
+
+    # Merge multi-bucket results per topic, then assemble final list
+    results = []
+    for topic in keywords.keys():
+        bucket_indices = topic_bucket_map[topic]
+        if len(bucket_indices) == 1:
+            # Single bucket (or single query) — use directly
+            task_idx = bucket_indices[0]
+            _, _, bucket_idx = fetch_tasks[task_idx]
+            label = f"{topic}[bucket{bucket_idx}]" if bucket_idx >= 0 else topic
+            data, data_web = raw_results.get(task_idx, ({topic: {}}, {topic: {}}))
+            # Normalize key to topic name (bucket labels use topic[bucketN])
+            if label in data and label != topic:
+                data = {topic: data[label]}
+                data_web = {topic: data_web.get(label, {})}
+            results.append((data, data_web))
+        else:
+            # Multi-bucket: merge all buckets for this topic
+            bucket_results = []
+            for task_idx in bucket_indices:
+                _, _, bucket_idx = fetch_tasks[task_idx]
+                label = f"{topic}[bucket{bucket_idx}]"
+                data, data_web = raw_results.get(task_idx, ({topic: {}}, {topic: {}}))
+                # Normalize key
+                if label in data:
+                    data = {topic: data[label]}
+                    data_web = {topic: data_web.get(label, {})}
+                bucket_results.append((data, data_web))
+            merged_data, merged_web = _merge_bucket_results(topic, bucket_results)
+            total = len(merged_data.get(topic, {}))
+            logging.info(f"Merged {len(bucket_results)} buckets for '{topic}': {total} papers")
+            results.append((merged_data, merged_web))
 
     if deduplicate:
         deduped, deduped_web, dup_map = _deduplicate_cross_topic(results)

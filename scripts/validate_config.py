@@ -56,8 +56,8 @@ def _get_effective_topic_groups(config: dict) -> list[list[str]]:
             return groups
     return BUILTIN_TOPIC_GROUPS
 
-PLACEHOLDER_USERNAMES = {"isLinXu", "CHANGE_ME"}
-PLACEHOLDER_REPONAMES = {"YOUR_REPO_NAME", "cv-arxiv-daily", "CHANGE_ME"}
+PLACEHOLDER_USERNAMES = {"CHANGE_ME"}
+PLACEHOLDER_REPONAMES = {"YOUR_REPO_NAME", "CHANGE_ME"}
 
 # Environment variable override mapping (must match utils/configs.py)
 ENV_OVERRIDES = {
