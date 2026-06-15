@@ -94,6 +94,22 @@ def _init_schema(con: sqlite3.Connection) -> None:
         ON openalex_cache(expires_at);
     CREATE INDEX IF NOT EXISTS idx_ghcode_expires
         ON github_code_cache(expires_at);
+
+    CREATE TABLE IF NOT EXISTS topic_fetch_log (
+        topic           TEXT NOT NULL,
+        bucket_index    INTEGER NOT NULL DEFAULT 0,
+        query_hash      TEXT NOT NULL,
+        fetch_status    TEXT NOT NULL DEFAULT 'success',
+        papers_found    INTEGER NOT NULL DEFAULT 0,
+        papers_new      INTEGER NOT NULL DEFAULT 0,
+        started_at      REAL NOT NULL DEFAULT (unixepoch()),
+        finished_at     REAL NOT NULL DEFAULT (unixepoch()),
+        error_msg       TEXT,
+        PRIMARY KEY (topic, bucket_index, query_hash)
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_topic_fetch_time
+        ON topic_fetch_log(topic, finished_at DESC);
     """)
 
 
@@ -502,3 +518,86 @@ def cleanup_expired_github_cache() -> int:
             dict(now=now),
         )
     return cur.rowcount
+
+
+# ---------------------------------------------------------------------------
+# Topic fetch log (incremental fetch support)
+# ---------------------------------------------------------------------------
+
+def log_topic_fetch(
+    topic: str,
+    bucket_index: int = 0,
+    query_hash: str = "",
+    fetch_status: str = "success",
+    papers_found: int = 0,
+    papers_new: int = 0,
+    error_msg: str | None = None,
+) -> None:
+    """Record a topic fetch attempt in the database."""
+    now = time.time()
+    with _LOCK:
+        con().execute(
+            """
+            INSERT INTO topic_fetch_log
+                (topic, bucket_index, query_hash, fetch_status,
+                 papers_found, papers_new, started_at, finished_at, error_msg)
+            VALUES
+                (:topic, :bucket, :qhash, :status,
+                 :found, :new, :started, :finished, :err)
+            ON CONFLICT(topic, bucket_index, query_hash) DO UPDATE SET
+                fetch_status   = excluded.fetch_status,
+                papers_found   = excluded.papers_found,
+                papers_new     = excluded.papers_new,
+                finished_at    = excluded.finished_at,
+                error_msg      = excluded.error_msg
+            """,
+            dict(
+                topic=topic, bucket=bucket_index, qhash=query_hash,
+                status=fetch_status, found=papers_found, new=papers_new,
+                started=now, finished=now, err=error_msg,
+            ),
+        )
+
+
+def get_topic_last_fetch(topic: str) -> dict | None:
+    """Return the most recent successful fetch for a topic, or None."""
+    with con() as c:
+        row = c.execute(
+            """
+            SELECT topic, bucket_index, fetch_status, papers_found, papers_new,
+                   started_at, finished_at
+            FROM topic_fetch_log
+            WHERE topic = :topic AND fetch_status = 'success'
+            ORDER BY finished_at DESC
+            LIMIT 1
+            """,
+            dict(topic=topic),
+        ).fetchone()
+    if row is None:
+        return None
+    cols = ["topic", "bucket_index", "fetch_status", "papers_found",
+            "papers_new", "started_at", "finished_at"]
+    return dict(zip(cols, row))
+
+
+def get_all_topic_last_fetches() -> dict[str, dict]:
+    """Return {topic: last_fetch_info} for all topics with successful fetches."""
+    with con() as c:
+        rows = c.execute(
+            """
+            SELECT topic, MAX(finished_at) as last_fetch,
+                   SUM(papers_found) as total_found,
+                   SUM(papers_new) as total_new
+            FROM topic_fetch_log
+            WHERE fetch_status = 'success'
+            GROUP BY topic
+            """
+        ).fetchall()
+    result = {}
+    for row in rows:
+        result[row[0]] = {
+            "last_fetch": row[1],
+            "total_found": row[2],
+            "total_new": row[3],
+        }
+    return result

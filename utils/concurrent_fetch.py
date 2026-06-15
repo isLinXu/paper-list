@@ -1,7 +1,13 @@
-"""Concurrent paper fetching with deduplication.
+"""Concurrent paper fetching with deduplication and incremental support.
 
 Wraps get_daily_papers to fetch multiple topics concurrently,
 deduplicate cross-topic papers, and respect API rate limits.
+
+Incremental mode:
+  When incremental=True, the fetcher checks the topic_fetch_log in SQLite
+  to determine the last successful fetch time for each topic. If a topic
+  was recently fetched (within the lookback window), it is skipped unless
+  forced. This avoids redundant API calls for topics that haven't changed.
 
 Usage (drop-in replacement in get_paper.py):
     from utils.concurrent_fetch import fetch_all_topics
@@ -16,6 +22,7 @@ Usage (drop-in replacement in get_paper.py):
 """
 from __future__ import annotations
 
+import hashlib
 import logging
 import threading
 import time
@@ -131,6 +138,8 @@ def fetch_all_topics(keywords: dict[str, str | list[str]],
                      end_date: str | None = None,
                      max_workers: int = 3,
                      deduplicate: bool = True,
+                     incremental: bool = False,
+                     incremental_lookback_hours: int = 20,
                      ) -> tuple[list[dict], list[dict], dict[str, list[str]]]:
     """Fetch all topics concurrently with rate limiting and deduplication.
 
@@ -144,15 +153,55 @@ def fetch_all_topics(keywords: dict[str, str | list[str]],
         end_date: Optional end date filter
         max_workers: Max concurrent threads (default 3, safe for arXiv API)
         deduplicate: Whether to deduplicate cross-topic papers
+        incremental: If True, skip topics that were successfully fetched
+                     within the lookback window (saves API quota)
+        incremental_lookback_hours: Skip topics fetched within this many hours
 
     Returns:
         (data_list, data_web_list, dup_map)
     """
+    # --- Incremental mode: check which topics need fetching ---
+    skipped_topics = set()
+    if incremental:
+        try:
+            from . import state_manager as _sm
+            last_fetches = _sm.get_all_topic_last_fetches()
+            now = time.time()
+            lookback_secs = incremental_lookback_hours * 3600
+
+            for topic in list(keywords.keys()):
+                info = last_fetches.get(topic)
+                if info and (now - info["last_fetch"]) < lookback_secs:
+                    skipped_topics.add(topic)
+                    hours_ago = (now - info["last_fetch"]) / 3600
+                    logging.info(
+                        f"[incremental] Skipping '{topic}' — "
+                        f"fetched {hours_ago:.1f}h ago "
+                        f"(lookback={incremental_lookback_hours}h)"
+                    )
+
+            if skipped_topics:
+                logging.info(
+                    f"[incremental] Skipping {len(skipped_topics)}/{len(keywords)} topics "
+                    f"(recently fetched)"
+                )
+        except Exception as e:
+            logging.warning(f"[incremental] State check failed, falling back to full fetch: {e}")
+
+    # Filter out skipped topics
+    active_keywords = {
+        k: v for k, v in keywords.items() if k not in skipped_topics
+    }
+
+    if not active_keywords:
+        logging.info("[incremental] All topics recently fetched — nothing to do")
+        return [], [], {}
+
     # Expand multi-bucket topics into individual fetch tasks
     fetch_tasks: list[tuple[str, str, int]] = []  # (topic, query, bucket_index)
     topic_bucket_map: dict[str, list[int]] = {}  # topic -> [task indices]
 
-    for topic, query in keywords.items():
+    for topic, query in active_keywords.items():
         if isinstance(query, list):
             # Multi-bucket topic: each bucket is a separate query
             for i, bucket_query in enumerate(query):
@@ -165,9 +214,11 @@ def fetch_all_topics(keywords: dict[str, str | list[str]],
             topic_bucket_map.setdefault(topic, []).append(idx)
 
     logging.info(
-        f"Fetching {len(keywords)} topics ({len(fetch_tasks)} API calls, "
+        f"Fetching {len(active_keywords)} topics ({len(fetch_tasks)} API calls, "
         f"workers={max_workers})"
     )
+    if skipped_topics:
+        logging.info(f"  Skipped {len(skipped_topics)} recently-fetched topics")
 
     raw_results: dict[int, tuple[dict, dict]] = {}
     futures = {}
@@ -191,9 +242,38 @@ def fetch_all_topics(keywords: dict[str, str | list[str]],
                 raw_results[task_idx] = result
                 paper_count = len(result[0].get(label, result[0].get(topic, {})))
                 logging.info(f"Fetched '{label}': {paper_count} papers")
+
+                # Log to state_manager for incremental tracking
+                try:
+                    from . import state_manager as _sm
+                    qhash = hashlib.md5(query.encode()).hexdigest()[:8]
+                    _sm.log_topic_fetch(
+                        topic=topic,
+                        bucket_index=max(bucket_idx, 0),
+                        query_hash=qhash,
+                        fetch_status="success",
+                        papers_found=paper_count,
+                    )
+                except Exception:
+                    pass  # Non-fatal
+
             except Exception as e:
                 logging.error(f"Failed to fetch '{label}': {e}")
                 raw_results[task_idx] = ({topic: {}}, {topic: {}})
+
+                # Log failure
+                try:
+                    from . import state_manager as _sm
+                    qhash = hashlib.md5(query.encode()).hexdigest()[:8]
+                    _sm.log_topic_fetch(
+                        topic=topic,
+                        bucket_index=max(bucket_idx, 0),
+                        query_hash=qhash,
+                        fetch_status="error",
+                        error_msg=str(e)[:200],
+                    )
+                except Exception:
+                    pass
 
     # Merge multi-bucket results per topic, then assemble final list
     results = []

@@ -23,6 +23,8 @@ _ENV_OVERRIDES = {
     "enrich_tldr":        "PAPER_LIST_ENRICH_TLDR",
     "enrich_citations":   "PAPER_LIST_ENRICH_CITATIONS",
     "sort_mode":          "PAPER_LIST_SORT_MODE",
+    "incremental_fetch":  "PAPER_LIST_INCREMENTAL_FETCH",
+    "incremental_lookback_hours": "PAPER_LIST_INCREMENTAL_LOOKBACK_HOURS",
 }
 
 # Built-in profile directory

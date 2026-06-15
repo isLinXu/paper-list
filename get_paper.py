@@ -97,6 +97,7 @@ def run(**config):
 
         # Use concurrent fetching with deduplication
         use_concurrent = config.get('concurrent_fetch', True)
+        incremental = config.get('incremental_fetch', False)
         if use_concurrent and len(keywords) > 1:
             logging.info(f"Using concurrent fetch (workers={config.get('max_workers', 3)})")
             data_collector, data_collector_web, dup_map = fetch_all_topics(
@@ -107,6 +108,8 @@ def run(**config):
                 end_date=config['end_date'],
                 max_workers=config.get('max_workers', 3),
                 deduplicate=config.get('deduplicate', True),
+                incremental=incremental,
+                incremental_lookback_hours=config.get('incremental_lookback_hours', 20),
             )
             if dup_map:
                 logging.info(f"Cross-topic duplicates: {len(dup_map)} papers appeared in multiple topics")
@@ -171,6 +174,8 @@ if __name__ == "__main__":
                         help='end date for fetching papers (YYYY-MM-DD)')
     parser.add_argument('--dry-run', action='store_true',
                         help='Preview what would be fetched without writing files')
+    parser.add_argument('--incremental', action='store_true',
+                        help='Skip topics that were recently fetched (saves API quota)')
     parser.add_argument('--topic', type=str, default=None,
                         help='Only fetch a single topic (exact name match)')
     args = parser.parse_args()
@@ -181,6 +186,7 @@ if __name__ == "__main__":
     if args.end_date:
         config["end_date"] = args.end_date
     config["dry_run"] = args.dry_run
+    config["incremental_fetch"] = args.incremental
 
     # Filter to a single topic if requested
     if args.topic:
