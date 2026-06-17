@@ -2,11 +2,11 @@
 
 Lane: **Agent & Driving**
 
-Total papers: **33**
+Total papers: **35**
 
-Latest archive month: **2026-06** (33 papers)
+Latest archive month: **2026-06** (35 papers)
 
-Topic neighbors: [← Autonomous Driving](Autonomous_Driving.md) · [Reasoning →](Reasoning.md)
+Topic neighbors: [← AI Agent](AI_Agent.md) · [Reasoning →](Reasoning.md)
 
 ### Autonomy
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **World Models**. Start with the latest
 
 ## Monthly Archives
 
-- [2026-06](World_Models/2026-06.md) (33 papers)
+- [2026-06](World_Models/2026-06.md) (35 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
