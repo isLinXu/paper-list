@@ -1,21 +1,21 @@
 topic,count,rank
 Latent Space LLM,100,1
-LLM,96,2
+LLM,91,2
 Reasoning,57,3
-Transfer Learning,49,4
-AI Safety,37,5
-World Models,35,6
-AI Agent,23,7
-Multimodal,18,8
-Diffusion Models,16,9
-Efficient AI,16,10
-Video Understanding,10,11
-Image Generation,9,12
-Semantic Segmentation,8,13
-Audio Processing,8,14
-Time Series & Anomaly,7,15
-Object Tracking,6,16
-Neural Rendering,6,17
-Scene Understanding,4,18
-Graph Neural Networks,4,19
-Classification,3,20
+Transfer Learning,44,4
+AI Safety,36,5
+World Models,32,6
+Multimodal,20,7
+Diffusion Models,19,8
+Efficient AI,10,9
+Time Series & Anomaly,10,10
+Audio Processing,9,11
+Object Tracking,8,12
+Classification,7,13
+Image Generation,6,14
+Video Understanding,6,15
+Neural Rendering,6,16
+Semantic Segmentation,5,17
+Pose Estimation,4,18
+Object Detection,2,19
+Scene Understanding,2,20

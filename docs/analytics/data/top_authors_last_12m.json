@@ -5,13 +5,13 @@
     "rank": 1
   },
   {
-    "author": "Hao Li",
+    "author": "Hao Wang",
     "count": 12,
     "rank": 2
   },
   {
-    "author": "Hao Wang",
-    "count": 11,
+    "author": "Hao Li",
+    "count": 12,
     "rank": 3
   },
   {
@@ -75,27 +75,27 @@
     "rank": 15
   },
   {
-    "author": "Yu Liu",
-    "count": 8,
-    "rank": 16
-  },
-  {
     "author": "Wei Huang",
     "count": 7,
-    "rank": 17
+    "rank": 16
   },
   {
     "author": "Teerapong Panboonyuen",
     "count": 7,
-    "rank": 18
+    "rank": 17
   },
   {
     "author": "Markus Gross",
     "count": 7,
-    "rank": 19
+    "rank": 18
   },
   {
     "author": "Hao Chen",
+    "count": 7,
+    "rank": 19
+  },
+  {
+    "author": "Haichuan Li",
     "count": 7,
     "rank": 20
   }

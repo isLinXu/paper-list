@@ -1,13 +1,8 @@
 [
   {
-    "topic": "AI Agent",
-    "date": "2026-06-15",
-    "count": 23
-  },
-  {
     "topic": "AI Safety",
-    "date": "2026-06-15",
-    "count": 37
+    "date": "2026-06-16",
+    "count": 36
   },
   {
     "topic": "Action Recognition",
@@ -2876,8 +2871,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-06-15",
-    "count": 2
+    "date": "2026-06-16",
+    "count": 1
   },
   {
     "topic": "Anomaly Detection",
@@ -9031,8 +9026,8 @@
   },
   {
     "topic": "Audio Processing",
-    "date": "2026-06-15",
-    "count": 8
+    "date": "2026-06-16",
+    "count": 9
   },
   {
     "topic": "Classification",
@@ -12581,8 +12576,8 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-06-15",
-    "count": 3
+    "date": "2026-06-16",
+    "count": 7
   },
   {
     "topic": "Depth Estimation",
@@ -15511,13 +15506,13 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-06-15",
-    "count": 16
+    "date": "2026-06-16",
+    "count": 19
   },
   {
     "topic": "Efficient AI",
-    "date": "2026-06-15",
-    "count": 16
+    "date": "2026-06-16",
+    "count": 10
   },
   {
     "topic": "Graph Neural Networks",
@@ -18376,8 +18371,8 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "date": "2026-06-15",
-    "count": 4
+    "date": "2026-06-16",
+    "count": 2
   },
   {
     "topic": "Image Generation",
@@ -21161,8 +21156,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-06-15",
-    "count": 9
+    "date": "2026-06-16",
+    "count": 6
   },
   {
     "topic": "LLM",
@@ -23276,8 +23271,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-06-15",
-    "count": 96
+    "date": "2026-06-16",
+    "count": 91
   },
   {
     "topic": "Latent Space LLM",
@@ -23301,7 +23296,7 @@
   },
   {
     "topic": "Latent Space LLM",
-    "date": "2026-06-16",
+    "date": "2026-06-17",
     "count": 100
   },
   {
@@ -25741,8 +25736,8 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-06-15",
-    "count": 18
+    "date": "2026-06-16",
+    "count": 20
   },
   {
     "topic": "Neural Rendering",
@@ -25806,7 +25801,7 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "count": 6
   },
   {
@@ -28941,8 +28936,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-06-15",
-    "count": 3
+    "date": "2026-06-16",
+    "count": 2
   },
   {
     "topic": "Object Tracking",
@@ -31301,8 +31296,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-06-15",
-    "count": 6
+    "date": "2026-06-16",
+    "count": 8
   },
   {
     "topic": "Optical Flow",
@@ -33682,11 +33677,6 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04-30",
-    "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-06-15",
     "count": 1
   },
   {
@@ -37051,12 +37041,12 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-06-15",
-    "count": 2
+    "date": "2026-06-16",
+    "count": 4
   },
   {
     "topic": "Reasoning",
-    "date": "2026-06-15",
+    "date": "2026-06-16",
     "count": 57
   },
   {
@@ -42196,8 +42186,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-06-15",
-    "count": 4
+    "date": "2026-06-16",
+    "count": 2
   },
   {
     "topic": "Semantic Segmentation",
@@ -45401,13 +45391,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-06-15",
-    "count": 8
+    "date": "2026-06-16",
+    "count": 5
   },
   {
     "topic": "Time Series & Anomaly",
-    "date": "2026-06-15",
-    "count": 7
+    "date": "2026-06-16",
+    "count": 10
   },
   {
     "topic": "Transfer Learning",
@@ -48096,8 +48086,8 @@
   },
   {
     "topic": "Transfer Learning",
-    "date": "2026-06-15",
-    "count": 49
+    "date": "2026-06-16",
+    "count": 44
   },
   {
     "topic": "Video Understanding",
@@ -48161,12 +48151,12 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-06-15",
-    "count": 10
+    "date": "2026-06-16",
+    "count": 6
   },
   {
     "topic": "World Models",
-    "date": "2026-06-15",
-    "count": 35
+    "date": "2026-06-16",
+    "count": 32
   }
 ]

@@ -6,7 +6,7 @@ Total papers: **75**
 
 Latest archive month: **2026-06** (6 papers)
 
-Topic neighbors: [← Multimodal](Multimodal.md) · [AI Agent →](AI_Agent.md)
+Topic neighbors: [← Multimodal](Multimodal.md) · [World Models →](World_Models.md)
 
 ### 3D Vision
 
