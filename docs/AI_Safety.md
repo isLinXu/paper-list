@@ -2,9 +2,9 @@
 
 Lane: **Frontier Guard**
 
-Total papers: **36**
+Total papers: **32**
 
-Latest archive month: **2026-06** (36 papers)
+Latest archive month: **2026-06** (32 papers)
 
 Topic neighbors: [← Transfer Learning](Transfer_Learning.md) · [Efficient AI →](Efficient_AI.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **AI Safety**. Start with the latest mo
 
 ## Monthly Archives
 
-- [2026-06](AI_Safety/2026-06.md) (36 papers)
+- [2026-06](AI_Safety/2026-06.md) (32 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 

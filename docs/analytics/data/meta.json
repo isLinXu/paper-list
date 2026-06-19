@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-06-18T01:34:43+00:00",
+  "generated_at": "2026-06-19T01:36:18+00:00",
   "topics": [
+    "AI Agent",
     "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
@@ -29,7 +30,7 @@
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-06-17",
+  "max_date": "2026-06-18",
   "granularities": [
     "day",
     "month"
