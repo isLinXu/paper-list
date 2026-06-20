@@ -1,27 +1,27 @@
 [
   {
     "topic": "LLM",
-    "count": 1140,
+    "count": 1152,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 521,
+    "count": 566,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 454,
+    "count": 396,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 253,
+    "count": 257,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 187,
+    "count": 195,
     "rank": 5
   },
   {
@@ -30,73 +30,73 @@
     "rank": 6
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 136,
+    "topic": "Video Understanding",
+    "count": 123,
     "rank": 7
   },
   {
-    "topic": "Video Understanding",
-    "count": 126,
+    "topic": "Object Detection",
+    "count": 117,
     "rank": 8
   },
   {
-    "topic": "Object Detection",
-    "count": 114,
+    "topic": "Classification",
+    "count": 99,
     "rank": 9
   },
   {
-    "topic": "Classification",
-    "count": 98,
+    "topic": "Latent Space LLM",
+    "count": 86,
     "rank": 10
   },
   {
     "topic": "Object Tracking",
-    "count": 83,
+    "count": 81,
     "rank": 11
   },
   {
     "topic": "Anomaly Detection",
-    "count": 81,
+    "count": 80,
     "rank": 12
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 80,
+    "count": 79,
     "rank": 13
   },
   {
     "topic": "Neural Rendering",
-    "count": 75,
+    "count": 74,
     "rank": 14
   },
   {
     "topic": "Scene Understanding",
-    "count": 69,
+    "count": 72,
     "rank": 15
   },
   {
-    "topic": "Reasoning",
-    "count": 61,
+    "topic": "Pose Estimation",
+    "count": 58,
     "rank": 16
   },
   {
-    "topic": "Pose Estimation",
+    "topic": "Reasoning",
     "count": 57,
     "rank": 17
   },
   {
     "topic": "Audio Processing",
-    "count": 55,
+    "count": 56,
     "rank": 18
+  },
+  {
+    "topic": "Action Recognition",
+    "count": 50,
+    "rank": 19
   },
   {
     "topic": "Depth Estimation",
     "count": 48,
-    "rank": 19
-  },
-  {
-    "topic": "Action Recognition",
-    "count": 47,
     "rank": 20
   }
 ]

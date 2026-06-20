@@ -2,9 +2,9 @@
 
 Lane: **Data Sciences**
 
-Total papers: **8**
+Total papers: **4**
 
-Latest archive month: **2026-06** (8 papers)
+Latest archive month: **2026-06** (4 papers)
 
 Topic neighbors: [← Graph Neural Networks](Graph_Neural_Networks.md) · [Scene Understanding →](Scene_Understanding.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Time Series & Anomaly**. Start with t
 
 ## Monthly Archives
 
-- [2026-06](Time_Series_&_Anomaly/2026-06.md) (8 papers)
+- [2026-06](Time_Series_&_Anomaly/2026-06.md) (4 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 

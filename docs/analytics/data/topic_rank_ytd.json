@@ -1,42 +1,42 @@
 [
   {
     "topic": "LLM",
-    "count": 3994,
+    "count": 4006,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 2685,
+    "count": 2730,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 1992,
+    "count": 1934,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 985,
+    "count": 989,
     "rank": 4
   },
   {
     "topic": "Anomaly Detection",
-    "count": 473,
+    "count": 472,
     "rank": 5
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 462,
+    "count": 461,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 432,
+    "count": 435,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 396,
+    "count": 397,
     "rank": 8
   },
   {
@@ -46,22 +46,22 @@
   },
   {
     "topic": "Audio Processing",
-    "count": 325,
+    "count": 326,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 226,
+    "count": 227,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 188,
+    "topic": "Diffusion Models",
+    "count": 195,
     "rank": 12
   },
   {
-    "topic": "Diffusion Models",
-    "count": 187,
+    "topic": "Scene Understanding",
+    "count": 191,
     "rank": 13
   },
   {
@@ -70,33 +70,33 @@
     "rank": 14
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 136,
+    "topic": "Action Recognition",
+    "count": 138,
     "rank": 15
   },
   {
-    "topic": "Action Recognition",
-    "count": 135,
+    "topic": "Object Tracking",
+    "count": 130,
     "rank": 16
   },
   {
-    "topic": "Object Tracking",
-    "count": 132,
+    "topic": "Video Understanding",
+    "count": 123,
     "rank": 17
   },
   {
-    "topic": "Video Understanding",
-    "count": 126,
+    "topic": "Multimodal",
+    "count": 119,
     "rank": 18
   },
   {
-    "topic": "Multimodal",
-    "count": 123,
+    "topic": "Latent Space LLM",
+    "count": 86,
     "rank": 19
   },
   {
     "topic": "Optical Flow",
-    "count": 78,
+    "count": 79,
     "rank": 20
   }
 ]
