@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 5512,
+    "count": 5754,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 3814,
+    "count": 4053,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 3041,
+    "count": 3343,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 1621,
+    "count": 1903,
     "rank": 4
   },
   {
     "topic": "Classification",
-    "count": 1225,
+    "count": 1447,
     "rank": 5
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 1025,
+    "count": 1298,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 1017,
+    "count": 1235,
     "rank": 7
   },
   {
     "topic": "Anomaly Detection",
-    "count": 967,
+    "count": 1202,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 841,
+    "count": 1034,
     "rank": 9
   },
   {
-    "topic": "Pose Estimation",
-    "count": 746,
+    "topic": "Audio Processing",
+    "count": 932,
     "rank": 10
   },
   {
-    "topic": "Audio Processing",
-    "count": 721,
+    "topic": "Pose Estimation",
+    "count": 862,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 638,
+    "count": 747,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 493,
+    "count": 571,
     "rank": 13
   },
   {
     "topic": "Multimodal",
-    "count": 453,
+    "count": 536,
     "rank": 14
   },
   {
     "topic": "Action Recognition",
-    "count": 406,
+    "count": 492,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 388,
+    "count": 431,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 337,
+    "count": 397,
     "rank": 17
   },
   {
     "topic": "Diffusion Models",
-    "count": 195,
+    "count": 166,
     "rank": 18
   },
   {
     "topic": "Video Understanding",
-    "count": 123,
+    "count": 118,
     "rank": 19
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 86,
+    "topic": "Neural Rendering",
+    "count": 69,
     "rank": 20
   }
 ]
