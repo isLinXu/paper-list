@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 852,
+    "count": 768,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 436,
+    "count": 391,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 272,
+    "count": 256,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 213,
+    "count": 201,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 196,
+    "count": 184,
     "rank": 5
   },
   {
     "topic": "Video Understanding",
-    "count": 125,
+    "count": 131,
     "rank": 6
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 120,
+    "count": 115,
     "rank": 7
   },
   {
     "topic": "Object Detection",
-    "count": 98,
+    "count": 96,
     "rank": 8
   },
   {
-    "topic": "Object Tracking",
-    "count": 87,
+    "topic": "Neural Rendering",
+    "count": 76,
     "rank": 9
   },
   {
     "topic": "Classification",
-    "count": 84,
+    "count": 75,
     "rank": 10
   },
   {
-    "topic": "Neural Rendering",
-    "count": 73,
+    "topic": "Object Tracking",
+    "count": 74,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 68,
+    "count": 66,
     "rank": 12
   },
   {
     "topic": "Reasoning",
-    "count": 61,
+    "count": 58,
     "rank": 13
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 56,
+    "count": 51,
     "rank": 14
   },
   {
     "topic": "Pose Estimation",
-    "count": 46,
+    "count": 47,
     "rank": 15
   },
   {
     "topic": "Anomaly Detection",
-    "count": 46,
+    "count": 43,
     "rank": 16
   },
   {
     "topic": "Action Recognition",
-    "count": 44,
-    "rank": 17
-  },
-  {
-    "topic": "Depth Estimation",
     "count": 42,
-    "rank": 18
+    "rank": 17
   },
   {
     "topic": "Latent Space LLM",
     "count": 40,
+    "rank": 18
+  },
+  {
+    "topic": "Depth Estimation",
+    "count": 39,
     "rank": 19
   },
   {
-    "topic": "Audio Processing",
-    "count": 36,
+    "topic": "AI Safety",
+    "count": 38,
     "rank": 20
   }
 ]

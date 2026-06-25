@@ -1,8 +1,8 @@
 [
   {
-    "topic": "AI Agent",
-    "date": "2026-06-22",
-    "count": 23
+    "topic": "AI Safety",
+    "date": "2026-06-23",
+    "count": 38
   },
   {
     "topic": "Action Recognition",
@@ -2871,8 +2871,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-06-22",
-    "count": 3
+    "date": "2026-06-23",
+    "count": 2
   },
   {
     "topic": "Anomaly Detection",
@@ -9026,7 +9026,7 @@
   },
   {
     "topic": "Audio Processing",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "count": 5
   },
   {
@@ -12575,11 +12575,6 @@
     "count": 6
   },
   {
-    "topic": "Classification",
-    "date": "2026-06-22",
-    "count": 4
-  },
-  {
     "topic": "Depth Estimation",
     "date": "2024-02-19",
     "count": 2
@@ -15455,11 +15450,6 @@
     "count": 1
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-06-22",
-    "count": 2
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -15511,8 +15501,13 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-06-22",
-    "count": 30
+    "date": "2026-06-23",
+    "count": 18
+  },
+  {
+    "topic": "Efficient AI",
+    "date": "2026-06-23",
+    "count": 10
   },
   {
     "topic": "Graph Neural Networks",
@@ -18371,8 +18366,8 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "date": "2026-06-22",
-    "count": 1
+    "date": "2026-06-23",
+    "count": 2
   },
   {
     "topic": "Image Generation",
@@ -21156,8 +21151,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-06-22",
-    "count": 9
+    "date": "2026-06-23",
+    "count": 11
   },
   {
     "topic": "LLM",
@@ -23271,8 +23266,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-06-22",
-    "count": 88
+    "date": "2026-06-23",
+    "count": 76
   },
   {
     "topic": "Latent Space LLM",
@@ -25731,8 +25726,8 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-06-22",
-    "count": 20
+    "date": "2026-06-23",
+    "count": 14
   },
   {
     "topic": "Neural Rendering",
@@ -25796,8 +25791,8 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-06-22",
-    "count": 4
+    "date": "2026-06-23",
+    "count": 7
   },
   {
     "topic": "Object Detection",
@@ -28931,8 +28926,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-06-22",
-    "count": 3
+    "date": "2026-06-23",
+    "count": 4
   },
   {
     "topic": "Object Tracking",
@@ -31291,8 +31286,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-06-22",
-    "count": 14
+    "date": "2026-06-23",
+    "count": 2
   },
   {
     "topic": "Optical Flow",
@@ -33676,7 +33671,7 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "count": 1
   },
   {
@@ -37041,13 +37036,13 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-06-22",
-    "count": 2
+    "date": "2026-06-23",
+    "count": 4
   },
   {
     "topic": "Reasoning",
-    "date": "2026-06-22",
-    "count": 61
+    "date": "2026-06-23",
+    "count": 58
   },
   {
     "topic": "Reinforcement Learning",
@@ -39263,6 +39258,11 @@
     "topic": "Reinforcement Learning",
     "date": "2026-04-09",
     "count": 41
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-06-23",
+    "count": 16
   },
   {
     "topic": "Scene Understanding",
@@ -42186,7 +42186,7 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "count": 5
   },
   {
@@ -45391,13 +45391,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-06-22",
-    "count": 6
+    "date": "2026-06-23",
+    "count": 4
   },
   {
     "topic": "Time Series & Anomaly",
-    "date": "2026-06-22",
-    "count": 10
+    "date": "2026-06-23",
+    "count": 4
   },
   {
     "topic": "Transfer Learning",
@@ -48086,8 +48086,8 @@
   },
   {
     "topic": "Transfer Learning",
-    "date": "2026-06-22",
-    "count": 51
+    "date": "2026-06-23",
+    "count": 47
   },
   {
     "topic": "Video Understanding",
@@ -48151,12 +48151,12 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-06-22",
-    "count": 7
+    "date": "2026-06-23",
+    "count": 13
   },
   {
     "topic": "World Models",
-    "date": "2026-06-22",
-    "count": 28
+    "date": "2026-06-23",
+    "count": 27
   }
 ]

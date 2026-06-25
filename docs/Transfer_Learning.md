@@ -2,11 +2,11 @@
 
 Lane: **Intelligence Stack**
 
-Total papers: **6410**
+Total papers: **6406**
 
-Latest archive month: **2026-06** (51 papers)
+Latest archive month: **2026-06** (47 papers)
 
-Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [Audio Processing →](Audio_Processing.md)
+Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [AI Safety →](AI_Safety.md)
 
 ### Reasoning
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Transfer Learning**. Start with the l
 
 ## Monthly Archives
 
-- [2026-06](Transfer_Learning/2026-06.md) (51 papers)
+- [2026-06](Transfer_Learning/2026-06.md) (47 papers)
 - [2026-04](Transfer_Learning/2026-04.md) (255 papers)
 - [2026-03](Transfer_Learning/2026-03.md) (966 papers)
 - [2026-02](Transfer_Learning/2026-02.md) (356 papers)

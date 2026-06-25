@@ -6,7 +6,7 @@ Total papers: **2255**
 
 Latest archive month: **2026-06** (5 papers)
 
-Topic neighbors: [← Transfer Learning](Transfer_Learning.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
+Topic neighbors: [← Efficient AI](Efficient_AI.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
 
 ### Signal & Graph
 

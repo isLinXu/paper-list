@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-24T01:33:22+00:00",
+  "generated_at": "2026-06-25T01:25:35+00:00",
   "topics": [
-    "AI Agent",
+    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
     "Classification",
     "Depth Estimation",
     "Diffusion Models",
+    "Efficient AI",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
@@ -28,7 +29,7 @@
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-06-22",
+  "max_date": "2026-06-23",
   "granularities": [
     "day",
     "month"
