@@ -2,9 +2,9 @@
 
 Lane: **Intelligence Stack**
 
-Total papers: **6406**
+Total papers: **6412**
 
-Latest archive month: **2026-06** (47 papers)
+Latest archive month: **2026-06** (53 papers)
 
 Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [AI Safety →](AI_Safety.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Transfer Learning**. Start with the l
 
 ## Monthly Archives
 
-- [2026-06](Transfer_Learning/2026-06.md) (47 papers)
+- [2026-06](Transfer_Learning/2026-06.md) (53 papers)
 - [2026-04](Transfer_Learning/2026-04.md) (255 papers)
 - [2026-03](Transfer_Learning/2026-03.md) (966 papers)
 - [2026-02](Transfer_Learning/2026-02.md) (356 papers)

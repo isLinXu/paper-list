@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 768,
+    "count": 782,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 391,
+    "count": 397,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 256,
+    "count": 240,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 201,
+    "count": 196,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 184,
+    "count": 182,
     "rank": 5
   },
   {
-    "topic": "Video Understanding",
-    "count": 131,
+    "topic": "Latent Space LLM",
+    "count": 139,
     "rank": 6
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 115,
+    "topic": "Video Understanding",
+    "count": 125,
     "rank": 7
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "count": 113,
+    "rank": 8
   },
   {
     "topic": "Object Detection",
     "count": 96,
-    "rank": 8
-  },
-  {
-    "topic": "Neural Rendering",
-    "count": 76,
     "rank": 9
   },
   {
-    "topic": "Classification",
-    "count": 75,
+    "topic": "Object Tracking",
+    "count": 77,
     "rank": 10
   },
   {
-    "topic": "Object Tracking",
-    "count": 74,
+    "topic": "Classification",
+    "count": 76,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 66,
+    "topic": "Neural Rendering",
+    "count": 71,
     "rank": 12
   },
   {
-    "topic": "Reasoning",
-    "count": 58,
+    "topic": "Scene Understanding",
+    "count": 63,
     "rank": 13
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 51,
+    "topic": "Reasoning",
+    "count": 61,
     "rank": 14
   },
   {
-    "topic": "Pose Estimation",
-    "count": 47,
+    "topic": "Graph Neural Networks",
+    "count": 49,
     "rank": 15
   },
   {
     "topic": "Anomaly Detection",
-    "count": 43,
+    "count": 47,
     "rank": 16
   },
   {
-    "topic": "Action Recognition",
-    "count": 42,
+    "topic": "Pose Estimation",
+    "count": 46,
     "rank": 17
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Action Recognition",
+    "count": 43,
     "rank": 18
   },
   {
     "topic": "Depth Estimation",
-    "count": 39,
+    "count": 40,
     "rank": 19
   },
   {
-    "topic": "AI Safety",
-    "count": 38,
+    "topic": "Audio Processing",
+    "count": 28,
     "rank": 20
   }
 ]

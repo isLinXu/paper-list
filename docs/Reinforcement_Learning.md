@@ -2,9 +2,9 @@
 
 Lane: **Intelligence Stack**
 
-Total papers: **6157**
+Total papers: **6141**
 
-Latest archive month: **2026-06** (16 papers)
+Latest archive month: **2026-04** (185 papers)
 
 Topic neighbors: [← Reasoning](Reasoning.md) · [Transfer Learning →](Transfer_Learning.md)
 
@@ -14,7 +14,6 @@ This page is the monthly archive hub for **Reinforcement Learning**. Start with 
 
 ## Monthly Archives
 
-- [2026-06](Reinforcement_Learning/2026-06.md) (16 papers)
 - [2026-04](Reinforcement_Learning/2026-04.md) (185 papers)
 - [2026-03](Reinforcement_Learning/2026-03.md) (919 papers)
 - [2026-02](Reinforcement_Learning/2026-02.md) (18 papers)

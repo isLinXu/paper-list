@@ -2,7 +2,7 @@
   {
     "topic": "AI Safety",
     "date": "2026-06",
-    "count": 38
+    "count": 19
   },
   {
     "topic": "Action Recognition",
@@ -142,7 +142,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-06",
-    "count": 2
+    "count": 3
   },
   {
     "topic": "Anomaly Detection",
@@ -280,6 +280,11 @@
     "count": 33
   },
   {
+    "topic": "Anomaly Detection",
+    "date": "2026-06",
+    "count": 4
+  },
+  {
     "topic": "Audio Processing",
     "date": "2024-02",
     "count": 14
@@ -412,7 +417,7 @@
   {
     "topic": "Audio Processing",
     "date": "2026-06",
-    "count": 5
+    "count": 4
   },
   {
     "topic": "Classification",
@@ -550,6 +555,11 @@
     "count": 68
   },
   {
+    "topic": "Classification",
+    "date": "2026-06",
+    "count": 1
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02",
     "count": 11
@@ -685,6 +695,11 @@
     "count": 37
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-06",
+    "count": 1
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04",
     "count": 166
@@ -692,12 +707,12 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-06",
-    "count": 18
+    "count": 16
   },
   {
     "topic": "Efficient AI",
     "date": "2026-06",
-    "count": 10
+    "count": 12
   },
   {
     "topic": "Graph Neural Networks",
@@ -828,11 +843,6 @@
     "topic": "Graph Neural Networks",
     "date": "2026-04",
     "count": 33
-  },
-  {
-    "topic": "Graph Neural Networks",
-    "date": "2026-06",
-    "count": 2
   },
   {
     "topic": "Image Generation",
@@ -972,7 +982,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-06",
-    "count": 11
+    "count": 6
   },
   {
     "topic": "LLM",
@@ -1112,12 +1122,17 @@
   {
     "topic": "LLM",
     "date": "2026-06",
-    "count": 76
+    "count": 90
   },
   {
     "topic": "Latent Space LLM",
     "date": "2026-04",
     "count": 40
+  },
+  {
+    "topic": "Latent Space LLM",
+    "date": "2026-06",
+    "count": 99
   },
   {
     "topic": "Multimodal",
@@ -1257,7 +1272,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-06",
-    "count": 14
+    "count": 11
   },
   {
     "topic": "Neural Rendering",
@@ -1267,7 +1282,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-06",
-    "count": 7
+    "count": 2
   },
   {
     "topic": "Object Detection",
@@ -1542,7 +1557,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-06",
-    "count": 2
+    "count": 5
   },
   {
     "topic": "Optical Flow",
@@ -1822,12 +1837,12 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-06",
-    "count": 4
+    "count": 3
   },
   {
     "topic": "Reasoning",
     "date": "2026-06",
-    "count": 58
+    "count": 61
   },
   {
     "topic": "Reinforcement Learning",
@@ -1958,11 +1973,6 @@
     "topic": "Reinforcement Learning",
     "date": "2026-04",
     "count": 185
-  },
-  {
-    "topic": "Reinforcement Learning",
-    "date": "2026-06",
-    "count": 16
   },
   {
     "topic": "Scene Understanding",
@@ -2102,7 +2112,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-06",
-    "count": 5
+    "count": 2
   },
   {
     "topic": "Semantic Segmentation",
@@ -2232,12 +2242,12 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-06",
-    "count": 4
+    "count": 2
   },
   {
     "topic": "Time Series & Anomaly",
     "date": "2026-06",
-    "count": 4
+    "count": 7
   },
   {
     "topic": "Transfer Learning",
@@ -2372,7 +2382,7 @@
   {
     "topic": "Transfer Learning",
     "date": "2026-06",
-    "count": 47
+    "count": 53
   },
   {
     "topic": "Video Understanding",
@@ -2382,11 +2392,11 @@
   {
     "topic": "Video Understanding",
     "date": "2026-06",
-    "count": 13
+    "count": 7
   },
   {
     "topic": "World Models",
     "date": "2026-06",
-    "count": 27
+    "count": 20
   }
 ]
