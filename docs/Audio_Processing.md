@@ -2,9 +2,9 @@
 
 Lane: **Data Sciences**
 
-Total papers: **2254**
+Total papers: **2251**
 
-Latest archive month: **2026-06** (4 papers)
+Latest archive month: **2026-06** (1 papers)
 
 Topic neighbors: [← Efficient AI](Efficient_AI.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Audio Processing**. Start with the la
 
 ## Monthly Archives
 
-- [2026-06](Audio_Processing/2026-06.md) (4 papers)
+- [2026-06](Audio_Processing/2026-06.md) (1 papers)
 - [2026-04](Audio_Processing/2026-04.md) (15 papers)
 - [2026-03](Audio_Processing/2026-03.md) (118 papers)
 - [2026-02](Audio_Processing/2026-02.md) (69 papers)

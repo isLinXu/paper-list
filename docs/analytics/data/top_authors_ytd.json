@@ -1,16 +1,16 @@
 [
   {
-    "author": "Yizhan Feng",
-    "count": 8,
+    "author": "Yu Wang",
+    "count": 9,
     "rank": 1
   },
   {
-    "author": "Yu Li",
+    "author": "Yizhan Feng",
     "count": 8,
     "rank": 2
   },
   {
-    "author": "Yu Wang",
+    "author": "Yu Li",
     "count": 8,
     "rank": 3
   },
@@ -60,42 +60,42 @@
     "rank": 12
   },
   {
-    "author": "Shuai Wang",
+    "author": "Zhenhua Xu",
     "count": 6,
     "rank": 13
   },
   {
-    "author": "Yichuan Ma",
+    "author": "Shuai Wang",
     "count": 6,
     "rank": 14
   },
   {
-    "author": "Wei Zhu",
+    "author": "Yichuan Ma",
     "count": 6,
     "rank": 15
   },
   {
-    "author": "Jie Cao",
+    "author": "Wei Zhu",
     "count": 6,
     "rank": 16
   },
   {
-    "author": "Teerapong Panboonyuen",
-    "count": 5,
+    "author": "Jie Cao",
+    "count": 6,
     "rank": 17
   },
   {
-    "author": "Markus Gross",
+    "author": "Teerapong Panboonyuen",
     "count": 5,
     "rank": 18
   },
   {
-    "author": "John J. Han",
+    "author": "Markus Gross",
     "count": 5,
     "rank": 19
   },
   {
-    "author": "Jiaxin Zhang",
+    "author": "John J. Han",
     "count": 5,
     "rank": 20
   }

@@ -1,47 +1,47 @@
 [
   {
     "topic": "LLM",
-    "count": 782,
+    "count": 770,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 397,
+    "count": 382,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 240,
+    "count": 265,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 196,
+    "count": 202,
     "rank": 4
   },
   {
     "topic": "Diffusion Models",
-    "count": 182,
+    "count": 191,
     "rank": 5
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 139,
-    "rank": 6
-  },
-  {
     "topic": "Video Understanding",
-    "count": 125,
-    "rank": 7
+    "count": 128,
+    "rank": 6
   },
   {
     "topic": "Semantic Segmentation",
     "count": 113,
-    "rank": 8
+    "rank": 7
   },
   {
     "topic": "Object Detection",
-    "count": 96,
+    "count": 94,
+    "rank": 8
+  },
+  {
+    "topic": "Classification",
+    "count": 79,
     "rank": 9
   },
   {
@@ -50,13 +50,13 @@
     "rank": 10
   },
   {
-    "topic": "Classification",
-    "count": 76,
+    "topic": "Latent Space LLM",
+    "count": 74,
     "rank": 11
   },
   {
     "topic": "Neural Rendering",
-    "count": 71,
+    "count": 74,
     "rank": 12
   },
   {
@@ -65,18 +65,18 @@
     "rank": 13
   },
   {
-    "topic": "Reasoning",
-    "count": 61,
+    "topic": "Autonomous Driving",
+    "count": 60,
     "rank": 14
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 49,
+    "topic": "Reasoning",
+    "count": 55,
     "rank": 15
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 47,
+    "topic": "Graph Neural Networks",
+    "count": 50,
     "rank": 16
   },
   {
@@ -85,18 +85,18 @@
     "rank": 17
   },
   {
-    "topic": "Action Recognition",
-    "count": 43,
+    "topic": "Anomaly Detection",
+    "count": 44,
     "rank": 18
   },
   {
-    "topic": "Depth Estimation",
-    "count": 40,
+    "topic": "Action Recognition",
+    "count": 43,
     "rank": 19
   },
   {
-    "topic": "Audio Processing",
-    "count": 28,
+    "topic": "Depth Estimation",
+    "count": 39,
     "rank": 20
   }
 ]
