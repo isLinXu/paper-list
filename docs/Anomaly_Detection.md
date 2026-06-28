@@ -2,9 +2,9 @@
 
 Lane: **Vision Systems**
 
-Total papers: **2901**
+Total papers: **2900**
 
-Latest archive month: **2026-06** (1 papers)
+Latest archive month: **2026-04** (33 papers)
 
 Topic neighbors: [← Semantic Segmentation](Semantic_Segmentation.md) · [Object Tracking →](Object_Tracking.md)
 
@@ -14,7 +14,6 @@ This page is the monthly archive hub for **Anomaly Detection**. Start with the l
 
 ## Monthly Archives
 
-- [2026-06](Anomaly_Detection/2026-06.md) (1 papers)
 - [2026-04](Anomaly_Detection/2026-04.md) (33 papers)
 - [2026-03](Anomaly_Detection/2026-03.md) (171 papers)
 - [2026-02](Anomaly_Detection/2026-02.md) (100 papers)

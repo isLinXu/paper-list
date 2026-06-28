@@ -1,102 +1,102 @@
 [
   {
     "author": "Tao Liu",
-    "count": 16,
+    "count": 18,
     "rank": 1
   },
   {
     "author": "Hao Li",
-    "count": 12,
+    "count": 13,
     "rank": 2
+  },
+  {
+    "author": "Yu Zhang",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "author": "Yu Li",
+    "count": 12,
+    "rank": 4
   },
   {
     "author": "Hao Wang",
     "count": 11,
-    "rank": 3
+    "rank": 5
+  },
+  {
+    "author": "Yuan Gao",
+    "count": 11,
+    "rank": 6
   },
   {
     "author": "Saeid Jamshidi",
     "count": 11,
-    "rank": 4
+    "rank": 7
   },
   {
     "author": "Xiang Li",
     "count": 10,
-    "rank": 5
+    "rank": 8
   },
   {
-    "author": "Yu Li",
+    "author": "Yi Zhang",
     "count": 10,
-    "rank": 6
+    "rank": 9
   },
   {
     "author": "Yu Wang",
     "count": 10,
-    "rank": 7
+    "rank": 10
   },
   {
-    "author": "Yifan Wang",
+    "author": "Lei Wang",
     "count": 9,
-    "rank": 8
+    "rank": 11
   },
   {
     "author": "Yida Lin",
     "count": 9,
-    "rank": 9
-  },
-  {
-    "author": "Qihang Fan",
-    "count": 8,
-    "rank": 10
-  },
-  {
-    "author": "Yizhan Feng",
-    "count": 8,
-    "rank": 11
-  },
-  {
-    "author": "Yuxuan Li",
-    "count": 8,
     "rank": 12
   },
   {
     "author": "Jiahao Li",
-    "count": 8,
+    "count": 9,
     "rank": 13
   },
   {
-    "author": "Haoyu Wang",
+    "author": "Qihang Fan",
     "count": 8,
     "rank": 14
   },
   {
-    "author": "Wei Huang",
-    "count": 7,
+    "author": "Jun Wang",
+    "count": 8,
     "rank": 15
   },
   {
     "author": "Teerapong Panboonyuen",
-    "count": 7,
+    "count": 8,
     "rank": 16
   },
   {
-    "author": "Haichuan Li",
-    "count": 7,
+    "author": "Bin-Bin Gao",
+    "count": 8,
     "rank": 17
   },
   {
-    "author": "Yi Zhang",
-    "count": 7,
+    "author": "Yizhan Feng",
+    "count": 8,
     "rank": 18
   },
   {
-    "author": "Sen Wang",
-    "count": 7,
+    "author": "Yuxuan Li",
+    "count": 8,
     "rank": 19
   },
   {
-    "author": "Zhiwei Zhang",
-    "count": 7,
+    "author": "Haoyu Wang",
+    "count": 8,
     "rank": 20
   }
 ]

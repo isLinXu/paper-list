@@ -1,16 +1,12 @@
 {
-  "generated_at": "2026-06-27T01:15:56+00:00",
+  "generated_at": "2026-06-28T01:22:50+00:00",
   "topics": [
-    "AI Agent",
-    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
-    "Autonomous Driving",
     "Classification",
     "Depth Estimation",
     "Diffusion Models",
-    "Efficient AI",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
@@ -21,17 +17,14 @@
     "Object Tracking",
     "Optical Flow",
     "Pose Estimation",
-    "Reasoning",
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Time Series & Anomaly",
     "Transfer Learning",
-    "Video Understanding",
-    "World Models"
+    "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-06-25",
+  "max_date": "2026-04-30",
   "granularities": [
     "day",
     "month"

@@ -1,21 +1,21 @@
 topic,count,rank
-LLM,5461,1
-Transfer Learning,3767,2
-Reinforcement Learning,3000,3
-Image Generation,1577,4
-Classification,1200,5
-Graph Neural Networks,986,6
-Object Detection,980,7
-Anomaly Detection,933,8
-Semantic Segmentation,810,9
-Pose Estimation,733,10
-Audio Processing,694,11
-Scene Understanding,618,12
-Depth Estimation,486,13
-Multimodal,443,14
-Action Recognition,394,15
-Object Tracking,385,16
-Optical Flow,329,17
-Diffusion Models,191,18
-Video Understanding,128,19
-Latent Space LLM,74,20
+LLM,5754,1
+Transfer Learning,4053,2
+Reinforcement Learning,3343,3
+Image Generation,1903,4
+Classification,1447,5
+Graph Neural Networks,1298,6
+Object Detection,1235,7
+Anomaly Detection,1202,8
+Semantic Segmentation,1034,9
+Audio Processing,932,10
+Pose Estimation,862,11
+Scene Understanding,747,12
+Depth Estimation,571,13
+Multimodal,536,14
+Action Recognition,492,15
+Object Tracking,431,16
+Optical Flow,397,17
+Diffusion Models,166,18
+Video Understanding,118,19
+Neural Rendering,69,20
