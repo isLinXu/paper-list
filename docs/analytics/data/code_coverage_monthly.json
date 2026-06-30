@@ -378,6 +378,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Anomaly Detection",
+    "date": "2026-06",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Audio Processing",
     "date": "2024-02",
     "total": 14,
