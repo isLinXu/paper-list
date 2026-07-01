@@ -6,7 +6,7 @@ Total papers: **30**
 
 Latest archive month: **2026-06** (30 papers)
 
-Topic neighbors: [← Autonomous Driving](Autonomous_Driving.md) · [Reasoning →](Reasoning.md)
+Topic neighbors: [← Neural Rendering](Neural_Rendering.md) · [Reinforcement Learning →](Reinforcement_Learning.md)
 
 ### Autonomy
 

@@ -1,7 +1,102 @@
 [
   {
-    "author": "Lining Hu",
-    "count": 1,
+    "author": "Tuan-Duc Nguyen",
+    "count": 2,
     "rank": 1
+  },
+  {
+    "author": "Jiaqi Li",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "author": "Zhe Dong",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "author": "Xue Han",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "author": "Chao Tian",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "author": "Rama Y. AlHamidi",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "author": "Wentao Feng",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "author": "Juntao Jiang",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "author": "Kai Luo",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "author": "Sayantan Banerjee",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Elisabeth Rachith",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Berkin Ulukutlu",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Buyin Deng",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Felipe E. Valle",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Yisheng Fu",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Kexin Tian",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Mingyang Sun",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Yihao Wang",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Lingfeng Zhang",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Siddhant Bansal",
+    "count": 1,
+    "rank": 20
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
     "topic": "LLM",
-    "count": 621,
+    "count": 648,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 298,
+    "count": 255,
     "rank": 2
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 206,
+    "topic": "Diffusion Models",
+    "count": 193,
     "rank": 3
   },
   {
-    "topic": "Image Generation",
-    "count": 179,
+    "topic": "Reinforcement Learning",
+    "count": 185,
     "rank": 4
   },
   {
-    "topic": "Diffusion Models",
-    "count": 166,
+    "topic": "Image Generation",
+    "count": 176,
     "rank": 5
   },
   {
     "topic": "Video Understanding",
-    "count": 118,
+    "count": 126,
     "rank": 6
   },
   {
@@ -36,22 +36,22 @@
   },
   {
     "topic": "Object Detection",
-    "count": 83,
+    "count": 84,
     "rank": 8
   },
   {
-    "topic": "Classification",
-    "count": 72,
+    "topic": "Object Tracking",
+    "count": 81,
     "rank": 9
   },
   {
-    "topic": "Object Tracking",
-    "count": 72,
+    "topic": "Neural Rendering",
+    "count": 79,
     "rank": 10
   },
   {
-    "topic": "Neural Rendering",
-    "count": 69,
+    "topic": "Classification",
+    "count": 68,
     "rank": 11
   },
   {
@@ -60,23 +60,23 @@
     "rank": 12
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 44,
+    "topic": "Pose Estimation",
+    "count": 45,
     "rank": 13
   },
   {
-    "topic": "Pose Estimation",
-    "count": 42,
+    "topic": "AI Safety",
+    "count": 43,
     "rank": 14
   },
   {
     "topic": "Action Recognition",
-    "count": 40,
+    "count": 41,
     "rank": 15
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 40,
+    "topic": "Depth Estimation",
+    "count": 41,
     "rank": 16
   },
   {
@@ -85,18 +85,18 @@
     "rank": 17
   },
   {
-    "topic": "Depth Estimation",
-    "count": 39,
+    "topic": "Graph Neural Networks",
+    "count": 38,
     "rank": 18
   },
   {
-    "topic": "Audio Processing",
-    "count": 20,
+    "topic": "Anomaly Detection",
+    "count": 35,
     "rank": 19
   },
   {
-    "topic": "Optical Flow",
-    "count": 18,
+    "topic": "World Models",
+    "count": 30,
     "rank": 20
   }
 ]
