@@ -2,9 +2,9 @@
 
 Lane: **Agent & Driving**
 
-Total papers: **30**
+Total papers: **28**
 
-Latest archive month: **2026-06** (30 papers)
+Latest archive month: **2026-06** (28 papers)
 
 Topic neighbors: [← Neural Rendering](Neural_Rendering.md) · [Reinforcement Learning →](Reinforcement_Learning.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **World Models**. Start with the latest
 
 ## Monthly Archives
 
-- [2026-06](World_Models/2026-06.md) (30 papers)
+- [2026-06](World_Models/2026-06.md) (28 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
