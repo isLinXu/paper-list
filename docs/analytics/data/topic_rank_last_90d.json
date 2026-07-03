@@ -1,37 +1,37 @@
 [
   {
     "topic": "LLM",
-    "count": 564,
+    "count": 480,
     "rank": 1
   },
   {
-    "topic": "Transfer Learning",
-    "count": 204,
+    "topic": "Diffusion Models",
+    "count": 207,
     "rank": 2
   },
   {
-    "topic": "Diffusion Models",
-    "count": 189,
+    "topic": "Image Generation",
+    "count": 176,
     "rank": 3
   },
   {
-    "topic": "Image Generation",
-    "count": 175,
+    "topic": "Transfer Learning",
+    "count": 166,
     "rank": 4
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 155,
+    "topic": "Video Understanding",
+    "count": 137,
     "rank": 5
   },
   {
-    "topic": "Video Understanding",
-    "count": 127,
+    "topic": "Reinforcement Learning",
+    "count": 126,
     "rank": 6
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 101,
+    "count": 97,
     "rank": 7
   },
   {
@@ -40,63 +40,63 @@
     "rank": 8
   },
   {
-    "topic": "Object Tracking",
-    "count": 75,
+    "topic": "Neural Rendering",
+    "count": 85,
     "rank": 9
   },
   {
-    "topic": "Neural Rendering",
-    "count": 75,
+    "topic": "Object Tracking",
+    "count": 80,
     "rank": 10
   },
   {
-    "topic": "Classification",
+    "topic": "World Models",
     "count": 74,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 56,
+    "topic": "Classification",
+    "count": 67,
     "rank": 12
+  },
+  {
+    "topic": "Scene Understanding",
+    "count": 59,
+    "rank": 13
+  },
+  {
+    "topic": "Multimodal",
+    "count": 51,
+    "rank": 14
   },
   {
     "topic": "Action Recognition",
     "count": 41,
-    "rank": 13
+    "rank": 15
   },
   {
     "topic": "Latent Space LLM",
     "count": 40,
-    "rank": 14
-  },
-  {
-    "topic": "Pose Estimation",
-    "count": 38,
-    "rank": 15
-  },
-  {
-    "topic": "AI Safety",
-    "count": 38,
     "rank": 16
   },
   {
-    "topic": "Depth Estimation",
-    "count": 37,
+    "topic": "Pose Estimation",
+    "count": 36,
     "rank": 17
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 32,
+    "topic": "Depth Estimation",
+    "count": 36,
     "rank": 18
   },
   {
-    "topic": "Multimodal",
-    "count": 28,
+    "topic": "Graph Neural Networks",
+    "count": 22,
     "rank": 19
   },
   {
     "topic": "Anomaly Detection",
-    "count": 28,
+    "count": 20,
     "rank": 20
   }
 ]

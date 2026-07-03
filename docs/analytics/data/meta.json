@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-07-02T01:39:46+00:00",
+  "generated_at": "2026-07-03T02:43:26+00:00",
   "topics": [
-    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
@@ -21,13 +20,12 @@
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Time Series & Anomaly",
     "Transfer Learning",
     "Video Understanding",
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-06-30",
+  "max_date": "2026-07-02",
   "granularities": [
     "day",
     "month"

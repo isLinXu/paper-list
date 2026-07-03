@@ -1,102 +1,82 @@
 [
   {
     "topic": "LLM",
-    "count": 94,
+    "count": 93,
     "rank": 1
   },
   {
-    "topic": "AI Safety",
-    "count": 38,
+    "topic": "World Models",
+    "count": 74,
     "rank": 2
   },
   {
-    "topic": "World Models",
-    "count": 28,
+    "topic": "Multimodal",
+    "count": 46,
     "rank": 3
   },
   {
     "topic": "Diffusion Models",
-    "count": 23,
+    "count": 41,
     "rank": 4
   },
   {
-    "topic": "Multimodal",
-    "count": 21,
+    "topic": "Video Understanding",
+    "count": 19,
     "rank": 5
   },
   {
     "topic": "Image Generation",
-    "count": 12,
+    "count": 18,
     "rank": 6
   },
   {
-    "topic": "Object Detection",
-    "count": 10,
+    "topic": "Neural Rendering",
+    "count": 16,
     "rank": 7
   },
   {
-    "topic": "Video Understanding",
-    "count": 9,
+    "topic": "Object Detection",
+    "count": 14,
     "rank": 8
+  },
+  {
+    "topic": "Object Tracking",
+    "count": 14,
+    "rank": 9
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "count": 11,
+    "rank": 10
+  },
+  {
+    "topic": "Scene Understanding",
+    "count": 10,
+    "rank": 11
   },
   {
     "topic": "Classification",
     "count": 8,
-    "rank": 9
-  },
-  {
-    "topic": "Audio Processing",
-    "count": 8,
-    "rank": 10
-  },
-  {
-    "topic": "Semantic Segmentation",
-    "count": 6,
-    "rank": 11
-  },
-  {
-    "topic": "Graph Neural Networks",
-    "count": 6,
     "rank": 12
   },
   {
-    "topic": "Neural Rendering",
-    "count": 6,
+    "topic": "Action Recognition",
+    "count": 4,
     "rank": 13
   },
   {
-    "topic": "Object Tracking",
-    "count": 5,
+    "topic": "Depth Estimation",
+    "count": 4,
     "rank": 14
   },
   {
-    "topic": "Scene Understanding",
-    "count": 5,
-    "rank": 15
-  },
-  {
-    "topic": "Time Series & Anomaly",
-    "count": 5,
-    "rank": 16
-  },
-  {
-    "topic": "Action Recognition",
+    "topic": "Pose Estimation",
     "count": 3,
-    "rank": 17
-  },
-  {
-    "topic": "Depth Estimation",
-    "count": 2,
-    "rank": 18
+    "rank": 15
   },
   {
     "topic": "Optical Flow",
     "count": 2,
-    "rank": 19
-  },
-  {
-    "topic": "Pose Estimation",
-    "count": 1,
-    "rank": 20
+    "rank": 16
   }
 ]
