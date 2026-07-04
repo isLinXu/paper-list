@@ -2,9 +2,9 @@
 
 Lane: **Vision Systems**
 
-Total papers: **2679**
+Total papers: **2676**
 
-Latest archive month: **2026-07** (11 papers)
+Latest archive month: **2026-07** (8 papers)
 
 Topic neighbors: [← Object Detection](Object_Detection.md) · [Anomaly Detection →](Anomaly_Detection.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Semantic Segmentation**. Start with t
 
 ## Monthly Archives
 
-- [2026-07](Semantic_Segmentation/2026-07.md) (11 papers)
+- [2026-07](Semantic_Segmentation/2026-07.md) (8 papers)
 - [2026-04](Semantic_Segmentation/2026-04.md) (99 papers)
 - [2026-03](Semantic_Segmentation/2026-03.md) (112 papers)
 - [2026-02](Semantic_Segmentation/2026-02.md) (81 papers)

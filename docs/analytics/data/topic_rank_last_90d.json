@@ -1,17 +1,17 @@
 [
   {
     "topic": "LLM",
-    "count": 480,
+    "count": 481,
     "rank": 1
   },
   {
     "topic": "Diffusion Models",
-    "count": 207,
+    "count": 186,
     "rank": 2
   },
   {
     "topic": "Image Generation",
-    "count": 176,
+    "count": 166,
     "rank": 3
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "topic": "Video Understanding",
-    "count": 137,
+    "count": 131,
     "rank": 5
   },
   {
@@ -31,72 +31,72 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 97,
+    "count": 94,
     "rank": 7
   },
   {
     "topic": "Object Detection",
-    "count": 87,
+    "count": 84,
     "rank": 8
   },
   {
     "topic": "Neural Rendering",
-    "count": 85,
+    "count": 77,
     "rank": 9
   },
   {
     "topic": "Object Tracking",
-    "count": 80,
+    "count": 72,
     "rank": 10
   },
   {
-    "topic": "World Models",
-    "count": 74,
+    "topic": "Classification",
+    "count": 63,
     "rank": 11
   },
   {
-    "topic": "Classification",
-    "count": 67,
-    "rank": 12
-  },
-  {
     "topic": "Scene Understanding",
-    "count": 59,
-    "rank": 13
-  },
-  {
-    "topic": "Multimodal",
-    "count": 51,
-    "rank": 14
-  },
-  {
-    "topic": "Action Recognition",
-    "count": 41,
-    "rank": 15
+    "count": 53,
+    "rank": 12
   },
   {
     "topic": "Latent Space LLM",
     "count": 40,
-    "rank": 16
+    "rank": 13
+  },
+  {
+    "topic": "Action Recognition",
+    "count": 38,
+    "rank": 14
   },
   {
     "topic": "Pose Estimation",
     "count": 36,
-    "rank": 17
+    "rank": 15
   },
   {
     "topic": "Depth Estimation",
-    "count": 36,
+    "count": 34,
+    "rank": 16
+  },
+  {
+    "topic": "AI Agent",
+    "count": 30,
+    "rank": 17
+  },
+  {
+    "topic": "World Models",
+    "count": 25,
     "rank": 18
   },
   {
-    "topic": "Graph Neural Networks",
+    "topic": "Multimodal",
     "count": 22,
     "rank": 19
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 20,
+    "topic": "Graph Neural Networks",
+    "count": 22,
     "rank": 20
   }
 ]
