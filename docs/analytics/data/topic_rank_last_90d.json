@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 481,
+    "count": 2509,
     "rank": 1
   },
   {
-    "topic": "Diffusion Models",
-    "count": 186,
+    "topic": "Transfer Learning",
+    "count": 1626,
     "rank": 2
   },
   {
-    "topic": "Image Generation",
-    "count": 166,
+    "topic": "Reinforcement Learning",
+    "count": 1122,
     "rank": 3
   },
   {
-    "topic": "Transfer Learning",
-    "count": 166,
+    "topic": "Image Generation",
+    "count": 742,
     "rank": 4
   },
   {
-    "topic": "Video Understanding",
-    "count": 131,
+    "topic": "Object Detection",
+    "count": 332,
     "rank": 5
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 126,
+    "topic": "Anomaly Detection",
+    "count": 308,
     "rank": 6
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 94,
+    "topic": "Graph Neural Networks",
+    "count": 299,
     "rank": 7
   },
   {
-    "topic": "Object Detection",
-    "count": 84,
+    "topic": "Semantic Segmentation",
+    "count": 295,
     "rank": 8
   },
   {
-    "topic": "Neural Rendering",
-    "count": 77,
+    "topic": "Classification",
+    "count": 287,
     "rank": 9
   },
   {
-    "topic": "Object Tracking",
-    "count": 72,
+    "topic": "Audio Processing",
+    "count": 204,
     "rank": 10
   },
   {
-    "topic": "Classification",
-    "count": 63,
+    "topic": "Pose Estimation",
+    "count": 182,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 53,
+    "topic": "Diffusion Models",
+    "count": 166,
     "rank": 12
   },
   {
-    "topic": "Latent Space LLM",
-    "count": 40,
+    "topic": "Scene Understanding",
+    "count": 148,
     "rank": 13
   },
   {
-    "topic": "Action Recognition",
-    "count": 38,
+    "topic": "Video Understanding",
+    "count": 118,
     "rank": 14
   },
   {
-    "topic": "Pose Estimation",
-    "count": 36,
+    "topic": "Depth Estimation",
+    "count": 116,
     "rank": 15
   },
   {
-    "topic": "Depth Estimation",
-    "count": 34,
+    "topic": "Object Tracking",
+    "count": 115,
     "rank": 16
   },
   {
-    "topic": "AI Agent",
-    "count": 30,
+    "topic": "Action Recognition",
+    "count": 91,
     "rank": 17
   },
   {
-    "topic": "World Models",
-    "count": 25,
+    "topic": "Multimodal",
+    "count": 69,
     "rank": 18
   },
   {
-    "topic": "Multimodal",
-    "count": 22,
+    "topic": "Neural Rendering",
+    "count": 69,
     "rank": 19
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 22,
+    "topic": "Optical Flow",
+    "count": 62,
     "rank": 20
   }
 ]
