@@ -2,9 +2,9 @@
 
 Lane: **Frontier Guard**
 
-Total papers: **14**
+Total papers: **39**
 
-Latest archive month: **2026-06** (14 papers)
+Latest archive month: **2026-07** (39 papers)
 
 Topic neighbors: [← AI Safety](AI_Safety.md) · [Audio Processing →](Audio_Processing.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Efficient AI**. Start with the latest
 
 ## Monthly Archives
 
-- [2026-06](Efficient_AI/2026-06.md) (14 papers)
+- [2026-07](Efficient_AI/2026-07.md) (39 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
