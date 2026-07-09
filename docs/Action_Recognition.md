@@ -2,9 +2,9 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **1154**
+Total papers: **1150**
 
-Latest archive month: **2026-07** (5 papers)
+Latest archive month: **2026-07** (1 papers)
 
 Topic neighbors: [← Object Tracking](Object_Tracking.md) · [Pose Estimation →](Pose_Estimation.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Action Recognition**. Start with the 
 
 ## Monthly Archives
 
-- [2026-07](Action_Recognition/2026-07.md) (5 papers)
+- [2026-07](Action_Recognition/2026-07.md) (1 papers)
 - [2026-04](Action_Recognition/2026-04.md) (39 papers)
 - [2026-03](Action_Recognition/2026-03.md) (36 papers)
 - [2026-02](Action_Recognition/2026-02.md) (16 papers)

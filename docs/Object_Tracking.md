@@ -2,9 +2,9 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **893**
+Total papers: **886**
 
-Latest archive month: **2026-07** (16 papers)
+Latest archive month: **2026-07** (9 papers)
 
 Topic neighbors: [← Anomaly Detection](Anomaly_Detection.md) · [Action Recognition →](Action_Recognition.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Object Tracking**. Start with the lat
 
 ## Monthly Archives
 
-- [2026-07](Object_Tracking/2026-07.md) (16 papers)
+- [2026-07](Object_Tracking/2026-07.md) (9 papers)
 - [2026-04](Object_Tracking/2026-04.md) (72 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
 - [2026-02](Object_Tracking/2026-02.md) (16 papers)

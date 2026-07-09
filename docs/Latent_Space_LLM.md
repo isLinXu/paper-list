@@ -2,9 +2,9 @@
 
 Lane: **Generative Layer**
 
-Total papers: **40**
+Total papers: **82**
 
-Latest archive month: **2026-04** (40 papers)
+Latest archive month: **2026-07** (42 papers)
 
 Topic neighbors: [← LLM](LLM.md) · [Multimodal →](Multimodal.md)
 
@@ -14,6 +14,7 @@ This page is the monthly archive hub for **Latent Space LLM**. Start with the la
 
 ## Monthly Archives
 
+- [2026-07](Latent_Space_LLM/2026-07.md) (42 papers)
 - [2026-04](Latent_Space_LLM/2026-04.md) (40 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>

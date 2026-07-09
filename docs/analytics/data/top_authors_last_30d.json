@@ -1,26 +1,26 @@
 [
   {
-    "author": "Manish Kolachalam",
-    "count": 2,
+    "author": "Audris Mockus",
+    "count": 3,
     "rank": 1
   },
   {
-    "author": "Pin Tang",
+    "author": "Hao Kong",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Mohammadreza Kasaei",
+    "author": "Xing Zhang",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Hanan Gani",
+    "author": "Yi Yang",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Rohit Mehra",
+    "author": "Anna Córdoba",
     "count": 2,
     "rank": 5
   },
@@ -30,72 +30,72 @@
     "rank": 6
   },
   {
-    "author": "Rakesh Podder",
+    "author": "Zhenghao Zhou",
     "count": 2,
     "rank": 7
   },
   {
-    "author": "H. Chad Lane",
+    "author": "Haoyu Zhao",
     "count": 2,
     "rank": 8
   },
   {
-    "author": "Victor-Alexandru Pădurean",
+    "author": "Mohammadreza Rashidi",
     "count": 2,
     "rank": 9
   },
   {
-    "author": "Mohammadreza Rashidi",
+    "author": "Vladislav Beliaev",
     "count": 2,
     "rank": 10
   },
   {
-    "author": "Xue Qin",
+    "author": "Hyung-Jin Yoon",
     "count": 2,
     "rank": 11
   },
   {
-    "author": "Audris Mockus",
+    "author": "Gunner Levi Howe",
     "count": 2,
     "rank": 12
   },
   {
-    "author": "BESIII Collaboration",
-    "count": 2,
+    "author": "Ana Schwengber Kelm",
+    "count": 1,
     "rank": 13
   },
   {
-    "author": "Gunner Levi Howe",
-    "count": 2,
+    "author": "Tonmoy Hossain",
+    "count": 1,
     "rank": 14
   },
   {
-    "author": "Qiuyi Qi",
-    "count": 2,
+    "author": "Abhay Kumar Pathak",
+    "count": 1,
     "rank": 15
   },
   {
-    "author": "Alessandra Ibba",
+    "author": "Michael King",
     "count": 1,
     "rank": 16
   },
   {
-    "author": "Hong Lyu",
+    "author": "Xiaolong Huang",
     "count": 1,
     "rank": 17
   },
   {
-    "author": "Hamza Hussaini",
+    "author": "Cong Su",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Yanxiong Li",
+    "author": "Alessandra Ibba",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Robin Holzinger",
+    "author": "Hong Lyu",
     "count": 1,
     "rank": 20
   }

@@ -1,21 +1,21 @@
 topic,count,rank
-LLM,96,1
-AI Safety,76,2
-Autonomous Driving,65,3
-AI Agent,61,4
-Reasoning,53,5
-Reinforcement Learning,52,6
-Transfer Learning,42,7
-Diffusion Models,40,8
-World Models,40,9
-Efficient AI,39,10
-Multimodal,35,11
-Time Series & Anomaly,18,12
-Object Tracking,16,13
-Audio Processing,15,14
-Video Understanding,14,15
-Image Generation,13,16
-Scene Understanding,10,17
-Classification,9,18
-Object Detection,8,19
-Semantic Segmentation,7,20
+LLM,91,1
+AI Safety,82,2
+Reinforcement Learning,59,3
+Reasoning,58,4
+World Models,57,5
+AI Agent,52,6
+Transfer Learning,51,7
+Multimodal,46,8
+Latent Space LLM,42,9
+Diffusion Models,36,10
+Image Generation,18,11
+Audio Processing,17,12
+Classification,15,13
+Video Understanding,14,14
+Time Series & Anomaly,11,15
+Semantic Segmentation,10,16
+Object Tracking,9,17
+Pose Estimation,7,18
+Scene Understanding,7,19
+Object Detection,3,20

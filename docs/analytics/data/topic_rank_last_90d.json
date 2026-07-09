@@ -1,102 +1,102 @@
 [
   {
-    "topic": "LLM",
-    "count": 211,
+    "topic": "Diffusion Models",
+    "count": 202,
     "rank": 1
   },
   {
-    "topic": "Diffusion Models",
-    "count": 206,
-    "rank": 2
-  },
-  {
     "topic": "Image Generation",
-    "count": 146,
-    "rank": 3
+    "count": 139,
+    "rank": 2
   },
   {
     "topic": "Video Understanding",
     "count": 132,
-    "rank": 4
+    "rank": 3
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 93,
-    "rank": 5
-  },
-  {
-    "topic": "Transfer Learning",
+    "topic": "LLM",
     "count": 91,
-    "rank": 6
+    "rank": 4
   },
   {
     "topic": "Semantic Segmentation",
     "count": 83,
-    "rank": 7
-  },
-  {
-    "topic": "Object Tracking",
-    "count": 80,
-    "rank": 8
+    "rank": 5
   },
   {
     "topic": "AI Safety",
-    "count": 76,
+    "count": 82,
+    "rank": 6
+  },
+  {
+    "topic": "Object Tracking",
+    "count": 73,
+    "rank": 7
+  },
+  {
+    "topic": "Neural Rendering",
+    "count": 71,
+    "rank": 8
+  },
+  {
+    "topic": "Classification",
+    "count": 63,
     "rank": 9
   },
   {
     "topic": "Object Detection",
-    "count": 74,
+    "count": 62,
     "rank": 10
   },
   {
-    "topic": "Neural Rendering",
-    "count": 74,
+    "topic": "Reinforcement Learning",
+    "count": 59,
     "rank": 11
   },
   {
-    "topic": "Autonomous Driving",
-    "count": 65,
+    "topic": "Reasoning",
+    "count": 58,
     "rank": 12
   },
   {
-    "topic": "Classification",
-    "count": 64,
+    "topic": "World Models",
+    "count": 57,
     "rank": 13
   },
   {
     "topic": "AI Agent",
-    "count": 61,
+    "count": 52,
     "rank": 14
   },
   {
     "topic": "Scene Understanding",
-    "count": 57,
+    "count": 51,
     "rank": 15
   },
   {
-    "topic": "Reasoning",
-    "count": 53,
+    "topic": "Transfer Learning",
+    "count": 51,
     "rank": 16
   },
   {
-    "topic": "World Models",
-    "count": 40,
+    "topic": "Multimodal",
+    "count": 46,
     "rank": 17
   },
   {
-    "topic": "Efficient AI",
-    "count": 39,
+    "topic": "Latent Space LLM",
+    "count": 42,
     "rank": 18
   },
   {
     "topic": "Action Recognition",
-    "count": 38,
+    "count": 33,
     "rank": 19
   },
   {
-    "topic": "Multimodal",
-    "count": 35,
+    "topic": "Pose Estimation",
+    "count": 31,
     "rank": 20
   }
 ]
