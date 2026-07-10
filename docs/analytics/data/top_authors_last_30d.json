@@ -1,101 +1,101 @@
 [
   {
-    "author": "Audris Mockus",
-    "count": 3,
+    "author": "Yi Yang",
+    "count": 2,
     "rank": 1
   },
   {
-    "author": "Hao Kong",
+    "author": "Lan Gao",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Xing Zhang",
+    "author": "Swagata Acharya",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Yi Yang",
+    "author": "Hyung-Jin Yoon",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Anna Córdoba",
-    "count": 2,
+    "author": "Xia Cui",
+    "count": 1,
     "rank": 5
   },
   {
-    "author": "Ho-Lam Chung",
-    "count": 2,
+    "author": "Hong Zhao",
+    "count": 1,
     "rank": 6
   },
   {
-    "author": "Zhenghao Zhou",
-    "count": 2,
+    "author": "Kianoosh Ashouritaklimi",
+    "count": 1,
     "rank": 7
-  },
-  {
-    "author": "Haoyu Zhao",
-    "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Mohammadreza Rashidi",
-    "count": 2,
-    "rank": 9
-  },
-  {
-    "author": "Vladislav Beliaev",
-    "count": 2,
-    "rank": 10
-  },
-  {
-    "author": "Hyung-Jin Yoon",
-    "count": 2,
-    "rank": 11
-  },
-  {
-    "author": "Gunner Levi Howe",
-    "count": 2,
-    "rank": 12
   },
   {
     "author": "Ana Schwengber Kelm",
     "count": 1,
-    "rank": 13
+    "rank": 8
   },
   {
     "author": "Tonmoy Hossain",
     "count": 1,
-    "rank": 14
+    "rank": 9
+  },
+  {
+    "author": "Kumari Jyoti",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Hao Kong",
+    "count": 1,
+    "rank": 11
   },
   {
     "author": "Abhay Kumar Pathak",
     "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "ZhiXin Sun",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Ahmet Soyyigit",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Qishun Wang",
+    "count": 1,
     "rank": 15
   },
   {
-    "author": "Michael King",
+    "author": "Wenhao Dong",
     "count": 1,
     "rank": 16
   },
   {
-    "author": "Xiaolong Huang",
+    "author": "Trong-Thuan Nguyen",
     "count": 1,
     "rank": 17
   },
   {
-    "author": "Cong Su",
+    "author": "Shail Jadav",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Alessandra Ibba",
+    "author": "Zihao Zhang",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Hong Lyu",
+    "author": "Yilong Chen",
     "count": 1,
     "rank": 20
   }

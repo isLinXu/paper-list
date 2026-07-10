@@ -10,32 +10,32 @@
     "rank": 2
   },
   {
-    "author": "Wenhao Li",
-    "count": 4,
-    "rank": 3
-  },
-  {
     "author": "Qihang Fan",
     "count": 3,
-    "rank": 4
+    "rank": 3
   },
   {
     "author": "Fady Ibrahim",
     "count": 3,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Anders Malthe Westerkam",
     "count": 3,
-    "rank": 6
+    "rank": 5
   },
   {
     "author": "Enrico Francesco Giannico",
     "count": 3,
-    "rank": 7
+    "rank": 6
   },
   {
     "author": "Ella P. Fokkinga",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "author": "Wenhao Li",
     "count": 3,
     "rank": 8
   },
@@ -90,12 +90,12 @@
     "rank": 18
   },
   {
-    "author": "Audris Mockus",
+    "author": "Xinliang Wang",
     "count": 3,
     "rank": 19
   },
   {
-    "author": "Xinliang Wang",
+    "author": "Songen Gu",
     "count": 3,
     "rank": 20
   }

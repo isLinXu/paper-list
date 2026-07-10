@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:46:41+00:00",
+  "generated_at": "2026-07-10T02:34:38+00:00",
   "topics": [
     "AI Agent",
     "AI Safety",
@@ -9,6 +9,7 @@
     "Classification",
     "Depth Estimation",
     "Diffusion Models",
+    "Efficient AI",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
@@ -23,13 +24,12 @@
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Time Series & Anomaly",
     "Transfer Learning",
     "Video Understanding",
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-07-08",
+  "max_date": "2026-07-09",
   "granularities": [
     "day",
     "month"
