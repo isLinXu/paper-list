@@ -1,102 +1,102 @@
 [
   {
     "topic": "Diffusion Models",
-    "count": 195,
+    "count": 182,
     "rank": 1
   },
   {
     "topic": "Image Generation",
-    "count": 138,
+    "count": 129,
     "rank": 2
   },
   {
     "topic": "Video Understanding",
-    "count": 131,
+    "count": 125,
     "rank": 3
   },
   {
-    "topic": "LLM",
-    "count": 94,
-    "rank": 4
-  },
-  {
     "topic": "Semantic Segmentation",
-    "count": 82,
-    "rank": 5
-  },
-  {
-    "topic": "AI Safety",
-    "count": 81,
-    "rank": 6
-  },
-  {
-    "topic": "Object Tracking",
     "count": 75,
-    "rank": 7
+    "rank": 4
   },
   {
     "topic": "Neural Rendering",
     "count": 72,
-    "rank": 8
+    "rank": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "count": 71,
+    "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 67,
-    "rank": 9
+    "count": 64,
+    "rank": 7
   },
   {
     "topic": "Reasoning",
     "count": 62,
-    "rank": 10
+    "rank": 8
+  },
+  {
+    "topic": "LLM",
+    "count": 61,
+    "rank": 9
   },
   {
     "topic": "Classification",
-    "count": 56,
+    "count": 51,
+    "rank": 10
+  },
+  {
+    "topic": "Transfer Learning",
+    "count": 47,
     "rank": 11
   },
   {
-    "topic": "World Models",
-    "count": 55,
+    "topic": "Scene Understanding",
+    "count": 45,
     "rank": 12
   },
   {
-    "topic": "Scene Understanding",
-    "count": 47,
+    "topic": "Action Recognition",
+    "count": 33,
     "rank": 13
   },
   {
-    "topic": "AI Agent",
-    "count": 40,
+    "topic": "AI Safety",
+    "count": 31,
     "rank": 14
   },
   {
-    "topic": "Action Recognition",
-    "count": 34,
+    "topic": "Pose Estimation",
+    "count": 27,
     "rank": 15
   },
   {
-    "topic": "Pose Estimation",
-    "count": 31,
+    "topic": "Depth Estimation",
+    "count": 19,
     "rank": 16
   },
   {
-    "topic": "Multimodal",
-    "count": 29,
+    "topic": "World Models",
+    "count": 18,
     "rank": 17
   },
   {
-    "topic": "Efficient AI",
-    "count": 26,
+    "topic": "Reinforcement Learning",
+    "count": 16,
     "rank": 18
   },
   {
-    "topic": "Depth Estimation",
-    "count": 20,
+    "topic": "AI Agent",
+    "count": 12,
     "rank": 19
   },
   {
-    "topic": "Audio Processing",
-    "count": 18,
+    "topic": "Optical Flow",
+    "count": 9,
     "rank": 20
   }
 ]

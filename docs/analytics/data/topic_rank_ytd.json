@@ -1,22 +1,22 @@
 [
   {
     "topic": "LLM",
-    "count": 4020,
+    "count": 3987,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 2685,
+    "count": 2732,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 1916,
+    "count": 1932,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 994,
+    "count": 985,
     "rank": 4
   },
   {
@@ -26,77 +26,77 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 463,
+    "count": 462,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 438,
+    "count": 435,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 401,
+    "count": 396,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 386,
+    "count": 379,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 335,
+    "count": 325,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 232,
+    "count": 228,
     "rank": 11
   },
   {
-    "topic": "Diffusion Models",
-    "count": 195,
+    "topic": "Scene Understanding",
+    "count": 187,
     "rank": 12
   },
   {
-    "topic": "Scene Understanding",
-    "count": 189,
+    "topic": "Diffusion Models",
+    "count": 182,
     "rank": 13
   },
   {
     "topic": "Depth Estimation",
-    "count": 149,
+    "count": 148,
     "rank": 14
   },
   {
     "topic": "Object Tracking",
-    "count": 139,
+    "count": 135,
     "rank": 15
   },
   {
-    "topic": "Multimodal",
-    "count": 138,
+    "topic": "Action Recognition",
+    "count": 135,
     "rank": 16
   },
   {
-    "topic": "Action Recognition",
-    "count": 136,
+    "topic": "Video Understanding",
+    "count": 125,
     "rank": 17
   },
   {
-    "topic": "Video Understanding",
-    "count": 131,
+    "topic": "Multimodal",
+    "count": 117,
     "rank": 18
   },
   {
-    "topic": "AI Safety",
-    "count": 81,
+    "topic": "Optical Flow",
+    "count": 78,
     "rank": 19
   },
   {
-    "topic": "Optical Flow",
-    "count": 80,
+    "topic": "Neural Rendering",
+    "count": 72,
     "rank": 20
   }
 ]

@@ -1,18 +1,8 @@
 [
   {
     "topic": "AI Agent",
-    "date": "2026-07-08",
-    "count": 28
-  },
-  {
-    "topic": "AI Agent",
     "date": "2026-07-09",
     "count": 12
-  },
-  {
-    "topic": "AI Safety",
-    "date": "2026-07-08",
-    "count": 50
   },
   {
     "topic": "AI Safety",
@@ -2886,11 +2876,6 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-07-08",
-    "count": 1
-  },
-  {
-    "topic": "Action Recognition",
     "date": "2026-07-09",
     "count": 1
   },
@@ -9043,11 +9028,6 @@
     "topic": "Audio Processing",
     "date": "2026-04-09",
     "count": 2
-  },
-  {
-    "topic": "Audio Processing",
-    "date": "2026-07-08",
-    "count": 10
   },
   {
     "topic": "Audio Processing",
@@ -12601,11 +12581,6 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-07-08",
-    "count": 5
-  },
-  {
-    "topic": "Classification",
     "date": "2026-07-09",
     "count": 3
   },
@@ -15486,11 +15461,6 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-07-08",
-    "count": 1
-  },
-  {
-    "topic": "Depth Estimation",
     "date": "2026-07-09",
     "count": 2
   },
@@ -15546,18 +15516,8 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-07-08",
-    "count": 13
-  },
-  {
-    "topic": "Diffusion Models",
     "date": "2026-07-09",
     "count": 16
-  },
-  {
-    "topic": "Efficient AI",
-    "date": "2026-07-08",
-    "count": 18
   },
   {
     "topic": "Efficient AI",
@@ -18421,11 +18381,6 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "date": "2026-07-08",
-    "count": 1
-  },
-  {
-    "topic": "Graph Neural Networks",
     "date": "2026-07-09",
     "count": 2
   },
@@ -21211,11 +21166,6 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-07-08",
-    "count": 9
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-07-09",
     "count": 8
   },
@@ -23328,11 +23278,6 @@
     "topic": "LLM",
     "date": "2026-04-09",
     "count": 115
-  },
-  {
-    "topic": "LLM",
-    "date": "2026-07-08",
-    "count": 33
   },
   {
     "topic": "LLM",
@@ -25793,11 +25738,6 @@
     "topic": "Multimodal",
     "date": "2026-04-07",
     "count": 5
-  },
-  {
-    "topic": "Multimodal",
-    "date": "2026-07-08",
-    "count": 21
   },
   {
     "topic": "Multimodal",
@@ -29001,11 +28941,6 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-07-08",
-    "count": 3
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-07-09",
     "count": 5
   },
@@ -31363,11 +31298,6 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-07-08",
-    "count": 4
   },
   {
     "topic": "Object Tracking",
@@ -33753,11 +33683,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-07-08",
-    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -37121,11 +37046,6 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-07-08",
-    "count": 4
-  },
-  {
-    "topic": "Pose Estimation",
     "date": "2026-07-09",
     "count": 3
   },
@@ -39348,6 +39268,11 @@
     "topic": "Reinforcement Learning",
     "date": "2026-04-09",
     "count": 41
+  },
+  {
+    "topic": "Reinforcement Learning",
+    "date": "2026-07-09",
+    "count": 16
   },
   {
     "topic": "Scene Understanding",
@@ -42271,11 +42196,6 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-07-08",
-    "count": 2
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-07-09",
     "count": 1
   },
@@ -45481,13 +45401,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-07-08",
-    "count": 7
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-07-09",
     "count": 2
+  },
+  {
+    "topic": "Time Series & Anomaly",
+    "date": "2026-07-09",
+    "count": 5
   },
   {
     "topic": "Transfer Learning",
@@ -48175,6 +48095,11 @@
     "count": 49
   },
   {
+    "topic": "Transfer Learning",
+    "date": "2026-07-09",
+    "count": 47
+  },
+  {
     "topic": "Video Understanding",
     "date": "2026-04-13",
     "count": 13
@@ -48236,18 +48161,8 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-07-08",
-    "count": 6
-  },
-  {
-    "topic": "Video Understanding",
     "date": "2026-07-09",
     "count": 7
-  },
-  {
-    "topic": "World Models",
-    "date": "2026-07-08",
-    "count": 37
   },
   {
     "topic": "World Models",

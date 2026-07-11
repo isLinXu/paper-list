@@ -1,101 +1,101 @@
 [
   {
-    "author": "Yi Yang",
+    "author": "Swagata Acharya",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Lan Gao",
-    "count": 2,
-    "rank": 2
-  },
-  {
-    "author": "Swagata Acharya",
-    "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Hyung-Jin Yoon",
-    "count": 2,
-    "rank": 4
-  },
-  {
     "author": "Xia Cui",
     "count": 1,
-    "rank": 5
+    "rank": 2
   },
   {
     "author": "Hong Zhao",
     "count": 1,
-    "rank": 6
+    "rank": 3
   },
   {
     "author": "Kianoosh Ashouritaklimi",
     "count": 1,
-    "rank": 7
-  },
-  {
-    "author": "Ana Schwengber Kelm",
-    "count": 1,
-    "rank": 8
-  },
-  {
-    "author": "Tonmoy Hossain",
-    "count": 1,
-    "rank": 9
-  },
-  {
-    "author": "Kumari Jyoti",
-    "count": 1,
-    "rank": 10
-  },
-  {
-    "author": "Hao Kong",
-    "count": 1,
-    "rank": 11
-  },
-  {
-    "author": "Abhay Kumar Pathak",
-    "count": 1,
-    "rank": 12
+    "rank": 4
   },
   {
     "author": "ZhiXin Sun",
     "count": 1,
-    "rank": 13
+    "rank": 5
   },
   {
     "author": "Ahmet Soyyigit",
     "count": 1,
-    "rank": 14
+    "rank": 6
   },
   {
     "author": "Qishun Wang",
     "count": 1,
-    "rank": 15
+    "rank": 7
   },
   {
     "author": "Wenhao Dong",
     "count": 1,
-    "rank": 16
+    "rank": 8
   },
   {
     "author": "Trong-Thuan Nguyen",
     "count": 1,
+    "rank": 9
+  },
+  {
+    "author": "Hyeonseop Song",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Mingyu Dou",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Tomasz Stanczyk",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Kuilong Yang",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Tianyi Song",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Roba H. Farouk",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Noah Jaitner",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Yiyue Xiang",
+    "count": 1,
     "rank": 17
   },
   {
-    "author": "Shail Jadav",
+    "author": "Jakob Suchan",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Zihao Zhang",
+    "author": "Masatoshi Tateno",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Yilong Chen",
+    "author": "Ayda Eghbalian",
     "count": 1,
     "rank": 20
   }
