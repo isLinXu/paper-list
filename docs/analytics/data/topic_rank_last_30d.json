@@ -1,82 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 43,
+    "count": 90,
     "rank": 1
   },
   {
-    "topic": "Reasoning",
-    "count": 38,
+    "topic": "AI Safety",
+    "count": 77,
     "rank": 2
   },
   {
-    "topic": "AI Safety",
-    "count": 18,
+    "topic": "Reasoning",
+    "count": 62,
     "rank": 3
   },
   {
-    "topic": "World Models",
-    "count": 12,
+    "topic": "AI Agent",
+    "count": 59,
     "rank": 4
   },
   {
-    "topic": "Diffusion Models",
-    "count": 8,
+    "topic": "Reinforcement Learning",
+    "count": 55,
     "rank": 5
   },
   {
-    "topic": "Multimodal",
-    "count": 7,
+    "topic": "World Models",
+    "count": 53,
     "rank": 6
   },
   {
-    "topic": "Classification",
-    "count": 4,
+    "topic": "Transfer Learning",
+    "count": 51,
     "rank": 7
   },
   {
-    "topic": "Pose Estimation",
-    "count": 3,
+    "topic": "Diffusion Models",
+    "count": 34,
     "rank": 8
   },
   {
-    "topic": "Image Generation",
-    "count": 3,
+    "topic": "Efficient AI",
+    "count": 30,
     "rank": 9
   },
   {
-    "topic": "Neural Rendering",
-    "count": 3,
+    "topic": "Multimodal",
+    "count": 28,
     "rank": 10
   },
   {
-    "topic": "Object Detection",
-    "count": 2,
+    "topic": "Audio Processing",
+    "count": 23,
     "rank": 11
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 2,
+    "topic": "Classification",
+    "count": 12,
     "rank": 12
   },
   {
-    "topic": "Object Tracking",
-    "count": 2,
+    "topic": "Semantic Segmentation",
+    "count": 12,
     "rank": 13
   },
   {
-    "topic": "Scene Understanding",
-    "count": 2,
+    "topic": "Object Tracking",
+    "count": 12,
     "rank": 14
   },
   {
-    "topic": "Action Recognition",
-    "count": 1,
+    "topic": "Image Generation",
+    "count": 12,
     "rank": 15
   },
   {
     "topic": "Video Understanding",
-    "count": 1,
+    "count": 12,
     "rank": 16
+  },
+  {
+    "topic": "Object Detection",
+    "count": 9,
+    "rank": 17
+  },
+  {
+    "topic": "Neural Rendering",
+    "count": 8,
+    "rank": 18
+  },
+  {
+    "topic": "Pose Estimation",
+    "count": 7,
+    "rank": 19
+  },
+  {
+    "topic": "Time Series & Anomaly",
+    "count": 5,
+    "rank": 20
   }
 ]
