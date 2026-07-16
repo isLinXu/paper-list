@@ -1,6 +1,4 @@
 topic,date,count
-AI Agent,2026-07,59
-AI Safety,2026-07,77
 Action Recognition,2024-02,11
 Action Recognition,2024-03,55
 Action Recognition,2024-04,59
@@ -56,7 +54,6 @@ Anomaly Detection,2026-01,168
 Anomaly Detection,2026-02,100
 Anomaly Detection,2026-03,171
 Anomaly Detection,2026-04,33
-Anomaly Detection,2026-07,1
 Audio Processing,2024-02,14
 Audio Processing,2024-03,72
 Audio Processing,2024-04,72
@@ -83,7 +80,6 @@ Audio Processing,2026-01,115
 Audio Processing,2026-02,69
 Audio Processing,2026-03,118
 Audio Processing,2026-04,15
-Audio Processing,2026-07,23
 Classification,2024-02,18
 Classification,2024-03,147
 Classification,2024-04,136
@@ -111,7 +107,7 @@ Classification,2026-01,107
 Classification,2026-02,95
 Classification,2026-03,123
 Classification,2026-04,68
-Classification,2026-07,12
+Classification,2026-07,10
 Depth Estimation,2024-02,11
 Depth Estimation,2024-03,58
 Depth Estimation,2024-04,46
@@ -139,10 +135,9 @@ Depth Estimation,2026-01,30
 Depth Estimation,2026-02,26
 Depth Estimation,2026-03,53
 Depth Estimation,2026-04,37
-Depth Estimation,2026-07,4
+Depth Estimation,2026-07,3
 Diffusion Models,2026-04,166
-Diffusion Models,2026-07,34
-Efficient AI,2026-07,30
+Diffusion Models,2026-07,30
 Graph Neural Networks,2024-02,19
 Graph Neural Networks,2024-03,171
 Graph Neural Networks,2024-04,161
@@ -224,7 +219,7 @@ LLM,2026-01,1417
 LLM,2026-02,850
 LLM,2026-03,1108
 LLM,2026-04,551
-LLM,2026-07,90
+LLM,2026-07,93
 Latent Space LLM,2026-04,40
 Multimodal,2024-02,13
 Multimodal,2024-03,23
@@ -253,9 +248,9 @@ Multimodal,2026-01,40
 Multimodal,2026-02,8
 Multimodal,2026-03,54
 Multimodal,2026-04,7
-Multimodal,2026-07,28
+Multimodal,2026-07,26
 Neural Rendering,2026-04,69
-Neural Rendering,2026-07,8
+Neural Rendering,2026-07,7
 Object Detection,2024-02,20
 Object Detection,2024-03,164
 Object Detection,2024-04,141
@@ -310,7 +305,7 @@ Object Tracking,2026-01,14
 Object Tracking,2026-02,16
 Object Tracking,2026-03,26
 Object Tracking,2026-04,72
-Object Tracking,2026-07,12
+Object Tracking,2026-07,5
 Optical Flow,2024-02,11
 Optical Flow,2024-03,43
 Optical Flow,2024-04,31
@@ -338,7 +333,7 @@ Optical Flow,2026-01,16
 Optical Flow,2026-02,12
 Optical Flow,2026-03,32
 Optical Flow,2026-04,18
-Optical Flow,2026-07,3
+Optical Flow,2026-07,1
 Pose Estimation,2024-02,11
 Pose Estimation,2024-03,95
 Pose Estimation,2024-04,64
@@ -366,8 +361,8 @@ Pose Estimation,2026-01,44
 Pose Estimation,2026-02,59
 Pose Estimation,2026-03,83
 Pose Estimation,2026-04,39
-Pose Estimation,2026-07,7
-Reasoning,2026-07,62
+Pose Estimation,2026-07,8
+Reasoning,2026-07,65
 Reinforcement Learning,2024-02,20
 Reinforcement Learning,2024-03,191
 Reinforcement Learning,2024-04,205
@@ -394,7 +389,6 @@ Reinforcement Learning,2026-01,794
 Reinforcement Learning,2026-02,18
 Reinforcement Learning,2026-03,919
 Reinforcement Learning,2026-04,185
-Reinforcement Learning,2026-07,55
 Scene Understanding,2024-02,14
 Scene Understanding,2024-03,53
 Scene Understanding,2024-04,41
@@ -422,7 +416,7 @@ Scene Understanding,2026-01,39
 Scene Understanding,2026-02,8
 Scene Understanding,2026-03,87
 Scene Understanding,2026-04,52
-Scene Understanding,2026-07,4
+Scene Understanding,2026-07,5
 Semantic Segmentation,2024-02,14
 Semantic Segmentation,2024-03,132
 Semantic Segmentation,2024-04,141
@@ -448,8 +442,7 @@ Semantic Segmentation,2026-01,85
 Semantic Segmentation,2026-02,81
 Semantic Segmentation,2026-03,112
 Semantic Segmentation,2026-04,99
-Semantic Segmentation,2026-07,12
-Time Series & Anomaly,2026-07,5
+Semantic Segmentation,2026-07,9
 Transfer Learning,2024-02,14
 Transfer Learning,2024-03,168
 Transfer Learning,2024-04,175
@@ -476,7 +469,6 @@ Transfer Learning,2026-01,1108
 Transfer Learning,2026-02,356
 Transfer Learning,2026-03,966
 Transfer Learning,2026-04,255
-Transfer Learning,2026-07,51
 Video Understanding,2026-04,118
-Video Understanding,2026-07,12
-World Models,2026-07,53
+Video Understanding,2026-07,11
+World Models,2026-07,62

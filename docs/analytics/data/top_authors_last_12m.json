@@ -6,7 +6,7 @@
   },
   {
     "author": "Hao Li",
-    "count": 12,
+    "count": 13,
     "rank": 2
   },
   {
@@ -60,32 +60,32 @@
     "rank": 12
   },
   {
-    "author": "Xin Zhang",
-    "count": 8,
-    "rank": 13
-  },
-  {
     "author": "Haichuan Li",
     "count": 7,
-    "rank": 14
+    "rank": 13
   },
   {
     "author": "Yi Zhang",
     "count": 7,
-    "rank": 15
+    "rank": 14
   },
   {
     "author": "Yuan Gao",
     "count": 7,
-    "rank": 16
+    "rank": 15
   },
   {
     "author": "Sijia Chen",
     "count": 7,
-    "rank": 17
+    "rank": 16
   },
   {
     "author": "Yu Liu",
+    "count": 7,
+    "rank": 17
+  },
+  {
+    "author": "Xin Zhang",
     "count": 7,
     "rank": 18
   },

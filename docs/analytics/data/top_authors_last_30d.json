@@ -1,101 +1,101 @@
 [
   {
-    "author": "Dimitrios Kafetzis",
-    "count": 3,
+    "author": "Li-Yue Tong",
+    "count": 2,
     "rank": 1
   },
   {
-    "author": "Youngung Han",
-    "count": 3,
+    "author": "Everest Yang",
+    "count": 2,
     "rank": 2
   },
   {
-    "author": "Hao Xu",
+    "author": "Zhenghang Xu",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Jing Liu",
+    "author": "Changyi Lei",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Iman Johary",
-    "count": 2,
+    "author": "Shunya Shimomura",
+    "count": 1,
     "rank": 5
   },
   {
-    "author": "Bojie Li",
-    "count": 2,
+    "author": "Shiqi Zhang",
+    "count": 1,
     "rank": 6
   },
   {
-    "author": "Emmanouil Karystinaios",
-    "count": 2,
+    "author": "Jiaxuan Cheng",
+    "count": 1,
     "rank": 7
   },
   {
-    "author": "Jaroslav Merc",
-    "count": 2,
+    "author": "Tuomas Oikarinen",
+    "count": 1,
     "rank": 8
-  },
-  {
-    "author": "John M McBride",
-    "count": 2,
-    "rank": 9
-  },
-  {
-    "author": "Hiroki Ishizaka",
-    "count": 2,
-    "rank": 10
-  },
-  {
-    "author": "Yubo Wang",
-    "count": 2,
-    "rank": 11
-  },
-  {
-    "author": "Yann Clénet",
-    "count": 2,
-    "rank": 12
-  },
-  {
-    "author": "Maria Chudnovsky",
-    "count": 2,
-    "rank": 13
   },
   {
     "author": "Mingzhen Xu",
     "count": 1,
-    "rank": 14
+    "rank": 9
   },
   {
     "author": "Alaa Almouradi",
     "count": 1,
-    "rank": 15
+    "rank": 10
   },
   {
     "author": "Jiho Jun",
     "count": 1,
-    "rank": 16
+    "rank": 11
   },
   {
     "author": "Thuc Huynh",
     "count": 1,
-    "rank": 17
+    "rank": 12
   },
   {
     "author": "Jeeyung Kim",
     "count": 1,
-    "rank": 18
+    "rank": 13
   },
   {
     "author": "Zhirui Zhang",
     "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Runze Gan",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Mingyue Zeng",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Haojie Ren",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Martina Radoynova",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Sheng-Wei Chan",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Kuniko Paxton",
+    "author": "Dimitrios Kafetzis",
     "count": 1,
     "rank": 20
   }

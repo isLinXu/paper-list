@@ -6,7 +6,7 @@ Total papers: **3605**
 
 Latest archive month: **2026-04** (33 papers)
 
-Topic neighbors: [← Audio Processing](Audio_Processing.md) · [Time Series & Anomaly →](Time_Series_&_Anomaly.md)
+Topic neighbors: [← Audio Processing](Audio_Processing.md) · [Scene Understanding →](Scene_Understanding.md)
 
 ### Signal & Graph
 

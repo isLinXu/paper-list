@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 5352,
+    "count": 5355,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 3677,
+    "count": 3622,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 2908,
+    "count": 2853,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 1478,
+    "count": 1475,
     "rank": 4
   },
   {
     "topic": "Classification",
-    "count": 1126,
+    "count": 1120,
     "rank": 5
   },
   {
     "topic": "Object Detection",
-    "count": 904,
+    "count": 899,
     "rank": 6
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 883,
+    "count": 880,
     "rank": 7
   },
   {
     "topic": "Anomaly Detection",
-    "count": 849,
+    "count": 844,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 745,
+    "count": 740,
     "rank": 9
   },
   {
     "topic": "Pose Estimation",
-    "count": 693,
+    "count": 692,
     "rank": 10
   },
   {
     "topic": "Audio Processing",
-    "count": 643,
+    "count": 619,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 578,
+    "count": 579,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 458,
+    "count": 455,
     "rank": 13
   },
   {
     "topic": "Multimodal",
-    "count": 440,
+    "count": 436,
     "rank": 14
   },
   {
-    "topic": "Object Tracking",
-    "count": 372,
+    "topic": "Action Recognition",
+    "count": 371,
     "rank": 15
   },
   {
-    "topic": "Action Recognition",
-    "count": 372,
+    "topic": "Object Tracking",
+    "count": 364,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 306,
+    "count": 303,
     "rank": 17
   },
   {
     "topic": "Diffusion Models",
-    "count": 200,
+    "count": 196,
     "rank": 18
   },
   {
     "topic": "Video Understanding",
-    "count": 130,
+    "count": 129,
     "rank": 19
   },
   {
     "topic": "Neural Rendering",
-    "count": 77,
+    "count": 76,
     "rank": 20
   }
 ]
