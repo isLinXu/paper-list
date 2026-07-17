@@ -2,9 +2,9 @@
 
 Lane: **Intelligence Stack**
 
-Total papers: **65**
+Total papers: **64**
 
-Latest archive month: **2026-07** (65 papers)
+Latest archive month: **2026-07** (64 papers)
 
 Topic neighbors: [← World Models](World_Models.md) · [Reinforcement Learning →](Reinforcement_Learning.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Reasoning**. Start with the latest mo
 
 ## Monthly Archives
 
-- [2026-07](Reasoning/2026-07.md) (65 papers)
+- [2026-07](Reasoning/2026-07.md) (64 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
