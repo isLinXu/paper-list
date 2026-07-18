@@ -1,102 +1,102 @@
 [
   {
     "topic": "Diffusion Models",
-    "count": 137,
+    "count": 122,
     "rank": 1
   },
   {
     "topic": "Image Generation",
-    "count": 92,
+    "count": 85,
     "rank": 2
   },
   {
-    "topic": "LLM",
-    "count": 92,
+    "topic": "Video Understanding",
+    "count": 83,
     "rank": 3
   },
   {
-    "topic": "Video Understanding",
-    "count": 89,
+    "topic": "LLM",
+    "count": 76,
     "rank": 4
   },
   {
-    "topic": "World Models",
-    "count": 68,
+    "topic": "Reasoning",
+    "count": 67,
     "rank": 5
   },
   {
-    "topic": "Reasoning",
-    "count": 64,
+    "topic": "Neural Rendering",
+    "count": 45,
     "rank": 6
   },
   {
-    "topic": "AI Safety",
-    "count": 64,
+    "topic": "Object Tracking",
+    "count": 44,
     "rank": 7
   },
   {
-    "topic": "AI Agent",
-    "count": 55,
+    "topic": "Semantic Segmentation",
+    "count": 43,
     "rank": 8
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 52,
+    "topic": "Object Detection",
+    "count": 42,
     "rank": 9
   },
   {
-    "topic": "Neural Rendering",
-    "count": 49,
+    "topic": "Transfer Learning",
+    "count": 42,
     "rank": 10
   },
   {
-    "topic": "Object Tracking",
-    "count": 48,
+    "topic": "Classification",
+    "count": 37,
     "rank": 11
   },
   {
-    "topic": "Object Detection",
-    "count": 44,
+    "topic": "Scene Understanding",
+    "count": 32,
     "rank": 12
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 44,
+    "topic": "AI Safety",
+    "count": 28,
     "rank": 13
   },
   {
-    "topic": "Transfer Learning",
-    "count": 44,
+    "topic": "World Models",
+    "count": 27,
     "rank": 14
   },
   {
-    "topic": "Classification",
-    "count": 41,
+    "topic": "AI Agent",
+    "count": 24,
     "rank": 15
   },
   {
-    "topic": "Scene Understanding",
-    "count": 38,
+    "topic": "Action Recognition",
+    "count": 23,
     "rank": 16
   },
   {
-    "topic": "Multimodal",
-    "count": 28,
+    "topic": "Reinforcement Learning",
+    "count": 20,
     "rank": 17
   },
   {
-    "topic": "Action Recognition",
-    "count": 24,
+    "topic": "Pose Estimation",
+    "count": 15,
     "rank": 18
   },
   {
-    "topic": "Pose Estimation",
-    "count": 18,
+    "topic": "Multimodal",
+    "count": 12,
     "rank": 19
   },
   {
-    "topic": "Time Series & Anomaly",
-    "count": 16,
+    "topic": "Depth Estimation",
+    "count": 11,
     "rank": 20
   }
 ]

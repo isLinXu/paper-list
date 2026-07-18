@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 92,
+    "count": 76,
     "rank": 1
   },
   {
-    "topic": "World Models",
-    "count": 68,
+    "topic": "Reasoning",
+    "count": 67,
     "rank": 2
   },
   {
-    "topic": "Reasoning",
-    "count": 64,
+    "topic": "Transfer Learning",
+    "count": 42,
     "rank": 3
   },
   {
     "topic": "AI Safety",
-    "count": 64,
+    "count": 28,
     "rank": 4
   },
   {
-    "topic": "AI Agent",
-    "count": 55,
+    "topic": "World Models",
+    "count": 27,
     "rank": 5
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 52,
+    "topic": "AI Agent",
+    "count": 24,
     "rank": 6
   },
   {
-    "topic": "Transfer Learning",
-    "count": 44,
+    "topic": "Reinforcement Learning",
+    "count": 20,
     "rank": 7
   },
   {
     "topic": "Diffusion Models",
-    "count": 32,
+    "count": 17,
     "rank": 8
   },
   {
     "topic": "Multimodal",
-    "count": 28,
+    "count": 12,
     "rank": 9
   },
   {
-    "topic": "Time Series & Anomaly",
-    "count": 16,
+    "topic": "Image Generation",
+    "count": 8,
     "rank": 10
   },
   {
-    "topic": "Image Generation",
-    "count": 15,
+    "topic": "Efficient AI",
+    "count": 8,
     "rank": 11
   },
   {
-    "topic": "Audio Processing",
-    "count": 15,
+    "topic": "Object Tracking",
+    "count": 5,
     "rank": 12
   },
   {
     "topic": "Scene Understanding",
-    "count": 11,
+    "count": 5,
     "rank": 13
   },
   {
     "topic": "Video Understanding",
-    "count": 11,
+    "count": 5,
     "rank": 14
   },
   {
-    "topic": "Object Tracking",
-    "count": 9,
+    "topic": "Classification",
+    "count": 4,
     "rank": 15
   },
   {
-    "topic": "Classification",
-    "count": 8,
+    "topic": "Object Detection",
+    "count": 4,
     "rank": 16
   },
   {
-    "topic": "Neural Rendering",
-    "count": 8,
+    "topic": "Audio Processing",
+    "count": 4,
     "rank": 17
   },
   {
-    "topic": "Object Detection",
-    "count": 6,
+    "topic": "Neural Rendering",
+    "count": 4,
     "rank": 18
   },
   {
-    "topic": "Pose Estimation",
-    "count": 4,
+    "topic": "Semantic Segmentation",
+    "count": 2,
     "rank": 19
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 4,
+    "topic": "Action Recognition",
+    "count": 2,
     "rank": 20
   }
 ]
