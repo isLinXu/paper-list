@@ -6,7 +6,7 @@ Total papers: **69**
 
 Latest archive month: **2026-04** (69 papers)
 
-Topic neighbors: [← Multimodal](Multimodal.md) · [Reinforcement Learning →](Reinforcement_Learning.md)
+Topic neighbors: [← Multimodal](Multimodal.md) · [World Models →](World_Models.md)
 
 ### 3D Vision
 

@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 3926,
+    "count": 3955,
     "rank": 1
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 977,
+    "count": 978,
     "rank": 4
   },
   {
@@ -56,17 +56,17 @@
   },
   {
     "topic": "Scene Understanding",
-    "count": 186,
+    "count": 187,
     "rank": 12
   },
   {
     "topic": "Diffusion Models",
-    "count": 166,
+    "count": 168,
     "rank": 13
   },
   {
     "topic": "Depth Estimation",
-    "count": 146,
+    "count": 148,
     "rank": 14
   },
   {
@@ -76,17 +76,17 @@
   },
   {
     "topic": "Object Tracking",
-    "count": 128,
+    "count": 131,
     "rank": 16
   },
   {
     "topic": "Video Understanding",
-    "count": 118,
+    "count": 120,
     "rank": 17
   },
   {
     "topic": "Multimodal",
-    "count": 109,
+    "count": 111,
     "rank": 18
   },
   {

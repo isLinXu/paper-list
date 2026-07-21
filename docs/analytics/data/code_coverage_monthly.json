@@ -938,9 +938,23 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-07",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04",
     "total": 166,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-07",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1316,6 +1330,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-07",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02",
     "total": 20,
@@ -1501,6 +1522,13 @@
     "topic": "LLM",
     "date": "2026-04",
     "total": 551,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-07",
+    "total": 29,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1697,6 +1725,13 @@
     "topic": "Multimodal",
     "date": "2026-04",
     "total": 7,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-07",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2075,6 +2110,13 @@
     "topic": "Object Tracking",
     "date": "2026-04",
     "total": 72,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-07",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2828,6 +2870,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-07",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02",
     "total": 14,
@@ -3188,6 +3237,20 @@
     "topic": "Video Understanding",
     "date": "2026-04",
     "total": 118,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-07",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "World Models",
+    "date": "2026-07",
+    "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
   }

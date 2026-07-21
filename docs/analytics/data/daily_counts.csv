@@ -3086,6 +3086,7 @@ Depth Estimation,2026-04-27,1
 Depth Estimation,2026-04-28,2
 Depth Estimation,2026-04-29,1
 Depth Estimation,2026-04-30,1
+Depth Estimation,2026-07-19,2
 Diffusion Models,2026-04-13,25
 Diffusion Models,2026-04-14,20
 Diffusion Models,2026-04-16,16
@@ -3096,6 +3097,7 @@ Diffusion Models,2026-04-23,16
 Diffusion Models,2026-04-27,7
 Diffusion Models,2026-04-28,10
 Diffusion Models,2026-04-30,15
+Diffusion Models,2026-07-19,2
 Graph Neural Networks,2024-02-27,2
 Graph Neural Networks,2024-02-28,9
 Graph Neural Networks,2024-02-29,8
@@ -4223,6 +4225,7 @@ Image Generation,2026-04-27,10
 Image Generation,2026-04-28,10
 Image Generation,2026-04-29,8
 Image Generation,2026-04-30,3
+Image Generation,2026-07-19,1
 LLM,2024-02-28,10
 LLM,2024-02-29,10
 LLM,2024-03-02,10
@@ -4645,6 +4648,7 @@ LLM,2026-04-06,59
 LLM,2026-04-07,115
 LLM,2026-04-08,98
 LLM,2026-04-09,115
+LLM,2026-07-19,29
 Latent Space LLM,2026-04-06,7
 Latent Space LLM,2026-04-07,8
 Latent Space LLM,2026-04-08,11
@@ -5136,6 +5140,7 @@ Multimodal,2026-03-30,1
 Multimodal,2026-03-31,3
 Multimodal,2026-04-02,2
 Multimodal,2026-04-07,5
+Multimodal,2026-07-19,2
 Neural Rendering,2026-04-13,9
 Neural Rendering,2026-04-14,8
 Neural Rendering,2026-04-15,6
@@ -6245,6 +6250,7 @@ Object Tracking,2026-04-27,9
 Object Tracking,2026-04-28,5
 Object Tracking,2026-04-29,5
 Object Tracking,2026-04-30,5
+Object Tracking,2026-07-19,3
 Optical Flow,2024-02-09,1
 Optical Flow,2024-02-12,1
 Optical Flow,2024-02-14,1
@@ -8420,6 +8426,7 @@ Scene Understanding,2026-04-23,4
 Scene Understanding,2026-04-27,3
 Scene Understanding,2026-04-29,2
 Scene Understanding,2026-04-30,2
+Scene Understanding,2026-07-19,1
 Semantic Segmentation,2024-02-27,3
 Semantic Segmentation,2024-02-28,6
 Semantic Segmentation,2024-02-29,5
@@ -9609,3 +9616,5 @@ Video Understanding,2026-04-27,2
 Video Understanding,2026-04-28,11
 Video Understanding,2026-04-29,7
 Video Understanding,2026-04-30,10
+Video Understanding,2026-07-19,2
+World Models,2026-07-19,10

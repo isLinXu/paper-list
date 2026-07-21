@@ -21609,6 +21609,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-07-19",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "total": 25,
@@ -21675,6 +21682,13 @@
     "topic": "Diffusion Models",
     "date": "2026-04-30",
     "total": 15,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-07-19",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -29568,6 +29582,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Image Generation",
+    "date": "2026-07-19",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "LLM",
     "date": "2024-02-28",
     "total": 10,
@@ -32518,6 +32539,13 @@
     "topic": "LLM",
     "date": "2026-04-09",
     "total": 115,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-07-19",
+    "total": 29,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -35955,6 +35983,13 @@
     "topic": "Multimodal",
     "date": "2026-04-07",
     "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-07-19",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -43718,6 +43753,13 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-07-19",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -58947,6 +58989,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-07-19",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "total": 3,
@@ -67265,6 +67314,20 @@
   {
     "topic": "Video Understanding",
     "date": "2026-04-30",
+    "total": 10,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-07-19",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "World Models",
+    "date": "2026-07-19",
     "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
