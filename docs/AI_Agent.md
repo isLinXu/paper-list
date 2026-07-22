@@ -2,9 +2,9 @@
 
 Lane: **Agent & Driving**
 
-Total papers: **24**
+Total papers: **56**
 
-Latest archive month: **2026-07** (24 papers)
+Latest archive month: **2026-07** (56 papers)
 
 Topic neighbors: [← Neural Rendering](Neural_Rendering.md) · [World Models →](World_Models.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **AI Agent**. Start with the latest mon
 
 ## Monthly Archives
 
-- [2026-07](AI_Agent/2026-07.md) (24 papers)
+- [2026-07](AI_Agent/2026-07.md) (56 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
