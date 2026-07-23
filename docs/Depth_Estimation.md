@@ -2,9 +2,9 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **1194**
+Total papers: **1190**
 
-Latest archive month: **2026-07** (4 papers)
+Latest archive month: **2026-04** (37 papers)
 
 Topic neighbors: [← Pose Estimation](Pose_Estimation.md) · [Optical Flow →](Optical_Flow.md)
 
@@ -14,7 +14,6 @@ This page is the monthly archive hub for **Depth Estimation**. Start with the la
 
 ## Monthly Archives
 
-- [2026-07](Depth_Estimation/2026-07.md) (4 papers)
 - [2026-04](Depth_Estimation/2026-04.md) (37 papers)
 - [2026-03](Depth_Estimation/2026-03.md) (53 papers)
 - [2026-02](Depth_Estimation/2026-02.md) (26 papers)

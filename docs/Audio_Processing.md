@@ -6,7 +6,7 @@ Total papers: **2250**
 
 Latest archive month: **2026-04** (15 papers)
 
-Topic neighbors: [← AI Safety](AI_Safety.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
+Topic neighbors: [← Transfer Learning](Transfer_Learning.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
 
 ### Signal & Graph
 

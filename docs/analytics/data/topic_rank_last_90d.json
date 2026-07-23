@@ -1,97 +1,77 @@
 [
   {
     "topic": "LLM",
-    "count": 95,
+    "count": 100,
     "rank": 1
   },
   {
-    "topic": "AI Safety",
-    "count": 77,
+    "topic": "Diffusion Models",
+    "count": 68,
     "rank": 2
   },
   {
-    "topic": "Diffusion Models",
-    "count": 74,
-    "rank": 3
-  },
-  {
-    "topic": "Reasoning",
-    "count": 63,
-    "rank": 4
-  },
-  {
     "topic": "Video Understanding",
-    "count": 56,
-    "rank": 5
-  },
-  {
-    "topic": "AI Agent",
-    "count": 56,
-    "rank": 6
-  },
-  {
-    "topic": "Image Generation",
-    "count": 55,
-    "rank": 7
-  },
-  {
-    "topic": "World Models",
-    "count": 48,
-    "rank": 8
-  },
-  {
-    "topic": "Object Tracking",
-    "count": 41,
-    "rank": 9
-  },
-  {
-    "topic": "Neural Rendering",
-    "count": 36,
-    "rank": 10
-  },
-  {
-    "topic": "Semantic Segmentation",
-    "count": 32,
-    "rank": 11
+    "count": 44,
+    "rank": 3
   },
   {
     "topic": "Multimodal",
     "count": 32,
-    "rank": 12
+    "rank": 4
+  },
+  {
+    "topic": "Image Generation",
+    "count": 31,
+    "rank": 5
+  },
+  {
+    "topic": "Neural Rendering",
+    "count": 27,
+    "rank": 6
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "count": 24,
+    "rank": 7
+  },
+  {
+    "topic": "Object Tracking",
+    "count": 24,
+    "rank": 8
   },
   {
     "topic": "Classification",
-    "count": 30,
-    "rank": 13
+    "count": 23,
+    "rank": 9
   },
   {
     "topic": "Object Detection",
-    "count": 29,
-    "rank": 14
-  },
-  {
-    "topic": "Scene Understanding",
-    "count": 17,
-    "rank": 15
+    "count": 18,
+    "rank": 10
   },
   {
     "topic": "Action Recognition",
-    "count": 13,
-    "rank": 16
-  },
-  {
-    "topic": "Depth Estimation",
-    "count": 12,
-    "rank": 17
+    "count": 9,
+    "rank": 11
   },
   {
     "topic": "Pose Estimation",
-    "count": 11,
-    "rank": 18
+    "count": 7,
+    "rank": 12
+  },
+  {
+    "topic": "Scene Understanding",
+    "count": 7,
+    "rank": 13
+  },
+  {
+    "topic": "Depth Estimation",
+    "count": 5,
+    "rank": 14
   },
   {
     "topic": "Optical Flow",
-    "count": 5,
-    "rank": 19
+    "count": 3,
+    "rank": 15
   }
 ]

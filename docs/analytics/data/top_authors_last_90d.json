@@ -15,37 +15,37 @@
     "rank": 3
   },
   {
-    "author": "Songen Gu",
-    "count": 3,
-    "rank": 4
-  },
-  {
     "author": "Maximilian Scharf",
     "count": 2,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Anas Gamal Aly",
     "count": 2,
-    "rank": 6
+    "rank": 5
   },
   {
     "author": "Zi-Yang Bo",
     "count": 2,
-    "rank": 7
+    "rank": 6
   },
   {
     "author": "Markus Käppeler",
     "count": 2,
-    "rank": 8
+    "rank": 7
   },
   {
     "author": "Hari Prasanth S. M.",
     "count": 2,
-    "rank": 9
+    "rank": 8
   },
   {
     "author": "Vandita Shukla",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "author": "Yichi Zhang",
     "count": 2,
     "rank": 10
   },
@@ -75,27 +75,27 @@
     "rank": 15
   },
   {
-    "author": "Yue Xue",
+    "author": "Lingjie Zeng",
     "count": 2,
     "rank": 16
   },
   {
-    "author": "Lingjie Zeng",
+    "author": "MotuBrain Team",
     "count": 2,
     "rank": 17
   },
   {
-    "author": "MotuBrain Team",
+    "author": "Md Shohel Rana",
     "count": 2,
     "rank": 18
   },
   {
-    "author": "Yen-Siang Wu",
+    "author": "Zhongjie Duan",
     "count": 2,
     "rank": 19
   },
   {
-    "author": "Max Defez",
+    "author": "Shyang-En Weng",
     "count": 2,
     "rank": 20
   }
