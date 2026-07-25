@@ -1,101 +1,101 @@
 [
   {
-    "author": "Qiwei Ma",
+    "author": "Yan Huang",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Yan Huang",
+    "author": "Anselme Ndikumana",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Anselme Ndikumana",
+    "author": "Fred Mesnard",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Fred Mesnard",
-    "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Andrei Chetvergov",
-    "count": 2,
-    "rank": 5
-  },
-  {
     "author": "Guillermo Rubiños Rodríguez",
     "count": 1,
-    "rank": 6
+    "rank": 4
   },
   {
     "author": "Abhijeet Narang",
     "count": 1,
-    "rank": 7
+    "rank": 5
   },
   {
-    "author": "Afsaneh Mahanipour",
+    "author": "Korota Arsène Coulibaly",
     "count": 1,
-    "rank": 8
-  },
-  {
-    "author": "Fangyan Zhang",
-    "count": 1,
-    "rank": 9
-  },
-  {
-    "author": "Da Li",
-    "count": 1,
-    "rank": 10
+    "rank": 6
   },
   {
     "author": "Yanyan Peng",
     "count": 1,
-    "rank": 11
+    "rank": 7
   },
   {
     "author": "Junsheng Du",
     "count": 1,
-    "rank": 12
+    "rank": 8
   },
   {
     "author": "Shivanshu Tripathi",
     "count": 1,
-    "rank": 13
+    "rank": 9
   },
   {
-    "author": "Kun Zhao",
+    "author": "Yihong Sun",
     "count": 1,
-    "rank": 14
-  },
-  {
-    "author": "Yechan Kim",
-    "count": 1,
-    "rank": 15
+    "rank": 10
   },
   {
     "author": "Sung-Hoon Yoon",
     "count": 1,
-    "rank": 16
+    "rank": 11
   },
   {
     "author": "Hakan Calim",
     "count": 1,
-    "rank": 17
+    "rank": 12
   },
   {
     "author": "Antonis Savva",
     "count": 1,
-    "rank": 18
+    "rank": 13
   },
   {
     "author": "Chuguang Zeng",
     "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Dongbin Na",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Ismail H. Toroslu",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Jiyou Shin",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Tong Ling",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Simone Arreghini",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Martín Gallegos",
+    "author": "Xin Zhao",
     "count": 1,
     "rank": 20
   }
