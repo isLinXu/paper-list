@@ -1,102 +1,92 @@
 [
   {
     "topic": "LLM",
-    "count": 2509,
+    "count": 31,
     "rank": 1
   },
   {
-    "topic": "Transfer Learning",
-    "count": 1626,
+    "topic": "Video Understanding",
+    "count": 31,
     "rank": 2
   },
   {
-    "topic": "Reinforcement Learning",
-    "count": 1122,
+    "topic": "Diffusion Models",
+    "count": 29,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 742,
+    "count": 24,
     "rank": 4
   },
   {
-    "topic": "Object Detection",
-    "count": 332,
+    "topic": "Classification",
+    "count": 22,
     "rank": 5
   },
   {
-    "topic": "Anomaly Detection",
-    "count": 308,
+    "topic": "AI Safety",
+    "count": 21,
     "rank": 6
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 299,
+    "topic": "Object Tracking",
+    "count": 19,
     "rank": 7
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 295,
+    "topic": "Neural Rendering",
+    "count": 18,
     "rank": 8
   },
   {
-    "topic": "Classification",
-    "count": 287,
+    "topic": "Semantic Segmentation",
+    "count": 17,
     "rank": 9
   },
   {
-    "topic": "Audio Processing",
-    "count": 204,
+    "topic": "Object Detection",
+    "count": 15,
     "rank": 10
   },
   {
-    "topic": "Pose Estimation",
-    "count": 182,
+    "topic": "Action Recognition",
+    "count": 9,
     "rank": 11
   },
   {
-    "topic": "Diffusion Models",
-    "count": 166,
+    "topic": "Scene Understanding",
+    "count": 6,
     "rank": 12
   },
   {
-    "topic": "Scene Understanding",
-    "count": 148,
+    "topic": "Multimodal",
+    "count": 5,
     "rank": 13
   },
   {
-    "topic": "Video Understanding",
-    "count": 118,
+    "topic": "Pose Estimation",
+    "count": 4,
     "rank": 14
   },
   {
     "topic": "Depth Estimation",
-    "count": 116,
+    "count": 4,
     "rank": 15
   },
   {
-    "topic": "Object Tracking",
-    "count": 115,
+    "topic": "Graph Neural Networks",
+    "count": 2,
     "rank": 16
   },
   {
-    "topic": "Action Recognition",
-    "count": 91,
+    "topic": "Time Series & Anomaly",
+    "count": 2,
     "rank": 17
   },
   {
-    "topic": "Multimodal",
-    "count": 69,
-    "rank": 18
-  },
-  {
-    "topic": "Neural Rendering",
-    "count": 69,
-    "rank": 19
-  },
-  {
     "topic": "Optical Flow",
-    "count": 62,
-    "rank": 20
+    "count": 1,
+    "rank": 18
   }
 ]
