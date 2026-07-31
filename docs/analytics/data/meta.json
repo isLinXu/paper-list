@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:20:04+00:00",
+  "generated_at": "2026-07-31T02:30:15+00:00",
   "topics": [
     "AI Safety",
     "Action Recognition",
@@ -21,13 +21,11 @@
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Time Series & Anomaly",
     "Transfer Learning",
-    "Video Understanding",
-    "World Models"
+    "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-07-29",
+  "max_date": "2026-07-30",
   "granularities": [
     "day",
     "month"
