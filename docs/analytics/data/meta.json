@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-08-01T02:31:07+00:00",
+  "generated_at": "2026-08-02T02:29:35+00:00",
   "topics": [
-    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
@@ -18,16 +17,14 @@
     "Object Tracking",
     "Optical Flow",
     "Pose Estimation",
-    "Reasoning",
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
     "Transfer Learning",
-    "Video Understanding",
-    "World Models"
+    "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-07-30",
+  "max_date": "2026-04-30",
   "granularities": [
     "day",
     "month"
