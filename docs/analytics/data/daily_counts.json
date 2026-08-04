@@ -1,5 +1,10 @@
 [
   {
+    "topic": "AI Safety",
+    "date": "2026-08-02",
+    "count": 4
+  },
+  {
     "topic": "Action Recognition",
     "date": "2024-02-12",
     "count": 1
@@ -2863,6 +2868,11 @@
     "topic": "Action Recognition",
     "date": "2026-04-30",
     "count": 6
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-08-02",
+    "count": 1
   },
   {
     "topic": "Anomaly Detection",
@@ -9012,6 +9022,11 @@
   {
     "topic": "Audio Processing",
     "date": "2026-04-09",
+    "count": 2
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-08-02",
     "count": 2
   },
   {
@@ -15483,6 +15498,11 @@
     "topic": "Diffusion Models",
     "date": "2026-04-30",
     "count": 15
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-08-02",
+    "count": 4
   },
   {
     "topic": "Graph Neural Networks",
@@ -23230,6 +23250,11 @@
     "count": 115
   },
   {
+    "topic": "LLM",
+    "date": "2026-08-02",
+    "count": 20
+  },
+  {
     "topic": "Latent Space LLM",
     "date": "2026-04-06",
     "count": 7
@@ -25685,6 +25710,11 @@
     "count": 5
   },
   {
+    "topic": "Multimodal",
+    "date": "2026-08-02",
+    "count": 6
+  },
+  {
     "topic": "Neural Rendering",
     "date": "2026-04-13",
     "count": 9
@@ -25743,6 +25773,11 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "count": 9
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-08-02",
+    "count": 3
   },
   {
     "topic": "Object Detection",
@@ -28875,6 +28910,11 @@
     "count": 2
   },
   {
+    "topic": "Object Detection",
+    "date": "2026-08-02",
+    "count": 1
+  },
+  {
     "topic": "Object Tracking",
     "date": "2024-02-24",
     "count": 2
@@ -31228,6 +31268,11 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-08-02",
+    "count": 1
   },
   {
     "topic": "Optical Flow",
@@ -39185,6 +39230,11 @@
     "count": 41
   },
   {
+    "topic": "Reinforcement Learning",
+    "date": "2026-08-02",
+    "count": 6
+  },
+  {
     "topic": "Scene Understanding",
     "date": "2024-02-21",
     "count": 1
@@ -45305,6 +45355,11 @@
     "count": 5
   },
   {
+    "topic": "Time Series & Anomaly",
+    "date": "2026-08-02",
+    "count": 1
+  },
+  {
     "topic": "Transfer Learning",
     "date": "2024-02-28",
     "count": 9
@@ -48048,5 +48103,10 @@
     "topic": "Video Understanding",
     "date": "2026-04-30",
     "count": 10
+  },
+  {
+    "topic": "World Models",
+    "date": "2026-08-02",
+    "count": 6
   }
 ]

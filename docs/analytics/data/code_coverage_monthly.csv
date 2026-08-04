@@ -1,4 +1,5 @@
 topic,date,total,code_covered,code_coverage
+AI Safety,2026-08,4,0,0.0
 Action Recognition,2024-02,11,2,0.1818
 Action Recognition,2024-03,55,18,0.3273
 Action Recognition,2024-04,59,13,0.2203
@@ -26,6 +27,7 @@ Action Recognition,2026-01,43,1,0.0233
 Action Recognition,2026-02,16,0,0.0
 Action Recognition,2026-03,36,0,0.0
 Action Recognition,2026-04,39,0,0.0
+Action Recognition,2026-08,1,0,0.0
 Anomaly Detection,2024-02,16,3,0.1875
 Anomaly Detection,2024-03,111,20,0.1802
 Anomaly Detection,2024-04,103,16,0.1553
@@ -79,6 +81,7 @@ Audio Processing,2026-01,115,6,0.0522
 Audio Processing,2026-02,69,0,0.0
 Audio Processing,2026-03,118,0,0.0
 Audio Processing,2026-04,15,0,0.0
+Audio Processing,2026-08,2,0,0.0
 Classification,2024-02,18,4,0.2222
 Classification,2024-03,147,47,0.3197
 Classification,2024-04,136,37,0.2721
@@ -134,6 +137,7 @@ Depth Estimation,2026-02,26,0,0.0
 Depth Estimation,2026-03,53,0,0.0
 Depth Estimation,2026-04,37,0,0.0
 Diffusion Models,2026-04,166,0,0.0
+Diffusion Models,2026-08,4,0,0.0
 Graph Neural Networks,2024-02,19,6,0.3158
 Graph Neural Networks,2024-03,171,30,0.1754
 Graph Neural Networks,2024-04,161,32,0.1988
@@ -214,6 +218,7 @@ LLM,2026-01,1417,46,0.0325
 LLM,2026-02,850,19,0.0224
 LLM,2026-03,1108,3,0.0027
 LLM,2026-04,551,0,0.0
+LLM,2026-08,20,0,0.0
 Latent Space LLM,2026-04,40,0,0.0
 Multimodal,2024-02,13,4,0.3077
 Multimodal,2024-03,23,7,0.3043
@@ -242,7 +247,9 @@ Multimodal,2026-01,40,1,0.025
 Multimodal,2026-02,8,0,0.0
 Multimodal,2026-03,54,0,0.0
 Multimodal,2026-04,7,0,0.0
+Multimodal,2026-08,6,0,0.0
 Neural Rendering,2026-04,69,0,0.0
+Neural Rendering,2026-08,3,0,0.0
 Object Detection,2024-02,20,2,0.1
 Object Detection,2024-03,164,43,0.2622
 Object Detection,2024-04,141,34,0.2411
@@ -269,6 +276,7 @@ Object Detection,2026-01,99,5,0.0505
 Object Detection,2026-02,103,3,0.0291
 Object Detection,2026-03,148,1,0.0068
 Object Detection,2026-04,80,0,0.0
+Object Detection,2026-08,1,0,0.0
 Object Tracking,2024-02,10,1,0.1
 Object Tracking,2024-03,40,11,0.275
 Object Tracking,2024-04,23,10,0.4348
@@ -296,6 +304,7 @@ Object Tracking,2026-01,14,1,0.0714
 Object Tracking,2026-02,16,0,0.0
 Object Tracking,2026-03,26,0,0.0
 Object Tracking,2026-04,72,0,0.0
+Object Tracking,2026-08,1,0,0.0
 Optical Flow,2024-02,11,3,0.2727
 Optical Flow,2024-03,43,9,0.2093
 Optical Flow,2024-04,31,5,0.1613
@@ -376,6 +385,7 @@ Reinforcement Learning,2026-01,794,45,0.0567
 Reinforcement Learning,2026-02,18,0,0.0
 Reinforcement Learning,2026-03,919,3,0.0033
 Reinforcement Learning,2026-04,185,4,0.0216
+Reinforcement Learning,2026-08,6,0,0.0
 Scene Understanding,2024-02,14,4,0.2857
 Scene Understanding,2024-03,53,14,0.2642
 Scene Understanding,2024-04,41,15,0.3659
@@ -428,6 +438,7 @@ Semantic Segmentation,2026-01,85,6,0.0706
 Semantic Segmentation,2026-02,81,2,0.0247
 Semantic Segmentation,2026-03,112,0,0.0
 Semantic Segmentation,2026-04,99,0,0.0
+Time Series & Anomaly,2026-08,1,0,0.0
 Transfer Learning,2024-02,14,0,0.0
 Transfer Learning,2024-03,168,43,0.256
 Transfer Learning,2024-04,175,50,0.2857
@@ -455,3 +466,4 @@ Transfer Learning,2026-02,356,13,0.0365
 Transfer Learning,2026-03,966,3,0.0031
 Transfer Learning,2026-04,255,1,0.0039
 Video Understanding,2026-04,118,0,0.0
+World Models,2026-08,6,0,0.0

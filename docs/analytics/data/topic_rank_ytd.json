@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 3926,
+    "count": 3946,
     "rank": 1
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 1916,
+    "count": 1922,
     "rank": 3
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "topic": "Object Detection",
-    "count": 430,
+    "count": 431,
     "rank": 7
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "topic": "Audio Processing",
-    "count": 317,
+    "count": 319,
     "rank": 10
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "topic": "Diffusion Models",
-    "count": 166,
+    "count": 170,
     "rank": 13
   },
   {
@@ -71,12 +71,12 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 134,
+    "count": 135,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 128,
+    "count": 129,
     "rank": 16
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "topic": "Multimodal",
-    "count": 109,
+    "count": 115,
     "rank": 18
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "topic": "Neural Rendering",
-    "count": 69,
+    "count": 72,
     "rank": 20
   }
 ]
