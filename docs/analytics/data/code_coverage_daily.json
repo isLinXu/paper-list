@@ -1,15 +1,15 @@
 [
   {
     "topic": "AI Safety",
-    "date": "2026-08-03",
-    "total": 34,
+    "date": "2026-08-04",
+    "total": 44,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "AI Safety",
-    "date": "2026-08-04",
-    "total": 34,
+    "date": "2026-08-05",
+    "total": 38,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -4026,15 +4026,15 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-08-04",
-    "total": 4,
+    "date": "2026-08-05",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -12645,20 +12645,6 @@
     "topic": "Audio Processing",
     "date": "2026-04-09",
     "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Audio Processing",
-    "date": "2026-08-03",
-    "total": 9,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Audio Processing",
-    "date": "2026-08-04",
-    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -17627,15 +17613,15 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-08-03",
-    "total": 5,
+    "date": "2026-08-04",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Classification",
-    "date": "2026-08-04",
-    "total": 4,
+    "date": "2026-08-05",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -21666,15 +21652,15 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-08-03",
-    "total": 1,
+    "date": "2026-08-04",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-08-04",
-    "total": 1,
+    "date": "2026-08-05",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -21750,15 +21736,15 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-08-03",
-    "total": 20,
+    "date": "2026-08-04",
+    "total": 34,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-08-04",
-    "total": 28,
+    "date": "2026-08-05",
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -25760,13 +25746,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Graph Neural Networks",
-    "date": "2026-08-03",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Image Generation",
     "date": "2024-02-27",
     "total": 1,
@@ -29660,15 +29639,15 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08-03",
-    "total": 15,
+    "date": "2026-08-04",
+    "total": 9,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08-04",
-    "total": 6,
+    "date": "2026-08-05",
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -32629,7 +32608,14 @@
   {
     "topic": "LLM",
     "date": "2026-08-04",
-    "total": 95,
+    "total": 12,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-08-05",
+    "total": 82,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -36072,15 +36058,15 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-08-03",
-    "total": 30,
+    "date": "2026-08-04",
+    "total": 32,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Multimodal",
-    "date": "2026-08-04",
-    "total": 13,
+    "date": "2026-08-05",
+    "total": 14,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -36170,15 +36156,15 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-08-03",
-    "total": 10,
+    "date": "2026-08-04",
+    "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-08-04",
-    "total": 1,
+    "date": "2026-08-05",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -40566,15 +40552,15 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08-03",
-    "total": 7,
+    "date": "2026-08-04",
+    "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08-04",
-    "total": 7,
+    "date": "2026-08-05",
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -43877,15 +43863,15 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-08-04",
-    "total": 4,
+    "date": "2026-08-05",
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -47217,13 +47203,6 @@
   {
     "topic": "Optical Flow",
     "date": "2026-04-30",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-08-03",
     "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -51934,22 +51913,15 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-08-04",
+    "date": "2026-08-05",
     "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Reasoning",
-    "date": "2026-08-04",
-    "total": 60,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -59144,15 +59116,15 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08-03",
-    "total": 7,
+    "date": "2026-08-04",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08-04",
-    "total": 3,
+    "date": "2026-08-05",
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -63638,29 +63610,15 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08-03",
-    "total": 3,
+    "date": "2026-08-04",
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08-04",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Time Series & Anomaly",
-    "date": "2026-08-03",
-    "total": 11,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Time Series & Anomaly",
-    "date": "2026-08-04",
-    "total": 2,
+    "date": "2026-08-05",
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -67509,29 +67467,15 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08-03",
-    "total": 13,
+    "date": "2026-08-04",
+    "total": 10,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08-04",
-    "total": 7,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "World Models",
-    "date": "2026-08-03",
-    "total": 47,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "World Models",
-    "date": "2026-08-04",
-    "total": 23,
+    "date": "2026-08-05",
+    "total": 9,
     "code_covered": 0,
     "code_coverage": 0.0
   }

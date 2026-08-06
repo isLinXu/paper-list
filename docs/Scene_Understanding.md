@@ -6,7 +6,7 @@ Total papers: **1433**
 
 Latest archive month: **2026-08** (10 papers)
 
-Topic neighbors: [← Time Series & Anomaly](Time_Series_&_Anomaly.md) · [Video Understanding →](Video_Understanding.md)
+Topic neighbors: [← Graph Neural Networks](Graph_Neural_Networks.md) · [Video Understanding →](Video_Understanding.md)
 
 ### Systems Frontier
 

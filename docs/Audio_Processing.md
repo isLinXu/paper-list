@@ -2,9 +2,9 @@
 
 Lane: **Data Sciences**
 
-Total papers: **2266**
+Total papers: **2250**
 
-Latest archive month: **2026-08** (16 papers)
+Latest archive month: **2026-04** (15 papers)
 
 Topic neighbors: [← AI Safety](AI_Safety.md) · [Graph Neural Networks →](Graph_Neural_Networks.md)
 
@@ -14,7 +14,6 @@ This page is the monthly archive hub for **Audio Processing**. Start with the la
 
 ## Monthly Archives
 
-- [2026-08](Audio_Processing/2026-08.md) (16 papers)
 - [2026-04](Audio_Processing/2026-04.md) (15 papers)
 - [2026-03](Audio_Processing/2026-03.md) (118 papers)
 - [2026-02](Audio_Processing/2026-02.md) (69 papers)

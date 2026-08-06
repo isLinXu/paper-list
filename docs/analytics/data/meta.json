@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T02:25:16+00:00",
+  "generated_at": "2026-08-06T02:22:04+00:00",
   "topics": [
     "AI Safety",
     "Action Recognition",
@@ -18,17 +18,14 @@
     "Object Tracking",
     "Optical Flow",
     "Pose Estimation",
-    "Reasoning",
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
-    "Time Series & Anomaly",
     "Transfer Learning",
-    "Video Understanding",
-    "World Models"
+    "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-08-04",
+  "max_date": "2026-08-05",
   "granularities": [
     "day",
     "month"

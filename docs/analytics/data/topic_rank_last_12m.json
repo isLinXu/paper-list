@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 5327,
+    "count": 5326,
     "rank": 1
   },
   {
@@ -16,22 +16,22 @@
   },
   {
     "topic": "Image Generation",
-    "count": 1456,
+    "count": 1451,
     "rank": 4
   },
   {
     "topic": "Classification",
-    "count": 1018,
+    "count": 1014,
     "rank": 5
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 862,
+    "count": 860,
     "rank": 6
   },
   {
     "topic": "Object Detection",
-    "count": 857,
+    "count": 859,
     "rank": 7
   },
   {
@@ -41,27 +41,27 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 714,
+    "count": 718,
     "rank": 9
   },
   {
     "topic": "Pose Estimation",
-    "count": 638,
+    "count": 637,
     "rank": 10
   },
   {
     "topic": "Audio Processing",
-    "count": 621,
+    "count": 605,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 538,
+    "count": 537,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 422,
+    "count": 420,
     "rank": 13
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "topic": "Action Recognition",
-    "count": 372,
+    "count": 370,
     "rank": 15
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "topic": "Optical Flow",
-    "count": 281,
+    "count": 280,
     "rank": 17
   },
   {
@@ -91,12 +91,12 @@
   },
   {
     "topic": "Video Understanding",
-    "count": 138,
+    "count": 137,
     "rank": 19
   },
   {
-    "topic": "Neural Rendering",
-    "count": 80,
+    "topic": "AI Safety",
+    "count": 82,
     "rank": 20
   }
 ]
