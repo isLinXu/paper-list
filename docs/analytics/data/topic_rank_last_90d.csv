@@ -1,16 +1,4 @@
 topic,count,rank
-LLM,94,1
-AI Safety,82,2
-Diffusion Models,48,3
-Multimodal,46,4
-Video Understanding,19,5
-Object Detection,16,6
-Image Generation,16,7
-Semantic Segmentation,12,8
-Object Tracking,11,9
-Scene Understanding,10,10
-Classification,6,11
-Action Recognition,6,12
-Neural Rendering,6,13
-Pose Estimation,4,14
-Depth Estimation,4,15
+Semantic Segmentation,15,1
+Object Detection,8,2
+Classification,7,3
