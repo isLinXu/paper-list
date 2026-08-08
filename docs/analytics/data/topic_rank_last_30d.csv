@@ -1,4 +1,17 @@
 topic,count,rank
-Semantic Segmentation,15,1
-Object Detection,8,2
-Classification,7,3
+LLM,83,1
+AI Safety,39,2
+World Models,27,3
+Multimodal,21,4
+Diffusion Models,14,5
+Video Understanding,10,6
+Image Generation,7,7
+Semantic Segmentation,6,8
+Neural Rendering,5,9
+Classification,3,10
+Action Recognition,3,11
+Pose Estimation,3,12
+Scene Understanding,3,13
+Object Detection,2,14
+Object Tracking,2,15
+Optical Flow,2,16
