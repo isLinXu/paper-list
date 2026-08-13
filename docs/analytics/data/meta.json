@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T01:57:42+00:00",
+  "generated_at": "2026-08-13T01:54:51+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -17,14 +17,16 @@
     "Object Tracking",
     "Optical Flow",
     "Pose Estimation",
+    "Reasoning",
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
     "Transfer Learning",
-    "Video Understanding"
+    "Video Understanding",
+    "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-08-10",
+  "max_date": "2026-08-11",
   "granularities": [
     "day",
     "month"
