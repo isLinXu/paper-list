@@ -1,13 +1,8 @@
 [
   {
-    "topic": "AI Agent",
-    "date": "2026-08-17",
-    "count": 27
-  },
-  {
     "topic": "AI Safety",
-    "date": "2026-08-17",
-    "count": 41
+    "date": "2026-08-18",
+    "count": 40
   },
   {
     "topic": "Action Recognition",
@@ -2876,8 +2871,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-08-17",
-    "count": 1
+    "date": "2026-08-18",
+    "count": 4
   },
   {
     "topic": "Anomaly Detection",
@@ -9031,8 +9026,8 @@
   },
   {
     "topic": "Audio Processing",
-    "date": "2026-08-17",
-    "count": 11
+    "date": "2026-08-18",
+    "count": 5
   },
   {
     "topic": "Classification",
@@ -12581,8 +12576,8 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-08-17",
-    "count": 2
+    "date": "2026-08-18",
+    "count": 3
   },
   {
     "topic": "Depth Estimation",
@@ -15460,6 +15455,11 @@
     "count": 1
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-08-18",
+    "count": 1
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -15511,8 +15511,13 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-08-17",
-    "count": 18
+    "date": "2026-08-18",
+    "count": 12
+  },
+  {
+    "topic": "Efficient AI",
+    "date": "2026-08-18",
+    "count": 12
   },
   {
     "topic": "Graph Neural Networks",
@@ -18371,8 +18376,8 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "date": "2026-08-17",
-    "count": 4
+    "date": "2026-08-18",
+    "count": 2
   },
   {
     "topic": "Image Generation",
@@ -21156,8 +21161,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08-17",
-    "count": 8
+    "date": "2026-08-18",
+    "count": 6
   },
   {
     "topic": "LLM",
@@ -23271,8 +23276,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-08-17",
-    "count": 83
+    "date": "2026-08-18",
+    "count": 70
   },
   {
     "topic": "Latent Space LLM",
@@ -25731,8 +25736,8 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-08-17",
-    "count": 9
+    "date": "2026-08-18",
+    "count": 15
   },
   {
     "topic": "Neural Rendering",
@@ -25796,8 +25801,8 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-08-17",
-    "count": 4
+    "date": "2026-08-18",
+    "count": 7
   },
   {
     "topic": "Object Detection",
@@ -28931,8 +28936,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08-17",
-    "count": 5
+    "date": "2026-08-18",
+    "count": 3
   },
   {
     "topic": "Object Tracking",
@@ -31291,8 +31296,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-08-17",
-    "count": 3
+    "date": "2026-08-18",
+    "count": 5
   },
   {
     "topic": "Optical Flow",
@@ -33676,7 +33681,7 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "count": 1
   },
   {
@@ -37040,14 +37045,9 @@
     "count": 1
   },
   {
-    "topic": "Pose Estimation",
-    "date": "2026-08-17",
-    "count": 1
-  },
-  {
     "topic": "Reasoning",
-    "date": "2026-08-17",
-    "count": 62
+    "date": "2026-08-18",
+    "count": 64
   },
   {
     "topic": "Reinforcement Learning",
@@ -42186,7 +42186,7 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "count": 1
   },
   {
@@ -45391,13 +45391,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08-17",
-    "count": 7
+    "date": "2026-08-18",
+    "count": 4
   },
   {
     "topic": "Time Series & Anomaly",
-    "date": "2026-08-17",
-    "count": 8
+    "date": "2026-08-18",
+    "count": 9
   },
   {
     "topic": "Transfer Learning",
@@ -48085,6 +48085,11 @@
     "count": 49
   },
   {
+    "topic": "Transfer Learning",
+    "date": "2026-08-18",
+    "count": 51
+  },
+  {
     "topic": "Video Understanding",
     "date": "2026-04-13",
     "count": 13
@@ -48146,12 +48151,12 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08-17",
-    "count": 8
+    "date": "2026-08-18",
+    "count": 3
   },
   {
     "topic": "World Models",
-    "date": "2026-08-17",
-    "count": 30
+    "date": "2026-08-18",
+    "count": 31
   }
 ]
