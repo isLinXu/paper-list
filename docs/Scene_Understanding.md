@@ -2,11 +2,11 @@
 
 Lane: **Research Surface**
 
-Total papers: **1427**
+Total papers: **1424**
 
-Latest archive month: **2026-08** (4 papers)
+Latest archive month: **2026-08** (1 papers)
 
-Topic neighbors: [← Time Series & Anomaly](Time_Series_&_Anomaly.md) · [Video Understanding →](Video_Understanding.md)
+Topic neighbors: [← Graph Neural Networks](Graph_Neural_Networks.md) · [Video Understanding →](Video_Understanding.md)
 
 ### Systems Frontier
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Scene Understanding**. Start with the
 
 ## Monthly Archives
 
-- [2026-08](Scene_Understanding/2026-08.md) (4 papers)
+- [2026-08](Scene_Understanding/2026-08.md) (1 papers)
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)
