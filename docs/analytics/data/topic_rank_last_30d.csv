@@ -1,18 +1,21 @@
 topic,count,rank
-LLM,90,1
-AI Safety,59,2
-Multimodal,23,3
-Diffusion Models,22,4
-World Models,22,5
-Object Tracking,10,6
-Video Understanding,9,7
-Image Generation,8,8
-Audio Processing,5,9
-Semantic Segmentation,4,10
-Scene Understanding,4,11
-Neural Rendering,4,12
-Classification,3,13
-Object Detection,3,14
-Action Recognition,3,15
-Depth Estimation,1,16
-Optical Flow,1,17
+LLM,95,1
+AI Safety,81,2
+World Models,62,3
+Reasoning,61,4
+Efficient AI,49,5
+Multimodal,45,6
+Diffusion Models,28,7
+Audio Processing,23,8
+Video Understanding,18,9
+Object Tracking,14,10
+Image Generation,12,11
+Time Series & Anomaly,12,12
+Object Detection,11,13
+Semantic Segmentation,9,14
+Classification,8,15
+Action Recognition,6,16
+Neural Rendering,5,17
+Scene Understanding,3,18
+Optical Flow,3,19
+Pose Estimation,2,20
