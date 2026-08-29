@@ -1,11 +1,6 @@
 [
   {
     "topic": "AI Safety",
-    "date": "2026-08-26",
-    "count": 37
-  },
-  {
-    "topic": "AI Safety",
     "date": "2026-08-27",
     "count": 47
   },
@@ -2873,11 +2868,6 @@
     "topic": "Action Recognition",
     "date": "2026-04-30",
     "count": 6
-  },
-  {
-    "topic": "Action Recognition",
-    "date": "2026-08-26",
-    "count": 3
   },
   {
     "topic": "Action Recognition",
@@ -9035,6 +9025,11 @@
     "count": 2
   },
   {
+    "topic": "Audio Processing",
+    "date": "2026-08-27",
+    "count": 5
+  },
+  {
     "topic": "Classification",
     "date": "2024-02-26",
     "count": 1
@@ -12581,11 +12576,6 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-08-26",
-    "count": 3
-  },
-  {
-    "topic": "Classification",
     "date": "2026-08-27",
     "count": 5
   },
@@ -15518,11 +15508,6 @@
     "topic": "Diffusion Models",
     "date": "2026-04-30",
     "count": 15
-  },
-  {
-    "topic": "Diffusion Models",
-    "date": "2026-08-26",
-    "count": 17
   },
   {
     "topic": "Diffusion Models",
@@ -21166,11 +21151,6 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08-26",
-    "count": 9
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-08-27",
     "count": 7
   },
@@ -25746,11 +25726,6 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-08-26",
-    "count": 30
-  },
-  {
-    "topic": "Multimodal",
     "date": "2026-08-27",
     "count": 15
   },
@@ -25813,11 +25788,6 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "count": 9
-  },
-  {
-    "topic": "Neural Rendering",
-    "date": "2026-08-26",
-    "count": 4
   },
   {
     "topic": "Neural Rendering",
@@ -28956,11 +28926,6 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08-26",
-    "count": 6
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-08-27",
     "count": 6
   },
@@ -31318,11 +31283,6 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
-  },
-  {
-    "topic": "Object Tracking",
-    "date": "2026-08-26",
-    "count": 9
   },
   {
     "topic": "Object Tracking",
@@ -33708,11 +33668,6 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-08-26",
-    "count": 2
   },
   {
     "topic": "Optical Flow",
@@ -42221,11 +42176,6 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08-26",
-    "count": 2
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-08-27",
     "count": 5
   },
@@ -45431,11 +45381,6 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08-26",
-    "count": 5
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-08-27",
     "count": 6
   },
@@ -48186,18 +48131,8 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08-26",
-    "count": 14
-  },
-  {
-    "topic": "Video Understanding",
     "date": "2026-08-27",
     "count": 10
-  },
-  {
-    "topic": "World Models",
-    "date": "2026-08-26",
-    "count": 42
   },
   {
     "topic": "World Models",
