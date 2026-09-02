@@ -2,9 +2,9 @@
 
 Lane: **Generative Layer**
 
-Total papers: **184**
+Total papers: **195**
 
-Latest archive month: **2026-08** (18 papers)
+Latest archive month: **2026-09** (14 papers)
 
 Topic neighbors: [← Image Generation](Image_Generation.md) · [LLM →](LLM.md)
 
@@ -14,7 +14,8 @@ This page is the monthly archive hub for **Diffusion Models**. Start with the la
 
 ## Monthly Archives
 
-- [2026-08](Diffusion_Models/2026-08.md) (18 papers)
+- [2026-09](Diffusion_Models/2026-09.md) (14 papers)
+- [2026-08](Diffusion_Models/2026-08.md) (15 papers)
 - [2026-04](Diffusion_Models/2026-04.md) (166 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
