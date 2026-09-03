@@ -190,15 +190,8 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-08",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Action Recognition",
     "date": "2026-09",
-    "total": 1,
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -764,15 +757,8 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-08",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Classification",
     "date": "2026-09",
-    "total": 4,
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -967,8 +953,8 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-08",
-    "total": 3,
+    "date": "2026-09",
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -981,15 +967,8 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-08",
-    "total": 15,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Diffusion Models",
     "date": "2026-09",
-    "total": 14,
+    "total": 36,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1366,15 +1345,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-08",
-    "total": 8,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-09",
-    "total": 13,
+    "total": 23,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1765,15 +1737,8 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-08",
-    "total": 36,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Multimodal",
     "date": "2026-09",
-    "total": 22,
+    "total": 51,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1786,15 +1751,8 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-08",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Neural Rendering",
     "date": "2026-09",
-    "total": 1,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1982,8 +1940,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-08",
-    "total": 6,
+    "date": "2026-09",
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2178,15 +2136,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-08",
-    "total": 11,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Tracking",
     "date": "2026-09",
-    "total": 3,
+    "total": 12,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2381,8 +2332,8 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-08",
-    "total": 2,
+    "date": "2026-09",
+    "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2577,15 +2528,8 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-08",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Pose Estimation",
     "date": "2026-09",
-    "total": 3,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2962,15 +2906,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-08",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-09",
-    "total": 3,
+    "total": 6,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3151,15 +3088,8 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-08",
-    "total": 9,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-09",
-    "total": 1,
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3354,15 +3284,8 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-08",
-    "total": 8,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Video Understanding",
     "date": "2026-09",
-    "total": 5,
+    "total": 17,
     "code_covered": 0,
     "code_coverage": 0.0
   }

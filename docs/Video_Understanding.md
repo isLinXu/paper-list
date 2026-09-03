@@ -2,9 +2,9 @@
 
 Lane: **Research Surface**
 
-Total papers: **131**
+Total papers: **135**
 
-Latest archive month: **2026-09** (5 papers)
+Latest archive month: **2026-09** (17 papers)
 
 Topic neighbors: [← Scene Understanding](Scene_Understanding.md)
 
@@ -14,8 +14,7 @@ This page is the monthly archive hub for **Video Understanding**. Start with the
 
 ## Monthly Archives
 
-- [2026-09](Video_Understanding/2026-09.md) (5 papers)
-- [2026-08](Video_Understanding/2026-08.md) (8 papers)
+- [2026-09](Video_Understanding/2026-09.md) (17 papers)
 - [2026-04](Video_Understanding/2026-04.md) (118 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
