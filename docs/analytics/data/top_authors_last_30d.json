@@ -1,101 +1,101 @@
 [
   {
-    "author": "Yinan Liu",
+    "author": "Yanshu Zhang",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Ziquan Liu",
-    "count": 2,
-    "rank": 2
-  },
-  {
-    "author": "Wooyoung Jung",
-    "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Uicheol Jung",
-    "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Yanshu Zhang",
-    "count": 2,
-    "rank": 5
-  },
-  {
     "author": "Michael Khavkin",
     "count": 1,
-    "rank": 6
+    "rank": 2
   },
   {
     "author": "Ruiling Liu",
     "count": 1,
-    "rank": 7
-  },
-  {
-    "author": "Ali Hojjat",
-    "count": 1,
-    "rank": 8
-  },
-  {
-    "author": "Jierui Li",
-    "count": 1,
-    "rank": 9
-  },
-  {
-    "author": "Chengyin Hu",
-    "count": 1,
-    "rank": 10
+    "rank": 3
   },
   {
     "author": "Konstantinos Dimitropoulos",
     "count": 1,
-    "rank": 11
+    "rank": 4
   },
   {
     "author": "Julian Truetsch",
     "count": 1,
-    "rank": 12
+    "rank": 5
   },
   {
     "author": "Yue Zhao",
     "count": 1,
-    "rank": 13
+    "rank": 6
   },
   {
     "author": "Xuehao Wang",
     "count": 1,
+    "rank": 7
+  },
+  {
+    "author": "Caterina Caccavella",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "author": "Augustin Raju",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "author": "Yinan Liu",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Cheng Bi",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "C. Regenfus",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "E. Chatzianagnostou",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "The KM3NeT Collaboration",
+    "count": 1,
     "rank": 14
   },
   {
-    "author": "Seung-Hyun Song",
+    "author": "David Brunner",
     "count": 1,
     "rank": 15
   },
   {
-    "author": "Thijs A. Eker",
+    "author": "Fagner Cunha",
     "count": 1,
     "rank": 16
   },
   {
-    "author": "Ziwei Zhao",
+    "author": "Francesco Mantegna",
     "count": 1,
     "rank": 17
   },
   {
-    "author": "Isabel D. Stein",
+    "author": "Zhaoxin Fan",
     "count": 1,
     "rank": 18
   },
   {
-    "author": "Yinghao Sun",
+    "author": "Emanuele Cardinale",
     "count": 1,
     "rank": 19
   },
   {
-    "author": "Phillip Chlap",
+    "author": "Adheesh Sunil Juvekar",
     "count": 1,
     "rank": 20
   }
