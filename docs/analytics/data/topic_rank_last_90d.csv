@@ -1,17 +1,16 @@
 topic,count,rank
-LLM,95,1
-World Models,73,2
-Multimodal,32,3
-Diffusion Models,28,4
-Semantic Segmentation,12,5
-Video Understanding,12,6
-Object Detection,11,7
-Object Tracking,10,8
-Image Generation,9,9
-Pose Estimation,8,10
-Classification,7,11
-Neural Rendering,7,12
-Scene Understanding,5,13
-Action Recognition,4,14
-Depth Estimation,2,15
-Optical Flow,2,16
+LLM,96,1
+World Models,54,2
+Diffusion Models,35,3
+Multimodal,28,4
+Video Understanding,17,5
+Object Tracking,12,6
+Classification,10,7
+Image Generation,10,8
+Neural Rendering,8,9
+Object Detection,7,10
+Pose Estimation,6,11
+Semantic Segmentation,5,12
+Scene Understanding,3,13
+Depth Estimation,3,14
+Optical Flow,1,15
