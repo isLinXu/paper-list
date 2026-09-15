@@ -2457,6 +2457,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Pose Estimation",
+    "date": "2026-09",
+    "total": 1,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Reinforcement Learning",
     "date": "2024-02",
     "total": 20,
