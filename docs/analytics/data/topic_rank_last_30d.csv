@@ -1,2 +1,21 @@
 topic,count,rank
-Pose Estimation,1,1
+LLM,94,1
+AI Safety,80,2
+World Models,72,3
+AI Agent,71,4
+Reasoning,66,5
+Efficient AI,55,6
+Multimodal,49,7
+Diffusion Models,37,8
+Object Tracking,22,9
+Audio Processing,22,10
+Time Series & Anomaly,15,11
+Image Generation,12,12
+Video Understanding,11,13
+Semantic Segmentation,10,14
+Neural Rendering,10,15
+Classification,7,16
+Object Detection,7,17
+Action Recognition,6,18
+Optical Flow,6,19
+Pose Estimation,5,20
