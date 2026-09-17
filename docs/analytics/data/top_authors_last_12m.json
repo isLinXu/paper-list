@@ -6,17 +6,17 @@
   },
   {
     "author": "Hao Li",
-    "count": 12,
+    "count": 13,
     "rank": 2
-  },
-  {
-    "author": "Yu Li",
-    "count": 11,
-    "rank": 3
   },
   {
     "author": "Saeid Jamshidi",
     "count": 11,
+    "rank": 3
+  },
+  {
+    "author": "Yu Li",
+    "count": 10,
     "rank": 4
   },
   {
@@ -30,47 +30,47 @@
     "rank": 6
   },
   {
-    "author": "Haoyu Wang",
+    "author": "Yu Wang",
     "count": 9,
     "rank": 7
   },
   {
-    "author": "Yu Wang",
-    "count": 9,
-    "rank": 8
-  },
-  {
     "author": "Yizhan Feng",
     "count": 8,
-    "rank": 9
+    "rank": 8
   },
   {
     "author": "Yuxuan Li",
     "count": 8,
+    "rank": 9
+  },
+  {
+    "author": "Haoyu Wang",
+    "count": 8,
     "rank": 10
+  },
+  {
+    "author": "Yu Liu",
+    "count": 8,
+    "rank": 11
   },
   {
     "author": "Yi Zhang",
     "count": 7,
-    "rank": 11
+    "rank": 12
   },
   {
     "author": "Jiahao Li",
     "count": 7,
-    "rank": 12
+    "rank": 13
   },
   {
     "author": "Yuan Gao",
     "count": 7,
-    "rank": 13
-  },
-  {
-    "author": "Sijia Chen",
-    "count": 7,
     "rank": 14
   },
   {
-    "author": "Yu Liu",
+    "author": "Sijia Chen",
     "count": 7,
     "rank": 15
   },
