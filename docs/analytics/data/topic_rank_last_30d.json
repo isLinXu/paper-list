@@ -1,97 +1,87 @@
 [
   {
-    "topic": "LLM",
-    "count": 92,
+    "topic": "AI Safety",
+    "count": 93,
     "rank": 1
   },
   {
-    "topic": "AI Safety",
-    "count": 76,
+    "topic": "Multimodal",
+    "count": 52,
     "rank": 2
   },
   {
-    "topic": "Multimodal",
-    "count": 63,
+    "topic": "Diffusion Models",
+    "count": 28,
     "rank": 3
   },
   {
-    "topic": "Efficient AI",
-    "count": 56,
+    "topic": "Time Series & Anomaly",
+    "count": 23,
     "rank": 4
   },
   {
-    "topic": "Diffusion Models",
-    "count": 37,
+    "topic": "Object Detection",
+    "count": 21,
     "rank": 5
   },
   {
-    "topic": "Object Tracking",
+    "topic": "Audio Processing",
     "count": 20,
     "rank": 6
   },
   {
-    "topic": "Audio Processing",
-    "count": 18,
+    "topic": "Image Generation",
+    "count": 12,
     "rank": 7
   },
   {
-    "topic": "Time Series & Anomaly",
-    "count": 18,
+    "topic": "Video Understanding",
+    "count": 12,
     "rank": 8
   },
   {
-    "topic": "Image Generation",
-    "count": 15,
+    "topic": "Semantic Segmentation",
+    "count": 11,
     "rank": 9
   },
   {
-    "topic": "Object Detection",
-    "count": 13,
+    "topic": "Neural Rendering",
+    "count": 11,
     "rank": 10
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 10,
+    "topic": "Object Tracking",
+    "count": 8,
     "rank": 11
   },
   {
-    "topic": "Video Understanding",
-    "count": 10,
+    "topic": "Action Recognition",
+    "count": 7,
     "rank": 12
   },
   {
-    "topic": "Classification",
-    "count": 9,
+    "topic": "Scene Understanding",
+    "count": 5,
     "rank": 13
   },
   {
-    "topic": "Neural Rendering",
-    "count": 9,
+    "topic": "Pose Estimation",
+    "count": 4,
     "rank": 14
   },
   {
-    "topic": "Action Recognition",
-    "count": 8,
+    "topic": "Classification",
+    "count": 3,
     "rank": 15
   },
   {
-    "topic": "Pose Estimation",
-    "count": 7,
+    "topic": "Anomaly Detection",
+    "count": 2,
     "rank": 16
   },
   {
-    "topic": "Scene Understanding",
-    "count": 6,
-    "rank": 17
-  },
-  {
     "topic": "Optical Flow",
-    "count": 6,
-    "rank": 18
-  },
-  {
-    "topic": "Graph Neural Networks",
-    "count": 3,
-    "rank": 19
+    "count": 1,
+    "rank": 17
   }
 ]

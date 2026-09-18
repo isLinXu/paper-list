@@ -2,9 +2,9 @@
 
 Lane: **Vision Systems**
 
-Total papers: **3275**
+Total papers: **3283**
 
-Latest archive month: **2026-09** (13 papers)
+Latest archive month: **2026-09** (21 papers)
 
 Topic neighbors: [← Classification](Classification.md) · [Semantic Segmentation →](Semantic_Segmentation.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Object Detection**. Start with the la
 
 ## Monthly Archives
 
-- [2026-09](Object_Detection/2026-09.md) (13 papers)
+- [2026-09](Object_Detection/2026-09.md) (21 papers)
 - [2026-04](Object_Detection/2026-04.md) (80 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
 - [2026-02](Object_Detection/2026-02.md) (103 papers)
