@@ -1,18 +1,21 @@
 topic,count,rank
-AI Safety,93,1
-Multimodal,52,2
-Diffusion Models,28,3
-Time Series & Anomaly,23,4
-Object Detection,21,5
-Audio Processing,20,6
-Image Generation,12,7
-Video Understanding,12,8
-Semantic Segmentation,11,9
-Neural Rendering,11,10
-Object Tracking,8,11
-Action Recognition,7,12
-Scene Understanding,5,13
-Pose Estimation,4,14
-Classification,3,15
-Anomaly Detection,2,16
-Optical Flow,1,17
+Reasoning,82,1
+AI Safety,62,2
+Reinforcement Learning,30,3
+Multimodal,23,4
+Efficient AI,21,5
+Diffusion Models,14,6
+Object Detection,10,7
+Video Understanding,9,8
+Image Generation,8,9
+Object Tracking,7,10
+Audio Processing,7,11
+Neural Rendering,7,12
+Time Series & Anomaly,7,13
+Semantic Segmentation,5,14
+Scene Understanding,4,15
+Graph Neural Networks,4,16
+Anomaly Detection,2,17
+Classification,1,18
+Action Recognition,1,19
+Pose Estimation,1,20
