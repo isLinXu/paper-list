@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:42:44+00:00",
+  "generated_at": "2026-09-22T03:31:07+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -20,11 +20,12 @@
     "Reinforcement Learning",
     "Scene Understanding",
     "Semantic Segmentation",
+    "Time Series & Anomaly",
     "Transfer Learning",
     "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-04-30",
+  "max_date": "2026-09-21",
   "granularities": [
     "day",
     "month"
