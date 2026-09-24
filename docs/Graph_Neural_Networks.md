@@ -2,9 +2,9 @@
 
 Lane: **Data Sciences**
 
-Total papers: **3611**
+Total papers: **3608**
 
-Latest archive month: **2026-09** (6 papers)
+Latest archive month: **2026-09** (3 papers)
 
 Topic neighbors: [← Audio Processing](Audio_Processing.md) · [Time Series & Anomaly →](Time_Series_&_Anomaly.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Graph Neural Networks**. Start with t
 
 ## Monthly Archives
 
-- [2026-09](Graph_Neural_Networks/2026-09.md) (6 papers)
+- [2026-09](Graph_Neural_Networks/2026-09.md) (3 papers)
 - [2026-04](Graph_Neural_Networks/2026-04.md) (33 papers)
 - [2026-03](Graph_Neural_Networks/2026-03.md) (167 papers)
 - [2026-02](Graph_Neural_Networks/2026-02.md) (99 papers)

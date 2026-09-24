@@ -2,9 +2,9 @@
 
 Lane: **Intelligence Stack**
 
-Total papers: **82**
+Total papers: **69**
 
-Latest archive month: **2026-09** (82 papers)
+Latest archive month: **2026-09** (69 papers)
 
 Topic neighbors: [← Neural Rendering](Neural_Rendering.md) · [Reinforcement Learning →](Reinforcement_Learning.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Reasoning**. Start with the latest mo
 
 ## Monthly Archives
 
-- [2026-09](Reasoning/2026-09.md) (82 papers)
+- [2026-09](Reasoning/2026-09.md) (69 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
