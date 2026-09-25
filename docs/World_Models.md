@@ -2,9 +2,9 @@
 
 Lane: **Agent & Driving**
 
-Total papers: **72**
+Total papers: **71**
 
-Latest archive month: **2026-09** (72 papers)
+Latest archive month: **2026-09** (71 papers)
 
 Topic neighbors: [← AI Agent](AI_Agent.md) · [Reasoning →](Reasoning.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **World Models**. Start with the latest
 
 ## Monthly Archives
 
-- [2026-09](World_Models/2026-09.md) (72 papers)
+- [2026-09](World_Models/2026-09.md) (71 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 

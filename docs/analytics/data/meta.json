@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-09-24T03:06:44+00:00",
+  "generated_at": "2026-09-25T03:23:49+00:00",
   "topics": [
+    "AI Agent",
     "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
@@ -8,6 +9,7 @@
     "Classification",
     "Depth Estimation",
     "Diffusion Models",
+    "Efficient AI",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",
@@ -24,10 +26,11 @@
     "Semantic Segmentation",
     "Time Series & Anomaly",
     "Transfer Learning",
-    "Video Understanding"
+    "Video Understanding",
+    "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-09-23",
+  "max_date": "2026-09-24",
   "granularities": [
     "day",
     "month"

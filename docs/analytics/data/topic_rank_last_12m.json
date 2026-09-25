@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 5324,
+    "count": 5326,
     "rank": 1
   },
   {
     "topic": "Transfer Learning",
-    "count": 3599,
+    "count": 3649,
     "rank": 2
   },
   {
     "topic": "Reinforcement Learning",
-    "count": 2902,
+    "count": 2821,
     "rank": 3
   },
   {
     "topic": "Image Generation",
-    "count": 1442,
+    "count": 1447,
     "rank": 4
   },
   {
     "topic": "Graph Neural Networks",
-    "count": 860,
+    "count": 859,
     "rank": 5
   },
   {
     "topic": "Object Detection",
-    "count": 842,
+    "count": 834,
     "rank": 6
   },
   {
     "topic": "Anomaly Detection",
-    "count": 823,
+    "count": 822,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 787,
+    "count": 785,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 717,
+    "count": 719,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 623,
+    "count": 625,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 517,
+    "count": 508,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 440,
+    "count": 436,
     "rank": 12
   },
   {
-    "topic": "Depth Estimation",
+    "topic": "Multimodal",
     "count": 340,
     "rank": 13
   },
   {
-    "topic": "Multimodal",
-    "count": 329,
+    "topic": "Depth Estimation",
+    "count": 338,
     "rank": 14
   },
   {
     "topic": "Action Recognition",
-    "count": 323,
+    "count": 322,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 293,
+    "count": 290,
     "rank": 16
   },
   {
     "topic": "Optical Flow",
-    "count": 242,
+    "count": 239,
     "rank": 17
   },
   {
     "topic": "Diffusion Models",
-    "count": 204,
+    "count": 214,
     "rank": 18
   },
   {
     "topic": "Video Understanding",
-    "count": 127,
+    "count": 130,
     "rank": 19
   },
   {
-    "topic": "AI Safety",
-    "count": 86,
+    "topic": "AI Agent",
+    "count": 81,
     "rank": 20
   }
 ]
