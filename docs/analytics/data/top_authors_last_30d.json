@@ -1,101 +1,101 @@
 [
   {
-    "author": "Xueqi Qiu",
+    "author": "Taha Entesari",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Taha Entesari",
+    "author": "Jiajun Wu",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Jiajun Wu",
+    "author": "Saim Rehman",
     "count": 2,
     "rank": 3
   },
   {
-    "author": "Saim Rehman",
+    "author": "Zexi Li",
     "count": 2,
     "rank": 4
   },
   {
-    "author": "Zexi Li",
+    "author": "Haojin Li",
     "count": 2,
     "rank": 5
   },
   {
-    "author": "Haojin Li",
+    "author": "Mengdan Zhu",
     "count": 2,
     "rank": 6
   },
   {
-    "author": "Edgardo Villar-Sepúlveda",
-    "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Walter Kurz",
-    "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Mengdan Zhu",
-    "count": 2,
-    "rank": 9
-  },
-  {
-    "author": "Shengjun Zhang",
-    "count": 2,
-    "rank": 10
-  },
-  {
     "author": "Yanran Wu",
     "count": 1,
-    "rank": 11
+    "rank": 7
   },
   {
     "author": "Siyuan Luo",
     "count": 1,
-    "rank": 12
+    "rank": 8
   },
   {
     "author": "Sérgio J. M. Almeida",
     "count": 1,
-    "rank": 13
-  },
-  {
-    "author": "Yimin Zhu",
-    "count": 1,
-    "rank": 14
-  },
-  {
-    "author": "Jared Lipkin",
-    "count": 1,
-    "rank": 15
-  },
-  {
-    "author": "Li Zeng",
-    "count": 1,
-    "rank": 16
-  },
-  {
-    "author": "Ilán Carretero",
-    "count": 1,
-    "rank": 17
-  },
-  {
-    "author": "Zheng Yu",
-    "count": 1,
-    "rank": 18
+    "rank": 9
   },
   {
     "author": "Byounggun Park",
     "count": 1,
-    "rank": 19
+    "rank": 10
   },
   {
     "author": "Yuting Zhao",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Ben Liang",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Kai Glantz",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Sheekar Banerjee",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Ilpo Viertola",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Shaohua Dong",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Md Maklachur Rahman",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Huy Trinh",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "S. Vargas Dominguez",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Abu Bakar",
     "count": 1,
     "rank": 20
   }

@@ -1,102 +1,102 @@
 [
   {
     "topic": "LLM",
-    "count": 96,
+    "count": 91,
     "rank": 1
   },
   {
-    "topic": "AI Agent",
-    "count": 81,
+    "topic": "Reasoning",
+    "count": 64,
     "rank": 2
   },
   {
     "topic": "AI Safety",
-    "count": 73,
+    "count": 64,
     "rank": 3
   },
   {
-    "topic": "World Models",
-    "count": 71,
+    "topic": "Transfer Learning",
+    "count": 52,
     "rank": 4
   },
   {
-    "topic": "Efficient AI",
-    "count": 62,
+    "topic": "World Models",
+    "count": 44,
     "rank": 5
   },
   {
-    "topic": "Reasoning",
-    "count": 59,
+    "topic": "Diffusion Models",
+    "count": 22,
     "rank": 6
   },
   {
-    "topic": "Transfer Learning",
-    "count": 50,
+    "topic": "Multimodal",
+    "count": 14,
     "rank": 7
   },
   {
-    "topic": "Diffusion Models",
-    "count": 48,
+    "topic": "Audio Processing",
+    "count": 11,
     "rank": 8
   },
   {
-    "topic": "Multimodal",
-    "count": 45,
+    "topic": "Image Generation",
+    "count": 7,
     "rank": 9
   },
   {
-    "topic": "Audio Processing",
-    "count": 25,
+    "topic": "Neural Rendering",
+    "count": 7,
     "rank": 10
   },
   {
-    "topic": "Image Generation",
-    "count": 14,
+    "topic": "Object Tracking",
+    "count": 5,
     "rank": 11
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 13,
+    "topic": "Object Detection",
+    "count": 4,
     "rank": 12
   },
   {
-    "topic": "Video Understanding",
-    "count": 12,
+    "topic": "Semantic Segmentation",
+    "count": 4,
     "rank": 13
   },
   {
-    "topic": "Object Detection",
-    "count": 11,
+    "topic": "Scene Understanding",
+    "count": 4,
     "rank": 14
   },
   {
-    "topic": "Object Tracking",
-    "count": 10,
+    "topic": "Classification",
+    "count": 3,
     "rank": 15
   },
   {
-    "topic": "Time Series & Anomaly",
-    "count": 10,
+    "topic": "Video Understanding",
+    "count": 3,
     "rank": 16
   },
   {
-    "topic": "Neural Rendering",
-    "count": 9,
+    "topic": "Time Series & Anomaly",
+    "count": 3,
     "rank": 17
   },
   {
-    "topic": "Classification",
-    "count": 8,
+    "topic": "Action Recognition",
+    "count": 2,
     "rank": 18
   },
   {
-    "topic": "Scene Understanding",
-    "count": 7,
+    "topic": "Graph Neural Networks",
+    "count": 2,
     "rank": 19
   },
   {
-    "topic": "Action Recognition",
-    "count": 6,
+    "topic": "Pose Estimation",
+    "count": 1,
     "rank": 20
   }
 ]

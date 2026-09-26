@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-09-25T03:23:49+00:00",
+  "generated_at": "2026-09-26T03:23:28+00:00",
   "topics": [
-    "AI Agent",
     "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
@@ -9,7 +8,6 @@
     "Classification",
     "Depth Estimation",
     "Diffusion Models",
-    "Efficient AI",
     "Graph Neural Networks",
     "Image Generation",
     "LLM",

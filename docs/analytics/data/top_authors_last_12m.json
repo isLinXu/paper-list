@@ -50,27 +50,27 @@
     "rank": 10
   },
   {
-    "author": "Xin Zhang",
-    "count": 8,
-    "rank": 11
-  },
-  {
     "author": "Yi Zhang",
     "count": 7,
-    "rank": 12
+    "rank": 11
   },
   {
     "author": "Jiahao Li",
     "count": 7,
-    "rank": 13
+    "rank": 12
   },
   {
     "author": "Yuan Gao",
     "count": 7,
-    "rank": 14
+    "rank": 13
   },
   {
     "author": "Sijia Chen",
+    "count": 7,
+    "rank": 14
+  },
+  {
+    "author": "Xin Zhang",
     "count": 7,
     "rank": 15
   },
