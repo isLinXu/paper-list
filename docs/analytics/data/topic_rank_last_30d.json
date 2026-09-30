@@ -1,67 +1,67 @@
 [
   {
-    "topic": "LLM",
-    "count": 93,
+    "topic": "Diffusion Models",
+    "count": 91,
     "rank": 1
   },
   {
-    "topic": "AI Safety",
-    "count": 80,
+    "topic": "Multimodal",
+    "count": 78,
     "rank": 2
   },
   {
-    "topic": "Diffusion Models",
-    "count": 70,
+    "topic": "Reasoning",
+    "count": 78,
     "rank": 3
   },
   {
-    "topic": "Multimodal",
-    "count": 59,
+    "topic": "Video Understanding",
+    "count": 63,
     "rank": 4
   },
   {
-    "topic": "Reasoning",
-    "count": 51,
+    "topic": "Image Generation",
+    "count": 47,
     "rank": 5
   },
   {
-    "topic": "Video Understanding",
-    "count": 20,
+    "topic": "Object Tracking",
+    "count": 19,
     "rank": 6
   },
   {
-    "topic": "Image Generation",
-    "count": 19,
+    "topic": "Classification",
+    "count": 17,
     "rank": 7
   },
   {
     "topic": "Scene Understanding",
-    "count": 14,
+    "count": 17,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 11,
+    "count": 14,
     "rank": 9
   },
   {
-    "topic": "Classification",
-    "count": 10,
+    "topic": "Action Recognition",
+    "count": 14,
     "rank": 10
   },
   {
-    "topic": "Object Tracking",
-    "count": 8,
+    "topic": "Neural Rendering",
+    "count": 13,
     "rank": 11
   },
   {
-    "topic": "Action Recognition",
-    "count": 8,
+    "topic": "Object Detection",
+    "count": 10,
     "rank": 12
   },
   {
-    "topic": "Neural Rendering",
-    "count": 8,
+    "topic": "Pose Estimation",
+    "count": 7,
     "rank": 13
   },
   {
@@ -70,18 +70,8 @@
     "rank": 14
   },
   {
-    "topic": "Object Detection",
-    "count": 3,
-    "rank": 15
-  },
-  {
-    "topic": "Pose Estimation",
-    "count": 3,
-    "rank": 16
-  },
-  {
     "topic": "Depth Estimation",
-    "count": 1,
-    "rank": 17
+    "count": 4,
+    "rank": 15
   }
 ]

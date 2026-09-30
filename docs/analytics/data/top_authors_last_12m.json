@@ -6,7 +6,7 @@
   },
   {
     "author": "Hao Li",
-    "count": 13,
+    "count": 12,
     "rank": 2
   },
   {
@@ -15,32 +15,32 @@
     "rank": 3
   },
   {
-    "author": "Hao Wang",
-    "count": 10,
-    "rank": 4
-  },
-  {
     "author": "Yida Lin",
     "count": 9,
-    "rank": 5
+    "rank": 4
   },
   {
     "author": "Yu Li",
     "count": 9,
-    "rank": 6
+    "rank": 5
   },
   {
-    "author": "Yuxuan Li",
+    "author": "Hao Wang",
     "count": 9,
-    "rank": 7
+    "rank": 6
   },
   {
     "author": "Yu Wang",
     "count": 9,
-    "rank": 8
+    "rank": 7
   },
   {
     "author": "Yizhan Feng",
+    "count": 8,
+    "rank": 8
+  },
+  {
+    "author": "Yuxuan Li",
     "count": 8,
     "rank": 9
   },
@@ -70,7 +70,7 @@
     "rank": 14
   },
   {
-    "author": "Hao Chen",
+    "author": "Chi Zhang",
     "count": 7,
     "rank": 15
   },
