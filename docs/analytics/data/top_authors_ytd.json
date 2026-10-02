@@ -10,17 +10,17 @@
     "rank": 2
   },
   {
-    "author": "Hao Wang",
+    "author": "Yu Wang",
     "count": 8,
     "rank": 3
   },
   {
-    "author": "Yu Wang",
-    "count": 8,
+    "author": "Tao Liu",
+    "count": 7,
     "rank": 4
   },
   {
-    "author": "Tao Liu",
+    "author": "Hao Wang",
     "count": 7,
     "rank": 5
   },
@@ -70,32 +70,32 @@
     "rank": 14
   },
   {
-    "author": "Xiang Li",
+    "author": "Wei Zhu",
     "count": 6,
     "rank": 15
   },
   {
-    "author": "Wei Zhu",
+    "author": "Jie Cao",
     "count": 6,
     "rank": 16
   },
   {
-    "author": "Jie Cao",
-    "count": 6,
-    "rank": 17
-  },
-  {
     "author": "Teerapong Panboonyuen",
     "count": 5,
-    "rank": 18
+    "rank": 17
   },
   {
     "author": "Markus Gross",
     "count": 5,
-    "rank": 19
+    "rank": 18
   },
   {
     "author": "John J. Han",
+    "count": 5,
+    "rank": 19
+  },
+  {
+    "author": "Jiaxin Zhang",
     "count": 5,
     "rank": 20
   }

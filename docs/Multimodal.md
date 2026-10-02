@@ -2,9 +2,9 @@
 
 Lane: **Generative Layer**
 
-Total papers: **1014**
+Total papers: **1012**
 
-Latest archive month: **2026-09** (65 papers)
+Latest archive month: **2026-10** (26 papers)
 
 Topic neighbors: [← Latent Space LLM](Latent_Space_LLM.md) · [Neural Rendering →](Neural_Rendering.md)
 
@@ -14,7 +14,8 @@ This page is the monthly archive hub for **Multimodal**. Start with the latest m
 
 ## Monthly Archives
 
-- [2026-09](Multimodal/2026-09.md) (65 papers)
+- [2026-10](Multimodal/2026-10.md) (26 papers)
+- [2026-09](Multimodal/2026-09.md) (37 papers)
 - [2026-04](Multimodal/2026-04.md) (7 papers)
 - [2026-03](Multimodal/2026-03.md) (54 papers)
 - [2026-02](Multimodal/2026-02.md) (8 papers)

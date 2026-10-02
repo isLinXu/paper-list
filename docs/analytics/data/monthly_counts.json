@@ -1,5 +1,15 @@
 [
   {
+    "topic": "AI Safety",
+    "date": "2026-09",
+    "count": 20
+  },
+  {
+    "topic": "AI Safety",
+    "date": "2026-10",
+    "count": 64
+  },
+  {
     "topic": "Action Recognition",
     "date": "2024-02",
     "count": 11
@@ -137,7 +147,12 @@
   {
     "topic": "Action Recognition",
     "date": "2026-09",
-    "count": 11
+    "count": 4
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-10",
+    "count": 4
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +557,12 @@
   {
     "topic": "Classification",
     "date": "2026-09",
-    "count": 14
+    "count": 5
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-10",
+    "count": 7
   },
   {
     "topic": "Depth Estimation",
@@ -682,7 +702,12 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-09",
-    "count": 3
+    "count": 1
+  },
+  {
+    "topic": "Depth Estimation",
+    "date": "2026-10",
+    "count": 2
   },
   {
     "topic": "Diffusion Models",
@@ -692,7 +717,12 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-09",
-    "count": 91
+    "count": 46
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-10",
+    "count": 42
   },
   {
     "topic": "Graph Neural Networks",
@@ -823,6 +853,16 @@
     "topic": "Graph Neural Networks",
     "date": "2026-04",
     "count": 33
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-09",
+    "count": 4
+  },
+  {
+    "topic": "Graph Neural Networks",
+    "date": "2026-10",
+    "count": 1
   },
   {
     "topic": "Image Generation",
@@ -962,7 +1002,12 @@
   {
     "topic": "Image Generation",
     "date": "2026-09",
-    "count": 42
+    "count": 20
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-10",
+    "count": 11
   },
   {
     "topic": "LLM",
@@ -1101,8 +1146,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-09",
-    "count": 89
+    "date": "2026-10",
+    "count": 95
   },
   {
     "topic": "Latent Space LLM",
@@ -1247,7 +1292,12 @@
   {
     "topic": "Multimodal",
     "date": "2026-09",
-    "count": 65
+    "count": 37
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-10",
+    "count": 26
   },
   {
     "topic": "Neural Rendering",
@@ -1257,7 +1307,12 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-09",
-    "count": 18
+    "count": 10
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-10",
+    "count": 3
   },
   {
     "topic": "Object Detection",
@@ -1392,7 +1447,12 @@
   {
     "topic": "Object Detection",
     "date": "2026-09",
-    "count": 13
+    "count": 7
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-10",
+    "count": 5
   },
   {
     "topic": "Object Tracking",
@@ -1532,7 +1592,12 @@
   {
     "topic": "Object Tracking",
     "date": "2026-09",
-    "count": 25
+    "count": 14
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10",
+    "count": 10
   },
   {
     "topic": "Optical Flow",
@@ -1675,6 +1740,11 @@
     "count": 3
   },
   {
+    "topic": "Optical Flow",
+    "date": "2026-10",
+    "count": 2
+  },
+  {
     "topic": "Pose Estimation",
     "date": "2024-02",
     "count": 11
@@ -1812,12 +1882,12 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-09",
-    "count": 7
+    "count": 5
   },
   {
-    "topic": "Reasoning",
-    "date": "2026-09",
-    "count": 67
+    "topic": "Pose Estimation",
+    "date": "2026-10",
+    "count": 5
   },
   {
     "topic": "Reinforcement Learning",
@@ -2087,7 +2157,12 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-09",
-    "count": 16
+    "count": 7
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-10",
+    "count": 7
   },
   {
     "topic": "Semantic Segmentation",
@@ -2217,7 +2292,12 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-09",
-    "count": 10
+    "count": 3
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-10",
+    "count": 3
   },
   {
     "topic": "Transfer Learning",
@@ -2357,6 +2437,11 @@
   {
     "topic": "Video Understanding",
     "date": "2026-09",
-    "count": 62
+    "count": 32
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-10",
+    "count": 18
   }
 ]
