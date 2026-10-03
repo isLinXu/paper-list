@@ -5,83 +5,78 @@
     "rank": 1
   },
   {
-    "topic": "Diffusion Models",
-    "count": 88,
+    "topic": "AI Safety",
+    "count": 64,
     "rank": 2
   },
   {
-    "topic": "AI Safety",
-    "count": 84,
+    "topic": "Diffusion Models",
+    "count": 42,
     "rank": 3
   },
   {
     "topic": "Multimodal",
-    "count": 63,
+    "count": 26,
     "rank": 4
   },
   {
     "topic": "Video Understanding",
-    "count": 50,
+    "count": 18,
     "rank": 5
   },
   {
     "topic": "Image Generation",
-    "count": 31,
+    "count": 11,
     "rank": 6
   },
   {
     "topic": "Object Tracking",
-    "count": 24,
+    "count": 10,
     "rank": 7
   },
   {
-    "topic": "Scene Understanding",
-    "count": 14,
+    "topic": "Classification",
+    "count": 7,
     "rank": 8
   },
   {
-    "topic": "Neural Rendering",
-    "count": 13,
+    "topic": "Scene Understanding",
+    "count": 7,
     "rank": 9
   },
   {
-    "topic": "Classification",
-    "count": 12,
+    "topic": "Object Detection",
+    "count": 5,
     "rank": 10
   },
   {
-    "topic": "Object Detection",
-    "count": 12,
+    "topic": "Pose Estimation",
+    "count": 5,
     "rank": 11
   },
   {
-    "topic": "Pose Estimation",
-    "count": 10,
+    "topic": "Action Recognition",
+    "count": 4,
     "rank": 12
   },
   {
-    "topic": "Action Recognition",
-    "count": 8,
+    "topic": "Semantic Segmentation",
+    "count": 3,
     "rank": 13
   },
   {
-    "topic": "Semantic Segmentation",
-    "count": 6,
+    "topic": "Neural Rendering",
+    "count": 3,
     "rank": 14
   },
   {
-    "topic": "Optical Flow",
-    "count": 5,
+    "topic": "Depth Estimation",
+    "count": 2,
     "rank": 15
   },
   {
-    "topic": "Graph Neural Networks",
-    "count": 5,
+    "topic": "Optical Flow",
+    "count": 2,
     "rank": 16
-  },
-  {
-    "topic": "Depth Estimation",
-    "count": 3,
-    "rank": 17
   }
 ]

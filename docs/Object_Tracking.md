@@ -2,7 +2,7 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **901**
+Total papers: **887**
 
 Latest archive month: **2026-10** (10 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Object Tracking**. Start with the lat
 ## Monthly Archives
 
 - [2026-10](Object_Tracking/2026-10.md) (10 papers)
-- [2026-09](Object_Tracking/2026-09.md) (14 papers)
 - [2026-04](Object_Tracking/2026-04.md) (72 papers)
 - [2026-03](Object_Tracking/2026-03.md) (26 papers)
 - [2026-02](Object_Tracking/2026-02.md) (16 papers)

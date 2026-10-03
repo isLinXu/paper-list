@@ -2,7 +2,7 @@
 
 Lane: **Vision Systems**
 
-Total papers: **3329**
+Total papers: **3324**
 
 Latest archive month: **2026-10** (7 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Classification**. Start with the late
 ## Monthly Archives
 
 - [2026-10](Classification/2026-10.md) (7 papers)
-- [2026-09](Classification/2026-09.md) (5 papers)
 - [2026-04](Classification/2026-04.md) (68 papers)
 - [2026-03](Classification/2026-03.md) (123 papers)
 - [2026-02](Classification/2026-02.md) (95 papers)

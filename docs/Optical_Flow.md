@@ -2,7 +2,7 @@
 
 Lane: **Geometry Stack**
 
-Total papers: **840**
+Total papers: **837**
 
 Latest archive month: **2026-10** (2 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Optical Flow**. Start with the latest
 ## Monthly Archives
 
 - [2026-10](Optical_Flow/2026-10.md) (2 papers)
-- [2026-09](Optical_Flow/2026-09.md) (3 papers)
 - [2026-04](Optical_Flow/2026-04.md) (18 papers)
 - [2026-03](Optical_Flow/2026-03.md) (32 papers)
 - [2026-02](Optical_Flow/2026-02.md) (12 papers)

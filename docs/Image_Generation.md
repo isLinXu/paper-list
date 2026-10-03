@@ -2,7 +2,7 @@
 
 Lane: **Generative Layer**
 
-Total papers: **4427**
+Total papers: **4407**
 
 Latest archive month: **2026-10** (11 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Image Generation**. Start with the la
 ## Monthly Archives
 
 - [2026-10](Image_Generation/2026-10.md) (11 papers)
-- [2026-09](Image_Generation/2026-09.md) (20 papers)
 - [2026-04](Image_Generation/2026-04.md) (169 papers)
 - [2026-03](Image_Generation/2026-03.md) (288 papers)
 - [2026-02](Image_Generation/2026-02.md) (273 papers)

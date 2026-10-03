@@ -2,7 +2,7 @@
 
 Lane: **Generative Layer**
 
-Total papers: **254**
+Total papers: **208**
 
 Latest archive month: **2026-10** (42 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Diffusion Models**. Start with the la
 ## Monthly Archives
 
 - [2026-10](Diffusion_Models/2026-10.md) (42 papers)
-- [2026-09](Diffusion_Models/2026-09.md) (46 papers)
 - [2026-04](Diffusion_Models/2026-04.md) (166 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>

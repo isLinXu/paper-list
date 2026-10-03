@@ -2,7 +2,7 @@
 
 Lane: **Research Surface**
 
-Total papers: **168**
+Total papers: **136**
 
 Latest archive month: **2026-10** (18 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Video Understanding**. Start with the
 ## Monthly Archives
 
 - [2026-10](Video_Understanding/2026-10.md) (18 papers)
-- [2026-09](Video_Understanding/2026-09.md) (32 papers)
 - [2026-04](Video_Understanding/2026-04.md) (118 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>

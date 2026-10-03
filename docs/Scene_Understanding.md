@@ -2,7 +2,7 @@
 
 Lane: **Research Surface**
 
-Total papers: **1437**
+Total papers: **1430**
 
 Latest archive month: **2026-10** (7 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Scene Understanding**. Start with the
 ## Monthly Archives
 
 - [2026-10](Scene_Understanding/2026-10.md) (7 papers)
-- [2026-09](Scene_Understanding/2026-09.md) (7 papers)
 - [2026-04](Scene_Understanding/2026-04.md) (52 papers)
 - [2026-03](Scene_Understanding/2026-03.md) (87 papers)
 - [2026-02](Scene_Understanding/2026-02.md) (8 papers)

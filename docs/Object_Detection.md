@@ -2,7 +2,7 @@
 
 Lane: **Vision Systems**
 
-Total papers: **3274**
+Total papers: **3267**
 
 Latest archive month: **2026-10** (5 papers)
 
@@ -15,7 +15,6 @@ This page is the monthly archive hub for **Object Detection**. Start with the la
 ## Monthly Archives
 
 - [2026-10](Object_Detection/2026-10.md) (5 papers)
-- [2026-09](Object_Detection/2026-09.md) (7 papers)
 - [2026-04](Object_Detection/2026-04.md) (80 papers)
 - [2026-03](Object_Detection/2026-03.md) (148 papers)
 - [2026-02](Object_Detection/2026-02.md) (103 papers)
