@@ -2,9 +2,9 @@
 
 Lane: **Generative Layer**
 
-Total papers: **4417**
+Total papers: **4416**
 
-Latest archive month: **2026-10** (21 papers)
+Latest archive month: **2026-10** (20 papers)
 
 Topic neighbors: [← Optical Flow](Optical_Flow.md) · [Diffusion Models →](Diffusion_Models.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Image Generation**. Start with the la
 
 ## Monthly Archives
 
-- [2026-10](Image_Generation/2026-10.md) (21 papers)
+- [2026-10](Image_Generation/2026-10.md) (20 papers)
 - [2026-04](Image_Generation/2026-04.md) (169 papers)
 - [2026-03](Image_Generation/2026-03.md) (288 papers)
 - [2026-02](Image_Generation/2026-02.md) (273 papers)

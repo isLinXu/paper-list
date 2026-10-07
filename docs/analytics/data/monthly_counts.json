@@ -137,7 +137,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-10",
-    "count": 9
+    "count": 12
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +542,7 @@
   {
     "topic": "Classification",
     "date": "2026-10",
-    "count": 9
+    "count": 13
   },
   {
     "topic": "Depth Estimation",
@@ -682,7 +682,7 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-10",
-    "count": 3
+    "count": 5
   },
   {
     "topic": "Diffusion Models",
@@ -692,7 +692,7 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-10",
-    "count": 47
+    "count": 69
   },
   {
     "topic": "Graph Neural Networks",
@@ -962,7 +962,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-10",
-    "count": 21
+    "count": 20
   },
   {
     "topic": "LLM",
@@ -1242,7 +1242,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-10",
-    "count": 40
+    "count": 58
   },
   {
     "topic": "Neural Rendering",
@@ -1252,7 +1252,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-10",
-    "count": 6
+    "count": 11
   },
   {
     "topic": "Object Detection",
@@ -1387,7 +1387,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-10",
-    "count": 6
+    "count": 7
   },
   {
     "topic": "Object Tracking",
@@ -1527,7 +1527,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-10",
-    "count": 14
+    "count": 18
   },
   {
     "topic": "Optical Flow",
@@ -1802,7 +1802,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-10",
-    "count": 4
+    "count": 6
   },
   {
     "topic": "Reinforcement Learning",
@@ -2072,7 +2072,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-10",
-    "count": 3
+    "count": 8
   },
   {
     "topic": "Semantic Segmentation",
@@ -2202,7 +2202,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-10",
-    "count": 4
+    "count": 5
   },
   {
     "topic": "Transfer Learning",
@@ -2342,6 +2342,6 @@
   {
     "topic": "Video Understanding",
     "date": "2026-10",
-    "count": 17
+    "count": 24
   }
 ]
