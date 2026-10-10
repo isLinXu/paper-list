@@ -1,26 +1,26 @@
 [
   {
-    "author": "Hao Wang",
-    "count": 9,
-    "rank": 1
-  },
-  {
     "author": "Yizhan Feng",
     "count": 8,
-    "rank": 2
+    "rank": 1
   },
   {
     "author": "Yu Li",
     "count": 8,
-    "rank": 3
+    "rank": 2
   },
   {
     "author": "Yu Wang",
     "count": 8,
-    "rank": 4
+    "rank": 3
   },
   {
     "author": "Tao Liu",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "author": "Hao Wang",
     "count": 7,
     "rank": 5
   },
@@ -50,47 +50,47 @@
     "rank": 10
   },
   {
-    "author": "Markus Gross",
+    "author": "Xiaojie Gu",
     "count": 6,
     "rank": 11
   },
   {
-    "author": "Xiaojie Gu",
+    "author": "Yuxuan Li",
     "count": 6,
     "rank": 12
   },
   {
-    "author": "Yuxuan Li",
+    "author": "Shuai Wang",
     "count": 6,
     "rank": 13
   },
   {
-    "author": "Shuai Wang",
+    "author": "Yichuan Ma",
     "count": 6,
     "rank": 14
   },
   {
-    "author": "Yichuan Ma",
+    "author": "Wei Zhu",
     "count": 6,
     "rank": 15
   },
   {
-    "author": "Wei Zhu",
+    "author": "Jie Cao",
     "count": 6,
     "rank": 16
   },
   {
-    "author": "Jie Cao",
+    "author": "Yu Liu",
     "count": 6,
     "rank": 17
   },
   {
-    "author": "Yu Liu",
-    "count": 6,
+    "author": "Teerapong Panboonyuen",
+    "count": 5,
     "rank": 18
   },
   {
-    "author": "Teerapong Panboonyuen",
+    "author": "Markus Gross",
     "count": 5,
     "rank": 19
   },

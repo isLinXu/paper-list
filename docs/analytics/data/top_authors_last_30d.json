@@ -1,101 +1,101 @@
 [
   {
-    "author": "Hong Huang",
+    "author": "Hongxing Li",
     "count": 2,
     "rank": 1
   },
   {
-    "author": "Hongxing Li",
+    "author": "Jiaming Zhang",
     "count": 2,
     "rank": 2
   },
   {
-    "author": "Jiaming Zhang",
-    "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Hao Wang",
-    "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Hanru Bai",
-    "count": 2,
-    "rank": 5
-  },
-  {
-    "author": "Shiqin Zeng",
-    "count": 2,
-    "rank": 6
-  },
-  {
     "author": "Yutong Xie",
     "count": 1,
-    "rank": 7
+    "rank": 3
   },
   {
     "author": "Richard Bergna",
     "count": 1,
-    "rank": 8
+    "rank": 4
   },
   {
     "author": "Michael W. Spratling",
     "count": 1,
-    "rank": 9
+    "rank": 5
   },
   {
     "author": "Ach Khozaimi",
     "count": 1,
-    "rank": 10
-  },
-  {
-    "author": "Ankita Das",
-    "count": 1,
-    "rank": 11
+    "rank": 6
   },
   {
     "author": "Thomas Goudemant",
     "count": 1,
-    "rank": 12
+    "rank": 7
   },
   {
     "author": "Shunsuke Nagao",
     "count": 1,
-    "rank": 13
+    "rank": 8
   },
   {
     "author": "Eitan Waks",
     "count": 1,
-    "rank": 14
-  },
-  {
-    "author": "Chunming He",
-    "count": 1,
-    "rank": 15
-  },
-  {
-    "author": "Akshat Dobhal",
-    "count": 1,
-    "rank": 16
-  },
-  {
-    "author": "Yupeng Zhang",
-    "count": 1,
-    "rank": 17
+    "rank": 9
   },
   {
     "author": "Ruicheng Zhang",
     "count": 1,
-    "rank": 18
+    "rank": 10
   },
   {
     "author": "Matthieu Melennec",
     "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Adithiya Dinesh",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Yiruo Cheng",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Raffaele Cappelli",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Kazuki Nakajima",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Vincent Renner",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Ohad Rubin",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Euiseok Han",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Xie Zhang",
+    "count": 1,
     "rank": 19
   },
   {
-    "author": "Vitor Matias",
+    "author": "Chengyou Wang",
     "count": 1,
     "rank": 20
   }
