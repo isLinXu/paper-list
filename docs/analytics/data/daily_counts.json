@@ -2866,8 +2866,13 @@
   },
   {
     "topic": "Action Recognition",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "count": 2
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-10-14",
+    "count": 6
   },
   {
     "topic": "Anomaly Detection",
@@ -12566,8 +12571,13 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "count": 4
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-10-14",
+    "count": 2
   },
   {
     "topic": "Depth Estimation",
@@ -15445,6 +15455,11 @@
     "count": 1
   },
   {
+    "topic": "Depth Estimation",
+    "date": "2026-10-13",
+    "count": 4
+  },
+  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "count": 25
@@ -15496,8 +15511,13 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-10-12",
-    "count": 3
+    "date": "2026-10-13",
+    "count": 40
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-10-14",
+    "count": 30
   },
   {
     "topic": "Graph Neural Networks",
@@ -21136,8 +21156,13 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-10-12",
-    "count": 3
+    "date": "2026-10-13",
+    "count": 18
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-10-14",
+    "count": 9
   },
   {
     "topic": "LLM",
@@ -23251,8 +23276,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-10-12",
-    "count": 22
+    "date": "2026-10-14",
+    "count": 96
   },
   {
     "topic": "Latent Space LLM",
@@ -25711,8 +25736,13 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-10-12",
-    "count": 3
+    "date": "2026-10-13",
+    "count": 44
+  },
+  {
+    "topic": "Multimodal",
+    "date": "2026-10-14",
+    "count": 26
   },
   {
     "topic": "Neural Rendering",
@@ -25773,6 +25803,16 @@
     "topic": "Neural Rendering",
     "date": "2026-04-30",
     "count": 9
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-10-13",
+    "count": 8
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-10-14",
+    "count": 7
   },
   {
     "topic": "Object Detection",
@@ -28906,8 +28946,13 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-10-12",
-    "count": 2
+    "date": "2026-10-13",
+    "count": 7
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-10-14",
+    "count": 5
   },
   {
     "topic": "Object Tracking",
@@ -31263,6 +31308,16 @@
     "topic": "Object Tracking",
     "date": "2026-04-30",
     "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10-13",
+    "count": 5
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-10-14",
+    "count": 11
   },
   {
     "topic": "Optical Flow",
@@ -33643,6 +33698,11 @@
     "topic": "Optical Flow",
     "date": "2026-04-30",
     "count": 1
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-10-13",
+    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -37003,6 +37063,16 @@
     "topic": "Pose Estimation",
     "date": "2026-04-30",
     "count": 1
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-10-13",
+    "count": 2
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-10-14",
+    "count": 2
   },
   {
     "topic": "Reinforcement Learning",
@@ -42140,6 +42210,16 @@
     "count": 2
   },
   {
+    "topic": "Scene Understanding",
+    "date": "2026-10-13",
+    "count": 10
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-10-14",
+    "count": 9
+  },
+  {
     "topic": "Semantic Segmentation",
     "date": "2024-02-27",
     "count": 3
@@ -45341,7 +45421,12 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-10-12",
+    "date": "2026-10-13",
+    "count": 4
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-10-14",
     "count": 3
   },
   {
@@ -48091,12 +48176,22 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-10-12",
-    "count": 5
+    "date": "2026-10-13",
+    "count": 19
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-10-14",
+    "count": 10
   },
   {
     "topic": "World Models",
-    "date": "2026-10-12",
-    "count": 6
+    "date": "2026-10-13",
+    "count": 29
+  },
+  {
+    "topic": "World Models",
+    "date": "2026-10-14",
+    "count": 49
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:18:40+00:00",
+  "generated_at": "2026-10-15T03:11:17+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -25,7 +25,7 @@
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-10-12",
+  "max_date": "2026-10-14",
   "granularities": [
     "day",
     "month"
