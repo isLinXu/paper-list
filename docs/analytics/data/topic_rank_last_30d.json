@@ -1,82 +1,67 @@
 [
   {
-    "topic": "LLM",
-    "count": 96,
+    "topic": "Multimodal",
+    "count": 54,
     "rank": 1
   },
   {
-    "topic": "World Models",
-    "count": 78,
+    "topic": "Diffusion Models",
+    "count": 49,
     "rank": 2
   },
   {
-    "topic": "Multimodal",
-    "count": 70,
-    "rank": 3
-  },
-  {
-    "topic": "Diffusion Models",
-    "count": 70,
-    "rank": 4
-  },
-  {
-    "topic": "Video Understanding",
-    "count": 29,
-    "rank": 5
-  },
-  {
     "topic": "Image Generation",
-    "count": 27,
-    "rank": 6
-  },
-  {
-    "topic": "Scene Understanding",
-    "count": 19,
-    "rank": 7
+    "count": 18,
+    "rank": 3
   },
   {
     "topic": "Object Tracking",
     "count": 16,
-    "rank": 8
+    "rank": 4
   },
   {
-    "topic": "Neural Rendering",
-    "count": 15,
-    "rank": 9
+    "topic": "Video Understanding",
+    "count": 16,
+    "rank": 5
   },
   {
-    "topic": "Object Detection",
+    "topic": "Scene Understanding",
     "count": 12,
-    "rank": 10
+    "rank": 6
   },
   {
     "topic": "Action Recognition",
-    "count": 8,
-    "rank": 11
+    "count": 9,
+    "rank": 7
   },
   {
-    "topic": "Semantic Segmentation",
+    "topic": "Neural Rendering",
+    "count": 8,
+    "rank": 8
+  },
+  {
+    "topic": "Object Detection",
     "count": 7,
-    "rank": 12
+    "rank": 9
   },
   {
     "topic": "Classification",
     "count": 6,
-    "rank": 13
+    "rank": 10
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "count": 6,
+    "rank": 11
   },
   {
     "topic": "Pose Estimation",
-    "count": 4,
-    "rank": 14
-  },
-  {
-    "topic": "Depth Estimation",
-    "count": 4,
-    "rank": 15
+    "count": 3,
+    "rank": 12
   },
   {
     "topic": "Optical Flow",
-    "count": 2,
-    "rank": 16
+    "count": 1,
+    "rank": 13
   }
 ]
