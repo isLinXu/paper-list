@@ -137,7 +137,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-10",
-    "count": 9
+    "count": 4
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +542,7 @@
   {
     "topic": "Classification",
     "date": "2026-10",
-    "count": 6
+    "count": 4
   },
   {
     "topic": "Depth Estimation",
@@ -687,7 +687,7 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-10",
-    "count": 49
+    "count": 22
   },
   {
     "topic": "Graph Neural Networks",
@@ -957,7 +957,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-10",
-    "count": 18
+    "count": 12
   },
   {
     "topic": "LLM",
@@ -1093,6 +1093,11 @@
     "topic": "LLM",
     "date": "2026-04",
     "count": 551
+  },
+  {
+    "topic": "LLM",
+    "date": "2026-10",
+    "count": 95
   },
   {
     "topic": "Latent Space LLM",
@@ -1237,7 +1242,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-10",
-    "count": 54
+    "count": 26
   },
   {
     "topic": "Neural Rendering",
@@ -1247,7 +1252,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-10",
-    "count": 8
+    "count": 7
   },
   {
     "topic": "Object Detection",
@@ -1382,7 +1387,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-10",
-    "count": 7
+    "count": 2
   },
   {
     "topic": "Object Tracking",
@@ -1522,7 +1527,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-10",
-    "count": 16
+    "count": 5
   },
   {
     "topic": "Optical Flow",
@@ -1662,7 +1667,7 @@
   {
     "topic": "Optical Flow",
     "date": "2026-10",
-    "count": 1
+    "count": 2
   },
   {
     "topic": "Pose Estimation",
@@ -2072,7 +2077,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-10",
-    "count": 12
+    "count": 4
   },
   {
     "topic": "Semantic Segmentation",
@@ -2202,7 +2207,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-10",
-    "count": 6
+    "count": 7
   },
   {
     "topic": "Transfer Learning",
@@ -2342,6 +2347,11 @@
   {
     "topic": "Video Understanding",
     "date": "2026-10",
-    "count": 16
+    "count": 14
+  },
+  {
+    "topic": "World Models",
+    "date": "2026-10",
+    "count": 59
   }
 ]
