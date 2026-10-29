@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:54:42+00:00",
+  "generated_at": "2026-10-29T04:18:09+00:00",
   "topics": [
     "Action Recognition",
     "Anomaly Detection",
@@ -21,7 +21,8 @@
     "Scene Understanding",
     "Semantic Segmentation",
     "Transfer Learning",
-    "Video Understanding"
+    "Video Understanding",
+    "World Models"
   ],
   "min_date": "2024-02-09",
   "max_date": "2026-10-27",
