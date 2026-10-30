@@ -1,16 +1,20 @@
 topic,count,rank
-World Models,45,1
-Multimodal,22,2
-Diffusion Models,17,3
-Video Understanding,12,4
-Image Generation,8,5
-Object Detection,7,6
-Neural Rendering,7,7
-Object Tracking,5,8
-Scene Understanding,5,9
-Action Recognition,4,10
-Pose Estimation,4,11
-Semantic Segmentation,3,12
-Depth Estimation,2,13
-Optical Flow,2,14
-Classification,1,15
+LLM,96,1
+AI Safety,79,2
+Diffusion Models,23,3
+Multimodal,15,4
+Image Generation,14,5
+Time Series & Anomaly,13,6
+Object Tracking,12,7
+Video Understanding,11,8
+Neural Rendering,7,9
+Scene Understanding,6,10
+Object Detection,5,11
+Classification,3,12
+Semantic Segmentation,3,13
+Pose Estimation,3,14
+Graph Neural Networks,3,15
+Action Recognition,2,16
+Depth Estimation,2,17
+Anomaly Detection,2,18
+Optical Flow,1,19
