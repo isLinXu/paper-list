@@ -6,7 +6,7 @@ Total papers: **6141**
 
 Latest archive month: **2026-04** (185 papers)
 
-Topic neighbors: [← Neural Rendering](Neural_Rendering.md) · [Transfer Learning →](Transfer_Learning.md)
+Topic neighbors: [← Reasoning](Reasoning.md) · [Transfer Learning →](Transfer_Learning.md)
 
 ### Reasoning
 

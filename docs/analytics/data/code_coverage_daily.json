@@ -1,15 +1,8 @@
 [
   {
     "topic": "AI Safety",
-    "date": "2026-10-28",
-    "total": 58,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "AI Safety",
     "date": "2026-10-29",
-    "total": 21,
+    "total": 77,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -4021,13 +4014,6 @@
     "topic": "Action Recognition",
     "date": "2026-04-30",
     "total": 6,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Action Recognition",
-    "date": "2026-10-28",
-    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -8393,20 +8379,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Anomaly Detection",
-    "date": "2026-10-28",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Anomaly Detection",
-    "date": "2026-10-29",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Audio Processing",
     "date": "2024-02-24",
     "total": 2,
@@ -12652,6 +12624,13 @@
     "topic": "Audio Processing",
     "date": "2026-04-09",
     "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Audio Processing",
+    "date": "2026-10-29",
+    "total": 15,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -17620,8 +17599,8 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-10-28",
-    "total": 3,
+    "date": "2026-10-29",
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -21651,13 +21630,6 @@
     "code_coverage": 0.0
   },
   {
-    "topic": "Depth Estimation",
-    "date": "2026-10-28",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
     "topic": "Diffusion Models",
     "date": "2026-04-13",
     "total": 25,
@@ -21729,15 +21701,8 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-10-28",
-    "total": 14,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Diffusion Models",
     "date": "2026-10-29",
-    "total": 9,
+    "total": 35,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -25740,15 +25705,8 @@
   },
   {
     "topic": "Graph Neural Networks",
-    "date": "2026-10-28",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Graph Neural Networks",
     "date": "2026-10-29",
-    "total": 1,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -29646,15 +29604,8 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-10-28",
-    "total": 5,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Image Generation",
     "date": "2026-10-29",
-    "total": 9,
+    "total": 21,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -32614,15 +32565,8 @@
   },
   {
     "topic": "LLM",
-    "date": "2026-10-28",
-    "total": 67,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "LLM",
     "date": "2026-10-29",
-    "total": 29,
+    "total": 95,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -36065,15 +36009,8 @@
   },
   {
     "topic": "Multimodal",
-    "date": "2026-10-28",
-    "total": 6,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Multimodal",
     "date": "2026-10-29",
-    "total": 9,
+    "total": 26,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -36163,15 +36100,8 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-10-28",
-    "total": 4,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Neural Rendering",
     "date": "2026-10-29",
-    "total": 3,
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -40559,15 +40489,8 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-10-28",
-    "total": 3,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Detection",
     "date": "2026-10-29",
-    "total": 2,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -43870,15 +43793,8 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-10-28",
-    "total": 9,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Object Tracking",
     "date": "2026-10-29",
-    "total": 3,
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -47216,7 +47132,7 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
@@ -51927,15 +51843,15 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-10-28",
-    "total": 2,
+    "date": "2026-10-29",
+    "total": 3,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
-    "topic": "Pose Estimation",
+    "topic": "Reasoning",
     "date": "2026-10-29",
-    "total": 1,
+    "total": 76,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -59130,15 +59046,8 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-10-28",
-    "total": 3,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Scene Understanding",
     "date": "2026-10-29",
-    "total": 3,
+    "total": 5,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -63624,29 +63533,8 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-10-28",
-    "total": 1,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Semantic Segmentation",
     "date": "2026-10-29",
-    "total": 2,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Time Series & Anomaly",
-    "date": "2026-10-28",
-    "total": 12,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "Time Series & Anomaly",
-    "date": "2026-10-29",
-    "total": 1,
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -67495,15 +67383,15 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-10-28",
-    "total": 9,
+    "date": "2026-10-29",
+    "total": 12,
     "code_covered": 0,
     "code_coverage": 0.0
   },
   {
-    "topic": "Video Understanding",
+    "topic": "World Models",
     "date": "2026-10-29",
-    "total": 2,
+    "total": 28,
     "code_covered": 0,
     "code_coverage": 0.0
   }
