@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 3974,
+    "count": 3926,
     "rank": 1
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "topic": "Image Generation",
-    "count": 981,
+    "count": 993,
     "rank": 4
   },
   {
     "topic": "Anomaly Detection",
-    "count": 474,
+    "count": 472,
     "rank": 5
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "topic": "Object Detection",
-    "count": 432,
+    "count": 442,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 395,
+    "count": 399,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 379,
+    "count": 385,
     "rank": 9
   },
   {
@@ -51,17 +51,17 @@
   },
   {
     "topic": "Pose Estimation",
-    "count": 228,
+    "count": 234,
     "rank": 11
   },
   {
-    "topic": "Scene Understanding",
-    "count": 189,
+    "topic": "Diffusion Models",
+    "count": 205,
     "rank": 12
   },
   {
-    "topic": "Diffusion Models",
-    "count": 179,
+    "topic": "Scene Understanding",
+    "count": 193,
     "rank": 13
   },
   {
@@ -70,33 +70,33 @@
     "rank": 14
   },
   {
-    "topic": "Action Recognition",
-    "count": 134,
+    "topic": "Object Tracking",
+    "count": 142,
     "rank": 15
   },
   {
-    "topic": "Object Tracking",
-    "count": 132,
+    "topic": "Action Recognition",
+    "count": 137,
     "rank": 16
   },
   {
     "topic": "Video Understanding",
-    "count": 125,
+    "count": 129,
     "rank": 17
   },
   {
     "topic": "Multimodal",
-    "count": 119,
+    "count": 109,
     "rank": 18
   },
   {
     "topic": "Optical Flow",
-    "count": 81,
+    "count": 79,
     "rank": 19
   },
   {
     "topic": "Neural Rendering",
-    "count": 70,
+    "count": 79,
     "rank": 20
   }
 ]

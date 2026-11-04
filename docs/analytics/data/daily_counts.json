@@ -2865,6 +2865,16 @@
     "count": 6
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-11-02",
+    "count": 2
+  },
+  {
+    "topic": "Action Recognition",
+    "date": "2026-11-03",
+    "count": 1
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02-25",
     "count": 1
@@ -5978,16 +5988,6 @@
     "topic": "Anomaly Detection",
     "date": "2026-04-09",
     "count": 7
-  },
-  {
-    "topic": "Anomaly Detection",
-    "date": "2026-11-01",
-    "count": 1
-  },
-  {
-    "topic": "Anomaly Detection",
-    "date": "2026-11-02",
-    "count": 1
   },
   {
     "topic": "Audio Processing",
@@ -12571,8 +12571,13 @@
   },
   {
     "topic": "Classification",
-    "date": "2026-11-01",
-    "count": 2
+    "date": "2026-11-02",
+    "count": 5
+  },
+  {
+    "topic": "Classification",
+    "date": "2026-11-03",
+    "count": 1
   },
   {
     "topic": "Depth Estimation",
@@ -15451,7 +15456,7 @@
   },
   {
     "topic": "Depth Estimation",
-    "date": "2026-11-01",
+    "date": "2026-11-03",
     "count": 1
   },
   {
@@ -15506,7 +15511,12 @@
   },
   {
     "topic": "Diffusion Models",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
+    "count": 26
+  },
+  {
+    "topic": "Diffusion Models",
+    "date": "2026-11-03",
     "count": 13
   },
   {
@@ -21146,8 +21156,13 @@
   },
   {
     "topic": "Image Generation",
-    "date": "2026-11-01",
-    "count": 4
+    "date": "2026-11-02",
+    "count": 10
+  },
+  {
+    "topic": "Image Generation",
+    "date": "2026-11-03",
+    "count": 6
   },
   {
     "topic": "LLM",
@@ -23258,11 +23273,6 @@
     "topic": "LLM",
     "date": "2026-04-09",
     "count": 115
-  },
-  {
-    "topic": "LLM",
-    "date": "2026-11-01",
-    "count": 48
   },
   {
     "topic": "Latent Space LLM",
@@ -25720,11 +25730,6 @@
     "count": 5
   },
   {
-    "topic": "Multimodal",
-    "date": "2026-11-01",
-    "count": 10
-  },
-  {
     "topic": "Neural Rendering",
     "date": "2026-04-13",
     "count": 9
@@ -25786,8 +25791,13 @@
   },
   {
     "topic": "Neural Rendering",
-    "date": "2026-11-01",
-    "count": 1
+    "date": "2026-11-02",
+    "count": 6
+  },
+  {
+    "topic": "Neural Rendering",
+    "date": "2026-11-03",
+    "count": 4
   },
   {
     "topic": "Object Detection",
@@ -28921,8 +28931,13 @@
   },
   {
     "topic": "Object Detection",
-    "date": "2026-11-01",
-    "count": 2
+    "date": "2026-11-02",
+    "count": 8
+  },
+  {
+    "topic": "Object Detection",
+    "date": "2026-11-03",
+    "count": 4
   },
   {
     "topic": "Object Tracking",
@@ -31281,8 +31296,13 @@
   },
   {
     "topic": "Object Tracking",
-    "date": "2026-11-01",
-    "count": 4
+    "date": "2026-11-02",
+    "count": 12
+  },
+  {
+    "topic": "Object Tracking",
+    "date": "2026-11-03",
+    "count": 2
   },
   {
     "topic": "Optical Flow",
@@ -33666,8 +33686,8 @@
   },
   {
     "topic": "Optical Flow",
-    "date": "2026-11-01",
-    "count": 3
+    "date": "2026-11-02",
+    "count": 1
   },
   {
     "topic": "Pose Estimation",
@@ -37031,8 +37051,13 @@
   },
   {
     "topic": "Pose Estimation",
-    "date": "2026-11-01",
-    "count": 3
+    "date": "2026-11-02",
+    "count": 8
+  },
+  {
+    "topic": "Pose Estimation",
+    "date": "2026-11-03",
+    "count": 1
   },
   {
     "topic": "Reinforcement Learning",
@@ -42171,7 +42196,12 @@
   },
   {
     "topic": "Scene Understanding",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
+    "count": 4
+  },
+  {
+    "topic": "Scene Understanding",
+    "date": "2026-11-03",
     "count": 3
   },
   {
@@ -45376,8 +45406,13 @@
   },
   {
     "topic": "Semantic Segmentation",
-    "date": "2026-11-01",
-    "count": 2
+    "date": "2026-11-02",
+    "count": 5
+  },
+  {
+    "topic": "Semantic Segmentation",
+    "date": "2026-11-03",
+    "count": 3
   },
   {
     "topic": "Transfer Learning",
@@ -48126,7 +48161,12 @@
   },
   {
     "topic": "Video Understanding",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "count": 7
+  },
+  {
+    "topic": "Video Understanding",
+    "date": "2026-11-03",
+    "count": 4
   }
 ]
