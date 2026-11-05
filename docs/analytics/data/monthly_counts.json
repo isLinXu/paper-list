@@ -137,7 +137,7 @@
   {
     "topic": "Action Recognition",
     "date": "2026-11",
-    "count": 3
+    "count": 6
   },
   {
     "topic": "Anomaly Detection",
@@ -542,7 +542,7 @@
   {
     "topic": "Classification",
     "date": "2026-11",
-    "count": 6
+    "count": 5
   },
   {
     "topic": "Depth Estimation",
@@ -682,7 +682,7 @@
   {
     "topic": "Depth Estimation",
     "date": "2026-11",
-    "count": 1
+    "count": 2
   },
   {
     "topic": "Diffusion Models",
@@ -962,7 +962,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-11",
-    "count": 16
+    "count": 18
   },
   {
     "topic": "LLM",
@@ -1240,6 +1240,11 @@
     "count": 7
   },
   {
+    "topic": "Multimodal",
+    "date": "2026-11",
+    "count": 60
+  },
+  {
     "topic": "Neural Rendering",
     "date": "2026-04",
     "count": 69
@@ -1247,7 +1252,7 @@
   {
     "topic": "Neural Rendering",
     "date": "2026-11",
-    "count": 10
+    "count": 11
   },
   {
     "topic": "Object Detection",
@@ -1382,7 +1387,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-11",
-    "count": 12
+    "count": 9
   },
   {
     "topic": "Object Tracking",
@@ -1522,7 +1527,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-11",
-    "count": 14
+    "count": 13
   },
   {
     "topic": "Optical Flow",
@@ -1658,11 +1663,6 @@
     "topic": "Optical Flow",
     "date": "2026-04",
     "count": 18
-  },
-  {
-    "topic": "Optical Flow",
-    "date": "2026-11",
-    "count": 1
   },
   {
     "topic": "Pose Estimation",
@@ -1802,7 +1802,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-11",
-    "count": 9
+    "count": 3
   },
   {
     "topic": "Reinforcement Learning",
@@ -2072,7 +2072,7 @@
   {
     "topic": "Scene Understanding",
     "date": "2026-11",
-    "count": 7
+    "count": 6
   },
   {
     "topic": "Semantic Segmentation",
@@ -2202,7 +2202,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-11",
-    "count": 8
+    "count": 11
   },
   {
     "topic": "Transfer Learning",
@@ -2342,6 +2342,6 @@
   {
     "topic": "Video Understanding",
     "date": "2026-11",
-    "count": 11
+    "count": 14
   }
 ]
