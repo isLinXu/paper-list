@@ -1,21 +1,17 @@
 topic,count,rank
-Latent Space LLM,93,1
-AI Safety,93,2
-Reinforcement Learning,88,3
-Multimodal,40,4
-Audio Processing,39,5
-Diffusion Models,35,6
-Time Series & Anomaly,19,7
-Image Generation,16,8
-Object Tracking,13,9
-Video Understanding,13,10
-Neural Rendering,13,11
-Object Detection,8,12
-Semantic Segmentation,8,13
-Pose Estimation,7,14
-Action Recognition,5,15
-Scene Understanding,5,16
-Optical Flow,3,17
-Graph Neural Networks,3,18
-Depth Estimation,2,19
-Anomaly Detection,2,20
+LLM,90,1
+AI Safety,67,2
+Diffusion Models,27,3
+Multimodal,16,4
+Neural Rendering,9,5
+Video Understanding,8,6
+Object Tracking,5,7
+Pose Estimation,5,8
+Image Generation,5,9
+Object Detection,4,10
+Scene Understanding,4,11
+Optical Flow,4,12
+Action Recognition,3,13
+Semantic Segmentation,2,14
+Depth Estimation,2,15
+Classification,1,16
