@@ -2,9 +2,9 @@
 
 Lane: **Frontier Guard**
 
-Total papers: **67**
+Total papers: **62**
 
-Latest archive month: **2026-11** (67 papers)
+Latest archive month: **2026-11** (62 papers)
 
 Topic neighbors: [← Transfer Learning](Transfer_Learning.md) · [Audio Processing →](Audio_Processing.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **AI Safety**. Start with the latest mo
 
 ## Monthly Archives
 
-- [2026-11](AI_Safety/2026-11.md) (67 papers)
+- [2026-11](AI_Safety/2026-11.md) (62 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
 
