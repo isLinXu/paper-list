@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-11-10T06:01:07+00:00",
+  "generated_at": "2026-11-11T04:39:08+00:00",
   "topics": [
-    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
@@ -25,7 +24,7 @@
     "Video Understanding"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-11-09",
+  "max_date": "2026-11-10",
   "granularities": [
     "day",
     "month"
