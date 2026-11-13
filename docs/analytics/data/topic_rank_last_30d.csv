@@ -1,14 +1,13 @@
 topic,count,rank
-Diffusion Models,18,1
-Classification,8,2
-Neural Rendering,7,3
-Scene Understanding,6,4
-Video Understanding,6,5
-Semantic Segmentation,5,6
-Object Detection,3,7
-Image Generation,3,8
-Action Recognition,2,9
-Object Tracking,1,10
-Pose Estimation,1,11
+LLM,46,1
+Diffusion Models,18,2
+Multimodal,14,3
+Object Tracking,5,4
+Image Generation,5,5
+Video Understanding,5,6
+Object Detection,4,7
+Pose Estimation,2,8
+Scene Understanding,2,9
+Neural Rendering,2,10
+Semantic Segmentation,1,11
 Depth Estimation,1,12
-Anomaly Detection,1,13
