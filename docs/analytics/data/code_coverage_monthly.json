@@ -189,6 +189,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Action Recognition",
+    "date": "2026-11",
+    "total": 2,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Anomaly Detection",
     "date": "2024-02",
     "total": 16,
@@ -749,6 +756,13 @@
     "code_coverage": 0.0
   },
   {
+    "topic": "Classification",
+    "date": "2026-11",
+    "total": 5,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
     "topic": "Depth Estimation",
     "date": "2024-02",
     "total": 11,
@@ -954,7 +968,7 @@
   {
     "topic": "Diffusion Models",
     "date": "2026-11",
-    "total": 18,
+    "total": 12,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1332,7 +1346,7 @@
   {
     "topic": "Image Generation",
     "date": "2026-11",
-    "total": 5,
+    "total": 7,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1522,13 +1536,6 @@
     "topic": "LLM",
     "date": "2026-04",
     "total": 551,
-    "code_covered": 0,
-    "code_coverage": 0.0
-  },
-  {
-    "topic": "LLM",
-    "date": "2026-11",
-    "total": 46,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1731,7 +1738,7 @@
   {
     "topic": "Multimodal",
     "date": "2026-11",
-    "total": 14,
+    "total": 19,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -1934,7 +1941,7 @@
   {
     "topic": "Object Detection",
     "date": "2026-11",
-    "total": 4,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2130,7 +2137,7 @@
   {
     "topic": "Object Tracking",
     "date": "2026-11",
-    "total": 5,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2320,6 +2327,13 @@
     "topic": "Optical Flow",
     "date": "2026-04",
     "total": 18,
+    "code_covered": 0,
+    "code_coverage": 0.0
+  },
+  {
+    "topic": "Optical Flow",
+    "date": "2026-11",
+    "total": 1,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -2515,7 +2529,7 @@
   {
     "topic": "Pose Estimation",
     "date": "2026-11",
-    "total": 2,
+    "total": 4,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3075,7 +3089,7 @@
   {
     "topic": "Semantic Segmentation",
     "date": "2026-11",
-    "total": 1,
+    "total": 2,
     "code_covered": 0,
     "code_coverage": 0.0
   },
@@ -3271,7 +3285,7 @@
   {
     "topic": "Video Understanding",
     "date": "2026-11",
-    "total": 5,
+    "total": 8,
     "code_covered": 0,
     "code_coverage": 0.0
   }

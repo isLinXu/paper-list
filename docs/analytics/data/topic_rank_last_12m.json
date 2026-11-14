@@ -1,7 +1,7 @@
 [
   {
     "topic": "LLM",
-    "count": 5027,
+    "count": 4981,
     "rank": 1
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "topic": "Image Generation",
-    "count": 1321,
+    "count": 1323,
     "rank": 4
   },
   {
@@ -31,57 +31,57 @@
   },
   {
     "topic": "Object Detection",
-    "count": 636,
+    "count": 634,
     "rank": 7
   },
   {
     "topic": "Classification",
-    "count": 553,
+    "count": 548,
     "rank": 8
   },
   {
     "topic": "Semantic Segmentation",
-    "count": 540,
+    "count": 537,
     "rank": 9
   },
   {
     "topic": "Audio Processing",
-    "count": 426,
+    "count": 421,
     "rank": 10
   },
   {
     "topic": "Pose Estimation",
-    "count": 357,
+    "count": 351,
     "rank": 11
   },
   {
     "topic": "Scene Understanding",
-    "count": 298,
+    "count": 294,
     "rank": 12
   },
   {
     "topic": "Depth Estimation",
-    "count": 222,
+    "count": 220,
     "rank": 13
   },
   {
     "topic": "Action Recognition",
-    "count": 212,
+    "count": 211,
     "rank": 14
   },
   {
     "topic": "Multimodal",
-    "count": 207,
+    "count": 208,
     "rank": 15
   },
   {
     "topic": "Object Tracking",
-    "count": 193,
+    "count": 187,
     "rank": 16
   },
   {
     "topic": "Diffusion Models",
-    "count": 184,
+    "count": 178,
     "rank": 17
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "topic": "Video Understanding",
-    "count": 123,
+    "count": 126,
     "rank": 19
   },
   {
