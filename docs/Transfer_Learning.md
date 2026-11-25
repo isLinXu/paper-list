@@ -6,7 +6,7 @@ Total papers: **6359**
 
 Latest archive month: **2026-04** (255 papers)
 
-Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [Audio Processing →](Audio_Processing.md)
+Topic neighbors: [← Reinforcement Learning](Reinforcement_Learning.md) · [AI Safety →](AI_Safety.md)
 
 ### Reasoning
 
