@@ -1,7 +1,6 @@
 {
-  "generated_at": "2026-11-25T07:14:33+00:00",
+  "generated_at": "2026-11-26T07:03:41+00:00",
   "topics": [
-    "AI Safety",
     "Action Recognition",
     "Anomaly Detection",
     "Audio Processing",
@@ -27,7 +26,7 @@
     "World Models"
   ],
   "min_date": "2024-02-09",
-  "max_date": "2026-11-24",
+  "max_date": "2026-11-25",
   "granularities": [
     "day",
     "month"
