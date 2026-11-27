@@ -1,102 +1,102 @@
 [
   {
-    "author": "Zanyi Wang",
-    "count": 3,
-    "rank": 1
-  },
-  {
     "author": "Hanwen Liang",
     "count": 2,
-    "rank": 2
+    "rank": 1
   },
   {
     "author": "Ying Jiang",
     "count": 2,
-    "rank": 3
-  },
-  {
-    "author": "Sandeep Inuganti",
-    "count": 2,
-    "rank": 4
-  },
-  {
-    "author": "Adonay Demewez Gebremedhin",
-    "count": 2,
-    "rank": 5
-  },
-  {
-    "author": "Mingyuan Li",
-    "count": 2,
-    "rank": 6
-  },
-  {
-    "author": "Yun Chen",
-    "count": 2,
-    "rank": 7
-  },
-  {
-    "author": "Zhipeng Bao",
-    "count": 2,
-    "rank": 8
-  },
-  {
-    "author": "Enqi Liu",
-    "count": 2,
-    "rank": 9
-  },
-  {
-    "author": "Chun Xie",
-    "count": 2,
-    "rank": 10
-  },
-  {
-    "author": "Piotr Kubaty",
-    "count": 2,
-    "rank": 11
-  },
-  {
-    "author": "Jun Gao",
-    "count": 2,
-    "rank": 12
-  },
-  {
-    "author": "Luoxi Zhang",
-    "count": 2,
-    "rank": 13
-  },
-  {
-    "author": "Lennox Wei",
-    "count": 2,
-    "rank": 14
+    "rank": 2
   },
   {
     "author": "Gen Li",
     "count": 2,
-    "rank": 15
+    "rank": 3
   },
   {
-    "author": "Jongseong Bae",
+    "author": "Zanyi Wang",
     "count": 2,
-    "rank": 16
+    "rank": 4
   },
   {
     "author": "Yuxia Zhu",
     "count": 2,
-    "rank": 17
+    "rank": 5
   },
   {
     "author": "Yuyao Sun",
     "count": 2,
-    "rank": 18
-  },
-  {
-    "author": "Junyi Zhang",
-    "count": 2,
-    "rank": 19
+    "rank": 6
   },
   {
     "author": "Xuetao Li",
     "count": 2,
+    "rank": 7
+  },
+  {
+    "author": "Xu Yang",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "author": "Michalis Pagkalos",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "author": "Florian A. Hölzl",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "author": "Xuweiyi Chen",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "author": "Wenchao Li",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "author": "Chuanguang Yang",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "author": "Fangyu Sun",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "author": "Piyush Tiwary",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "author": "Wen Ying",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "author": "Prashant Saini",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "author": "Niccolò D'Archivio",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "author": "Changwoo Jeon",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "author": "Stefan Becker",
+    "count": 1,
     "rank": 20
   }
 ]

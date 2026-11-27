@@ -2,9 +2,9 @@
 
 Lane: **Spatial AI**
 
-Total papers: **92**
+Total papers: **81**
 
-Latest archive month: **2026-11** (23 papers)
+Latest archive month: **2026-11** (12 papers)
 
 Topic neighbors: [← Multimodal](Multimodal.md) · [World Models →](World_Models.md)
 
@@ -14,7 +14,7 @@ This page is the monthly archive hub for **Neural Rendering**. Start with the la
 
 ## Monthly Archives
 
-- [2026-11](Neural_Rendering/2026-11.md) (23 papers)
+- [2026-11](Neural_Rendering/2026-11.md) (12 papers)
 - [2026-04](Neural_Rendering/2026-04.md) (69 papers)
 
 <p align=right>(<a href=index.md>back to main</a>)</p>
